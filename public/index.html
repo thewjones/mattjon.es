@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+	<meta name="generator" content="Hugo 0.40.2" />
+        <title>
+            Countersteering
+        </title>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+        <meta name="author" content="@mattjones">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link type="rel/css">
+        <link href="/countersteering/css/stylemin.css" rel="stylesheet">
+     
+    </head>
+
+  <body>
+    <header>
+    <h1>Countersteering</h1>
+    <span>A journal by <a href="https://mattjon.es">Matt Jones</a>, mainly about transport, design and technology.</span>
+
+    <nav><a id="back-link" href="/countersteering/menu">
+        
+        menu
+        
+    </a></nav>
+    </header>
+    
+    <main>
+    
+
+<article>
+  <section>
+    <h1>Latest Five Posts</h1>
+    
+    <article>
+  <header>
+    <h1>Porter Theme</h1>
+  </header>
+  
+  
+  
+  
+  
+  
+  
+  <figure>
+    <img src="/countersteering/post/porter-theme/432183051_1280x720_hub1f05a8f98c10224622ad1f06f2682c6_86238_1200x600_fill_q75_box_smart1.jpg">
+    <figcaption >
+      
+      Test Caption
+      
+      
+      
+    </figcaption>
+  </figure>
+  
+  
+  
+  
+  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras vitae magna urna. Quisque ornare odio ligula. Maecenas quis tincidunt magna. Aliquam erat volutpat. Quisque tortor lacus, auctor et lobortis condimentum, ullamcorper ut nisl. In sollicitudin placerat erat sodales tempus. Donec quis malesuada orci.</p>
+
+<p>Mauris sit amet augue pretium, ornare turpis non, pulvinar libero. Aliquam erat volutpat. In eleifend ante tortor, sit amet mollis purus consequat nec. Praesent eget lobortis mi. Vivamus finibus nisi eu mattis lacinia. Fusce ultrices dapibus aliquam. Donec hendrerit dui ac posuere pellentesque. Phasellus sit amet molestie tortor.</p>
+
+<p>Nam rhoncus posuere nunc sed malesuada. Curabitur semper vestibulum egestas. Ut sed mi nec leo pellentesque dictum. Nullam blandit luctus tellus, et lacinia velit pharetra quis. Quisque convallis volutpat leo nec euismod. Vivamus volutpat massa velit, ac vehicula odio euismod a. Mauris cursus vehicula lacus, eu laoreet arcu pretium non. Mauris interdum augue non tempor suscipit. Mauris auctor vel augue a finibus. Cras elementum elit et magna maximus, nec laoreet nisl egestas.</p>
+
+  
+  <footer>
+    <ul>
+      <li>Posted by <strong>Matt</strong></li>
+      <li>Published on <time>22 November 2013</time></li>
+      
+      <li>Last updated on <time>2 August 2018</time> (<a href="https://mattjon.es/git/matt/Countersteering/commit/bc9b00af9da85edc51a5be2779f115b22d0846e3">bc9b00a</a>)</li>
+      
+      <li>Permalink: <a href="https://mattjon.es/countersteering/post/porter-theme/">https://mattjon.es/countersteering/post/porter-theme/</a></li>
+    </ul>
+  </footer>
+</article>
+
+     
+
+  </section>
+
+  
+  
+ </article>
+
+    </main>
+
+    <footer>
+      <p></p>
+      <span id="speed"></span>
+    </footer>
+    <script>
+window.onload = function () {
+    var loadTime = window.performance.timing.domContentLoadedEventEnd-window.performance.timing.navigationStart; 
+         document.getElementById('speed').innerHTML = 'Page rendered in ' + loadTime/1000 + ' seconds &#128374;';
+}
+ 
+     </script>
+
+    
+  <script>
+    var lazy = [];
+    registerListener('load', setLazy);
+    registerListener('load', lazyLoad);
+    registerListener('scroll', lazyLoad);
+    registerListener('resize', lazyLoad);
+    function setLazy(){
+    
+    
+    
+    lazy = document.getElementsByClassName('lazy');
+    console.log('Found ' + lazy.length + ' lazy images');
+    } 
+    function lazyLoad(){
+    for(var i=0; i<lazy.length; i++){
+                                if(isInViewport(lazy[i])){
+                                if (lazy[i].getAttribute('data-src')){
+                                lazy[i].src = lazy[i].getAttribute('data-src');
+                                lazy[i].removeAttribute('data-src');
+                                }
+                                }
+                                }
+                                
+                                cleanLazy();
+                                }
+                                function cleanLazy(){
+                                lazy = Array.prototype.filter.call(lazy, function(l){ return l.getAttribute('data-src');});
+                                }
+                                function isInViewport(el){
+                                var rect = el.getBoundingClientRect();
+                                
+                                return (
+                                rect.bottom >= 0 && 
+      rect.right >= 0 && 
+      rect.top <= (window.innerHeight || document.documentElement.clientHeight) && 
+                  rect.left <= (window.innerWidth || document.documentElement.clientWidth)
+                               );
+                               }
+                               function registerListener(event, func) {
+                               if (window.addEventListener) {
+                               
+                               window.addEventListener(event, func)
+                               } else {
+                               window.attachEvent('on' + event, func)
+                               }
+                               }
+    </script>
+  </body>    
+</html>
