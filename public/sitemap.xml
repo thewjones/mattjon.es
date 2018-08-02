@@ -3,7 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://mattjon.es/countersteering/post/porter-theme/</loc>
+    <lastmod>2018-08-02T10:05:42+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://mattjon.es/countersteering/</loc>
+    <lastmod>2018-08-02T10:05:42+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -14,10 +20,30 @@
   
   <url>
     <loc>https://mattjon.es/countersteering/menu/</loc>
+    <lastmod>2018-08-02T09:43:20+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mattjon.es/countersteering/post/</loc>
+    <lastmod>2018-08-02T10:05:42+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mattjon.es/countersteering/tags/tag-1/</loc>
+    <lastmod>2018-08-02T10:05:42+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mattjon.es/countersteering/tags/tag-2/</loc>
+    <lastmod>2018-08-02T10:05:42+01:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://mattjon.es/countersteering/tags/</loc>
+    <lastmod>2018-08-02T10:05:42+01:00</lastmod>
     <priority>0</priority>
   </url>
   
