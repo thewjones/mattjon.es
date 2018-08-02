@@ -2,6 +2,7 @@ baseURL = "https://mattjon.es/countersteering/"
 languageCode = "en-gb"
 [params]
     title = "Countersteering"
+    author = "Matt Jones"
     description = "A journal by <a href=\"https://mattjon.es\">Matt Jones</a>, mainly about transport, design and technology"
 sectionPagesMenu = "main"
 RelativeURLs=true
