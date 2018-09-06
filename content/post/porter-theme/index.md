@@ -9,7 +9,7 @@ resources:
 - name: header
   src: 432183051_1280x720.jpg
 title: Porter Theme
-caption: Test Caption
+caption: Test Caption 2
 ---
 Test edit
 
