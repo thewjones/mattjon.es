@@ -6,10 +6,14 @@ html {
 body {
     display:flex;
     margin: 0;
-    padding:100px 1rem 0;
+    padding:0 1rem 0;
     justify-content: flex-start;
     min-height: 100vh;
     flex-direction: column;
+    width:auto;
+    max-width: 60em;
+    margin:2em auto;
+
 }
 
 
@@ -223,9 +227,6 @@ h2 {
 }
 
 main {
-    width:auto;
-    max-width: 40em;
-    margin:4em auto;
     
     
 }
@@ -242,14 +243,13 @@ figcaption {
 }
 
 body>header {
-    background: #f7f7f7;
     display: flex;
-    padding: 1rem;
+      width:auto;
+    max-width: 60em;
+    margin-bottom:4em;
+    
     text-transform: lowercase;
-    position:absolute;
-    top:0;
-    left:0;
-    width:100%;
+
 }
 
 body>header>h1 {
@@ -326,10 +326,6 @@ time {
 
 body>footer {
     display:flex;
-    margin:8rem -1rem 0 -1rem;
-    background:#38c1bc;
-    color:white;
-    padding:1rem;
     font-size:80%
 }
 
@@ -353,11 +349,11 @@ a:hover .close {
 @media all and (min-width:55em) {
     
     main {
-        width:40em;
+        max-width:40em;
     }
     
     figure {
-        margin: 2em -4em
+        margin: 2em -10em 0 0
     }
     
     
