@@ -1,7 +1,7 @@
-baseURL = "https://mattjon.es/countersteering/"
+baseURL = "https://mattjon.es/"
 languageCode = "en-gb"
 [params]
-    title = "Countersteering"
+    title = "Matt Jones"
     author = "Matt Jones"
     description = "A journal by <a href=\"https://mattjon.es\">Matt Jones</a>, mainly about transport, design and technology"
 sectionPagesMenu = "main"
@@ -13,3 +13,15 @@ CanonifyURLs=true
     name       = "Home Page"
     url        = "/"
     weight     = 0
+
+    [[menu.main]]
+    identifier = "test"
+    name       = "test Page"
+    url        = "/"
+    weight     = 1
+
+    [[menu.options]]
+    identifier = "subscribe"
+    name = "Subscribe"
+    url = "/rss/"
+    weight = 0

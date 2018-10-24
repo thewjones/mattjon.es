@@ -244,10 +244,9 @@ figcaption {
 
 body>header {
     display: flex;
-      width:auto;
+    width:auto;
     max-width: 60em;
     margin-bottom:4em;
-    
     text-transform: lowercase;
 
 }
@@ -258,13 +257,21 @@ body>header>h1 {
     font-size: 1em
 }
 
-nav {
+nav#main {
 
     margin-left: auto
 }
 
+nav#options ul {
+    display:inline;
+    margin:0;
+    padding:0;
+    list-style:none;
+}
+
 section>h1 {
     display: none
+                 
 }
 
 aside.full {
