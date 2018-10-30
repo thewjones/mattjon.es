@@ -8,11 +8,6 @@
   </url>
   
   <url>
-    <loc>https://mattjon.es/post/porter-theme/</loc>
-    <lastmod>2018-09-06T20:34:28+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://mattjon.es/</loc>
     <lastmod>2018-10-24T20:56:24+01:00</lastmod>
     <priority>0</priority>
@@ -35,20 +30,8 @@
   </url>
   
   <url>
-    <loc>https://mattjon.es/post/</loc>
-    <lastmod>2018-09-06T20:34:28+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://mattjon.es/tags/tag-1/</loc>
     <lastmod>2018-10-24T20:56:24+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://mattjon.es/tags/tag-2/</loc>
-    <lastmod>2018-09-06T20:34:28+01:00</lastmod>
     <priority>0</priority>
   </url>
   
