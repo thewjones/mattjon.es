@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on </title>
-    <link>https://mattjon.es/countersteering/post/</link>
+    <link>https://mattjon.es/post/</link>
     <description>Recent content in Posts on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Fri, 22 Nov 2013 22:10:05 +0000</lastBuildDate>
     
-	<atom:link href="https://mattjon.es/countersteering/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mattjon.es/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Porter Theme</title>
-      <link>https://mattjon.es/countersteering/post/porter-theme/</link>
+      <link>https://mattjon.es/post/porter-theme/</link>
       <pubDate>Fri, 22 Nov 2013 22:10:05 +0000</pubDate>
       
-      <guid>https://mattjon.es/countersteering/post/porter-theme/</guid>
+      <guid>https://mattjon.es/post/porter-theme/</guid>
       <description>Test edit
 Another test edit
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras vitae magna urna. Quisque ornare odio ligula. Maecenas quis tincidunt magna. Aliquam erat volutpat. Quisque tortor lacus, auctor et lobortis condimentum, ullamcorper ut nisl. In sollicitudin placerat erat sodales tempus. Donec quis malesuada orci.

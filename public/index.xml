@@ -2,21 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title></title>
-    <link>https://mattjon.es/countersteering/</link>
+    <link>https://mattjon.es/</link>
     <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Fri, 22 Nov 2013 22:10:05 +0000</lastBuildDate>
     
-	<atom:link href="https://mattjon.es/countersteering/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mattjon.es/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Porter Theme</title>
-      <link>https://mattjon.es/countersteering/post/porter-theme/</link>
+      <title></title>
+      <link>https://mattjon.es/micropost/test-micro-post/</link>
       <pubDate>Fri, 22 Nov 2013 22:10:05 +0000</pubDate>
       
-      <guid>https://mattjon.es/countersteering/post/porter-theme/</guid>
+      <guid>https://mattjon.es/micropost/test-micro-post/</guid>
+      <description>Nam rhoncus posuere nunc sed malesuada. Curabitur semper vestibulum egestas. Ut sed mi nec leo pellentesque dictum. Nullam blandit luctus tellus, et lacinia velit pharetra quis. Quisque convallis volutpat leo nec euismod. Vivamus volutpat massa velit, ac vehicula odio euismod a. Mauris cursus vehicula lacus, eu laoreet arcu pretium non. Mauris interdum augue non tempor suscipit. Mauris auctor vel augue a finibus. Cras elementum elit et magna maximus, nec laoreet nisl egestas.</description>
+    </item>
+    
+    <item>
+      <title>Porter Theme</title>
+      <link>https://mattjon.es/post/porter-theme/</link>
+      <pubDate>Fri, 22 Nov 2013 22:10:05 +0000</pubDate>
+      
+      <guid>https://mattjon.es/post/porter-theme/</guid>
       <description>Test edit
 Another test edit
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras vitae magna urna. Quisque ornare odio ligula. Maecenas quis tincidunt magna. Aliquam erat volutpat. Quisque tortor lacus, auctor et lobortis condimentum, ullamcorper ut nisl. In sollicitudin placerat erat sodales tempus. Donec quis malesuada orci.
@@ -25,10 +34,10 @@ Mauris sit amet augue pretium, ornare turpis non, pulvinar libero. Aliquam erat 
     
     <item>
       <title>Menu</title>
-      <link>https://mattjon.es/countersteering/menu/</link>
+      <link>https://mattjon.es/menu/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mattjon.es/countersteering/menu/</guid>
+      <guid>https://mattjon.es/menu/</guid>
       <description></description>
     </item>
     
