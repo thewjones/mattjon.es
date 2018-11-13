@@ -1,0 +1,16 @@
+---
+type: post
+comments: true
+date: 2001-12-04T16:27:00Z
+
+tags:
+- Uncategorized
+title: Nothing
+
+wordpress_id: 1114
+---
+
+'...what I tried to bring into my music are just a very few essential things that I need.' - [Morton Feldman](http://www.cnvill.demon.co.uk/mfhome.htm)
+  
+
+

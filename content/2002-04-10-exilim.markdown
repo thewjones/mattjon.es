@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2002-04-10T09:26:00Z
+
+tags:
+- Uncategorized
+title: Exilim
+
+wordpress_id: 976
+---
+
+Casio have launched the [Exilim](http://www.casio.com/corporate/pressroom.cfm?act=2&pr=5530), another miniature digital camera to go alongside the ranks of the [L'espion](http://www.digitaldreamco.com/shop/espion_review.html). This one seems a bit more advanced though, features include an mp3 player and sound recording capability. [via [t-melt](http://www.t-melt.com/)]

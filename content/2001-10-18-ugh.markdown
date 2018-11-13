@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2001-10-18T09:59:00Z
+
+tags:
+- Uncategorized
+title: Ugh
+
+wordpress_id: 1164
+---
+
+"Grunts and sighs could become the way to control computers or to navigate through call centre systems." - [BBC News](http://news.bbc.co.uk/hi/english/sci/tech/newsid_1606000/1606175.stm)

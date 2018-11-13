@@ -1,0 +1,51 @@
+---
+type: post
+comments: true
+date: 2009-02-07T23:34:58Z
+
+tags:
+- Science
+- Space
+title: How to add Comet Lulin to Stellarium
+
+wordpress_id: 1817
+---
+
+![lulin](http://local.wordpress/wp-content/uploads/2009/02/lulin.png)
+
+If you're in the Northern Hemisphere, the best time to see Comet Lulin will be when it passes Saturn and heads towards Regulus in the constellation of Leo from the 23rd of February onwards. It should be visible to the naked eye if you have clear skies and should look pretty good through binoculars.
+
+A good way to track its progress - and find out how to spot it - is to use [Stellarium](http://stellarium.org). Stellarium is a piece of open source, cross-platform Planetarium software which has a database of 600,000 stars and other astronomical objects. However, a vanilla installation doesn't have information about comets, so you have to add Lulin yourself.
+
+To do this, you need to edit the Stellarium configuration file called 'ssystem.ini'. This is found in different places depending on your operating system (note: you'll probably need an admin/root password to do this):
+
+**Linux**: /usr/share/stellarium/data/ssystem.ini
+**Mac**: /Applications/stellarium.app/data/ssystem.ini (ctrl-click on the Stellarium.app icon >' Show package contents')
+**Windows**: C:Program FilesStellariumdatassystem.ini
+
+At the bottom of the ssystem.ini file, add the following:
+`
+[lulin]
+name = C/2007 N3 (Lulin)
+parent = Sun
+radius = 100
+oblateness = 0.0
+halo = true
+color = 1.0,1.0,1.0
+tex_halo = star16x16.png
+tex_map = nomap.png
+coord_func = comet_orbit
+orbit_TimeAtPericenter = 2454842.112213313327
+orbit_PericenterDistance = 1.211815031505141
+orbit_Eccentricity = 1.000243857235593
+orbit_ArgOfPericenter = 136.8421983153854
+orbit_AscendingNode = 338.5047481504214
+orbit_Inclination = 178.3725975895116
+lighting = false
+albedo = 1
+orbit_visualization_period = 10000000000
+`
+
+Credit goes to Robert9 for the posting the above to this [this forum](http://www.iceinspace.com.au/forum/showthread.php?s=e8e7a9dcac793419c97e524699f4b1be&t=40365&page=2), which is in turn based on data from the [JPL Horizons database](http://ssd.jpl.nasa.gov/?horizons).
+
+Once you save the file and run Stellarium, you should see Comet Lulin appear. Happy Comet watching!

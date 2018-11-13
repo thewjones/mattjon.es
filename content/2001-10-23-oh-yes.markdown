@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2001-10-23T20:15:00Z
+
+tags:
+- Uncategorized
+title: Oh Yes
+
+wordpress_id: 1159
+---
+
+With a 5 gig hard-drive, room for 1000 songs and an [iTunes](http://www.apple.com/itunes/) interface, the [iPod](http://www.apple.com/ipod/) is an incredibly useful thing. I think $400 is slightly too much to ask for it though. 

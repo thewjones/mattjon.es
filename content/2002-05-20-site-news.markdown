@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2002-05-20T12:04:00Z
+
+tags:
+- Uncategorized
+title: Site News
+
+wordpress_id: 947
+---
+
+Coming soon to [AIlog](http://www.subsist.org/ailog/): contributor profiles, colour customisation and hopefully more content! I've also fixed a problem which was causing the layout to break when viewed in [Opera](http://www.opera.com).

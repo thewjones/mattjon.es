@@ -1,0 +1,25 @@
+---
+type: post
+comments: true
+date: 2003-09-05T13:09:00Z
+
+tags:
+- Uncategorized
+title: Dynamo
+
+wordpress_id: 671
+---
+
+<blockquote>
+		
+> 
+> [Dynamo](http://www.dynamo-interactive.com/) is a large multi-user interactive surface that allows people to gather round to share, display and exchange media with others.
+> 
+> 
+	</blockquote>
+
+
+
+	
+
+The [demo movies](http://www.dynamo-interactive.com/video.htm) available for download are hefty in size, but it's definitely worth a look.

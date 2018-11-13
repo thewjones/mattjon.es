@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2001-03-28T11:21:00Z
+
+tags:
+- Uncategorized
+title: 8Bit Music
+
+wordpress_id: 1322
+---
+
+[8bit](http://www.madhippy.com/8-bit/index.php) music at [micromusic.net](http://www.micromusic.net/)

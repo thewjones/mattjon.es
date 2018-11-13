@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2001-12-17T17:11:00Z
+
+tags:
+- Uncategorized
+title: Toast
+
+wordpress_id: 1097
+---
+
+This person really loves their [Mac](http://www.terra.es/personal2/ximacs/g31.html ). [via [xlab](http://www.xlab.co.uk)]

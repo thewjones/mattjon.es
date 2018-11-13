@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2001-12-18T17:58:00Z
+
+tags:
+- Uncategorized
+title: Faux fur
+
+wordpress_id: 1094
+---
+
+I'd like to dedicate the hat to [Heather](http://www.harrumph.com/011212.shtml).

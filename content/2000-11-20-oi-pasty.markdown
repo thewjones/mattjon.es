@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2000-11-20T15:40:00Z
+
+tags:
+- Humour
+title: Oi Pasty!
+
+wordpress_id: 1532
+---
+
+About a year ago, me a few colleagues came up with the idea of starting a new chain of  pasty shops called 'OI! Pasty' (I suppose a bit like the famous sushi restaurant chain '[Yo! Sushi](http://www.yosushi.com/)' **grin**). Anyway, we wanted it to be a kind of high-tech pasty shop including an assortment of pasty varieties (including corned beef, ham and cheese and the classic '[Cornish](http://www.authenticcornishpasty.co.uk/)') which would travel on a complex arrangement of conveyor belts around the restaurant. The customer would then make their pasty selection, sit and and eat it on big comfy couches and then pay on the way out. I would like to add that our idea pre-dated the modernisation of [Greggs Bakeries](http://www.greggs.co.uk/frameset.htm) across the country (their staff now use radio headsets), and I believe that someone in the higher echelons of Greggs was actually tipped off about our plans for global domination in pasty retail. Anyway, its all 'water under the bridge' now as we see the emergence of '[Oi! Bagel](http://www.oibagel.com)'. If only we acted sooner.

@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2001-11-24T12:03:00Z
+
+tags:
+- Uncategorized
+title: Old News
+
+wordpress_id: 1128
+---
+
+The archives for [0ctober 2000](http://www.ballofstringtheory.com/index.shtml?archive/2000_10_01_archive.html) through to [January 2001](http://www.frownland.com/index.shtml?archive/2001_01_01_archive.html) are now back online now that I've modified the HTML to bring it up to date with the current stylesheet.

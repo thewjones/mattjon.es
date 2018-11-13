@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2002-01-24T09:54:00Z
+
+tags:
+- Uncategorized
+title: Maya
+
+wordpress_id: 1057
+---
+
+Next month, [OS X](http://www.apple.com/macosx/) users will be able to download the complete version of Maya [for free](http://www.aliaswavefront.com/en/Community/Special/ple_announce/index.html). That's right, 

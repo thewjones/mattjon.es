@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2001-10-05T15:47:00Z
+
+tags:
+- Uncategorized
+title: Link
+
+wordpress_id: 1172
+---
+
+[theoryshop.co.uk](http://www.theoryshop.co.uk/) - Jay's photography and web design. Easier to use than [boo.com](http://www.boo.com).

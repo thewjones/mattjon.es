@@ -1,0 +1,19 @@
+---
+type: post
+comments: true
+date: 2003-07-09T03:00:00Z
+
+tags:
+- Uncategorized
+title: Wiretap
+
+wordpress_id: 706
+---
+
+[Ambrosia](http://www.ambrosiasw.com), purveyors of fine Macintosh software since the dawn of time, have released a great utility called [Wiretap](http://www.ambrosiasw.com/utilities/freebies/). Those familiar with Rogue Amoeba's [Audio Hijack](http://www.rogueamoeba.com/audiohijack/) will recognise what Wiretap does: it simply allows the user to record sound playing through their Mac, whether it be from a Realplayer stream, a DVD movie or from iTunes. What sets this utility apart from Audio Hijack is that it's **free**.
+
+
+
+	
+
+Wiretap does not record from an external source, so ripping audio directly from vinyl isn't possible. Neither does it encode MP3 files, such is the high cost of licencing the [MP3](http://www.iis.fraunhofer.de/amm/techinf/layer3) codec; instead, the software outputs [AIFF](http://www.borg.com/~jglatt/tech/aiff.htm) files which can then be converted to MP3 using [iTunes](http://www.apple.com/itunes). These omitted features aside, Wiretap is another high quality, simple utility from Ambrosia. They make great [rice pudding](http://www.colmans.co.uk/education_content_ambrosia.htm) too. 

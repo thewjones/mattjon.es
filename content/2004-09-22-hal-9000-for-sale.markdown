@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2004-09-22T23:26:00Z
+
+tags:
+- Uncategorized
+title: HAL 9000 For Sale
+
+wordpress_id: 281
+---
+
+[HAL 9000 For Sale](http://cgi.ebay.com/ws/eBayISAPI.dll?ViewItem&item=3840166200&category=60360)

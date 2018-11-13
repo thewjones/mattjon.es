@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2003-03-12T12:32:00Z
+
+tags:
+- Uncategorized
+title: 150 Signals
+
+wordpress_id: 761
+---
+
+Three and a half years after the [SETI@Home](http://setiathome.ssl.berkeley.edu/) project began receiving data from home computers all over the world, [SETI scientists are heading back to Arecibo](http://www.spaceref.com/news/viewpr.html?pid=10922) to take a closer look at 150 specific areas of space that the project has flagged as possible sources of extra-terrestrial life. [UC Berkeley](http://www.berkeley.edu/) physicist Dan Werhimer thinks that there's a 1 in 10,000 chance that one of the candidate signals will be of extra-terrestrial origin. You may think those chances are slim, but when you consider that the [chances of winning the National Lottery](http://lottery.merseyworld.com/Info/Chances.html) are 1 in 14,000,000, those odds start to look quite good. 

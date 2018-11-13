@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2001-11-17T09:26:00Z
+
+tags:
+- Uncategorized
+title: Ping
+
+wordpress_id: 1134
+---
+
+Everyones favourite image format, [PNG](http://www.libpng.org/pub/png/#history), seems to be under threat from the most unlikely source… [Apple](http://www.apple.com/). It has been revealed that they own a patent for a component of PNG that allows for [alpha transparency](http://www.libpng.org/pub/png/pngintro.html#alpha). PNG is supposed to an open source project that provides a royalty-free alternative to image formats like [GIF](http://burnallgifs.org/), so the fact that it's at threat is bad news indeed. Read more at [The Register](http://www.theregister.co.uk/content/39/22898.html).Why not spend 300 quid on an [iPod](http://www.apple.com/ipod/) then [hack it to pieces](http://www.ipodhacks.com/)? [via [Splorp](http://www.splorp.com)]

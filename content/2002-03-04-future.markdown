@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2002-03-04T10:27:00Z
+
+tags:
+- Uncategorized
+title: Future ?
+
+wordpress_id: 1009
+---
+
+[The Little OS](http://www.wplug.org/~evand/chick/): A Fine Photoshop Production OR Am I sardonic or not?

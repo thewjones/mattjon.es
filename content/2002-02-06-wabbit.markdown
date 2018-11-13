@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2002-02-06T08:52:00Z
+
+tags:
+- Uncategorized
+title: Wabbit
+
+wordpress_id: 1038
+---
+
+You can now [search the web](http://www.google.com/intl/xx-elmer/) in the style of Elmer Fudd. Those crazy [Google](http://www.google.com) guys. [via [SvN](http://www.37signals.com/svn/)]

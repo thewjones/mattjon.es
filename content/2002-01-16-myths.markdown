@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2002-01-16T12:39:00Z
+
+tags:
+- Uncategorized
+title: Myths
+
+wordpress_id: 1066
+---
+
+From Apple, [a special message to Windows users](http://www.apple.com/myths/).

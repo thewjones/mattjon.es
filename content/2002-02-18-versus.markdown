@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2002-02-18T13:12:00Z
+
+tags:
+- Uncategorized
+title: Versus
+
+wordpress_id: 1025
+---
+
+[Keep the web simple, stupid](http://news.bbc.co.uk/hi/english/in_depth/sci_tech/2000/dot_life/newsid_1779000/1779849.stm)

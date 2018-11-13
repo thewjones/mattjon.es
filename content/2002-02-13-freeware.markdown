@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2002-02-13T14:02:00Z
+
+tags:
+- Uncategorized
+title: Freeware
+
+wordpress_id: 1032
+---
+
+I find myself checking [versiontracker.com](http://www.versiontracker.com) for the latest OS X freeware and shareware on a regular basis, so I thought it would be good to add another section on the right-hand column which contains my pick of the best software each day. 

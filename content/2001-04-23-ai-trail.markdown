@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2001-04-23T11:32:00Z
+
+tags:
+- Uncategorized
+title: A.I Trail
+
+wordpress_id: 1291
+---
+
+[A Tale of the AI Trail](http://www-stu.cai.cam.ac.uk/%7Edyh21/trail/guide.html) - a detailed overview of the [A.I.](http://uk.imdb.com/Title?0212720) puzzle which is currently causing a stir in the run-up to the film's release [much like the [Blair Witch](http://www.blairwitch.co.uk/) phenomenon].

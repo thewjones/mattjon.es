@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2000-10-04T12:05:00Z
+
+tags:
+- Uncategorized
+title: Back Door
+
+wordpress_id: 1589
+---
+
+In 1973, in a pub situated in the middle of nowhere on the windswept Yorkshire Moors, 3 blokes playing bass, drums and saxophone came up  with some of the jazziest, funkiest, bluesiest music you've ever heard. As far as I know, they are forgotten about now, and it is almost impossible to find their music. They were called 'Back Door' and i've uploaded an mp3 for you to listen to. [Here it is](music/vienna_breakdown.mp3)... serve loud.

@@ -1,0 +1,14 @@
+---
+type: post
+comments: true
+date: 2000-11-16T11:29:00Z
+
+tags:
+- Miscellany
+- Web
+title: Very Busy
+
+wordpress_id: 1538
+---
+
+Really busy at work at the minute, so postings are going to be few and far between for a while. The redesign is taking ages because I'm too much of a perfectionist. Its nothing major, there's just going to be slightly more content to look at, as well as a section called 'co-lab' which will hopefully provide some kind of platform for collaboration in various projects that I haven't thought of yet. 

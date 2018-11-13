@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2001-09-12T11:16:00Z
+
+tags:
+- Uncategorized
+title: Support
+
+wordpress_id: 1183
+---
+
+Support the American Red Cross by [donating some money to the disaster relief fund](https://www.redcross.org/donate/donation-form.asp). 

@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2002-01-07T10:07:00Z
+
+tags:
+- Uncategorized
+title: New Core
+
+wordpress_id: 1077
+---
+
+It seems as though the cover of next weeks issue of [Time Magazine](http://www.time.com), containing a picture of [the new iMac](http://www.thinksecret.com/features/mwsf02imac.html), has been leaked. Of course, this could be a cunning plan on behalf of Apple to throw people off the scent of what is going to be unveiled later on today. After all the hype last week by Apple themselves, I wouldn't put it past them.

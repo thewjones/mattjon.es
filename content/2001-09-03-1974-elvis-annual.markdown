@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2001-09-03T18:05:00Z
+
+tags:
+- Uncategorized
+title: 1974 Elvis Annual
+
+wordpress_id: 1190
+---
+
+![1974 Elvis Annual](images/elvis.jpg)

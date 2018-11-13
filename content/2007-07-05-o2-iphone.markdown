@@ -1,0 +1,19 @@
+---
+type: post
+comments: true
+date: 2007-07-05T03:31:00Z
+
+tags:
+- Uncategorized
+title: O2 iPhone
+
+wordpress_id: 70
+---
+
+[The Times is reporting that O2 has won the rights to offer the iPhone in the UK](http://business.timesonline.co.uk/tol/business/industry_sectors/telecoms/article2028678.ece)
+
+
+
+
+
+While I'm sure the iPhone will sell well in the UK, O2 will have to offer some extremely attractive price plans in order to lure people away from their existing contracts.

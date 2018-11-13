@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2002-01-12T17:37:00Z
+
+tags:
+- Uncategorized
+title: Insides
+
+wordpress_id: 1070
+---
+
+Here's a draft version [4.4M PDF] of the [servicing instructions](http://homepage.mac.com/WebObjects/FileSharing.woa/wa/default?user=registereduser&templatefn=FileSharing1.html&xmlfn=TKDocument.1.xml&sitefn=RootSite.xml&aff=consumer&cty=US&lang=e) for the new iMac. A warning to Mac lovers though: this document shows graphic images of a servicing operation which some of you may find disturbing.

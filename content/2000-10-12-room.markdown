@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2000-10-12T11:08:00Z
+
+tags:
+- Uncategorized
+title: r|o|o|m|
+
+wordpress_id: 1578
+---
+
+[r|o|o|m|](http://www.unn.ac.uk/~inmj2/room/) was a project I did last year for ['Visual Arts North East'](http://www.vane.org). I got people to manipulate individual images of a [Quicktime VR ](http://www.apple.com/quicktime/qtvr/) and email them back to me. I then placed the returned images into the VR and projected it into the same room for the exhibition. It's the only piece of 'art' i've done that I am satisfied with and I got loads of positive feedback from it. I'm trying to think of ideas for a new project, so if anyone out there would like to collaborate on something, [let me know](mailto:matt@frownland.com).

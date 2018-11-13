@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2001-09-09T10:15:00Z
+
+tags:
+- Uncategorized
+title: No Frills
+
+wordpress_id: 1186
+---
+
+'...good design is 'clear thinking made visible''[Edward Tufte on Web Design](http://www.kuro5hin.org/story/2001/9/7/234449/3992)

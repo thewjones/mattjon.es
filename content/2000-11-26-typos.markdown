@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2000-11-26T12:50:00Z
+
+tags:
+- Media
+title: Typos
+
+wordpress_id: 1521
+---
+
+I can't believe the number of typos I allow to slip through when I'm typing. I had to correct at least 3 in my last post. I was in a bit of a rush when I wrote it. More haste less speed I reckon. 

@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2002-11-21T06:30:00Z
+
+tags:
+- Uncategorized
+title: Coax
+
+wordpress_id: 820
+---
+
+[The BBC](http://www.bbc.co.uk) has made some modifications to its front page, including a neat way of coaxing users to sections of the site that they don't tend to visit often. The front page is a layout of blue panels; after clicking on a section such as news or sport and then returning back to the front page, you'll notice that the panel you clicked is a deeper shade of blue. Over time, sections of the site that you don't visit will become more highlighted. Clever. [via [blackbeltjones](http://www.blackbeltjones.com)] 

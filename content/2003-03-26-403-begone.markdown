@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2003-03-26T09:26:00Z
+
+tags:
+- Uncategorized
+title: 403 Begone
+
+wordpress_id: 755
+---
+
+Well, it's good to be back and rid of that nasty 'Forbidden' notice. I think the break has actually done me some good, although it's quite something to be completely locked out of ones email and FTP for a week or so. I suppose there are [worse](http://news.google.com) things to worry about though.

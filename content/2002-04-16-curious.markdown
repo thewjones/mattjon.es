@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2002-04-16T14:36:00Z
+
+tags:
+- Uncategorized
+title: Curious
+
+wordpress_id: 971
+---
+
+A page devoted to the [Lipogram](http://phrontistery.50megs.com/lipogram.html ): a piece of writing that omits one or more letters of the alphabet.

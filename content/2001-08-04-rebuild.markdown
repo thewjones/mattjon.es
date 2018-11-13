@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2001-08-04T20:36:00Z
+
+tags:
+- Uncategorized
+title: Rebuild
+
+wordpress_id: 1213
+---
+
+That's right, time for more CSS woes as I try to make my redesign work across multiple browsers. Why do I bother really? Anyway, it was time to ditch those images on the right and concentrate more on the photographic content of the site. I still haven't bought myself a digital camera [a rarity amongst the weblogging community?] so I'm sticking with good ol' analog for the time being. 

@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2001-01-04T13:09:00Z
+
+tags:
+- Uncategorized
+title: "010101"
+
+wordpress_id: 1478
+---
+
+[010101](http://010101.sfmoma.org/) - Art in Technological times

@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2002-03-27T13:39:00Z
+
+tags:
+- Uncategorized
+title: Volume
+
+wordpress_id: 987
+---
+
+The [PowerMate](http://www.griffintechnology.com/audio/pwrmate_features.html) is a computer peripheral designed by Takahiko Suzuki, a jewelry designer from Japan. Its main function is simply to adjust the computer's volume control, but it can be configured for other purposes such as acting as a jog wheel for video editing.  

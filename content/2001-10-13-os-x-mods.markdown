@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2001-10-13T22:40:00Z
+
+tags:
+- Uncategorized
+title: OS X Mods
+
+wordpress_id: 1166
+---
+
+When [Apple](http://www.apple.com) enhanced [the dock](http://www.apple.com/macosx/theater/dock.html) by making it moveable to the left or right of the screen in OS 10.1, I was a bit surprised that you still couldn't put the dock into a corner of the screen. Well, with a preference panel called [Pin Cushion](http://www.versiontracker.com/moreinfo.fcgi?id=12187&db=macosx), you can do just that.Also, for those OS X users who miss the old application switcher menu, [ASM](http://www.versiontracker.com/moreinfo.fcgi?id=10410&db=mac) is an excellent preference panel that brings it to the new OS.

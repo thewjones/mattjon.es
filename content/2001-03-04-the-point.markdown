@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2001-03-04T22:59:00Z
+
+tags:
+- Uncategorized
+title: The Point?
+
+wordpress_id: 1360
+---
+
+I'm not quite sure what the point of  [this interface](http://www.designplaza.net/) is,  and sites that ask me to be patient while loading really annoy me. Why should anyone have to be patient while using the web?

@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2003-03-06T12:23:00Z
+
+tags:
+- Uncategorized
+title: Camino
+
+wordpress_id: 766
+---
+
+I'm inclined to believe that the renaming of Chimera to [Camino](http://www.mozilla.org/projects/camino/) is as much a tactical decision as it is a legal necessity. No doubt that when the next stable beta is released, its new name will give it a much needed boost now that [Safari](http://www.apple.com/safari/) is hogging the limelight. I think it would be beneficial to both browsers to keep the competition alive. 

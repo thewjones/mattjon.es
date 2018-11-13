@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2000-11-14T14:16:00Z
+
+tags:
+- Web
+title: Netscape 6
+
+wordpress_id: 1540
+---
+
+I've just downloaded [Netscape 6](http://home.netscape.com/browsers/6/index.html) and I take back what I said about it a few days ago (that was a preview version so I was wrong to make judgement). It's actually not bad at all - some of the graphics used could be a bit better, but its a vast improvement from the preview version (it seems as though alternate themes/skins can be used, which is cool  - a [k10k](http://www.k10k.com) netscape skin?). All the [CSS](http://www.w3.org/Style/CSS/) stuff that i'm working on for the re-design of this site seems to be working OK on Netscape 6 - at last, designers can develop for 'browser a' and be confident that it will work on 'browser b'. Now I suppose it's up to Netscape fans to download the latest version.

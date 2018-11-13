@@ -1,0 +1,19 @@
+---
+type: post
+comments: true
+date: 2001-01-17T12:19:00Z
+
+tags:
+- Media
+title: Animate!
+
+wordpress_id: 1437
+---
+
+[Animate!](http://www.animateonline.org) - "If you have an innovative idea that can only be realised in a short animated film, and you are seeking production funding to make it, we would like you to send us a proposal".  
+
+   
+
+Thanks to [Timo Arnall for emailing about this [he designed the site]. Check out his design agency at [andorif.com](http://www.andorif.com) and his personal site at [elasticspace.com](http://www.elasticspace.com). Nice work.   
+
+

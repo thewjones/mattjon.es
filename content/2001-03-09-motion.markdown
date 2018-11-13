@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2001-03-09T15:56:00Z
+
+tags:
+- Uncategorized
+title: Motion
+
+wordpress_id: 1353
+---
+
+[motion](http://motion.state51.co.uk/subscribe/) is an excellent zine/mailing list about decent new music [cheers Jim]. 

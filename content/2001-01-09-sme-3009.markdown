@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2001-01-09T15:05:00Z
+
+tags:
+- Technology
+title: SME 3009
+
+wordpress_id: 1465
+---
+
+I'm currently trying to get hold of replacement parts for an old turntable I bought from the classified ads a few years ago. I found [this website](http://www.sme.ltd.uk) for the tonearm manufacturer - SME Ltd - and couldn't help noticing the way in which the [website](http://www.sme.ltd.uk) itself looks as if it pre-dates the Internet by about 30 years. Check out the [V-Dub](http://www.v-dub.co.uk/index1.htm) vans outside the factory. Classic.

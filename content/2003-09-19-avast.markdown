@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2003-09-19T09:25:00Z
+
+tags:
+- Uncategorized
+title: Avast!
+
+wordpress_id: 658
+---
+
+Today is [Talk Like a Pirate](http://www.talklikeapirate.com/piratehome.html) day. Why? I haven't a clue.

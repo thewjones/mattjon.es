@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2001-03-27T07:16:00Z
+
+tags:
+- Uncategorized
+title: Overhaul
+
+wordpress_id: 1324
+---
+
+I'm almost there with the long overdue [CSS](http://www.w3.org/Style/CSS/) overhaul. Thanks to [glish.com](http://www.glish.com) for the excellent [3 column model](http://www.glish.com/css/7.asp) which matches my requirements perfectly. 

@@ -1,0 +1,16 @@
+---
+type: post
+comments: true
+date: 2001-02-21T12:58:00Z
+
+tags:
+- Photography
+- Web
+title: AltSense
+
+wordpress_id: 1379
+---
+
+New stuff at [altsense.net](http://www.altsense.net):   
+[A Eulogy for Design](http://www.altsense.net/library/factual/design.html)  
+[Preview Goree](http://www.altsense.net/library/interactive/goree/goree.html) - an experiment using javascript and photography.

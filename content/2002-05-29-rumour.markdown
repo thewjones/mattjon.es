@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2002-05-29T11:29:00Z
+
+tags:
+- Uncategorized
+title: Rumour
+
+wordpress_id: 938
+---
+
+'_Try out 0.2.8 now, and stop reading The Register!_' .... says David Hyatt in reference to [this article](http://www.theregister.co.uk/content/4/25451.html). David Hyatt is one of the programmers responsible for [Chimera](http://chimera.mozdev.org), the excellent web browser for Mac OS X. Chimera is causing a real stir amongst OS X users who are fed up with the bloatedness of Internet Explorer and want a lean, fast browser without unecessary features and this is exactly what Chimera delivers. The rumour is that Apple are wanting to use Chimera as the basis for their own browser, possibly called 'iBrowser' [what else?]. Hyatt says that the rumours are untrue, but still, it's intriguing stuff.

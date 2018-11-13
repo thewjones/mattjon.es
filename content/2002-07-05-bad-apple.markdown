@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2002-07-05T08:04:00Z
+
+tags:
+- Uncategorized
+title: Bad Apple
+
+wordpress_id: 910
+---
+
+I like to think that [Apple's](http://www.apple.com) aim isn't purely to make as much profit as they possibly can, but instead, to enrich humanity with technology that makes our lives easier and more enjoyable. Of course, this is what Apple wants me to think; to think different[ly], use a Mac. Naturally, those who are passionate about Apple Computer and the insanely great products it produces want to know what Apple has planned next. Because of this, [rumour](http://www.macrumors.com/) [sites](http://www.thinksecret.com) have become a staple part of every Mac users surfing habits; no where else offers as much insight into what is happening behind Apple's cloak of secrecy. A few days ago, Apple [denied these rumour sites press access](http://www.thinksecret.com/news/editorialpressaccess.html) to [Macworld Expo](http://www.macworldexpo.com/) in San Francisco. Bad move. As you can imagine, the people who run these sites are very unhappy about this; they have been punished by Apple for being good at their job, to report the news that Mac fans want to know about. It seems that Apple are trying to control what news we read and when we read it, as far as they are concerned if something hasn't been officially announced by them, then you should ignore it. Like the [RIAA](http://www.riaa.org/index.cfm) trying to control music distribution on the web, it's a pointless effort; information will always be leaked and there will always be a rumour site ready pick it up and publish it. Annoying the well-meaning independent sites that report Apple news is not going to help their cause. Indeed, in this case, it is Apple who need to think different[ly].

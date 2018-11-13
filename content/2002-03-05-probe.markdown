@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2002-03-05T15:25:00Z
+
+tags:
+- Uncategorized
+title: Probe
+
+wordpress_id: 1008
+---
+
+It's easy to personify [Pioneer 10](http://spaceprojects.arc.nasa.gov/Space_Projects/pioneer/PNhome.html ) as it drifts through the blackness of space, 7.4 billion miles away from home. It's like Huey [or was it Dewey or Louie?] left all alone with a battered watering can to tend the 'garden of eden' in [Silent Running](http://uk.imdb.com/Title?0067756). Pioneer 10 was launched on the 2nd of March 1972 to take pictures of [Jupiter](http://www.solarviews.com/eng/jupiter.htm). With its primary mission complete, it was then sent on a course that would take it away from our solar system and into deep space. A few days ago, [NASA](http://www.nasa.gov) scientists transmitted a signal to it, asking if it was still OK. It replied with a signal described as 'loud and clear and strong'; against all the odds, it is still alive, braving it through the intense cold, and incredibly, still taking readings using its only functioning instrument, the [Geiger Tube Telescope](http://www-pw.physics.uiowa.edu/pioneer/gtt.html). What unflinching dedication to its work! That it should battle on and take readings in the lonely infinity. Ok, so it's just a chunk of metal, programmed to perform a specific task which it is still working on because it hasn't been programmed not to. One day, humankind will be sending out intelligent space probes designed to learn and adapt to their environment, to gather information and make new decisions based on that information. These artificially intelligent machines could pave the way for humankind to populate [other planets](http://mars.jpl.nasa.gov/mgs/); they could set up environments for us to live in, terraform land and build homes. Pioneer 10 was one of the first of a long line of space probes that have and will continue to tell us more about what is out there. Even though its mission is complete, Pioneer 10 is still serving humanity; it is a part of us, reaching far beyond the solar system, a symbol of our need to find out more. In two million years time, it will reach the nearest star in the constellation of Taurus. Long after we're gone, I'm sure it will say hello.  [BBC News | SCI/TECH | Pioneer 10 makes contact](http://news.bbc.co.uk/hi/english/sci/tech/newsid_1853000/1853804.stm)

@@ -1,0 +1,14 @@
+---
+type: post
+comments: true
+date: 2001-01-13T19:08:00Z
+
+tags:
+- Design
+- Web
+title: CPP 2000
+
+wordpress_id: 1450
+---
+
+[CPP | 2000](http://www.cpp2000.co.uk) - a half-finished greyscale dhtml site by me. 

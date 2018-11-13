@@ -1,0 +1,14 @@
+---
+type: post
+comments: true
+date: 2001-01-24T13:00:00Z
+
+tags:
+- Film
+- Media
+title: New Venue
+
+wordpress_id: 1421
+---
+
+[Stu](http://www.tui.co.uk) reports on [newvenue.com](http://www.newvenue.com/) - "presenting the most innovative 'new movies for a new medium' to a world-wide media-savvy community".

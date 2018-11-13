@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2002-12-09T08:43:00Z
+
+tags:
+- Uncategorized
+title: Vote
+
+wordpress_id: 810
+---
+
+At last, you can now vote on who you think should win the Stylesheet competition! [Over here…](http://www.subsist.org/plink/)

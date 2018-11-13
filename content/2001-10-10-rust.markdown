@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2001-10-10T15:39:00Z
+
+tags:
+- Uncategorized
+title: Rust
+
+wordpress_id: 1169
+---
+
+![an unhappy car](images/unhappycar.jpg)

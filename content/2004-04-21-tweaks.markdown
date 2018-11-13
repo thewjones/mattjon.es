@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2004-04-21T11:55:00Z
+
+tags:
+- Uncategorized
+title: Tweaks
+
+wordpress_id: 420
+---
+
+As well as adjusting the title text above, I've added 'Listening to' information to the floating widget below. It's generated using Freshly Squeezed Software's [Recent Tunes](http://freshlysqueezedsoftware.com/products/freeware/) menu bar tool. When iTunes is running, it displays the current tune, when it isn't, there's a link to what I've been listening to [recently](http://helium3.blogdns.com/recenttunes.html).

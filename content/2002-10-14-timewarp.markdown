@@ -1,0 +1,17 @@
+---
+type: post
+comments: true
+date: 2002-10-14T13:51:00Z
+
+tags:
+- Uncategorized
+title: Timewarp
+
+wordpress_id: 841
+---
+
+To celebrate roughly two years of nonsense at this site, I've decided to use the [PHP style switcher](http://www.alistapart.com/stories/phpswitch/) at this weeks ALA to throw this site back in time to how it looked in October 2000 [over there, in the sidebar, see?].  It's been a rewarding couple of years; my knowledge of web design and programming has increased immeasurably and I've made some great friends. So… thank you!
+
+
+
+   Incidentally, the actual birth of this site was probably in September of 2000, but I don't think I published it until October. Anyway, I'm terrible at remembering birthdays!

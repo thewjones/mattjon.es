@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2001-08-15T18:50:00Z
+
+tags:
+- Uncategorized
+title: Bugs
+
+wordpress_id: 1205
+---
+
+Phew. I've been busy fixing a few of the [CSS](http://www.w3.org/Style/CSS/) bugs that have been niggling me slightly for the last few days. So, everything should look OK on CSS 1 and 2 [compliant browsers](http://webstandards.org/upgrade/) now. Of course, I've done all this just when [IE6](http://www.microsoft.com/windows/ie/preview/default.asp) is about to be released… so just watch it mess up my design completely. I'm now certain that the latest build of [Mozilla for Windows](http://www.mozilla.org/releases/) is a better browser than [Explorer for Windows](http://www.microsoft.com/windows/ie/default.htm)... so break your Microsoft allegiance and download it. Anyway, back to stuff you might find more interesting…

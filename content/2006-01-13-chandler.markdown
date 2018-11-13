@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2006-01-13T15:25:00Z
+
+tags:
+- Uncategorized
+title: Chandler
+
+wordpress_id: 103
+---
+
+[Chandler](http://chandler.osafoundation.org/). A new Personal information manager for Linux and OS X from the [Open Source Application Foundation](http://www.osafoundation.org/). (via [BoingBoing](http://www.boingboing.net))

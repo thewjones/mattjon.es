@@ -1,12 +1,23 @@
-baseURL = "https://mattjon.es/"
+baseurl = "https://mattjon.es/"
 languageCode = "en-gb"
+title = "Matt Jones"
+theme = "porter"
+      
+[permalinks]
+  post = "/blog/:year/:month/:slug"
+
 [params]
-    title = "Matt Jones"
-    author = "Matt Jones"
-    description = "A journal by <a href=\"https://mattjon.es\">Matt Jones</a>, mainly about transport, design and technology"
-sectionPagesMenu = "main"
-RelativeURLs=true
-CanonifyURLs=true
+  title = "Matt Jones"
+  author = "Matt Jones"
+  description = "A journal by <a href=\"https://mattjon.es\">Matt Jones</a>, mainly about transport, design and technology"
+  sectionPagesMenu = "main"
+  RelativeURLs=true
+  CanonifyURLs=true
+
+  pageNotFoundTitle = "Page not found"
+  pageNotFoundSubtitle = "Sorry, but the requested page wasn’t <br> found on the server."
+
+
 [menu]
     [[menu.main]]
     identifier = "home"

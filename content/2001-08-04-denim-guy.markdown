@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2001-08-04T14:43:00Z
+
+tags:
+- Uncategorized
+title: Denim Guy
+
+wordpress_id: 1214
+---
+
+![man dressed in denim](http://www.ballofstringtheory.com/crm2/images/denimguy.jpg)

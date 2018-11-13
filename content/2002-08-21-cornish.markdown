@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2002-08-21T16:47:00Z
+
+tags:
+- Uncategorized
+title: Cornish
+
+wordpress_id: 875
+---
+
+Have you ever wondered what the sentence "I was looking forward to a lovely plate of Bigbury Bay Oysters…" sounds like in the ancient celtic language of [Cornish](http://www.kernewek.currantbun.com/cornish.html)? Well, here's [your chance](http://news.bbc.co.uk/1/hi/uk/2206191.stm) to find out.

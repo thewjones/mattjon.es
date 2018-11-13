@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2001-01-16T09:21:00Z
+
+tags:
+- Miscellany
+title: Tasty
+
+wordpress_id: 1444
+---
+
+[Termites](http://news.bbc.co.uk/hi/english/sci/tech/newsid_1119000/1119359.stm) on toast.

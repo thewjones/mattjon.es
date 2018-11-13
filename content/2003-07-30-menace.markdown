@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2003-07-30T13:09:00Z
+
+tags:
+- Uncategorized
+title: Menace
+
+wordpress_id: 689
+---
+
+I've always thought about using my figure (over there to the right) as a place for [Google-style](http://www.google.com/holidaylogos.html) themes, but I've never fully committed myself to it. Well, I intend to change that, starting with [65 years of Dennis the Menace and The Beano](http://books.guardian.co.uk/departments/childrenandteens/story/0,6000,1008481,00.html). For those on buggy browsers, hit reload.

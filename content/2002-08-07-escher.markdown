@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2002-08-07T18:14:00Z
+
+tags:
+- Uncategorized
+title: Escher
+
+wordpress_id: 886
+---
+
+I can't think of a better tribute to the work of MC Escher than to apply modern technology to his creations. When mathematician Henrik Lenstra saw the blank spot in Escher's '[Print Gallery](http://www.iro.umontreal.ca/~bengio/images/escher-print-gallery.jpeg)', he knew there must be a way of completing the drawing using the mathematical model Escher used. [This site](http://escherdroste.math.leidenuniv.nl/index.php) explains Lenstra's project and contains some amazing [animations](http://escherdroste.math.leidenuniv.nl/index.php?menu=animation) of the results of his work.

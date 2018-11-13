@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2005-11-16T20:34:00Z
+
+tags:
+- Uncategorized
+title: Note
+
+wordpress_id: 122
+---
+
+Fixed the link to [Albert Hubo](http://times.hankooki.com/lpage/photosalon/200511/kt2005111418021811530.htm)

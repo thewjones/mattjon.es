@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2002-05-11T13:56:00Z
+
+tags:
+- Uncategorized
+title: AIlog
+
+wordpress_id: 952
+---
+
+Introducing [AIlog: A weblog about artificial intelligence](http://www.subsist.org/ailog/).

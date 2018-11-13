@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2002-05-21T11:40:00Z
+
+tags:
+- Uncategorized
+title: Testing 1. 2.
+
+wordpress_id: 945
+---
+
+Today is officially 'Test Technology Before it is Ready' day. Why not go to [labs.google.com](http://labs.google.com) and test out some things they're working on. Or if you're a [Blogger Pro](http://pro.blogger.com) user, you can try out the new publishing engine by going to [tps.blogger.com](http://tps.blogger.com).

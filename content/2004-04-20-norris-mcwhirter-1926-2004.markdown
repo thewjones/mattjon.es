@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2004-04-20T13:51:00Z
+
+tags:
+- Uncategorized
+title: Norris McWhirter 1926-2004
+
+wordpress_id: 422
+---
+
+[Norris McWhirter 1926-2004](http://news.bbc.co.uk/1/hi/entertainment/tv_and_radio/3643039.stm)

@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2001-12-29T21:26:00Z
+
+tags:
+- Uncategorized
+title: Free
+
+wordpress_id: 1086
+---
+
+[Wikipedia](http://www.wikipedia.com): The Free Encyclopedia

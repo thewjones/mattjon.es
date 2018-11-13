@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2001-12-07T09:55:00Z
+
+tags:
+- Uncategorized
+title: ALA 129
+
+wordpress_id: 1110
+---
+
+[The Bathing Ape Has No Clothes](http://www.alistapart.com/stories/bathingape/) - Adam Greenfield [[v-2.org](http://www.v-2.org/main.shtml)] on style, design and British Rail. 

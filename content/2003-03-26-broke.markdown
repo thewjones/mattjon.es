@@ -1,0 +1,19 @@
+---
+type: post
+comments: true
+date: 2003-03-26T07:53:00Z
+
+tags:
+- Uncategorized
+title: Broke
+
+wordpress_id: 756
+---
+
+<blockquote>The problem was money and the indignities of life without it. Every stroller, cell phone, Yankees cap, and SUV he saw was a torment. He wasn't covetous, he wasn't envious. But without money he was hardly a man.
+</blockquote>
+
+
+
+
+  - from [The Corrections](http://www.iblist.com/book.php?id=3795) by Jonathan Franzen.

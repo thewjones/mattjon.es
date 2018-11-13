@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2007-12-04T23:33:00Z
+
+tags:
+- Uncategorized
+title: Control
+
+wordpress_id: 19
+---
+
+Anton Corbijn's film [Control](http://en.wikipedia.org/wiki/Control_(2007_film)) - about Ian Curtis and Joy Division - is worth seeing.

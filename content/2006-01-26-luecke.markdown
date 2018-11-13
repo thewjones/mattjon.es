@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2006-01-26T14:38:00Z
+
+tags:
+- Uncategorized
+title: Luecke
+
+wordpress_id: 93
+---
+
+[Luecke](http://maps.google.com/maps?f=q&hl=en&q=austin,+tx&btnG=Search&t=k&ll=30.083058,-97.143688&spn=0.072487,0.15192&t=k).  A Texas land owner spells his/her name using trees. One way to advertise on Google.

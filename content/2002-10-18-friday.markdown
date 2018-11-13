@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2002-10-18T13:11:00Z
+
+tags:
+- Uncategorized
+title: Friday
+
+wordpress_id: 839
+---
+
+The extraordinary properties of [mayonnaise](http://www.metafilter.com/comments.mefi/20906).

@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2002-06-21T17:15:00Z
+
+tags:
+- Uncategorized
+title: Harold
+
+wordpress_id: 924
+---
+
+I don't think the [theme tune](http://www.btinternet.com/~tv_timewarp/steptoe_and_son/theme_tune.htm) to [Steptoe & Son](http://www.museum.tv/archives/etv/S/htmlS/steptoeands/steptoeands.htm) is the right choice for Apple's ['Switch' ads](http://www.apple.com/switch/ads/). 

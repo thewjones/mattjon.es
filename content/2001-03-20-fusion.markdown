@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2001-03-20T09:36:00Z
+
+tags:
+- Uncategorized
+title: Fusion
+
+wordpress_id: 1339
+---
+
+Woo… I have a fusion panel at [waferbaby > fusion > brains](http://www.waferbaby.com/fusion/brains/).

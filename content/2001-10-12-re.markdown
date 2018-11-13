@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2001-10-12T07:48:00Z
+
+tags:
+- Uncategorized
+title: 'Re:'
+
+wordpress_id: 1168
+---
+
+I've had a few responses to my post about [Ted Nelson](http://www.sfc.keio.ac.jp/~ted/), all of them containing a link to '[The Curse of Xanadu](http://www.wired.com/wired/archive//3.06/xanadu.html?person=ted_nelson&topic_set=wiredpeople)' , a [Wired](http://www.wired.com) article which asks the same questions. I've read this article before, but it didn't occur to me to link it. Here's Nelson's scathing [response](http://ted.hyperland.com/whatsay/).

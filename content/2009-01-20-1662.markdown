@@ -1,0 +1,17 @@
+---
+type: post
+comments: true
+date: 2009-01-20T20:22:30Z
+
+tags:
+- Media
+title: Goodbye George, hello the future
+
+wordpress_id: 1662
+---
+
+Well thank goodness for that. George 'Dubya' Bush is no longer the President of the United States of America, they now seem to have an intelligent and considerate [President](http://whitehouse.gov) and the world breathes a sigh of relief.
+
+I thought today would be a good day to relaunch my personal site and consolidate over eight years worth of posts from various blogs I've maintained and let lapse (although mainly from frownland.com which ran from 2000 to 2005). These posts have been through about five different blogging systems, from the original [Blogger](https://www.blogger.com/), through to my own crufty PHP systems, [Textpattern](http://www.textpattern.com), [PyBlosxom](http://pyblosxom.sourceforge.net/) and so on and so therefore need sorting out a bit, formatting, categorizing etc.
+
+The design still needs work; I've spent months (on and off) working on and discarding more polished designs but I'm reasonably happy with this for the time being. I'm using some CSS3 specific layout stuff which doesn't work in IE7 but I don't really care.  Thanks to Spain for the domain suffix.

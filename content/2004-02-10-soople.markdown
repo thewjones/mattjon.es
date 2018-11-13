@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2004-02-10T15:55:00Z
+
+tags:
+- Uncategorized
+title: Soople
+
+wordpress_id: 569
+---
+
+[Soople splits Google's various advanced search functions into separate form elements](http://www.soople.com/) (demonstrates how powerful Google really is under that simple interface)

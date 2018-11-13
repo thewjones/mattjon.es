@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2000-12-02T12:02:00Z
+
+tags:
+- Miscellany
+title: Wishlist
+
+wordpress_id: 1514
+---
+
+Just in time for the commercial frenzy called Christmas, I've started a [wishlist.](http://www.amazon.co.uk/exec/obidos/wishlist/36JB10C9FXK9R/026-5228695-8161267)

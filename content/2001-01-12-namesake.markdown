@@ -1,0 +1,14 @@
+---
+type: post
+comments: true
+date: 2001-01-12T10:12:00Z
+
+tags:
+- Design
+- Web
+title: Namesake
+
+wordpress_id: 1456
+---
+
+Another Matt Jones [weblog](http://www.blackbeltjones.com/work/index.html) [Creative Director of [news.bbc.co.uk](http://news.bbc.co.uk) no less]. Although I think the [BBC News](http://news.bbc.co.uk) site is excellent and I read it regularly, I have one quibble: why don't any of the articles contain [hypertext](http://www.w3.org/WhatIs.html)? I would have thought a public service organisation like the [BBC](http://www.bbc.co.uk) would be the first to maintain web design standards that help make the Web what it is. Presumably, the reasoning is that people might click on a hyperlink to another site, not like what they see and think to themselves '_I'm not paying my licence fee for this rubbish!_', hence the list of related links to the right with a disclaimer underneath. 

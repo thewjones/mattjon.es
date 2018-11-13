@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2003-03-28T12:36:00Z
+
+tags:
+- Uncategorized
+title: No Signal
+
+wordpress_id: 752
+---
+
+After close analysis of 150 results from the [SETI@Home](http://setiathome.ssl.berkeley.edu/) project, scientists have found nothing to suggest that they contain evidence of extra-terrestrial life. BBC News has [the story](http://news.bbc.co.uk/1/hi/sci/tech/2892269.stm), although I wish more thought had been put into the article's rather cliched headline; _"ET Fails to 'phone home'"_ suggests that extra-terrestrials originated on Earth, which is not only ridiculous but a complete contradiction in terms.

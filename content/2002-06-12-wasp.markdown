@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2002-06-12T08:51:00Z
+
+tags:
+- Uncategorized
+title: WaSP
+
+wordpress_id: 930
+---
+
+It's good to see the [Web Standards Project](http://www.webstandards.org) back and in blog format. And I must say, the redesign looks great, especially with OS X Quartz text rendering enabled. I checked the site on my iMac which isn't running [Unsanity's Silk software](http://www.unsanity.com/haxies/silk/) and I was amazed at the difference. So, it seems that web designers have a new challenge, something else to cater for when they think about what fonts to use for their site. An increasing number of Mac users are viewing websites in their full glory of smoothly rendered text, whereas the greater percentage of computer users are stuck with pixely font rendering, unaware of how good websites can look on OS X machines with Quartz enabled. The difference this technology makes to the presentation of a website should not be underestimated. 

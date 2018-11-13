@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2002-04-17T11:57:00Z
+
+tags:
+- Uncategorized
+title: Bomb
+
+wordpress_id: 970
+---
+
+Further evidence that weblogs and weblog related projects are having a massive impact on the web: doing a [Google search for 'God'](http://www.google.com/search?hl=en&q=god) returns [PHP-Nuke](http://phpnuke.org/) as the top result. PHP Nuke is a series of PHP scripts you can use to easily create your own weblog content management system. [via [Microcontent News](http://www.microcontentnews.com/)]

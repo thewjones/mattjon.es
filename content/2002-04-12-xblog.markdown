@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2002-04-12T13:50:00Z
+
+tags:
+- Uncategorized
+title: xblog
+
+wordpress_id: 973
+---
+
+I've decided to start posting all of my geeky [OS X](http://www.apple.com/macosx/) entries to Phil's excellent [and very green] new [community blog](http://www.xlab.co.uk/macosx/) dedicated to the new OS. This is to spare those non-OS X users amongst you of entries that you're probably not very interested in. On the other hand, if you do use OS X, be sure head over there and contribute yourself. 

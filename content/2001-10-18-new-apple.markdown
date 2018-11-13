@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2001-10-18T09:24:00Z
+
+tags:
+- Uncategorized
+title: New Apple
+
+wordpress_id: 1165
+---
+
+"Even Apple's own staff don't know just what kind of "breakthrough digital device" the company is going to launch next week" - [The Register](http://www.theregister.co.uk/content/39/22319.html)

@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2003-10-22T17:38:00Z
+
+tags:
+- Apple
+title: G4 iBook
+
+wordpress_id: 643
+---
+
+Apple’s decision to quietly update their [iBook](http://www.apple.com/uk/ibook/) line with G4 processors has surprised me. With a G5 Powerbook rumoured to be in the pipeline for release next summer, I would have expected the iBook revisions to take place early next year. Apart from some extra graphics clout, in-built Bluetooth and faster networking capability there doesn’t seem to be much difference between the new 12” iBook and the 12” Powerbook… well, not 450 worth of difference anyway.

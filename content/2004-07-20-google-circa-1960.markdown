@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2004-07-20T22:44:00Z
+
+tags:
+- Uncategorized
+title: Google circa 1960
+
+wordpress_id: 303
+---
+
+[Google circa 1960](http://fury.com/images/weblog/google_circa_1960.jpg)

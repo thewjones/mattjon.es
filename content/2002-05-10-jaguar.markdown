@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2002-05-10T11:48:00Z
+
+tags:
+- Uncategorized
+title: Jaguar
+
+wordpress_id: 953
+---
+
+The Register has some [inside information](http://www.theregister.co.uk/content/54/25233.html) on Jaguar, the new version of OS X due to be released at the end of summer. The improvements look impressive.

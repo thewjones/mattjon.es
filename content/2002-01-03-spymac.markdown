@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2002-01-03T13:53:00Z
+
+tags:
+- Uncategorized
+title: Spymac
+
+wordpress_id: 1080
+---
+
+I'm pretty sure that the [iWalk](http://www.spymac.com/) is a fake, albeit a very elaborate one. A couple of days before the [iPod](http://www.apple.com/ipod/) was announced, Spymac released [this picture](http://www.spymac.com/archive102301.html) sent to them by one of their 'informers'. Clearly, it looks nothing like the iPod or the 'iWalk' as seen in the latest videos [which, unsurprisingly, you have to register for]. They were faking it in October, so why should we believe them now?Spymac are probably just a bunch of Microsoft nuts whose aim is to discredit Apple in some way [peoples' expectations will now be higher than they were before, so there will be disappointment when the announcement of an Apple PDA doesn't come], and they are undoubtedly making lots of money by selling advertising space and email addresses harvested from those eager Apple fans wanting a sneak preview of the latest products. It's also strange that they don't seem to have an archive before the 23rd of October, and they never speculate about any other Apple technology other than these so-called breakthrough devices. Call me cynical, but I don't think we'll be seeing the iWalk at the [Mac Expo](http://www.macworldexpo.com/) event. 

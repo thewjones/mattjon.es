@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2001-10-30T13:26:00Z
+
+tags:
+- Uncategorized
+title: Meal Deal
+
+wordpress_id: 1156
+---
+
+There really is a dearth of decent places to get a quick lunch here in Newcastle. Even if you go to the best places, you're pretty much limited to one thing: The Sandwich. The first person to open a [bagel shop](http://www.bagelmania.co.uk/) here will be very rich indeed. 

@@ -1,0 +1,29 @@
+---
+type: post
+comments: true
+date: 2004-02-17T16:00:00Z
+
+tags:
+- Uncategorized
+title: FUD
+
+wordpress_id: 556
+---
+
+It seems that you can't visit a tech news site these days without seeing the term 'FUD' at least once. I must be falling behind with current trends in web-speak, but I didn't have a clue what it meant before I looked it up:
+
+
+
+	
+
+
+	
+  * Fear
+
+		
+  * Uncertainty
+
+		
+  * Doubt  
+
+	

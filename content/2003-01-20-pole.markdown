@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2003-01-20T10:04:00Z
+
+tags:
+- Uncategorized
+title: Pole
+
+wordpress_id: 791
+---
+
+[![Pole](http://www.frownland.com/images/pole.jpg)](http://www.ballofstringtheory.com/images/pole_b.jpg)

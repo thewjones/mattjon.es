@@ -1,0 +1,14 @@
+---
+type: post
+comments: true
+date: 2001-01-08T20:12:00Z
+
+tags:
+- Media
+- Web
+title: Colab
+
+wordpress_id: 1470
+---
+
+I've had a few enquiries about the 'colab' section and when it will be on-line. Well… unfortunately the answer is '_not for a while_'. I think I was a bit ambitious when I put that there, hoping that I'd have time to get something sorted out. Things are just a bit too hectic at the moment as I'm leaving my current job and starting [another](http://www.presence-multimedia.co.uk) in a few weeks. So I'm not going to be able to afford much time on it over the coming months. In the meantime, you can be confident that I'll be posting loads of [hopefully] interesting stuff here.

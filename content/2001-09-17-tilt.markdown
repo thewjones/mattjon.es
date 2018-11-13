@@ -1,0 +1,14 @@
+---
+type: post
+comments: true
+date: 2001-09-17T17:12:00Z
+
+tags:
+- Uncategorized
+title: Tilt
+
+wordpress_id: 1181
+---
+
+Today, the world's first tilting bridge was opened to the public. Here's some video I rather haphazardly shot and edited today: [Quicktime 270k](http://www.ballofstringtheory.com/video/bridge.mov) [[no plug-in?](http://www.apple.com/quicktime/)]  
+More info about the bridge can be found [here](http://www.gateshead.gov.uk/bridge/bridged.htm).

@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2001-01-23T09:41:00Z
+
+tags:
+- Film
+title: A.I. Teaser
+
+wordpress_id: 1426
+---
+
+Don't know how long this has been online, but there is a [teaser trailer](http://countingdown.com/news/Movies/A.I./121100033049) for [A.I.](http://uk.imdb.com/Title?0212720): the [Kubrick](http://www.kubrick.org/) film that never was. [Spielberg](http://uk.imdb.com/Name?Spielberg,+Steven) might or might not make a pigs ear of it. [via Stu]

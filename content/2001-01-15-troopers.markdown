@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2001-01-15T17:43:00Z
+
+tags:
+- Miscellany
+title: Troopers
+
+wordpress_id: 1446
+---
+
+[This](http://www.threadnaught.net/troopers.html) is just getting silly [watch out: pretty big download].

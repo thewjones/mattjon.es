@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2003-01-06T08:47:00Z
+
+tags:
+- Uncategorized
+title: Error
+
+wordpress_id: 801
+---
+
+You may have noticed occassional MySQL errors appearing on this site, and rather unforgiving ones at that. According to [Pair](http://www.pair.com) techical support, 'max_user_connections' errors mean I'm either getting too many visitors to the site for the shared MySQL server to handle, or there is a flaw in my code which is causing database connections not to be closed properly. I think the latter is the case, but whatever I try to solve the problem, the errors still persist. Any ideas?

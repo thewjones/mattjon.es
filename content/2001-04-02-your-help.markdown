@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2001-04-02T09:44:00Z
+
+tags:
+- Uncategorized
+title: Your Help
+
+wordpress_id: 1318
+---
+
+Readers, I need your help. I'm doing some research to see what's out there in terms of websites for pubs, clubs and restaurants that are innovative (maybe using flash, dhtml)  and/or use live streaming video. Please [email me](mailto:matt@frownland.com) if you have happened across any URLs that are worthwhile. Thanks to [Catherine](http://blue-ruin.port5.com/) for the one response so far: [The Spy Bar](http://www.thespybar.com/) - exactly the sort of site I'm looking for. 

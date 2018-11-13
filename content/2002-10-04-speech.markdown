@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2002-10-04T12:08:00Z
+
+tags:
+- Uncategorized
+title: Speech
+
+wordpress_id: 849
+---
+
+On Wednesday, Former President Bill Clinton gave a [speech](http://www.salon.com/news/feature/2002/10/03/clintonspeech/index.html?CP=RDF&DN=310) on global peace during the Labour Party annual conference in Blackpool. While much of it was sound bite material, perfect for the Labour Party to make it feel better about itself, there was some truly morale-boosting stuff in there. In fact, it was just the sort of speech you'd like to hear from the most powerful person on the Earth. We can all hope. 

@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2001-12-11T13:36:00Z
+
+tags:
+- Uncategorized
+title: TLotR
+
+wordpress_id: 1104
+---
+
+Xan Brooks of [The Guardian](http://www.guardian.co.uk) was at [The Lord of the Rings](http://www.lordoftherings.net/index_flat.html) preview last night. [Read](http://film.guardian.co.uk/lordoftherings/news/0,11016,616644,00.html) what he has to say about it. 

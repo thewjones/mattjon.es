@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2001-11-28T13:32:00Z
+
+tags:
+- Uncategorized
+title: χ2 - 8χ + 16 = (χ - 4) 2
+
+wordpress_id: 1125
+---
+
+Is anyone else using [Mail.app](http://www.apple.com/macosx/whatyoucando/applications/mail.html) on [OS X](http://www.apple.com/macosx/) getting these strange emails? :![a square](images/square.gif)I think it might be a by-product of a virus propagated by MS Outlook… or is it some bizarre viral artform?

@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2002-01-17T10:22:00Z
+
+tags:
+- Uncategorized
+title: En
+
+wordpress_id: 1065
+---
+
+[glish.com](http://glish.com/) was offline for quite a long time last year, but now it is back. If you're a web designer interested in the use of Cascading Style Sheets, this is the place to be.[David Byrne: Accidental Photography](http://resonancemag.com/davidbyrne.htm). [via [Evhead](http://www.evhead.com/)]Design your own [O'Reilly Cover](http://www.ilbbs.com/oracovers/). [via [xlab](http://www.xlab.co.uk)]

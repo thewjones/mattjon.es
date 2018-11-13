@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2001-04-15T15:23:00Z
+
+tags:
+- Uncategorized
+title: Blip
+
+wordpress_id: 1300
+---
+
+A green blip is appearing at regular intervals on my [seti@home client](http://setiathome.ssl.berkeley.edu/download.html). Does that mean I've found extra terrestrial intelligence?

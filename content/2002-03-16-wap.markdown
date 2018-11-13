@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2002-03-16T11:42:00Z
+
+tags:
+- Uncategorized
+title: Wap
+
+wordpress_id: 997
+---
+
+It's a great shame that a large percentage of people in the UK are carrying around an internet enabled device but don't feel compelled to use it because WAP is unusable. I used my phone to post this entry; the potential is unrealised. Addendum: OK, it took me a while to post that, not because it took ages to type, but because of constant disconnections; I'm lucky if I can get it working 50% of the time. This site isn't WAP enabled but you can access it through a google search.

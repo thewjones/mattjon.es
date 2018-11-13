@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2000-10-09T13:02:00Z
+
+tags:
+- Uncategorized
+title: Read This
+
+wordpress_id: 1583
+---
+
+Have a read of [this article](http://news.bbc.co.uk/hi/english/sci/tech/newsid_959000/959497.stm) at the BBC news site. To quote the results from the survey: "A fifth of those questioned said they were sick of hearing exaggerated claims about the way the internet would change their lives, and were bored by tales of the get-rich-quick lifestyles of young dot.com millionaires". Yeah, so am I! I don't know about other countries, but here in the UK, this kind of web hype seems to prevail over anything else and it hits us at such a level, that people who aren't online think they are missing something big. They aren't, all they are missing is a load of online companies who themselves believe the hype and spend lots of money on flashy sites that are a) unusable and b) don't sell anything interesting anyway. Actually, this isn't true, they are also missing a whole lot of good stuff; things which allow [people themselves to publish easily on the web](http://www.blogger.com), tools which allow [fast and accurate searches for information](http://www.google.com) and internet applications like [Napster](http://www.napster.com) (ok, so this **is** massively hyped, but for all the wrong reasons), which is paving the way for a new generation of internet applications which will surely change the way we entertain ourselves (in terms of music, live broadcasting, film and video). Anyway, that's enough ranting for now. 

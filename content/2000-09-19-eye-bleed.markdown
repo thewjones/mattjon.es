@@ -1,0 +1,14 @@
+---
+type: post
+comments: true
+date: 2000-09-19T15:07:00Z
+
+tags:
+- Media
+- Uncategorized
+title: Eye Bleed
+
+wordpress_id: 1603
+---
+
+Haven't got the colour scheme quite right yet have I?

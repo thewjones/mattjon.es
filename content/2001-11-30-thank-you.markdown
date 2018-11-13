@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2001-11-30T11:48:00Z
+
+tags:
+- Uncategorized
+title: Thank you...
+
+wordpress_id: 1123
+---
+
+[George Harrison](http://news.bbc.co.uk/hi/english/entertainment/music/newsid_1492000/1492446.stm).

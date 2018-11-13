@@ -1,0 +1,81 @@
+---
+type: post
+comments: true
+date: 2001-01-26T14:21:00Z
+
+tags:
+- Technology
+title: A.I Day
+
+wordpress_id: 1412
+---
+
+OK… lets make it 'official artificial intelligence day' [all but one of the links have been shamelessly stolen from the site of [Matthew Yee-King](http://www.yeeking.freewire.co.uk/), so in return, I thought I'd plug [his stuff on the Rephlex label](http://www.rephlex.com/cat/109/cat109.htm)]:  
+
+  
+
+
+
+  
+
+[BBC News | SCI/TECH | Time for real intelligence](http://news.bbc.co.uk/hi/english/sci/tech/newsid_1136000/1136870.stm)  
+
+        [learning by imitation](http://www.dai.ed.ac.uk/groups/mrg/research/social_robots2/learning_by_imitation.html)  
+
+          
+
+        [HONDA "HUMAN" ROBOT movie](http://world.honda.com/ThePowerofDreams/)  
+
+       
+
+        [Neural Networks Source Code](http://jsaic.krdl.org.sg/tralvex/pub/nap/nn-src/)  
+
+        [MIT AI Lab: The Artificial Intelligence Laboratory at MIT](http://www.ai.mit.edu/)  
+
+        [](http://junji.complex.eng.hokudai.ac.jp/projects/AmoebaRobot/index.html)  
+
+        [Robot Books.com - Robot Kits, Robotics, and Toy Robots](http://www.robotbooks.com/)  
+
+        [Robot Information Central](http://www.robotics.com/robots.html)  
+
+        [Shape Changing Robot Applications](http://www.stellar.demon.co.uk/reconfig.htm)  
+
+        [Robot Battle](http://www.robotbattle.com/home.html)  
+
+        [Internet Robotics Sources](http://www.cs.indiana.edu/robotics/world.html)  
+
+        [Evolutionary Robotics Chapter 3](http://celsp10.riken.go.jp/~fujii/Chapter3.html)  
+
+        [Kazuo HOSOKAWA](http://celsp10.riken.go.jp/~hosokawa/)  
+
+        [A Behavior-Based Multiple Robot System with Host for Object Manipulation](http://www.robotics.is.tohoku.ac.jp/lab/robot/bbrobots-1/)  
+
+        [CSCI 599 - Mobile Robots and Multi-Robot Systems](http://127.0.0.1:7654/?req=r&amp;amp;q=multiple+%26agent+robot+autonomous+evolution+artificial+cooperation+Arkin&amp;amp;r=&amp;amp;svc=2&amp;amp;pg=q&amp;amp;url=http%3a%2f%2fwww%2drobotics%2eusc%2eedu%2f%7emaja%2fcs599%2ehtml)  
+
+        [Swarm Release](http://www.santafe.edu/projects/swarm/release.html#binarydist)  
+
+        [Multi-Agent Approaches in Robotics and Learning in Multi-Agent Systems](http://127.0.0.1:7654/?req=r&amp;amp;q=proceedings+international+conference+multi+agent+systems&amp;amp;r=&amp;amp;svc=2&amp;amp;pg=q&amp;amp;url=http%3a%2f%2fwwwipr%2eira%2euka%2ede%2fareas%2fmultiagents%2ehtml)  
+
+        [ICMAS 1995 Proceedings Contents](http://127.0.0.1:7654/?req=r&amp;amp;q=robot+Lesser&amp;amp;r=&amp;amp;svc=2&amp;amp;pg=q&amp;amp;url=http%3a%2f%2fwww%2eaaai%2eorg%2fPress%2fProceedings%2fICMAS%2f1995%2ficmas95%2dcontents%2ehtml)  
+
+        [](http://www-robotics.usc.edu/~maja/publications.html)  
+
+        [Mobile Robot Laboratory On-line Publications](http://127.0.0.1:7654/?req=r&amp;amp;q=robot+%2bArkin+%2bmulti+%2bagent+%2bpublications&amp;amp;r=&amp;amp;svc=2&amp;amp;pg=q&amp;amp;url=http%3a%2f%2fwww%2ecc%2egatech%2eedu%2faimosaic%2frobot%2dlab%2fmrl%2donline%2dpublications%2ehtml)  
+
+        [Self-Organization in Large Populations of Mobile Robots: Review of Litterature](http://127.0.0.1:7654/?req=r&amp;amp;q=%2bmultirobot+%2bevolution&amp;amp;r=&amp;amp;svc=2&amp;amp;pg=q&amp;amp;url=http%3a%2f%2fpecan%2esrv%2ecs%2ecmu%2eedu%2fafs%2fcs%2fuser%2funsal%2fwww%2fthesis%2fthesisch2%2ehtml)  
+
+        [Linux AI &amp;amp; Alife Mini-Howto](http://metalab.unc.edu/LDP/HOWTO/mini/AI-Alife.html#AI)  
+
+        [Lynne Parker's Publications List](http://avalon.epm.ornl.gov/~parkerle/publications/index.html)  
+
+        [Directory of /ai-publications/1000-1499/AITR-1465](ftp://publications.ai.mit.edu/ai-publications/1000-1499/AITR-1465/)  
+
+        [Graduate students who is who in robotics](http://www.sm.luth.se/csee/ra/sm-roa/Robotics/WhoSWho.html)  
+
+        [RoboCup Official Site](http://www.robocup.v.kinotrope.co.jp/02.html)  
+
+        [Beth and Alessio homepage](http://www.essi.fr/~gaspar/alife/AlifersRepertory.html)  
+
+        [Meet AIBO](http://search.sony.co.jp/~backup/www.world.sony.com/robot/get/meet.html)  
+
+    

@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2002-12-17T08:43:00Z
+
+tags:
+- Uncategorized
+title: Winner
+
+wordpress_id: 805
+---
+
+Demonstrating that pink bubbles do have a place on the web, Tommy Hulme wins the stylesheet [competition](http://www.ballofstringtheory.com/article/100). A CD of his choice from [the site](http://www.subsist.org/plink/) will be on its way just in time for Christmas. Thanks again to all who took part. 

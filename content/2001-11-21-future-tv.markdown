@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2001-11-21T16:30:00Z
+
+tags:
+- Uncategorized
+title: Future TV
+
+wordpress_id: 1132
+---
+
+'Today's 11-year-olds, the adult viewers of the future, do not accord BBC1 or Channel 4 any kind of hierarchical place above Nickelodeon or Cartoon Network: for them, they are just another click on the remote.'- An [interesting article](http://media.guardian.co.uk/onthebox/story/0,11208,602988,00.html) from The Guardian about the future of television.

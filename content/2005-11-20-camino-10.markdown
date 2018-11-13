@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2005-11-20T12:19:00Z
+
+tags:
+- Uncategorized
+title: Camino 1.0
+
+wordpress_id: 119
+---
+
+[Camino 1.0 Beta 1](http://www.caminobrowser.org/). Camino is still my favourite Mac browser.

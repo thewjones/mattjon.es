@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2001-12-21T14:27:00Z
+
+tags:
+- Uncategorized
+title: Deep sea
+
+wordpress_id: 1089
+---
+
+You've heard of the [Hammerhead Shark](http://fishnz.co.nz/species.cfm?cat=Sharks&fish=Hammerhead%20shark), but how about the [Battle-axe-head Squid?](http://dailynews.yahoo.com/h/nm/20011220/sc/science_squid_dc_2.html) I find these bizarre deep-sea creatures intriguing; it's the closest we're going to get to having some idea of what extra-terrestrial life may look like. [via [Metafilter](http://www.metafilter.com/)]

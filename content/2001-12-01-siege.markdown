@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2001-12-01T12:53:00Z
+
+tags:
+- Uncategorized
+title: Siege
+
+wordpress_id: 1121
+---
+
+The Guardian has an incredibly detailed [report](http://www.guardian.co.uk/afghanistan/story/0,1284,610058,00.html) about what happened during the prison siege at Mazar-i-Sharif this week. It seems to offer a real glimpse of the horrific events of this war, instead of the watered down and easy-to-swallow propaganda/news we read and watch every day. 

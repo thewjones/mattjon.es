@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2002-06-06T16:11:00Z
+
+tags:
+- Uncategorized
+title: Smooth
+
+wordpress_id: 933
+---
+
+[Silk 1.0](http://www.unsanity.com/haxies/silk/) enables you to use any OS X application with Quartz text rendering turned on. It also means that text is rendered beautifully in the browser of your choice; surely an enhancement which, once installed, you can't do without. This utility requires OS X 10.1.5, so be sure to run Software Update to upgrade your OS. 

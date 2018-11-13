@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2001-12-01T18:06:00Z
+
+tags:
+- Uncategorized
+title: Rhizome
+
+wordpress_id: 1119
+---
+
+[Rhizome](http://www.rhizome.org/fresh/) is a non-profit-making online community space for people who are interested in new media art. They are based in New York and have hit financial trouble as a consequence of the events of September 11th. Please visit the site, take interest and offer a small [donation](http://rhizome.org/support/) to help keep Rhizome going.

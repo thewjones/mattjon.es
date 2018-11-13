@@ -1,0 +1,14 @@
+---
+type: post
+comments: true
+date: 2000-12-04T10:54:00Z
+
+tags:
+- Art
+- Media
+title: ISEA
+
+wordpress_id: 1513
+---
+
+[International Symposium on Electronic Art 2000](http://www.isea2000.com/)

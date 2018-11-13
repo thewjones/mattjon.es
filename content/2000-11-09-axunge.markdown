@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2000-11-09T19:22:00Z
+
+tags:
+- Miscellany
+title: Axunge
+
+wordpress_id: 1547
+---
+
+Word of the week: [axunge](http://www.dictionary.com/cgi-bin/dict.pl?term=axunge)

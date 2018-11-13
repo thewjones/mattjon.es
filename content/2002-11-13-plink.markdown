@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2002-11-13T08:38:00Z
+
+tags:
+- Uncategorized
+title: P(l)ink
+
+wordpress_id: 827
+---
+
+The second entry in the [Plink Stylesheet Competiton](http://www.ballofstringtheory.com/article/100) comes from Tommy Hulme. [This design](http://www.subsist.org/plink/competition/submissions/tommyh.html) has some lovely typography and colour usage; pink, of course! So you think you can do better? Remember that the competitions closing date is the 30th of November, so you haven't got long if you're thinking of entering it. The prize for the winning entry was going to be the recommended album at the time of the closing date, but I've decided to offer the winner the choice of one of the CDs recommended so far. The entries will be available for selection on the [Plink](http://www.subsist.org/plink/) site very soon. 

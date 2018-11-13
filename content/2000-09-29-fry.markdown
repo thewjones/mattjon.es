@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2000-09-29T13:10:00Z
+
+tags:
+- Uncategorized
+title: Fry
+
+wordpress_id: 1594
+---
+
+My [brain](http://www.amazon.co.uk/exec/obidos/ASIN/0140244913/o/qid=970236413/sr=2-1/026-8579935-7226067) is fried.

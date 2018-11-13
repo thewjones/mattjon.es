@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2001-03-09T16:25:00Z
+
+tags:
+- Uncategorized
+title: Scope
+
+wordpress_id: 1352
+---
+
+PC users should download the [Scope](http://cyberian.tripod.com/) browser; it's fast, neat and only a 91k download. It's main 'selling point' is that can render pages using both the [IE](http://www.microsoft.com/windows/ie/default.htm) and [Mozilla](http://www.mozilla.org) [Netscape] engines which can only be a good thing for developers [this can be found in: **Tools** > **Scope options**]. 

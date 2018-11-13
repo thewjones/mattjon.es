@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2001-10-24T08:38:00Z
+
+tags:
+- Uncategorized
+title: iSpend
+
+wordpress_id: 1158
+---
+
+Well, I've had a think about the [iPod](http://www.apple.com/ipod/) and I've read other [peoples](http://makeashorterlink.com/?G50712F1) [thoughts](http://www.macslash.com/articles/01/10/23/1817228.shtml) about it and I agree with the general consensus: it's over-priced. You would have thought that after [The Cube](http://www.apple.com/powermaccube/) debacle, Apple would have learnt their lesson, and it seemed they did when they re-launched the [iBook](http://www.apple.com/ibook/), which - in my opinion - is good value for money. $400 is too much to pay for an mp3 player [ok, so you can store other data on it as well, but this added functionality still doesn't justify the price]. I think the $200  to $250 price mark would have been more like it. So, will the iPod go the same way as The Cube? I hope not.

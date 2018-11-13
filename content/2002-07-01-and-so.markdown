@@ -1,0 +1,19 @@
+---
+type: post
+comments: true
+date: 2002-07-01T06:59:00Z
+
+tags:
+- Uncategorized
+title: And so...
+
+wordpress_id: 917
+---
+
+After almost 2 years of using [Blogger](http://www.blogger.com) to manage this site, I've decided to transfer the role of content management to my own somewhat clunky [PHP](http://www.php.net) / [MySQL](http://www.mysql.com) driven system. I feel as though I'm saying goodbye to an old friend; there's no doubt that Blogger has played an important part in my realisation of what the web is all about. Now I get it. 
+
+
+
+	
+
+There will be a few bugs and inconsistencies here and there as I make the transition so if you find any strange things happening, be sure to let me know. I also need to find a neat way of archiving my posts into monthly html pages using PHP / MySQL, so if anyone can help me out with that, it would be appreciated.

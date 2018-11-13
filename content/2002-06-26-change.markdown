@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2002-06-26T10:52:00Z
+
+tags:
+- Uncategorized
+title: Change
+
+wordpress_id: 922
+---
+
+[Rhizome](http://www.rhizome.org/fresh/), what have you done?

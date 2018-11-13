@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2000-11-20T09:29:00Z
+
+tags:
+- Film
+title: Fuckland
+
+wordpress_id: 1534
+---
+
+Went to see an Argentinian film rather forwardly entitled 'Fuckland' at the [Tyneside](http://www.tynecine.org) last night (as part of the [London Film Festival](http://www.lff.org.uk/)). A detailed review will be here later (I started to write one last night but didn't quite finish it). I would provide a hypertext link to some info on it, but it isn't listed at [IMDb](http://uk.imdb.com) yet and I can't find anything else about it (written in English anyway).

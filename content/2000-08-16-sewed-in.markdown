@@ -1,0 +1,14 @@
+---
+type: post
+comments: true
+date: 2000-08-16T09:00:00Z
+
+tags:
+- Science
+- Uncategorized
+title: Sewed In
+
+wordpress_id: 1609
+---
+
+Clothes equipped with fully integrated computer networks have been designed and developed in a joint venture between clothing company Levi's and electronics company Philips, following three years of intensive research. 

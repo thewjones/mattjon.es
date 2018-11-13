@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2002-10-12T14:55:00Z
+
+tags:
+- Uncategorized
+title: Spacecam
+
+wordpress_id: 843
+---
+
+Instead of pointing it at himself, John Locker points his webcam at [orbiting spacestations](http://www.satcom.freeserve.co.uk/docking.htm). Neat.

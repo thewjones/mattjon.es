@@ -1,0 +1,19 @@
+---
+type: post
+comments: true
+date: 2004-02-05T23:20:00Z
+
+tags:
+- Uncategorized
+title: Basecamp
+
+wordpress_id: 579
+---
+
+[37Signals](http://www.37signals.com/)' new product [Basecamp](http://www.basecamphq.com/) seems to be a very useful project management tool for web developers and such like. With a similar hosting and payment model as [Typepad](http://www.typepad.com), it gives creative companies the means to create a secure online environment between them and client; notifying - in a weblog format - the client about the project's progress, keeping track of key dates along the project timeline and managing to-do lists of tasks to be completed. 
+
+
+
+	
+
+As a freelance developer, I can envisage how something like this could be really useful for both myself and the client and I've been thinking about implementing something similar - a kind of secure client weblog - for a new site I have in the pipeline. Basecamp, with all its excellent features, has made me reconsider whether coding something myself - which would be nowhere near as feature rich - is really worth it.  

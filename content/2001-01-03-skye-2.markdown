@@ -1,0 +1,25 @@
+---
+author:
+  display_name: admin
+  email: mattnjones@gmail.com
+  login: admin
+  url: ""
+author_email: mattnjones@gmail.com
+author_login: admin
+categories:
+- Uncategorized
+comments: []
+date: 2001-01-03T00:00:00Z
+published: true
+status: publish
+tags:
+- Travel
+title: Skye 2
+
+wordpress_id: 1483
+wordpress_url: http://places/skye2
+---
+
+<p>Just got back from spending New Year on the <a href="http://www.skye.co.uk/">Island of Skye</a>. Due to some tricky driving conditions and some poor navigating on my part, it took us a grueling 9 hours to get there, but it was [mostly] worth it. My only disappointment is that we didn&#8217;t see enough of the island, we just didn&#8217;t have enough time. Well actually, there was plenty of time, but we&#8217;re such an unorganised bunch that by the time we&#8217;d faffed around with breakfast, then sat around for a bit&#8230; then finally managed to put our walking boots on, it seemed to go dark (about 2.30pm). We needed someone there to say &#8216;<i>Right. Tomorrow, everyone is going to arise at 9pm, eat breakfast then spend the rest of the day walking</i>&#8217;. Unfortunately for us though, there wasn&#8217;t anyone as organised as this and we ended up doing very little. Although we did &#8211; rather drunkenly &#8211; go sledging down the steep garden at the front of the hostel&#8230; which was fun, it even had a &#8216;jump&#8217; half way down which caused many sore arses. New Years Eve/Day was spent partying all night although I was disappointed that I didn&#8217;t quite make it to watch the sun rise on the dawn of <a href="http://uk.imdb.com/Title?0062622">2001</a>... it was rubbish anyway apparently [very overcast and dreary] :). The return journey was 2 hours quicker than the outward one because we realised that going through <a href="http://www.timeout.com/glasgow/">Glasgow</a> is much faster than going round it&#8230; plus it was great to see the fabulous Highlands of Scotland (which we missed on the outward journey because we travelled through the night). It was a good trip, I just wish we used our time there more effectively. Ne&#8217;ermind. </p>
+<p>Anyway, Happy New Millennium!</p>
+<p></p>

@@ -1,0 +1,37 @@
+---
+type: post
+comments: true
+date: 2004-03-15T17:52:00Z
+
+tags:
+- Uncategorized
+title: Sedna
+
+wordpress_id: 488
+---
+
+Details are emerging of the so-called 10th planet, named Sedna:
+
+
+
+	
+
+
+	
+  * [NASA Press Release](http://www.spitzer.caltech.edu/Media/releases/ssc2004-05/)
+
+		
+  * [Related Media](http://www.spitzer.caltech.edu/Media/releases/ssc2004-05/telecon/)
+	
+	
+    * [An artist's impression](http://ipac.jpl.nasa.gov/media_images/ssc2004-05b_small.jpg)
+
+		
+    * [Comparison with other bodies in the Solar System](http://ipac.jpl.nasa.gov/media_images/ssc2004-05c_medium.jpg)
+
+		
+    * [Its position in the night-sky](http://ipac.jpl.nasa.gov/media_images/ssc2004-05e_small.jpg)   (you may have to squint to see it :) 
+
+	
+
+	

@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2002-07-30T07:40:00Z
+
+tags:
+- Uncategorized
+title: Meta Tags
+
+wordpress_id: 890
+---
+
+It's interesting that web designers put so much reliance on [Description](http://www.submitcorner.com/Guide/Meta/description.shtml) and [Keyword Meta Tags](http://www.submitcorner.com/Guide/Meta/keywords.shtml) when major search engines like [Google](http://www.google.com) don't even use them. This is probably why Google works so well; it only caches the one true indicator of what the site is about: its content. [This site](http://www.submitcorner.com/Guide/SE/google.shtml) has some interesting information on Googles submission and ranking process.

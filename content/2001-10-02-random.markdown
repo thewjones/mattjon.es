@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2001-10-02T11:23:00Z
+
+tags:
+- Uncategorized
+title: Random
+
+wordpress_id: 1175
+---
+
+Global Conciousness has an effect on randomly generated data? [Bizarre findings](http://noosphere.princeton.edu/terror.html) from Princeton University.

@@ -1,0 +1,32 @@
+---
+type: post
+comments: true
+date: 2002-06-14T19:06:00Z
+
+tags:
+- Uncategorized
+title: Wisdom
+
+wordpress_id: 928
+---
+
+<blockquote>  
+
+I've come up with a set of rules that describe our reactions to technologies:
+> 
+> 
+	
+> 
+> 
+		
+>   1. Anything that is in the world when you're born is normal and ordinary and is just a natural part of the way the world works.
+> 
+		
+>   2. Anything that's invented between when you're fifteen and thirty-five is new and exciting and revolutionary and you can probably get a career in it
+> 
+		
+>   3. Anything invented after you're thirty-five is against the natural order of things.
+</blockquote>
+
+
+From '[The Salmon of Doubt](http://www.amazon.co.uk/exec/obidos/ASIN/0333766571/026-6308226-0763608 )', the collection of writings by Douglas Adams.

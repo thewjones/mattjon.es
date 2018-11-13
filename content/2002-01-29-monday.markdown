@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2002-01-29T01:13:00Z
+
+tags:
+- Uncategorized
+title: Monday
+
+wordpress_id: 1052
+---
+
+I can't remember the last time I posted anything on a Monday. I tend to drift through Mondays as I'm waiting for Tuesday to happen.I upgraded to [Blogger Pro](http://pro.blogger.com/) the other day after much debating on whether I need to or not. Then I decided to go ahead as more of a gesture of gratitude than anything else. Anyway, it seems as though I've handed over my $35 only to find that I can't access it. If anyone else has had this problem and has managed to solve it, [let me know](mailto:matt@frownland.com).

@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2001-03-20T17:30:00Z
+
+tags:
+- Uncategorized
+title: 8Edge Intro
+
+wordpress_id: 1336
+---
+
+Nice intro at [8EDGE.COM](http://www.8edge.com/intro.html). Shame the main interface leaves much to be desired. [cheers Sean]

@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2002-05-13T10:51:00Z
+
+tags:
+- Uncategorized
+title: Idealist
+
+wordpress_id: 951
+---
+
+_'The Web Berners-Lee envisioned and forged wasn't really the one that has emerged in recent years. He believed that the Web should be a medium for writing, not just reading, a medium for robust collaboration.'_- [Dan Gillmor](http://www.siliconvalley.com/mld/siliconvalley/3245274.htm )

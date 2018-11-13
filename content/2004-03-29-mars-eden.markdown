@@ -1,0 +1,19 @@
+---
+type: post
+comments: true
+date: 2004-03-29T09:10:00Z
+
+tags:
+- Uncategorized
+title: Mars Eden
+
+wordpress_id: 465
+---
+
+The Guardian has a piece on [How Nasa looks to change Mars into a garden of Earthly delights](http://www.guardian.co.uk/life/news/story/0,12976,1179710,00.html?=rss)  - probably at the behest of Bush; they must have discovered 'Texas Tea'. 
+
+
+
+	
+
+Only a certain percentage of the planet's population experience these 'Earthly delights'; wouldn't it be better to terraform a few [countries](http://news.bbc.co.uk/1/hi/world/africa/2027079.stm) in Africa first?

@@ -1,0 +1,16 @@
+---
+type: post
+comments: true
+date: 2006-01-11T16:55:00Z
+post_format:
+- Link
+
+tags:
+- Apple
+- Links
+title: Yesterday Apple’s share price closed at $80.86
+
+wordpress_id: 106
+---
+
+The 8086 was Intel’s first 16bit x86 processor.

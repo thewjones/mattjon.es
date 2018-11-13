@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2002-04-29T11:12:00Z
+
+tags:
+- Uncategorized
+title: eMac
+
+wordpress_id: 960
+---
+
+I'm a little confused by Apples decision to release their new 'education only' computer, the [eMac](http://www.apple.com/education/emac/); isn't the [iMac](http://www.apple.com/imac/) supposed to be **the** home-user / education machine ? It seems as though Apple have realised that the iMac is too expensive for schools to buy in bulk, especially since they added $100 to the price tag. Even more confusing is the inclusion of the 17 CRT display; I thought Apple were dropping the good old [Cathode Ray Tube](http://www.howstuffworks.com/tv2.htm) in favour of LCD technology. Furthermore, the eMac now has a larger monitor than the iMac, which indicates that there may be a new 17inch iMac on the way. Overall, a backward step I think. 

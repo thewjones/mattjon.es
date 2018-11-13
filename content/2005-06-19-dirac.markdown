@@ -1,0 +1,15 @@
+---
+type: post
+comments: true
+date: 2005-06-19T13:37:00Z
+
+tags:
+- Uncategorized
+title: Dirac
+
+wordpress_id: 172
+---
+
+[Dirac is the BBC's open source video codec to be launched later in 2005](http://dirac.sourceforge.net/overview.html)  
+
+I presume they'll be using the codec's audio layer for BBC Radio on Demand. No more RealPlayer and WMP.

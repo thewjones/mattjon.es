@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2001-08-28T11:50:00Z
+
+tags:
+- Uncategorized
+title: Exploder 6
+
+wordpress_id: 1194
+---
+
+Just when you thought the web was on its way to [reaching its full potential](http://www.w3.org/), along comes [Internet Explorer 6](http://www.microsoft.com/windows/ie/default.htm). Unless I'm mistaken, IE6 still implements the [CSS box model](http://www.w3.org/TR/REC-CSS2/box.html) incorrectly [Addendum: I'm mistaken, IE6 **does** implement the CSS box model correctly, it just doesn't do CSS Level 2 trickery], and because of their new [auto image resize](http://www.microsoft.com/windows/ie/evaluation/overview/flexible.asp), my technique of using 100% widths for images on this page seems to fail. [Smart tags](http://www.glassdog.com/smarttags/) threatened to take control away from the designer and insert links into web sites without authority. The auto image resize feature is really an extension of this; surely it is up to the designer to create fluid websites which scale properly when the window is resized. Microsoft are selling the browser on 'cool' features such as this… unfortunately, they hinder the designer trying to innovate as well as design for standards compliance. What puzzles me is this: if Microsoft could create an excellent standards compliant browser **2 years ago** with [IE5 Macintosh Edition](http://www.microsoft.com/mac/products/ie/ie_default.asp), why are they struggling to do the same now with IE6? Something is afoot. So, instead of downloading the latest version of Explorer, I **urge** you to download [Mozilla](http://www.mozilla.org), [Opera](http://www.opera.com) or [iCab](http://www.icab.de) instead. Change your default browser and stop Microsoft further taking control of the web.

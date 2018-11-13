@@ -1,0 +1,76 @@
+---
+type: post
+comments: true
+date: 2003-07-11T14:56:00Z
+
+tags:
+- Uncategorized
+title: Hash
+
+wordpress_id: 702
+---
+
+What is the name of this symbol: # ? It's a hash symbol right? Well maybe, but it's also a(n): 
+
+
+
+	
+
+  
+
+
+  * [octothorpe](http://dictionary.reference.com/search?q=octothorpe)
+  
+
+
+  * octothorp
+  
+
+
+  * octalthorpe
+  
+
+
+  * octothorn
+
+
+              
+  * number
+
+             
+  * comment sign
+  
+
+
+  * crosshatch
+
+                
+  * crunch
+
+             
+  * fence
+
+              
+  * hex
+
+                
+  * pig pen
+
+            
+  * pound (as in weight)
+
+               
+  * sharp
+
+              
+  * square
+
+             
+  * tic-tac-toe
+
+                
+  * sulamit
+
+    
+
+   Sources: [Splorp](http://www.splorp.com/blog/archive/2003_07_01_archive.html#105779248303344359), [Wikipedia](http://www.wikipedia.org/wiki/Number_sign).

@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2001-12-04T18:44:00Z
+
+tags:
+- Uncategorized
+title: 3D for X
+
+wordpress_id: 1113
+---
+
+[Blender Creator](http://www.blender3d.com) is an open source 3D modelling and animation application [available for OS X](http://makeashorterlink.com/?R5D22153). Its user interface is well documented as being extremely baffling at first, but quite intuitive once you get to grips with it. It's originally a [Linux](http://www.linux.org/) app so don't expect it to have the look and feel of [Aqua](http://www.apple.com/macosx/whatyoucando/finder.html).

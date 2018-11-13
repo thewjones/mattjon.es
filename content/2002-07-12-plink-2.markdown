@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2002-07-12T07:49:00Z
+
+tags:
+- Uncategorized
+title: Plink?
+
+wordpress_id: 903
+---
+
+[Plink](http://www.subsist.org/plink/) is a new little project of mine. It's simple really: a collective of music lovers recommends albums by adding them to a weblog. The information is also stored as an [RSS feed](http://www.subsist.org/plink/rss.php) which can be added to your favourite news aggregator or can be added to your own site using an XML parsing script [[here's an example](misc/plink.php)]. More details about aggregators and scripts will be added to the site when I get chance. In the meantime, be sure to [check out](http://www.subsist.org/plink/) the recommendations, it's all good stuff.

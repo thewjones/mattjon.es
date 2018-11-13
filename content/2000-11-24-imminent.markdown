@@ -1,0 +1,14 @@
+---
+type: post
+comments: true
+date: 2000-11-24T09:46:00Z
+
+tags:
+- Development
+- Media
+title: Imminent
+
+wordpress_id: 1526
+---
+
+Redesign imminent. "Less is more" - [Ludwig Mies van der Rohe](http://www.britannica.com/bcom/eb/article/2/0,5716,53912+1+52600,00.html)

@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2002-09-24T12:44:00Z
+
+tags:
+- Uncategorized
+title: Vertigo?
+
+wordpress_id: 856
+---
+
+![vertigo?](http://www.ballofstringtheory.com/images/block.jpg)

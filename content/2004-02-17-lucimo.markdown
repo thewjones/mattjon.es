@@ -1,0 +1,25 @@
+---
+type: post
+comments: true
+date: 2004-02-17T19:54:00Z
+
+tags:
+- Uncategorized
+title: Lucimo
+
+wordpress_id: 554
+---
+
+Over at [t-melt](http://www.t-melt.com), we were [discussing](http://www.t-melt.com/?p=blogger/2004_02_01_archive.html#107695436133183945) how Honda's [Asimo](http://world.honda.com/robot/) displays incredible use of technology with its ability to move like a human, but shows little sign of intelligence. Steve Grand's [Lucy](http://www.cyberlife-research.com/about/), on the other hand, displays advances in artificial intelligence but is pretty far off from being able to dance around at a motor show (ok, so it's supposed to be an Orang-Utan). Anyway, I suggested that the next step would be to marry the technologies to create an intelligent humanoid robot: 
+
+
+
+	
+
+![Lucimo](/images/lucimo.jpg)
+
+
+
+	
+
+... perhaps not

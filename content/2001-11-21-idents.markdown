@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2001-11-21T17:06:00Z
+
+tags:
+- Uncategorized
+title: Idents
+
+wordpress_id: 1131
+---
+
+I agree with the person who published [this page](http://www.users.nascr.net/~rgwill/bbc2a.htm) about the new BBC2 idents; they're gaudy, unrefined and they'll soon look dated. 

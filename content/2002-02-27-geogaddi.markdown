@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2002-02-27T16:53:00Z
+
+tags:
+- Uncategorized
+title: Geogaddi
+
+wordpress_id: 1014
+---
+
+I always think follow-up albums should try and do something new and with last years release of the '[In a Beautiful Place…](http://www.amazon.co.uk/exec/obidos/ASIN/B0000509H9/o/qid=1014828725/sr=2-4/ref=sr_bt_4/026-8648497-6269259)' single, there were indications that [Boards of Canada's](http://www.boardsofcanada.com/) follow-up to '[Music Has The Right to Children](http://www.amazon.co.uk/exec/obidos/ASIN/B000024CAH/o/qid=1014828725/sr=2-3/ref=sr_bt_3/026-8648497-6269259)' was going achieve this. I like their [new album](http://www.amazon.co.uk/exec/obidos/ASIN/B00005Y0Q3/o/qid=1014828485/sr=8-1/ref=sr_aps_pm_1_1/026-8648497-6269259), but only because it is more of the same.Signal vs Noise > [What makes us human?](http://www.37signals.com/svn/comment.php?postID=189&9)

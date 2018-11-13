@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2001-03-20T13:21:00Z
+
+tags:
+- Uncategorized
+title: Stunt
+
+wordpress_id: 1337
+---
+
+Another **hilarious** [publicity stunt](http://www.businesswire.com/cgi-bin/f_headline.cgi?bw.031901/210780892&ticker=YUM)  ::: I hate this kind of [generalisation](http://www.observer.co.uk/uk_news/story/0,6903,458716,00.html); this way of describing entire nations of people with one sentence is partly responsible for the level of racism and nationalism that inflicts the human race. 

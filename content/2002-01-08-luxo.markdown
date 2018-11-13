@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2002-01-08T09:43:00Z
+
+tags:
+- Uncategorized
+title: Luxo
+
+wordpress_id: 1076
+---
+
+The [new iMac](http://www.apple.com/imac/) is growing on me; it's a radical design solution as well as being an obvious one, which is kind of weird. However, Steve Jobs' keynote fell short on delivering the ground-breaking products the mac community were expecting. Apple were hyping it up like crazy and it seems that everyone - including me - fell for it. [iPhoto](http://www.apple.com/iphoto) seems very useful though; an app designed to take away the 'chain of pain' of capturing and organising digital images. 

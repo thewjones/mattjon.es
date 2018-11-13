@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2002-11-26T15:13:00Z
+
+tags:
+- Uncategorized
+title: The Necks
+
+wordpress_id: 818
+---
+
+_'We don't know what they're about to play, and the beauty of it is, neither do they.'_ [Listen to a live performance](http://www.bbc.co.uk/radio/aod/radio3_aod.shtml?mixingit) by [The Necks](http://www.thenecks.com/) on this weeks [Mixing It](http://www.bbc.co.uk/radio3/world/mixingit.shtml). Requires the [RealOne Player](http://www.real.com).

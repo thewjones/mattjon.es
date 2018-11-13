@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2001-02-15T21:21:00Z
+
+tags:
+- Uncategorized
+title: Airboard
+
+wordpress_id: 1384
+---
+
+[Airboard](http://www.howstuffworks.com/hoverboard.htm) - the world's first commercial hoverboard scooter.

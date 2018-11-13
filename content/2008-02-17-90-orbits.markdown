@@ -1,0 +1,17 @@
+---
+type: post
+comments: true
+date: 2008-02-17T10:17:00Z
+post_format:
+- Link
+
+tags:
+- Science
+- Space
+- Technology
+title: 90 Orbits
+
+wordpress_id: 3
+---
+
+[Arthur C. Clarke reflects on 90 orbits around the Sun.](http://www.youtube.com/watch?v=3qLdeEjdbWE) I was quite moved by this.

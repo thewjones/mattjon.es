@@ -1,0 +1,25 @@
+---
+type: post
+comments: true
+date: 2003-11-19T13:31:00Z
+
+tags:
+- Uncategorized
+title: Fad
+
+wordpress_id: 631
+---
+
+<blockquote>
+		
+> 
+> WAP is the sound a clunky Internet-enabled cellphone makes when you throw it at a brick wall in frustration.
+> 
+> 
+	</blockquote>
+
+
+
+	
+
+[Kuro5hin > Top 10 Internet Fads](http://www.kuro5hin.org/story/2003/11/14/173126/56)

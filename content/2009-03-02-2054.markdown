@@ -1,0 +1,14 @@
+---
+type: post
+comments: true
+date: 2009-03-02T15:49:09Z
+
+tags:
+- Graphics
+- Media
+title: Kinoautomat Posters
+
+wordpress_id: 2054
+---
+
+![kinoautomat](http://local.wordpress/wp-content/uploads/2009/03/kinoautomat.jpg)[Kinoautomat](http://www.mediaartnet.org/works/kinoautomat/) (1967), the first interactive film. Tyneside Cinema, 5 March 8pm.

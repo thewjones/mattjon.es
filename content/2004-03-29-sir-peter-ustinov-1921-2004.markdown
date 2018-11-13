@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2004-03-29T13:02:00Z
+
+tags:
+- Uncategorized
+title: Sir Peter Ustinov 1921 - 2004
+
+wordpress_id: 464
+---
+
+[Sir Peter Ustinov 1921 - 2004](http://news.bbc.co.uk/1/hi/entertainment/film/3578415.stm)

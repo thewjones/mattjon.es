@@ -1,0 +1,14 @@
+---
+type: post
+comments: true
+date: 2000-11-02T15:58:00Z
+
+tags:
+- Miscellany
+- Uncategorized
+title: Point
+
+wordpress_id: 1554
+---
+
+So what's the point in [this](http://jakob.uszkoreit.net/_projects/dot/) then? 

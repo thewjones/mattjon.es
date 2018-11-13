@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2002-06-03T11:49:00Z
+
+tags:
+- Uncategorized
+title: RSS Feeds
+
+wordpress_id: 936
+---
+
+Like a passing train that you should be on, does it seems to you that the latest phase in the development of personal web publishing is passing you by? If, like me, you're slightly confused about what RDF Site Summary (RSS) is, here's [an introduction](http://www-106.ibm.com/developerworks/library/w-rss.html) that is worth reading. Update: Here's a more up-to-date article at [webreference.com](http://www.webreference.com/authoring/languages/xml/rss/intro/)

@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2001-11-15T16:19:00Z
+
+tags:
+- Uncategorized
+title: Live
+
+wordpress_id: 1138
+---
+
+I've been playing around with the webcam functionality of my [key-ring camera](http://www.digitaldreamco.com/shop/espion.htm), so, for a short time only, here are some [live images](http://www.ballofstringtheory.com/images/webcam.jpg).

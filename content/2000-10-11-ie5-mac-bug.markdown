@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2000-10-11T16:05:00Z
+
+tags:
+- Uncategorized
+title: IE5 Mac Bug
+
+wordpress_id: 1579
+---
+
+If anyone knows anything about an apparent bug in [IE5 for Mac](http://www.microsoft.com/mac/products/ie/) that makes some of the links below fail to respond, please tell me about it because it's pissing me right off. I don't know whether it's a problem with my system configuration or what, although I've tested it with different browsers on a PC and it works fine. Any ideas? 

@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2000-09-16T16:50:00Z
+
+tags:
+- Uncategorized
+title: Under
+
+wordpress_id: 1604
+---
+
+This site is still very much 'under construction', I know isn't particularly cross-browser compatible yet… but it will be soon. It will also have loads more stuff on it (graphics, images etc), just as soon as I get round to it. The links aren't the right colour yet… and i'm not even sure about the back ground colour. 

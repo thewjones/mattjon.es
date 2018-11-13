@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2002-04-03T19:40:00Z
+
+tags:
+- Uncategorized
+title: Exponent
+
+wordpress_id: 982
+---
+
+[Will a computer pass the Turing test by 2029?](http://www.wired.com/wired/archive/10.05/longbets.html?pg=5) Of course it will.

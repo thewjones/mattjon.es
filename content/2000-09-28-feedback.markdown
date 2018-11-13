@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2000-09-28T10:30:00Z
+
+tags:
+- Uncategorized
+title: Feedback
+
+wordpress_id: 1597
+---
+
+Wahay… only been online for a day or 2 and already I'm getting some feedback. Cheers to Rik at [mememachine](http://www.mememachine.net/) for linking to this site. There's also been mention of a Brit-blog webring type thing… which i'm definitely willing to partake in.

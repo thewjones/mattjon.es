@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2001-05-18T07:38:00Z
+
+tags:
+- Uncategorized
+title: Genius
+
+wordpress_id: 1268
+---
+
+This is slightly old news now, but [this](http://news.bbc.co.uk/hi/english/sci/tech/newsid_1264000/1264205.stm) is absolute genius.

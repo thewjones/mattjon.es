@@ -1,0 +1,28 @@
+---
+type: post
+comments: true
+date: 2002-06-18T11:42:00Z
+
+tags:
+- Uncategorized
+title: Shorts
+
+wordpress_id: 926
+---
+
+The Royal National Institute for the Blind [[RNIB](http://www.rnib.org.uk/)] has [questioned Macromedia's claims](http://www.theregister.co.uk/content/6/25767.html) that [Flash MX](http://www.macromedia.com/flash) can be used to design sites that are accessible to those who are blind.
+  
+
+
+  
+
+  [AIlog](http://www.subsist.org/ailog/) is now available as an [RSS feed](http://www.subsist.org/ailog/rss.php). RSS rules.
+  
+
+
+  
+
+        [Designing on both sides of your brain](http://www.uiweb.com/issues/issue21.htm). Are you rational or creative? I like to think I'm both.
+  
+
+

@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2002-04-26T07:51:00Z
+
+tags:
+- Uncategorized
+title: DWM
+
+wordpress_id: 961
+---
+
+There's some interesting content in this weeks [Digital Web Magazine](http://www.digital-web.com), including a [ feature on accessible web design](http://www.digital-web.com/features/feature_2002-04.shtml), a [tutorial on Scalable Vector Graphics](http://www.digital-web.com/tutorials/tutorial_2002-04.shtml) and an [interview with Adam Greenfield](http://www.digital-web.com/interviews/feature_2002-04.shtml). For those [Mac OS X](http://www.apple.com/macosx/) users who like to watch windows minimize with the scale and genie effects - an activity closely related to appreciating a smooth CD drawer or the clunk of an expensive car door - there's another scale effect Apple don't tell us about. Opening a Terminal window and typing 'defaults write com.apple.Dock mineffect suck' will alter the effect so that windows appear to be sucked into the dock like a vacuum cleaner cranked to 'Turbo'. 

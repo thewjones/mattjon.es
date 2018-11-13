@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2000-11-10T12:25:00Z
+
+tags:
+- Miscellany
+title: Byssus
+
+wordpress_id: 1546
+---
+
+Definition of the week: byssus, n. filamentous tuft ("beard") by which [molluscs](http://www.austmus.gov.au/science/division/invert/mal/) attach themselves. 

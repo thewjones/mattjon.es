@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2009-02-28T23:41:22Z
+
+tags:
+- Uncategorized
+title: Chairs
+
+wordpress_id: 2013
+---
+
+![](http://farm4.static.flickr.com/3404/3311310435_f994d46be4.jpg?v=0)

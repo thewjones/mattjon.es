@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2003-05-19T07:13:00Z
+
+tags:
+- Uncategorized
+title: Bicker
+
+wordpress_id: 728
+---
+
+I don't know about anyone else, but I find watching grown-up journalists [bicker](http://www.tecknik.net/blogback/data/bb.php?blog=3200948&post=200307348) about the merits (or lack thereof) of weblogs to be lunchtime reading of the highest order. Read the original Onlineblog post  [here.](http://www.onlineblog.com/archives/2003_05_18_onlineblog_archive.html#200307348)

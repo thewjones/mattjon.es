@@ -1,0 +1,31 @@
+---
+type: post
+comments: true
+date: 2004-08-12T22:18:00Z
+
+tags:
+- Uncategorized
+title: Where I Am
+
+wordpress_id: 298
+---
+
+Unfortunately not in Barbados or other such destination to which I might want to get away from the heavy clouds currently looming over the [British Isles](http://en.wikipedia.org/wiki/British_Isles). 
+
+
+
+	
+
+The [Tyne Tunnel](http://www.newcastle.gov.uk/tunnel/cam1.htm), usually clogged with motorists on their daily commute, is running noticably free at the moment. To think of all those people I regularly share a traffic jam with, relaxing somewhere more pleasant; there can't be many places on Earth more inhospitable than the Tunnel.
+
+
+
+	
+
+The reason I have to pass under the [Tyne](http://en.wikipedia.org/wiki/River_Tyne%2C_England) every day is because for the last three months, I've been busy working on a contract at [Durham University](http://www.dur.ac.uk/). Specifically, I'm helping to build a web-based application for Durham Business School as well as designing them a new public site. Thankfully, both the client and the team I'm working with are keen on working with [web standards](http://www.webstandards.org) and to make life even easier, especially when building the web-app for internal use, the whole university seems to be using a recent version of [Mozilla](http://www.mozilla.org). How refreshing.  
+
+
+
+	
+
+Much that I'm enjoying this contract at [Durham](http://en.wikipedia.org/wiki/Durham) (it's a very pleasant city in which to work), it does seem to be hogging all of my motivation at the moment, which is something I'm trying to rectify. So in the meantime bear with me, normal service will resume.

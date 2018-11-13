@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2004-02-21T10:05:00Z
+
+tags:
+- Uncategorized
+title: MozCC
+
+wordpress_id: 546
+---
+
+[MozCC - a Mozilla/Firefox extension for viewing Creative Commons License details for a site](http://www.yergler.net/projects/mozcc/)

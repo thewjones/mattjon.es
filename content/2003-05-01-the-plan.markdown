@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2003-05-01T03:48:00Z
+
+tags:
+- Uncategorized
+title: The Plan
+
+wordpress_id: 739
+---
+
+I'm in the process of writing a business plan for a web related venture I'm hoping to set up. I have basic knowledge of how to go about this thanks to a short business course I went on, but if anyone has any experience of this, a few tips would be very welcome.

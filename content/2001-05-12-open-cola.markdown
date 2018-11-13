@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2001-05-12T09:40:00Z
+
+tags:
+- Uncategorized
+title: Open Cola
+
+wordpress_id: 1277
+---
+
+[OpenCola.com](http://www.opencola.com/products/3_softdrink/formula.shtml) - I didn't realise that making your own cola is so life threatening.   [via [Haddock](http://www.haddock.org)] ::. The [AI~log](http://www.subsist.org/ailog/) project is on hold while I sort out the design… should be there soon. 

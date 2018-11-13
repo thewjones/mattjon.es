@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2002-10-29T04:37:00Z
+
+tags:
+- Uncategorized
+title: Refer
+
+wordpress_id: 835
+---
+
+There are a few scripts that log site referrers around now, but none are as easy to implement as Dean Allen's [Refer](http://www.textism.com/tools/refer/). Here it is [in action](http://www.ballofstringtheory.com/refer/).

@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2006-01-06T12:57:00Z
+
+tags:
+- Uncategorized
+title: Satugo
+
+wordpress_id: 111
+---
+
+The [Satugo](http://www.satugo.com/) throwable camera is a great idea and an interesting piece of product design. Simply put, it's a rubber ball with a digital camera inside which either operates off a self-timer or a [LOMOesque](http://shop.lomography.com/shop/main.php?cat=Lomographic%20Cameras&pro=sss) pull string. Neat idea, but I can't imagine you'll get anything other than blurred pictures as the ball whizzes through the air when the shutter fires. Then there's the risk of Fido catching it in mid-air and chewing it to bits. 

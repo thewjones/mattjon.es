@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2002-01-09T13:32:00Z
+
+tags:
+- Uncategorized
+title: Oops
+
+wordpress_id: 1072
+---
+
+For so long, I've been testing this site in [IE5.1](http://www.microsoft.com/mac/products/ie/ie_default.asp?navindex=s7) for OS X not thinking that I should check it in IE5.0 / Classic. I assumed there would be no difference in the way the two browsers rendered the page. I assumed wrongly; why did nobody tell me this site ballsed up in IE5, a **MAC** browser! I think I've fixed the problem; it seems that IE5 is more sensitive about how  are ordered in the HTML. Anyway, I'm off to bury my head in the sand. 

@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2001-11-12T15:45:00Z
+
+tags:
+- Uncategorized
+title: More loss
+
+wordpress_id: 1141
+---
+
+[Another plane has crashed in NYC](http://robots.cnn.com/2001/US/11/12/newyork.crash/index.html). Terrorist attack or tragic accident? No-one knows as yet, but whatever the cause, people will no doubt point the finger at Bin Laden and his terrorist network. What is more important to consider is the further loss of human life… when will it end?

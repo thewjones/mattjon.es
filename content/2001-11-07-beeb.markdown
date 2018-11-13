@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2001-11-07T10:17:00Z
+
+tags:
+- Uncategorized
+title: Beeb
+
+wordpress_id: 1147
+---
+
+[BBC Online](http://www.bbc.co.uk/) has changed its name to [BBCi](http://www.bbc.co.uk/home/whatisbbci/) and has gone all greyscale on us. I'm just wondering if there will be another site called [BBCii](http://www.htw.ndirect.co.uk/bbc2.html) which will contain more of the arts, education, hobbies etc..

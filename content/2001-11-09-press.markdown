@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2001-11-09T19:10:00Z
+
+tags:
+- Uncategorized
+title: Press
+
+wordpress_id: 1143
+---
+
+A brilliantly informative piece on British news media at [plasticbag.org](http://www.plasticbag.org/2001_11_04_secret_archive.shtml#6989689).

@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2001-09-05T12:02:00Z
+
+tags:
+- Uncategorized
+title: Links etc.
+
+wordpress_id: 1189
+---
+
+Sometimes I wish I lived and worked in London… and sometimes I'm glad that I don't: [The Big Ring](http://www.virginmobile.com/mobile/thebigring/) : : : Not happy with your content management system? Then build your own and give it to the masses… [extreme cleverness](http://www.movabletype.org/) courtesy of [dollarshort.org](http://www.dollarshort.org). : : : I'm not sure whether [this](http://news.bbc.co.uk/hi/english/entertainment/new_media/newsid_1525000/1525153.stm) is a good idea for a video game. : : : Why couldn't they have [invented this](http://news.bbc.co.uk/hi/english/health/newsid_1523000/1523686.stm) 12 years ago?

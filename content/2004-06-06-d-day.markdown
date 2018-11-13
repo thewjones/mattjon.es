@@ -1,0 +1,15 @@
+---
+type: post
+comments: true
+date: 2004-06-06T09:29:00Z
+
+tags:
+- Uncategorized
+title: D-Day
+
+wordpress_id: 357
+---
+
+![D-Day](/images/d.png)  
+
+[D-Day](http://en.wikipedia.org/wiki/Normandy_Landings)

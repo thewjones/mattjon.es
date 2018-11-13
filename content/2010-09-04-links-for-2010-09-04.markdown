@@ -1,0 +1,56 @@
+---
+type: post
+comments: false
+date: 2010-09-04T08:03:00Z
+
+tags:
+- Links
+title: links for 2010-09-04
+
+wordpress_id: 4367
+---
+
+* 
+                
+
+[Swarmation :: The Pixel Formation Game](http://swarmation.com/)
+
+
+
+
+            
+  * 
+                
+
+[Steve Jobs introduces the 'Think Different' campaign in 1997](http://kottke.org/10/09/think-different)
+
+
+
+
+            
+  * 
+                
+
+[Death in Space - Boing Boing](http://boingboing.net/2010/09/02/death-in-space.html)
+
+
+
+                
+
+(tags: [space](http://delicious.com/matthewjones/space) [ethics](http://delicious.com/matthewjones/ethics))
+
+
+            
+  * 
+                
+
+[Photography with Open Source / Linux | Worldlabel Blog](http://blog.worldlabel.com/2010/photography-with-open-source-linux.html)
+
+
+
+                
+
+(tags: [photography](http://delicious.com/matthewjones/photography) [linux](http://delicious.com/matthewjones/linux))
+
+
+            

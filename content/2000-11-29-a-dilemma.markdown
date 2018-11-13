@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2000-11-29T17:17:00Z
+
+tags:
+- Music
+title: A Dilemma
+
+wordpress_id: 1516
+---
+
+Dilemma: Buy [this](http://www.amazon.co.uk/exec/obidos/ASIN/B00004ZBVW/qid=975517546/sr=1-1/026-5228695-8161267) now, or put it on my christmas list. Tough one. 

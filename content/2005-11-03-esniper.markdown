@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2005-11-03T14:07:00Z
+
+tags:
+- Uncategorized
+title: esniper
+
+wordpress_id: 130
+---
+
+[esniper](http://esniper.sourceforge.net/) is a handy Perl script that automatically [snipes](http://www.moyen.org/snipe/) ebay auctions for you. I've used it a few times and it works a treat. Should 'just work' on Mac and Linux.

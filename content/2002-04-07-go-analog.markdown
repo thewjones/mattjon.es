@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2002-04-07T08:40:00Z
+
+tags:
+- Uncategorized
+title: Go Analog
+
+wordpress_id: 980
+---
+
+I'm honoured to be this weeks [guest curator](http://www.mirrorproject.com/galleries/) at [mirrorproject.com](http://www.mirrorproject.com/).

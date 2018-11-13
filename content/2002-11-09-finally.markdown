@@ -1,0 +1,17 @@
+---
+type: post
+comments: true
+date: 2002-11-09T13:58:00Z
+
+tags:
+- Uncategorized
+title: Finally...
+
+wordpress_id: 829
+---
+
+[Drew Mclellen](http://dreamweaverfever.com/) nearly had kittens when he discovered a method of embedding [Flash](http://www.macromedia.com/flash) movies into web pages while maintaining the mark-up's validity. He explains all in this weeks [A List Apart](http://www.alistapart.com/stories/flashsatay/).  
+
+It's probably worth pointing out that validity doesn't necessarily mean accessibility; there's nothing to stop someone designing a monstrous flash based site only to stick it between some validating HTML tags and claiming web design excellence.   
+
+I'm sure that this discovery will please many web designers using Flash who are also conscious of web standards. But I think it's going to take much more work on the part of [Macromedia](http://www.macromedia.com), [W3C](http://www.w3.org) and the browser manufacturers before we have a proper solution to the Flash accessibility problem.

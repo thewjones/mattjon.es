@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2002-01-14T16:16:00Z
+
+tags:
+- Uncategorized
+title: The Spy
+
+wordpress_id: 1069
+---
+
+A [collection of images](http://www.scrozier.pwp.blueyonder.co.uk/) taken using the excellent Digital Dream [L'espion](http://www.digitaldreamco.com/shop/espion.htm) camera. These pictures demonstrate how well a camera the size of a box of matches can make exposures. 

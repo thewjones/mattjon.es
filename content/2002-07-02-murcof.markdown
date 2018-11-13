@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2002-07-02T07:22:00Z
+
+tags:
+- Uncategorized
+title: Murcof
+
+wordpress_id: 915
+---
+
+My music buying frenzy continues with Murcof's debut album [Martes](http://www.posteverything.com/artists/release.php?id=1769) which can only be described as minimal electronic music a la [Morton Feldman](http://www.cnvill.demon.co.uk/mfhome.htm); here's [a review](http://www.bbc.co.uk/music/experimental/reviews/murcof_martes.shtml).

@@ -1,0 +1,21 @@
+---
+type: post
+comments: true
+date: 2001-01-16T17:06:00Z
+
+tags:
+- Technology
+title: It/Ginger
+
+wordpress_id: 1440
+---
+
+[It / Ginger](http://news.cnet.com/news/0-1007-200-4424716.html?tag=st.ne.1007.thed.ni) is [finally revealed](http://www.modernhumorist.com/mh/0101/ginger/).  
+
+  
+
+   
+
+  
+
+Read an opinion on the whole phenomenon at [v-2.org](http://www.v-2.org/it.html).

@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2001-04-23T21:54:00Z
+
+tags:
+- Uncategorized
+title: E-Paper
+
+wordpress_id: 1288
+---
+
+[BBC News | SCI/TECH | E-paper moves a step nearer](http://news.bbc.co.uk/hi/english/sci/tech/newsid_1292000/1292852.stm)

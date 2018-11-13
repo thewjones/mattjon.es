@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2001-01-13T19:33:00Z
+
+tags:
+- Music
+title: Music
+
+wordpress_id: 1449
+---
+
+Recent musical purchases: Cinematic Orchestra's [Remixes](http://www.amazon.co.uk/exec/obidos/ASIN/B00004YU15/ref=cm_mp_wl/202-2979811-9113401?colid=36JB10C9FXK9R) album [check out their [website](http://www.cinematicorchestra.com)], and Squarepusher's [Budakhan Mindphone](http://www.amazon.co.uk/exec/obidos/ASIN/B00004WULZ/qid=979414345/sr=1-4/202-2979811-9113401) [both on vinyl in an attempt to make my record collection into more that just a load of old charity shop records]

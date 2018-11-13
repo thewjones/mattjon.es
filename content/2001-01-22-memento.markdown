@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2001-01-22T10:36:00Z
+
+tags:
+- Film
+title: Memento
+
+wordpress_id: 1428
+---
+
+Finally got round to seeing [Memento](http://www.otnemem.com/) at the weekend. It's one of those films that leaves you slightly disturbed for reasons you can't quite pinpoint. The plot unfolds ingeniously though… I did attempt to work it all out but I gave up after a few minutes because my brain was beginning to hurt. If anyone has read any worthwhile interpretations, I'd be glad if you could [email](mailto:matt@frownland.com) a few URLs.

@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2001-03-20T12:19:00Z
+
+tags:
+- Uncategorized
+title: Triumph 2000 Mk1
+
+wordpress_id: 1338
+---
+
+Ever wondered what the car in the new [Levi's](http://www.levi.com) Ad is? Well it's a [Triumph 2000 Mk1](http://www.mk1t2000.co.uk/).

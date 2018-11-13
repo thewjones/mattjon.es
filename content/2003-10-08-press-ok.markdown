@@ -1,0 +1,31 @@
+---
+type: post
+comments: true
+date: 2003-10-08T21:16:00Z
+
+tags:
+- Uncategorized
+title: Press OK
+
+wordpress_id: 648
+---
+
+[WaSP demonstrate the depressing consequences of the Eolas ruling on Internet Explorer](http://www.webstandards.org/buzz/archive/2003_10.html#a000215) - every time the browser sees an ActiveX object, it will pop up a dialog instructing the user to continue loading the page. 
+
+
+
+	
+
+Eolas/Microsoft: Bringing the Web to its Full Potential:
+
+
+
+	
+
+![Active Content Prompt](http://www.ballofstringtheory.com/images/SS_ActiveContentPrompt.jpg)
+
+
+
+	
+
+[As Phil points out](http://www.xlab.co.uk/read/398), there are workarounds to this, but with the vast time and money needed to 'fix' existing sites, web users are going to be plagued by these pointless dialogs for ever more. Unless of course, they [upgrade to a better browser](http://giantfightingrobots.com/betterbrowser.html).

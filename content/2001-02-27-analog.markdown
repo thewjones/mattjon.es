@@ -1,0 +1,14 @@
+---
+type: post
+comments: true
+date: 2001-02-27T17:45:00Z
+
+tags:
+- Photography
+- Technology
+title: Analog
+
+wordpress_id: 1370
+---
+
+Despite the falling price of decent digital cameras, analog photography on the web is still going strong. The sharpness and colour accuracy of transparency film is unbeatable [by current consumer digital cameras], especially if you take pictures with a medium format camera like [Joshua Dunford](http://www.joshuadunford.com/photographics.html) [if you're lucky, you can pick up a second-hand one of these pretty cheaply - my [C330](http://www.photonet.demon.nl/mamiya/c330s/) was 75 Pounds Sterling]. This, coupled with the falling price of quality flatbed [transparency scanners](http://www.jigsaw24.com/proddesc.asp?ITEM=X560ACA) means that you can make images for the web which blow digital images away.  

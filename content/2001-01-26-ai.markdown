@@ -1,0 +1,17 @@
+---
+type: post
+comments: true
+date: 2001-01-26T15:05:00Z
+
+tags:
+- Technology
+title: A.I.
+
+wordpress_id: 1411
+---
+
+More [A.I. [**The Movie**]](http://www.spielberg-dreamworks.com/ai/) related stuff:  
+
+[http://redrival.com/movieventure/santini.jpg](http://redrival.com/movieventure/santini.jpg)  
+
+[http://www.anghus.bizland.com/AI.htm](http://www.anghus.bizland.com/AI.htm)

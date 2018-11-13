@@ -1,0 +1,17 @@
+---
+type: post
+comments: true
+date: 2002-03-11T14:05:00Z
+
+tags:
+- Uncategorized
+title: BlogML
+
+wordpress_id: 1004
+---
+
+_'The weblog community is in the unique position situation to affect significant change through nimble and collective action.'_  
+
+  
+
+       [Steven Garrity](http://www.actsofvolition.com/) proposes an interesting idea, [BlogML](http://www.actsofvolition.com/index.cfm?article=527#527).

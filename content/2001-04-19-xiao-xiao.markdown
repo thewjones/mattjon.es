@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2001-04-19T12:29:00Z
+
+tags:
+- Uncategorized
+title: Xiao Xiao
+
+wordpress_id: 1294
+---
+
+Flash animation, [Jackie Chan style](http://games.sohu.com/fightgame/fight3.swf) - takes a while to load, but it's worth it [never thought I'd catch myself writing that].

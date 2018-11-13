@@ -1,0 +1,25 @@
+---
+type: post
+comments: true
+date: 2002-04-23T08:35:00Z
+
+tags:
+- Uncategorized
+title: Stuff
+
+wordpress_id: 965
+---
+
+I was travelling nearby [Huddersfield](http://www.huddersfield1.co.uk/) yesterday; I saw a motorcycle with sidecar, attached to which were two ladders. You don't see that anywhere else.   
+
+  
+
+      Some nut thinks Apple are proponents of anti-Christian propaganda… '[the new Macs are based on Darwinism!](http://www.theregister.co.uk/content/28/24968.html )'  
+
+  
+
+      You may notice the addition of the 'RSS feed' on the right-hand column. Thanks to [Reid](http://www.explodingfist.com) for pointing me in the direction of [this tutorial](http://www.wirelessdevnet.com/channels/wap/features/xmlcast_php.html ) on parsing XML with PHP. A list of RSS feeds can be found at [moreover.com](http://www.wirelessdevnet.com/channels/wap/features/xmlcast_php.html).  
+
+  
+
+[Apparently, it is St. George's day today…](http://frownland.com/index.shtml?archive/2001_04_01_archive.html#3327863)

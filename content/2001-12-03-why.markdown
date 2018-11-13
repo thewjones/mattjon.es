@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2001-12-03T19:41:00Z
+
+tags:
+- Uncategorized
+title: Why?
+
+wordpress_id: 1115
+---
+
+So why is today a good day? And why have I been blogging so frenetically about that new invention? You see, good news is a rare thing these days, and when I see some evidence of humanity moving forward slightly by using technology in a good way, I feel the need to say something about it. Ok, so the whole thing may be over-hyped and over-rated… as this [Metafilter](http://www.metafilter.com) poster put it:'Okay, kudos to Dean for getting all the neat gyros and computers in there, but his main competitor is the inner ear and comes free when you buy a bike' - [Skallas](http://www.metafilter.com/user.mefi/1430)Whatever peoples' opinion, I just think it's a great technological achievement by an individual, and it should be applauded. 

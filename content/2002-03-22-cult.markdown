@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2002-03-22T14:05:00Z
+
+tags:
+- Uncategorized
+title: Cult
+
+wordpress_id: 990
+---
+
+[Microcontent News](http://www.microcontentnews.com/articles/googlechurch.htm): _'Can a pseudo-religious organization muzzle the Web's favorite search engine?'_. Somehow, this article led me on a bizarre hypertext  journey which ended up here: [Battlefield Earth: The true story behind this movie](http://www.geocities.com/xenu2000/). Thank goodness it's Friday. 

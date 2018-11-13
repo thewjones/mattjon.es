@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2002-07-04T05:04:00Z
+
+tags:
+- Uncategorized
+title: Spam?
+
+wordpress_id: 912
+---
+
+Did anyone else receive an email from themselves this morning, which links to a [site](http://www.19175842177.com/) involving Mr Bush and a rather poor card trick ? I'm not sure whether this is an elaborate piece of spam, or my email account really has been hacked into.

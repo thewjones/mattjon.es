@@ -1,0 +1,21 @@
+---
+type: post
+comments: true
+date: 2010-01-27T22:55:15Z
+
+tags:
+- Comment
+- Design
+- Technology
+title: Apple iPad
+
+wordpress_id: 3716
+---
+
+When Apple introduced the iPhone, it was like Steve Jobs reached through a mysterious wormhole and pulled from within it an object from five years into the future; its design and user interface were like nothing seen before.
+
+With the iPad, it's like Jobs picked up a five year old magazine article about what Apple might have in store for the future, and based their new product on that. It's even called iPad.
+
+Many of us who are underwhelmed, however, may remember that the iPod was met with [similar disappointment](http://forums.macrumors.com/showthread.php?t=500) (and derision for its name) when it was first released.
+
+Or maybe we're all just Apple obssessed idiots.

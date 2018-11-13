@@ -1,0 +1,18 @@
+---
+type: post
+comments: true
+date: 2002-08-22T11:32:00Z
+
+tags:
+- Uncategorized
+title: Here Puss
+
+wordpress_id: 874
+---
+
+[Jaguar](http://www.apple.com/macosx/) is unleashed soon and it is already getting [glowing reviews](http://www.nytimes.com/2002/08/22/technology/circuits/22STAT.html) [reg required]. I'm not sure when it will be available in the UK although one thing  is for sure: I'll be the first in line. 
+
+
+	
+
+The rumours of a new Apple PDA have been floating around for a few years now, but some of the features of 10.2 do give this rumour some credance; the incorporation of [Inkwell](http://www.apple.com/macosx/jaguar/inkwell.html), [iCal](http://www.apple.com/ical/) and [Sherlock 3's web services](http://www.apple.com/macosx/jaguar/sherlock.html) seems to indicate that some kind of portable device is on the cards; John Markoff for the New York Times [certainly thinks this is the case](http://www.nytimes.com/2002/08/19/technology/19APPL.html).

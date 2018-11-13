@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2001-11-15T23:10:00Z
+
+tags:
+- Uncategorized
+title: xlab
+
+wordpress_id: 1137
+---
+
+Talking of [crisp design](http://www.coolhomepages.com/cda/cleandesign/) [see below], Phil has redesigned with a silky smooth [CSS driven site](http://www.xlab.co.uk/) which is making me jealous. It even has a pointless poll and searchable content, all programmed using [PHP](http://www.php.net/) by the man himself. I've **got** to learn how to do all that stuff. 

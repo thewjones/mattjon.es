@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2002-11-20T16:11:00Z
+
+tags:
+- Uncategorized
+title: Top 100 Sites
+
+wordpress_id: 821
+---
+
+According to the Google [weblog](http://google.blogspace.com), simply by searching for '[http](http://www.google.com/search?num=100&q=http)' will return almost 260 million web sites listed in order of [PageRank](http://www.google.com/webmasters/4.html). No prizes for guessing what the top two results are. I suppose if you were looking for information about 'http', you'd be in trouble. 

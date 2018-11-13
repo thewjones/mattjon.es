@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2001-08-07T12:10:00Z
+
+tags:
+- Uncategorized
+title: Comic
+
+wordpress_id: 1211
+---
+
+The unbelievable news of the day is that Star Wars Episode II is going to be called '[Attack of the Clones!](http://www.starwars.com/episode-ii/news/2001/08/news20010806.html)' [I've added the exclamation mark for effect]. I expect Lucas' response to the criticism that will no doubt be hurled at him will be something like: '[Star Wars](http://www.starwars.com/) is - and always was - a comic book adventure aimed at kids'. In other words, titles like 'Attack of the Clones' and '[The Phantom Menace](http://www.starwars.com/episode-i/)' are perfectly acceptable for such comic-book stories. Lucas is evidently trying to bind the nostalgic sentiments of reading comic books as a child [especially if you were a child in the '50s], to the big budget special-effect laden sci-fi epic. Others would argue that Lucas is further transposing reality [remember the horrifying racial stereotyping in Episode I] to the Star Wars saga; there is an unnerving correlation between this new title and [recent developments](http://news.bbc.co.uk/hi/english/sci/tech/newsid_1477000/1477476.stm) in the news. No matter what the reasoning is, people will still flock to see the film. Lucas can afford to give his films daring [if silly] titles.

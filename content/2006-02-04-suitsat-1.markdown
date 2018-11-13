@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2006-02-04T10:26:00Z
+
+tags:
+- Uncategorized
+title: Suitsat 1
+
+wordpress_id: 92
+---
+
+[ISS Astronauts have put Suitsat 1 into orbit](http://science.nasa.gov/headlines/y2006/26jan_suitsat.htm). Surprised they haven't called it 'Frank'.

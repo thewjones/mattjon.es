@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2002-05-03T09:44:00Z
+
+tags:
+- Uncategorized
+title: Infested
+
+wordpress_id: 956
+---
+
+Well everything has gone robo-rodent crazy round here; the [RSS feed](http://w.moreover.com/categories/category_list_rss.html) to the right seems to be devoting itself to the subject at the moment. It must be big news. 

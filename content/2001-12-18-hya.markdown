@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2001-12-18T17:24:00Z
+
+tags:
+- Uncategorized
+title: Hya !
+
+wordpress_id: 1095
+---
+
+The [BBCi](http://www.bbc.co.uk/) games designers really have out-done themselves with this [kung-fu quiz game](http://www.bbc.co.uk/choice/games/kungfu/index.shtml). [via [Metafilter](http://www.metafilter.com)]

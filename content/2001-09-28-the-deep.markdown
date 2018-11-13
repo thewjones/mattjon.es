@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2001-09-28T22:15:00Z
+
+tags:
+- Uncategorized
+title: The Deep
+
+wordpress_id: 1177
+---
+
+Quite possibly the only television programme worth watching at the moment is the BBC's '[The Blue Planet](http://www.bbc.co.uk/nature/programmes/tv/blueplanet/)'. It's amazing that we know more about [the surface of the moon](http://www.hq.nasa.gov/office/pao/History/ap11ann/kippsphotos/6550.jpg) than we do about the depths of the ocean. The second installment contained some creatures that were truly disturbing, like the [hairy angler fish](http://www.bbc.co.uk/nature/programmes/tv/blueplanet/picpops/images/prog2_2.jpg ) and [this octopus](http://www.bbc.co.uk/nature/programmes/tv/blueplanet/picpops/images/prog2_1.jpg ) nick-named 'Dumbo' for obvious reasons.

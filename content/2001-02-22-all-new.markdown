@@ -1,0 +1,15 @@
+---
+type: post
+comments: true
+date: 2001-02-22T02:44:00Z
+
+tags:
+- Development
+- Web
+title: All New
+
+wordpress_id: 1378
+---
+
+Phew… it's been a struggle, but here it is: the all new frownland.com. This site is now more standards compliant than ever before [[validated to XHTML1.0](http://validator.w3.org/check/referer)] and should load like the proverbial 'muck' off a shovel now that I have streamlined everything. However, I have absolutely no idea what the page looks like on anything other that [IE5 for the Mac](http://www.microsoft.com/mac/products/ie/)... I've only got the [W3C HTML Validator](http://validator.w3.org/) to trust. In an ideal world, this should be all I need… unfortunately, life isn't like that is it? Maybe one day.   
+I've still got a bit more work to do though, like get the archives linked up, replace those images on the right [stuff from the old design], and add some more content to the bottom of the page, but that's about it. Overall, I think it's an improvement… more 'chunky' I reckon. Anyway… enough geek talk, standby for more of the usual - comment and links on stuff that matters: art, design, photography, science, technology, music, everything.  

@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2001-12-05T13:51:00Z
+
+tags:
+- Uncategorized
+title: Ni
+
+wordpress_id: 1112
+---
+
+Don't you just love [Lego](http://www.lego.com/eng/studios/screening/movie.asp?opt=qtl)? [via [Metafilter](http://www.metafilter.com)]

@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2002-04-20T10:14:00Z
+
+tags:
+- Uncategorized
+title: k10k
+
+wordpress_id: 967
+---
+
+[It's about time](http://www.k10k.net)...One [metafilter](http://www.metafilter.com/mefi/16523) poster sums the relaunch up perfectly: '_... it's a usability nightmare and the text is too small.. i've always hated design sites like these. I'm really glad to see them back._'I was having problems viewing the new k10k design on my 15inch [old] iMac monitor, until I found the customise button, which allows you to toggle between 3 viewing modes. Neat. 

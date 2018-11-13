@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2001-11-23T10:03:00Z
+
+tags:
+- Uncategorized
+title: Textist
+
+wordpress_id: 1129
+---
+
+[Reading Design](http://www.alistapart.com/stories/readingdesign/) - The latest issue of [A List Apart](http://www.alistapart.com).

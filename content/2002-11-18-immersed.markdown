@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2002-11-18T08:09:00Z
+
+tags:
+- Uncategorized
+title: Immersed
+
+wordpress_id: 823
+---
+
+[A full screen underwater cubic VR](http://www.panoramas.dk/tulamben.html). Pretty!

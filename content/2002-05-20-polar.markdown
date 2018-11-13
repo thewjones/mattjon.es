@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2002-05-20T16:22:00Z
+
+tags:
+- Uncategorized
+title: Polar
+
+wordpress_id: 946
+---
+
+[Dave's Diary 2002](http://www.northpolewalk.com/htm/daves_diary_2002.htm), not yer average blog.

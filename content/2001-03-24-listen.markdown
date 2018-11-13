@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2001-03-24T09:43:00Z
+
+tags:
+- Uncategorized
+title: Listen
+
+wordpress_id: 1329
+---
+
+Recommended music: [Kid Spatula: Full Sunken Breaks](http://www.amazon.co.uk/exec/obidos/ASIN/B00004SBG1/o/qid=985427454/sr=8-1/202-9017750-1488652) and [Tortoise: Standards](http://www.amazon.co.uk/exec/obidos/ASIN/B000056BJL/o/qid=985427678/sr=2-1/202-9017750-1488652).

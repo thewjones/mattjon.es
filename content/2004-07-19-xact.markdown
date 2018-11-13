@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2004-07-19T22:01:00Z
+
+tags:
+- Uncategorized
+title: xACT
+
+wordpress_id: 308
+---
+
+[xACT converts FLAC (lossless) compressed audio into AIFF or WAV format for burning onto CD](http://macupdate.com/info.php/id/14246) Useful for those [live Calexico tracks](http://www.archive.org/audio/etree-details-db.php?id=16454) at archive.org

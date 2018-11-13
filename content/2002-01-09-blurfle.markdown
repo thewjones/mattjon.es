@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2002-01-09T13:41:00Z
+
+tags:
+- Uncategorized
+title: Blurfle
+
+wordpress_id: 1071
+---
+
+[Unwords.com](http://www.unwords.com/) | Home of the Sniglet

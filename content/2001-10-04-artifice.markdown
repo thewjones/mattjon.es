@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2001-10-04T11:15:00Z
+
+tags:
+- Uncategorized
+title: Artifice
+
+wordpress_id: 1174
+---
+
+Finally got round to watching [A.I.](http://uk.imdb.com/Title?0212720) a few days ago…. **oh dear**. In his films, [Stanley Kubrick](http://kubrickfilms.warnerbros.com/mainmenu/mainmenu.html) trod a fine line between traditional narrative structure and near incomprehensibility. Imagine a gymast deftly and gracefully somersaulting on a high beam; the movement is completely controlled but at the same time 'on the edge'. With A.I., Spielberg is wobbling all over the place, until he comes off at the end with a nasty crash [sorry about that rather strange analogy folks, it just drifted into my brain]. I was quite enjoying the film up until the Flesh Fayre sequence which unfortunately looked like something out of [Mad Max](http://uk.imdb.com/Title?0079501). From there, it just went into a rather lame Pinnochio rehash finishing up with a silly epilogue which I'm not even going to talk about, watch it yourself [on video*]. *harsh, I know.  I've recently upgraded [Max OS X](http://www.apple.com/macosx/) to version 10.1 and the overall improvement is immense. If you're thinking about upgrading, do it straight away; although I recommend you read as much [online documentation](http://www.info.apple.com/usen/macosx/) as you can beforehand, as I gather that many people have had problems with the upgrade process. 

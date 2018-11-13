@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2001-09-19T16:39:00Z
+
+tags:
+- Uncategorized
+title: Motif
+
+wordpress_id: 1179
+---
+
+An [interesting page](http://www.cnduk.org/inform~1/symbol.htm) about the history of the peace/CND symbol 'designed in 1958 by Gerald Holtom, a professional designer and artist and a graduate of the [Royal College of Art](http://www.rca.ac.uk/)'.

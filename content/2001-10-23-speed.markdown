@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2001-10-23T13:43:00Z
+
+tags:
+- Uncategorized
+title: Speed
+
+wordpress_id: 1161
+---
+
+[Blogscript](http://www.webentourage.com/) is a great little [Applescript](http://www.apple.com/applescript/) for [OS 10.1](http://www.apple.com/macosx/) which allows me to post blog entries directly from my text editor. Neat.

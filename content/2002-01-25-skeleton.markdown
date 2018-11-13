@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2002-01-25T15:24:00Z
+
+tags:
+- Uncategorized
+title: Skeleton
+
+wordpress_id: 1055
+---
+
+Hurling yourself head-first down an icey track at 85mph on nothing but a small piece of metal is my idea of an Olympic event. [Skeleton](http://www.wired.com/news/technology/0,1282,49799,00.html) sounds like one of those games you might have played as a kid in which you challenged one another to risk death in order to pull of an incredible feat of athleticism, like jumping the gap between 2 high buildings or cycling down a near vertical slope. That millions are spent on carbon fibre sleds and aerodynamic clothing does nothing to hide the fact that Skeleton is essentially sledding head-first on a souped-up baking tray. Brilliant.

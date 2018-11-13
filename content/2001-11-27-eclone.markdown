@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2001-11-27T14:07:00Z
+
+tags:
+- Uncategorized
+title: eClone
+
+wordpress_id: 1126
+---
+
+Microsoft are setting up a new division called [eHome](http://biz.yahoo.com/rf/011126/n2681576_2.html), an effort to make the personal computer the hub of home entertainment. Hmmm… where have I heard [something like that](http://www.apple.com/macosx/whatyoucando/) before? The latest adverts for Microsoft XP show someone editing home movies using some kind of [iMovie](http://www.apple.com/imovie/) clone; doesn't it make you sick? One day, Microsoft will come up with their own ideas…. or maybe they won't. 

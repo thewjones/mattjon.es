@@ -1,0 +1,16 @@
+---
+type: post
+comments: true
+date: 2007-06-29T20:49:00Z
+post_format:
+- Link
+
+tags:
+- Apple
+title: 'From the rumour mill: On Monday, Apple will announce a European 3G iPhone
+  for Vodafone, T-Mobile and Carphone Warehouse'
+
+wordpress_id: 77
+---
+
+A faster network and choice over carriers; this would be a much better deal than the US version.

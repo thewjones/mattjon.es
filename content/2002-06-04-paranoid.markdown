@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2002-06-04T08:31:00Z
+
+tags:
+- Uncategorized
+title: Paranoid
+
+wordpress_id: 935
+---
+
+I think Prince William liked [Ozzy](http://news.bbc.co.uk/hi/english/entertainment/music/newsid_2022000/2022060.stm) the most. 

@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2002-10-14T12:27:00Z
+
+tags:
+- Uncategorized
+title: Banned
+
+wordpress_id: 842
+---
+
+Try as I might to make this site accessible to everyone using a web enabled device, there are over 1.26 billion people on the planet who [can't access it](http://cyber.law.harvard.edu/filtering/china/test/go.asp?URL=http%3A%2F%2Fwww.ballofstringtheory.com). It's easy to believe, here in the western world, that the web as a whole has brought down barriers between nations. In reality, there seems to be many fractured webs, each only  accessible to a particular audience depending on the restrictions enforced by their government.

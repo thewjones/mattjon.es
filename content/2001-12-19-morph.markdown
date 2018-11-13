@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2001-12-19T12:43:00Z
+
+tags:
+- Uncategorized
+title: Morph
+
+wordpress_id: 1093
+---
+
+[Shape-shifting aeroplanes](http://www.techtv.com/news/culture/story/0,24195,3365248,00.html), what ever next? [via [t-melt](http://www.t-melt.com)]

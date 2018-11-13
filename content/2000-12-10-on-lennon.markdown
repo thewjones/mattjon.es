@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2000-12-10T12:28:00Z
+
+tags:
+- Music
+title: On Lennon
+
+wordpress_id: 1501
+---
+
+Interesting [article](http://www.salon.com/people/feature/2000/12/08/kamiya_on_lennon/index.html) about John Lennon over at [salon.com](http://www.salon.com)

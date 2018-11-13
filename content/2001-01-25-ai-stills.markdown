@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2001-01-25T11:43:00Z
+
+tags:
+- Film
+title: A.I. Stills
+
+wordpress_id: 1416
+---
+
+A [still from A.I.](http://www.spielberg-dreamworks.com/ai/images/Nato_David_Factory.jpg) [including [Chris Cunningham](http://www.bjork.intimate.org/special/aifol/) inspired - created? - robots]

@@ -1,0 +1,13 @@
+---
+type: post
+comments: true
+date: 2004-10-29T11:57:00Z
+
+tags:
+- Uncategorized
+title: Wikinews
+
+wordpress_id: 260
+---
+
+[A former TV news reporter offers her thoughts on how Wikinews may (or may not) work](http://rconversation.blogs.com/rconversation/2004/10/my_thougts_abou.html)
