@@ -2,7 +2,9 @@ baseurl = "https://mattjon.es/"
 languageCode = "en-gb"
 title = "Matt Jones"
 theme = "porter"
-      
+
+rssLimit = 10
+
 [permalinks]
   post = "/blog/:year/:month/:slug"
 
@@ -25,14 +27,8 @@ theme = "porter"
     url        = "/"
     weight     = 0
 
-    [[menu.main]]
-    identifier = "test"
-    name       = "test Page"
-    url        = "/"
-    weight     = 1
-
     [[menu.options]]
     identifier = "subscribe"
     name = "Subscribe"
-    url = "/rss/"
+    url = "/index.xml"
     weight = 0

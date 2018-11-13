@@ -6,17 +6,98 @@
     <description>Recent content in Tags on Matt Jones</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Fri, 22 Nov 2013 22:10:05 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Dec 2007 14:48:00 +0000</lastBuildDate>
     
 	<atom:link href="https://mattjon.es/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Tag 1</title>
-      <link>https://mattjon.es/tags/tag-1/</link>
-      <pubDate>Fri, 22 Nov 2013 22:10:05 +0000</pubDate>
+      <title>Apple</title>
+      <link>https://mattjon.es/tags/apple/</link>
+      <pubDate>Tue, 18 Dec 2007 14:48:00 +0000</pubDate>
       
-      <guid>https://mattjon.es/tags/tag-1/</guid>
+      <guid>https://mattjon.es/tags/apple/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Architecture</title>
+      <link>https://mattjon.es/tags/architecture/</link>
+      <pubDate>Thu, 26 Jan 2012 15:59:15 +0000</pubDate>
+      
+      <guid>https://mattjon.es/tags/architecture/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Art</title>
+      <link>https://mattjon.es/tags/art/</link>
+      <pubDate>Thu, 20 Aug 2009 10:30:26 +0000</pubDate>
+      
+      <guid>https://mattjon.es/tags/art/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Books</title>
+      <link>https://mattjon.es/tags/books/</link>
+      <pubDate>Mon, 07 Mar 2011 07:45:28 +0000</pubDate>
+      
+      <guid>https://mattjon.es/tags/books/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Civil Liberties</title>
+      <link>https://mattjon.es/tags/civil-liberties/</link>
+      <pubDate>Sun, 01 Mar 2009 12:02:55 +0000</pubDate>
+      
+      <guid>https://mattjon.es/tags/civil-liberties/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comment</title>
+      <link>https://mattjon.es/tags/comment/</link>
+      <pubDate>Thu, 15 Sep 2011 09:08:43 +0000</pubDate>
+      
+      <guid>https://mattjon.es/tags/comment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cycling</title>
+      <link>https://mattjon.es/tags/cycling/</link>
+      <pubDate>Tue, 19 Nov 2013 10:51:33 +0000</pubDate>
+      
+      <guid>https://mattjon.es/tags/cycling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design</title>
+      <link>https://mattjon.es/tags/design/</link>
+      <pubDate>Wed, 27 Jan 2010 22:55:15 +0000</pubDate>
+      
+      <guid>https://mattjon.es/tags/design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Development</title>
+      <link>https://mattjon.es/tags/development/</link>
+      <pubDate>Sat, 01 Aug 2009 12:08:41 +0000</pubDate>
+      
+      <guid>https://mattjon.es/tags/development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Education</title>
+      <link>https://mattjon.es/tags/education/</link>
+      <pubDate>Fri, 17 Jul 2009 14:43:04 +0000</pubDate>
+      
+      <guid>https://mattjon.es/tags/education/</guid>
       <description></description>
     </item>
     
