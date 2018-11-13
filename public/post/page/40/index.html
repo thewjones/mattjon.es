@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>
+            Matt Jones
+        </title>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+        <meta name="author" content="@mattjones">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link type="rel/css">
+        <link href="/css/style.css" rel="stylesheet">
+<link rel="alternate" type="application/rss" href="https://mattjon.es/post/index.xml" title="Matt Jones" />
+</head>
+
+  <body>
+    <header>
+      <h1>Matt Jones</h1>
+
+      <nav id="options">
+        <ul>
+          
+          <li><a href="/index.xml" title="">Subscribe</a></li>
+          
+        </ul>
+      </nav>
+      
+      
+      
+      <nav id="main"><a id="back-link" href="/menu">
+          
+          menu
+          
+      </a></nav>
+    </header>
+    
+    <main>
+    
+<article>
+  <h1>All Posts</h1>
+      
+          <ul class="contents">
+          
+              <li><a href="https://mattjon.es/blog/2004/09/the-range-of-facial-expressions-needed-to-become-a-successfu/">The range of facial expressions needed to become a successfu <strong>2 September 2004</strong></a></li>
+           
+              <li><a href="https://mattjon.es/blog/2004/09/original-j-reg-proton-in-samurai-silver-with-spoiler/">Original J reg Proton in Samurai Silver, with Spoiler <strong>2 September 2004</strong></a></li>
+           
+              <li><a href="https://mattjon.es/blog/2004/09/itunes-affiliate-programme/">iTunes Affiliate Programme <strong>2 September 2004</strong></a></li>
+           
+              <li><a href="https://mattjon.es/blog/2004/09/pictures-from-the-surface-of-whitley-bay/">Pictures from The Surface of Whitley Bay <strong>1 September 2004</strong></a></li>
+           
+              <li><a href="https://mattjon.es/blog/2004/08/hmm...-a-broken-comments-system/">Hmm... a broken comments system <strong>31 August 2004</strong></a></li>
+           
+              <li><a href="https://mattjon.es/blog/2004/08/the-display-is-the-computer/">The Display is The Computer <strong>31 August 2004</strong></a></li>
+           
+              <li><a href="https://mattjon.es/blog/2004/08/the-register-on-the-beastie-boys-virus-cd/">The Register On the Beastie Boys &#39;Virus&#39; CD <strong>17 August 2004</strong></a></li>
+           
+              <li><a href="https://mattjon.es/blog/2004/08/where-i-am/">Where I Am <strong>12 August 2004</strong></a></li>
+           
+              <li><a href="https://mattjon.es/blog/2004/08/suprnova-without-the-bloat/">Suprnova, without the bloat <strong>12 August 2004</strong></a></li>
+           
+              <li><a href="https://mattjon.es/blog/2004/07/the-plymouth-dakar-challange/">The Plymouth Dakar Challange <strong>22 July 2004</strong></a></li>
+           
+          </ul>
+  </article>
+
+
+    </main>
+
+    <footer>
+      <p></p>
+      <span id="speed"></span>
+    </footer>
+    <script>
+window.onload = function () {
+    var loadTime = window.performance.timing.domContentLoadedEventEnd-window.performance.timing.navigationStart; 
+         document.getElementById('speed').innerHTML = 'Page rendered in ' + loadTime/1000 + ' seconds &#128374;';
+}
+ 
+     </script>
+
+    
+  <script>
+    var lazy = [];
+    registerListener('load', setLazy);
+    registerListener('load', lazyLoad);
+    registerListener('scroll', lazyLoad);
+    registerListener('resize', lazyLoad);
+    function setLazy(){
+    
+    
+    
+    lazy = document.getElementsByClassName('lazy');
+    console.log('Found ' + lazy.length + ' lazy images');
+    } 
+    function lazyLoad(){
+    for(var i=0; i<lazy.length; i++){
+                                if(isInViewport(lazy[i])){
+                                if (lazy[i].getAttribute('data-src')){
+                                lazy[i].src = lazy[i].getAttribute('data-src');
+                                lazy[i].removeAttribute('data-src');
+                                }
+                                }
+                                }
+                                
+                                cleanLazy();
+                                }
+                                function cleanLazy(){
+                                lazy = Array.prototype.filter.call(lazy, function(l){ return l.getAttribute('data-src');});
+                                }
+                                function isInViewport(el){
+                                var rect = el.getBoundingClientRect();
+                                
+                                return (
+                                rect.bottom >= 0 && 
+      rect.right >= 0 && 
+      rect.top <= (window.innerHeight || document.documentElement.clientHeight) && 
+                  rect.left <= (window.innerWidth || document.documentElement.clientWidth)
+                               );
+                               }
+                               function registerListener(event, func) {
+                               if (window.addEventListener) {
+                               
+                               window.addEventListener(event, func)
+                               } else {
+                               window.attachEvent('on' + event, func)
+                               }
+                               }
+    </script>
+  </body>    
+</html>

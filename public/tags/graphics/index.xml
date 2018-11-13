@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Graphics on Matt Jones</title>
+    <link>https://mattjon.es/tags/graphics/</link>
+    <description>Recent content in Graphics on Matt Jones</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Tue, 03 Mar 2009 19:07:07 +0000</lastBuildDate>
+    
+	<atom:link href="https://mattjon.es/tags/graphics/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Pauline Oliveros - Alien Bog/Beautiful Soop</title>
+      <link>https://mattjon.es/blog/2009/03/pauline-oliveros---alien-bog/beautiful-soop/</link>
+      <pubDate>Tue, 03 Mar 2009 19:07:07 +0000</pubDate>
+      
+      <guid>https://mattjon.es/blog/2009/03/pauline-oliveros---alien-bog/beautiful-soop/</guid>
+      <description>Pauline Oliveros was a pioneer of electronic music in the 1960s. This is Alien Bog / Beautiful Soop from 1967 (Spotify link).</description>
+    </item>
+    
+    <item>
+      <title>Kinoautomat Posters</title>
+      <link>https://mattjon.es/blog/2009/03/kinoautomat-posters/</link>
+      <pubDate>Mon, 02 Mar 2009 15:49:09 +0000</pubDate>
+      
+      <guid>https://mattjon.es/blog/2009/03/kinoautomat-posters/</guid>
+      <description>Kinoautomat (1967), the first interactive film. Tyneside Cinema, 5 March 8pm.</description>
+    </item>
+    
+    <item>
+      <title>Carry the card</title>
+      <link>https://mattjon.es/blog/2009/03/carry-the-card/</link>
+      <pubDate>Sun, 01 Mar 2009 12:02:55 +0000</pubDate>
+      
+      <guid>https://mattjon.es/blog/2009/03/carry-the-card/</guid>
+      <description>Mark Thomas: Download this card, warning police that if a stop and search is intrusive or malicious, you will take action | Comment is free | guardian.co.uk</description>
+    </item>
+    
+  </channel>
+</rss>

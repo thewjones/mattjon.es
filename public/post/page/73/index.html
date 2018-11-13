@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>
+            Matt Jones
+        </title>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+        <meta name="author" content="@mattjones">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link type="rel/css">
+        <link href="/css/style.css" rel="stylesheet">
+<link rel="alternate" type="application/rss" href="https://mattjon.es/post/index.xml" title="Matt Jones" />
+</head>
+
+  <body>
+    <header>
+      <h1>Matt Jones</h1>
+
+      <nav id="options">
+        <ul>
+          
+          <li><a href="/index.xml" title="">Subscribe</a></li>
+          
+        </ul>
+      </nav>
+      
+      
+      
+      <nav id="main"><a id="back-link" href="/menu">
+          
+          menu
+          
+      </a></nav>
+    </header>
+    
+    <main>
+    
+<article>
+  <h1>All Posts</h1>
+      
+          <ul class="contents">
+          
+              <li><a href="https://mattjon.es/blog/2003/11/not-a-sponsored-blog/">Not a Sponsored Blog <strong>21 November 2003</strong></a></li>
+           
+              <li><a href="https://mattjon.es/blog/2003/11/writing-on-the-sea-wall/">Writing on the Sea Wall <strong>21 November 2003</strong></a></li>
+           
+              <li><a href="https://mattjon.es/blog/2003/11/when-links-go-bad/">When Links Go Bad <strong>21 November 2003</strong></a></li>
+           
+              <li><a href="https://mattjon.es/blog/2003/11/sounds-from-the-human-genome/">Sounds from the Human Genome <strong>21 November 2003</strong></a></li>
+           
+              <li><a href="https://mattjon.es/blog/2003/11/pub-lunch/">Pub Lunch <strong>21 November 2003</strong></a></li>
+           
+              <li><a href="https://mattjon.es/blog/2003/11/mapping-the-moon/">Mapping the Moon <strong>21 November 2003</strong></a></li>
+           
+              <li><a href="https://mattjon.es/blog/2003/11/side-photographic-collection/">Side Photographic Collection <strong>21 November 2003</strong></a></li>
+           
+              <li><a href="https://mattjon.es/blog/2003/11/grouping-blog-posts-by-date-with-php/">Grouping Blog Posts by Date with PHP <strong>20 November 2003</strong></a></li>
+           
+              <li><a href="https://mattjon.es/blog/2003/11/national-blog-writing-day/">National Blog Writing Day <strong>19 November 2003</strong></a></li>
+           
+              <li><a href="https://mattjon.es/blog/2003/11/fad/">Fad <strong>19 November 2003</strong></a></li>
+           
+          </ul>
+  </article>
+
+
+    </main>
+
+    <footer>
+      <p></p>
+      <span id="speed"></span>
+    </footer>
+    <script>
+window.onload = function () {
+    var loadTime = window.performance.timing.domContentLoadedEventEnd-window.performance.timing.navigationStart; 
+         document.getElementById('speed').innerHTML = 'Page rendered in ' + loadTime/1000 + ' seconds &#128374;';
+}
+ 
+     </script>
+
+    
+  <script>
+    var lazy = [];
+    registerListener('load', setLazy);
+    registerListener('load', lazyLoad);
+    registerListener('scroll', lazyLoad);
+    registerListener('resize', lazyLoad);
+    function setLazy(){
+    
+    
+    
+    lazy = document.getElementsByClassName('lazy');
+    console.log('Found ' + lazy.length + ' lazy images');
+    } 
+    function lazyLoad(){
+    for(var i=0; i<lazy.length; i++){
+                                if(isInViewport(lazy[i])){
+                                if (lazy[i].getAttribute('data-src')){
+                                lazy[i].src = lazy[i].getAttribute('data-src');
+                                lazy[i].removeAttribute('data-src');
+                                }
+                                }
+                                }
+                                
+                                cleanLazy();
+                                }
+                                function cleanLazy(){
+                                lazy = Array.prototype.filter.call(lazy, function(l){ return l.getAttribute('data-src');});
+                                }
+                                function isInViewport(el){
+                                var rect = el.getBoundingClientRect();
+                                
+                                return (
+                                rect.bottom >= 0 && 
+      rect.right >= 0 && 
+      rect.top <= (window.innerHeight || document.documentElement.clientHeight) && 
+                  rect.left <= (window.innerWidth || document.documentElement.clientWidth)
+                               );
+                               }
+                               function registerListener(event, func) {
+                               if (window.addEventListener) {
+                               
+                               window.addEventListener(event, func)
+                               } else {
+                               window.attachEvent('on' + event, func)
+                               }
+                               }
+    </script>
+  </body>    
+</html>

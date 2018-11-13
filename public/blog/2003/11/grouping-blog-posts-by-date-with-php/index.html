@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>
+            Matt Jones
+        </title>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+        <meta name="author" content="@mattjones">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link type="rel/css">
+        <link href="/css/style.css" rel="stylesheet">
+</head>
+
+  <body>
+    <header>
+      <h1>Matt Jones</h1>
+
+      <nav id="options">
+        <ul>
+          
+          <li><a href="/index.xml" title="">Subscribe</a></li>
+          
+        </ul>
+      </nav>
+      
+      
+      
+      <nav id="main"><a id="back-link" href="/menu">
+          
+          menu
+          
+      </a></nav>
+    </header>
+    
+    <main>
+    
+
+
+<article>
+  <header>
+    <h1>Grouping Blog Posts by Date with PHP</h1>
+  </header>
+  
+  
+  
+  <p>If you&rsquo;ve noticed this site temporarily (for want of a better phrase) <em>crapping out</em> just recently, it&rsquo;s because the <a href="http://www.mysql.com">MySQL</a> queries I&rsquo;ve been using to retrieve the posts from the database have been pretty badly thought out. Thus, the MySQL server has been getting clogged up with slow queries, rendering the site inaccessible for short periods throughout the day.</p>
+
+<p>The most straightforward way of formatting a weblog with <a href="http://www.php.net">PHP</a> and MySQL is to return each entry with a title, body text and the date it was posted underneath. However, I decided to group my posts together by day with a date header at the top of each day&rsquo;s posts. I came up with a solution that involved querying the database for distinct dates and then doing a sub-query for entries posted on those dates. Simply put, I was using MySQL queries for something that a simple bit of PHP could have handled much more efficiently.</p>
+
+<p>As I&rsquo;ve learnt, it&rsquo;s best to keep the number of MySQL queries to a minimum, especially if the database is stored on a shared server where resources are limited. So, the new streamlined PHP I&rsquo;m using looks something like this.</p>
+
+<pre><code>&quot;.date(&quot;d/m/Y&quot;, $time).&quot;&lt;/h2&gt;n&quot;;
+  }
+  // Set the date of this post for comparison in the next loop
+  $previous = date(&quot;d/m/Y&quot;, $time);
+  // Print the blog post
+  print &quot;&lt;h3&gt;$title&lt;/h3&gt;n&quot;;
+  print &quot;&lt;p&gt;$body&lt;/p&gt;n&quot;;
+}
+?&gt;
+</code></pre>
+
+  
+  <footer>
+    <ul>
+      <li>Posted by <strong>Matt</strong></li>
+      <li>Published on <time>20 November 2003</time></li>
+      
+      <li>Last updated on <time>13 November 2018</time> (<a href="https://mattjon.es/git/matt/mattjones/commit/2dd5168ca550d8c9df07258c96145c930cb1192e">2dd5168</a>)</li>
+      
+      <li>Permalink: <a href="https://mattjon.es/blog/2003/11/grouping-blog-posts-by-date-with-php/">https://mattjon.es/blog/2003/11/grouping-blog-posts-by-date-with-php/</a></li>
+    </ul>
+  </footer>
+</article>
+
+
+<nav>
+  <h2>Site Menu</h2>
+  
+  <ul>
+
+<li><a class="sidebar-nav-item" href="/" title="">Home Page</a></li>
+
+</ul>
+</nav>
+
+
+    </main>
+
+    <footer>
+      <p></p>
+      <span id="speed"></span>
+    </footer>
+    <script>
+window.onload = function () {
+    var loadTime = window.performance.timing.domContentLoadedEventEnd-window.performance.timing.navigationStart; 
+         document.getElementById('speed').innerHTML = 'Page rendered in ' + loadTime/1000 + ' seconds &#128374;';
+}
+ 
+     </script>
+
+    
+  <script>
+    var lazy = [];
+    registerListener('load', setLazy);
+    registerListener('load', lazyLoad);
+    registerListener('scroll', lazyLoad);
+    registerListener('resize', lazyLoad);
+    function setLazy(){
+    
+    
+    
+    lazy = document.getElementsByClassName('lazy');
+    console.log('Found ' + lazy.length + ' lazy images');
+    } 
+    function lazyLoad(){
+    for(var i=0; i<lazy.length; i++){
+                                if(isInViewport(lazy[i])){
+                                if (lazy[i].getAttribute('data-src')){
+                                lazy[i].src = lazy[i].getAttribute('data-src');
+                                lazy[i].removeAttribute('data-src');
+                                }
+                                }
+                                }
+                                
+                                cleanLazy();
+                                }
+                                function cleanLazy(){
+                                lazy = Array.prototype.filter.call(lazy, function(l){ return l.getAttribute('data-src');});
+                                }
+                                function isInViewport(el){
+                                var rect = el.getBoundingClientRect();
+                                
+                                return (
+                                rect.bottom >= 0 && 
+      rect.right >= 0 && 
+      rect.top <= (window.innerHeight || document.documentElement.clientHeight) && 
+                  rect.left <= (window.innerWidth || document.documentElement.clientWidth)
+                               );
+                               }
+                               function registerListener(event, func) {
+                               if (window.addEventListener) {
+                               
+                               window.addEventListener(event, func)
+                               } else {
+                               window.attachEvent('on' + event, func)
+                               }
+                               }
+    </script>
+  </body>    
+</html>

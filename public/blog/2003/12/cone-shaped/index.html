@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>
+            Matt Jones
+        </title>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+        <meta name="author" content="@mattjones">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link type="rel/css">
+        <link href="/css/style.css" rel="stylesheet">
+</head>
+
+  <body>
+    <header>
+      <h1>Matt Jones</h1>
+
+      <nav id="options">
+        <ul>
+          
+          <li><a href="/index.xml" title="">Subscribe</a></li>
+          
+        </ul>
+      </nav>
+      
+      
+      
+      <nav id="main"><a id="back-link" href="/menu">
+          
+          menu
+          
+      </a></nav>
+    </header>
+    
+    <main>
+    
+
+
+<article>
+  <header>
+    <h1>Cone Shaped</h1>
+  </header>
+  
+  
+  
+  <p>Imagine a particle of light reflected off the surface of the earth at the very point in time at which you are born. That particle of light begins its journey into space and, every so often, it hits objects like stars. So, say you reach your 1st birthday, and 1 year after beginning its journey the particle of light finally reaches a star, then that star is 1 Light Year distant from the Earth. This is the basis for Matt Webb&rsquo;s <a href="http://www.interconnected.org/home/more/lightcone/">Light Cone RSS Feed Generator</a>; the older you get, the more stars that light hits and more stars get added to the feed. In fact, you would have to be 4 years and 3 months old before your light hits its first star, as the nearest star to us - <a href="http://antwrp.gsfc.nasa.gov/apod/ap020715.html">Proxima Centauri</a> - is 4.22 Light Years away from us. According to my RSS feed, the most recent star to be hit by my Light Cone is <a href="http://www.dibonsmith.com/uma_xi.htm">Xi Ursae Majoris</a> which is 27.2 light years from the earth.</p>
+
+<p>For me, the Light Cone model  makes it easier to understand the baffling relationship between time and space. If we reverse the direction of the light, we can say that when we look at Xi Ursae Majoris in the night sky, we are looking at it as it was 27.2 years ago, and the more distant the object the further back in time we are looking. Einstein&rsquo;s <a href="http://en2.wikipedia.org/wiki/General_relativity">General Theory of Relativity</a> tells us that time and space are linked together and that matter distorts this so-called fabric which is what we experience as gravity. The higher density the matter, the stronger the gravitational force .</p>
+
+<p>Now, going back to our Light Cone, the further it travels in space, the further back we are looking in time. We know that the Universe is expanding, so as the Light Cone travels through space, it&rsquo;s passing through a point where the Universe was younger and therefore more dense. Now here&rsquo;s the killer, as it travels further and further back, the density of matter in the young Universe gets so high that the Light Cone is distorted and bends in - like the shape of a tear-drop - to a single point in time and space, a point known as the Big Bang. OK, so I&rsquo;ve been reading <a href="http://en.wikipedia.org/wiki/Stephen_Hawking">Stephen Hawking</a> books and all this is perhaps an over-simplication of complex physics that I will never understand, that said I like to at least try and wrap my limited brain round all this stuff.</p>
+
+  
+  <footer>
+    <ul>
+      <li>Posted by <strong>Matt</strong></li>
+      <li>Published on <time>16 December 2003</time></li>
+      
+      <li>Last updated on <time>13 November 2018</time> (<a href="https://mattjon.es/git/matt/mattjones/commit/2dd5168ca550d8c9df07258c96145c930cb1192e">2dd5168</a>)</li>
+      
+      <li>Permalink: <a href="https://mattjon.es/blog/2003/12/cone-shaped/">https://mattjon.es/blog/2003/12/cone-shaped/</a></li>
+    </ul>
+  </footer>
+</article>
+
+
+<nav>
+  <h2>Site Menu</h2>
+  
+  <ul>
+
+<li><a class="sidebar-nav-item" href="/" title="">Home Page</a></li>
+
+</ul>
+</nav>
+
+
+    </main>
+
+    <footer>
+      <p></p>
+      <span id="speed"></span>
+    </footer>
+    <script>
+window.onload = function () {
+    var loadTime = window.performance.timing.domContentLoadedEventEnd-window.performance.timing.navigationStart; 
+         document.getElementById('speed').innerHTML = 'Page rendered in ' + loadTime/1000 + ' seconds &#128374;';
+}
+ 
+     </script>
+
+    
+  <script>
+    var lazy = [];
+    registerListener('load', setLazy);
+    registerListener('load', lazyLoad);
+    registerListener('scroll', lazyLoad);
+    registerListener('resize', lazyLoad);
+    function setLazy(){
+    
+    
+    
+    lazy = document.getElementsByClassName('lazy');
+    console.log('Found ' + lazy.length + ' lazy images');
+    } 
+    function lazyLoad(){
+    for(var i=0; i<lazy.length; i++){
+                                if(isInViewport(lazy[i])){
+                                if (lazy[i].getAttribute('data-src')){
+                                lazy[i].src = lazy[i].getAttribute('data-src');
+                                lazy[i].removeAttribute('data-src');
+                                }
+                                }
+                                }
+                                
+                                cleanLazy();
+                                }
+                                function cleanLazy(){
+                                lazy = Array.prototype.filter.call(lazy, function(l){ return l.getAttribute('data-src');});
+                                }
+                                function isInViewport(el){
+                                var rect = el.getBoundingClientRect();
+                                
+                                return (
+                                rect.bottom >= 0 && 
+      rect.right >= 0 && 
+      rect.top <= (window.innerHeight || document.documentElement.clientHeight) && 
+                  rect.left <= (window.innerWidth || document.documentElement.clientWidth)
+                               );
+                               }
+                               function registerListener(event, func) {
+                               if (window.addEventListener) {
+                               
+                               window.addEventListener(event, func)
+                               } else {
+                               window.attachEvent('on' + event, func)
+                               }
+                               }
+    </script>
+  </body>    
+</html>

@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>
+            Matt Jones
+        </title>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+        <meta name="author" content="@mattjones">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link type="rel/css">
+        <link href="/css/style.css" rel="stylesheet">
+</head>
+
+  <body>
+    <header>
+      <h1>Matt Jones</h1>
+
+      <nav id="options">
+        <ul>
+          
+          <li><a href="/index.xml" title="">Subscribe</a></li>
+          
+        </ul>
+      </nav>
+      
+      
+      
+      <nav id="main"><a id="back-link" href="/menu">
+          
+          menu
+          
+      </a></nav>
+    </header>
+    
+    <main>
+    
+
+
+<article>
+  <header>
+    <h1>Nielens Stirs Things Up</h1>
+  </header>
+  
+  
+  
+  <p>It looks as though Jakob Nielsen has caused a <a href="http://www.evhead.com">bit of a stir</a> in the weblog world in his latest <a href="http://www.useit.com/alertbox/20001001.html">Alertbox</a>. He writes: &ldquo;To take the Internet to the next level, users must begin posting their own material rather than simply consuming content or distributing copyrighted material&rdquo;. It&rsquo;s an important point, and one that is at the core of what blogging is all about. Yet, he completely fails to mention this - surely <a href="http://www.blogger.com">blogger</a> is <strong>the</strong> tool to allow easy content creation for the average user. He also makes the point that most web users are poor writers/content creators (<a href="http://www.geocities.com">Geocities</a> being his example). I don&rsquo;t consider myself to be a great writer, but I&rsquo;m trying my best to create interesting content that people might want to read. I recognise that many weblogs are simply personal diaries, regularly updated with the &lsquo;what I did today&rsquo; kind of information. This is all well and good, and many people might be interested in glimpsing into other peoples lives (re: Reality TV/Web content as mentioned in my previous post), but I think bloggers should try and turn away from themselves a little and use their experiences to create hypertext that sparks interest, debate and above all content that inspires others to think about new things.  I think there is now a massive opportunity for the average user to create intelligent and interesting web content and it is up to people to take it.</p>
+
+  
+  <footer>
+    <ul>
+      <li>Posted by <strong>Matt</strong></li>
+      <li>Published on <time>1 October 2000</time></li>
+      
+      <li>Last updated on <time>13 November 2018</time> (<a href="https://mattjon.es/git/matt/mattjones/commit/2dd5168ca550d8c9df07258c96145c930cb1192e">2dd5168</a>)</li>
+      
+      <li>Permalink: <a href="https://mattjon.es/blog/2000/10/nielens-stirs-things-up/">https://mattjon.es/blog/2000/10/nielens-stirs-things-up/</a></li>
+    </ul>
+  </footer>
+</article>
+
+
+<nav>
+  <h2>Site Menu</h2>
+  
+  <ul>
+
+<li><a class="sidebar-nav-item" href="/" title="">Home Page</a></li>
+
+</ul>
+</nav>
+
+
+    </main>
+
+    <footer>
+      <p></p>
+      <span id="speed"></span>
+    </footer>
+    <script>
+window.onload = function () {
+    var loadTime = window.performance.timing.domContentLoadedEventEnd-window.performance.timing.navigationStart; 
+         document.getElementById('speed').innerHTML = 'Page rendered in ' + loadTime/1000 + ' seconds &#128374;';
+}
+ 
+     </script>
+
+    
+  <script>
+    var lazy = [];
+    registerListener('load', setLazy);
+    registerListener('load', lazyLoad);
+    registerListener('scroll', lazyLoad);
+    registerListener('resize', lazyLoad);
+    function setLazy(){
+    
+    
+    
+    lazy = document.getElementsByClassName('lazy');
+    console.log('Found ' + lazy.length + ' lazy images');
+    } 
+    function lazyLoad(){
+    for(var i=0; i<lazy.length; i++){
+                                if(isInViewport(lazy[i])){
+                                if (lazy[i].getAttribute('data-src')){
+                                lazy[i].src = lazy[i].getAttribute('data-src');
+                                lazy[i].removeAttribute('data-src');
+                                }
+                                }
+                                }
+                                
+                                cleanLazy();
+                                }
+                                function cleanLazy(){
+                                lazy = Array.prototype.filter.call(lazy, function(l){ return l.getAttribute('data-src');});
+                                }
+                                function isInViewport(el){
+                                var rect = el.getBoundingClientRect();
+                                
+                                return (
+                                rect.bottom >= 0 && 
+      rect.right >= 0 && 
+      rect.top <= (window.innerHeight || document.documentElement.clientHeight) && 
+                  rect.left <= (window.innerWidth || document.documentElement.clientWidth)
+                               );
+                               }
+                               function registerListener(event, func) {
+                               if (window.addEventListener) {
+                               
+                               window.addEventListener(event, func)
+                               } else {
+                               window.attachEvent('on' + event, func)
+                               }
+                               }
+    </script>
+  </body>    
+</html>

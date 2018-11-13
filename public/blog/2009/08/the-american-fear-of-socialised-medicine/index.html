@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>
+            Matt Jones
+        </title>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+        <meta name="author" content="@mattjones">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link type="rel/css">
+        <link href="/css/style.css" rel="stylesheet">
+</head>
+
+  <body>
+    <header>
+      <h1>Matt Jones</h1>
+
+      <nav id="options">
+        <ul>
+          
+          <li><a href="/index.xml" title="">Subscribe</a></li>
+          
+        </ul>
+      </nav>
+      
+      
+      
+      <nav id="main"><a id="back-link" href="/menu">
+          
+          menu
+          
+      </a></nav>
+    </header>
+    
+    <main>
+    
+
+
+<article>
+  <header>
+    <h1>The American Fear of Socialised Medicine</h1>
+  </header>
+  
+  
+  
+  <p>In 1960, the American Medical Association ran a campaign against the Democrats&rsquo; plans for free health care for the elderly. Calling it &lsquo;Operation Coffee Cup&rsquo;, they hired Ronald Reagan to record an LP entitled &lsquo;Ronald Reagan speaks out against SOCIALIZED MEDICINE&rsquo;. In it, he warns that socialised medicine is &ldquo;a foot in the door&rdquo; for further government intervention, and that &ldquo;pretty soon your son won&rsquo;t decide when he&rsquo;s in school, where he will go or what he will do for a living. He will wait for the government to tell him.&rdquo; The campaign didn&rsquo;t really work, and the Social Security Act of 1965 was passed by congress, leading to the formation of Medicare and Medicaid, both a kind of &lsquo;NHS lite&rsquo; for the over-65s and young, vulnerable people respectively.</p>
+
+<p><img src="http://local.wordpress/wp-content/uploads/2009/08/reagan.jpg" alt="reagan" />Operation Coffee Cup was an example of a media campaign designed to spread fear amongst the American public and was a product of the McCarthy-era tensions during the previous decade. The Soviet Union had developed a public health service in the 1920s, China in the 1950s, and Cuba in the 1960s; in the eyes of the American public, socialised medicine became an evil borne of the socialist state, and any attempt to introduce it could only be a step towards such a state. This is the backdrop for the current controversy over Obama&rsquo;s plans for US health care reform, and each attempt at reform by Democratic administrations over the last few decades has been met with strong reaction from the republican right.</p>
+
+<p>America is the only developed country in the world without some kind of universal health care system. If Obama gets legislation through congress, the health insurance industry would lose billions as public dollars go into a single-payer system.  Just as the Bush administration mis-directed the American public and Tony Blair to support the lucrative Iraq invasion, it could be argued that the threat of a meddling Obama administration is really just fear stirred up by the health insurance companies and their lobbyists who stand to lose billions if Obama&rsquo;s plans go ahead.</p>
+
+<p>Whatever is fueling the antipathy towards public health care, it&rsquo;s true that Americans value their freedom and their free market, and libertarianism runs deep across the political divide. But I fail to understand how a universal health care system can lead to either a more controlling &lsquo;nanny&rsquo; state or to poorer quality health care. There are many things that the British Labour government are doing that make me uncomfortable; the ridiculous anti-terror laws and the over-surveillance of our cities for example. I think we are being over-governed to some extent, but I don&rsquo;t see our National Health Service as being part of this over-governance, it has become too well entrenched in British society for that.</p>
+
+<p>A democratically elected government is there to serve not rule, and the NHS is owned by the public and governed by the people we elect. They are an authority that we elect to do to that job; they are not an authority over us.  I certainly don&rsquo;t feel as though my well-being is being controlled by the government, because I have a choice of public health care or private health care. Surely what Obama is offering is simply choice, and a chance for 50 million Americans to get the health care they need.</p>
+
+<p><a href="http://www.youtube.com/watch?v=fRdLpem-AAs">You can listen to &lsquo;Ronald Reagan speaks out against SOCIALIZED MEDICINE&rsquo; on Youtube</a></p>
+
+  
+  <footer>
+    <ul>
+      <li>Posted by <strong>Matt</strong></li>
+      <li>Published on <time>15 August 2009</time></li>
+      
+      <li>Last updated on <time>13 November 2018</time> (<a href="https://mattjon.es/git/matt/mattjones/commit/2dd5168ca550d8c9df07258c96145c930cb1192e">2dd5168</a>)</li>
+      
+      <li>Permalink: <a href="https://mattjon.es/blog/2009/08/the-american-fear-of-socialised-medicine/">https://mattjon.es/blog/2009/08/the-american-fear-of-socialised-medicine/</a></li>
+    </ul>
+  </footer>
+</article>
+
+
+<nav>
+  <h2>Site Menu</h2>
+  
+  <ul>
+
+<li><a class="sidebar-nav-item" href="/" title="">Home Page</a></li>
+
+</ul>
+</nav>
+
+
+    </main>
+
+    <footer>
+      <p></p>
+      <span id="speed"></span>
+    </footer>
+    <script>
+window.onload = function () {
+    var loadTime = window.performance.timing.domContentLoadedEventEnd-window.performance.timing.navigationStart; 
+         document.getElementById('speed').innerHTML = 'Page rendered in ' + loadTime/1000 + ' seconds &#128374;';
+}
+ 
+     </script>
+
+    
+  <script>
+    var lazy = [];
+    registerListener('load', setLazy);
+    registerListener('load', lazyLoad);
+    registerListener('scroll', lazyLoad);
+    registerListener('resize', lazyLoad);
+    function setLazy(){
+    
+    
+    
+    lazy = document.getElementsByClassName('lazy');
+    console.log('Found ' + lazy.length + ' lazy images');
+    } 
+    function lazyLoad(){
+    for(var i=0; i<lazy.length; i++){
+                                if(isInViewport(lazy[i])){
+                                if (lazy[i].getAttribute('data-src')){
+                                lazy[i].src = lazy[i].getAttribute('data-src');
+                                lazy[i].removeAttribute('data-src');
+                                }
+                                }
+                                }
+                                
+                                cleanLazy();
+                                }
+                                function cleanLazy(){
+                                lazy = Array.prototype.filter.call(lazy, function(l){ return l.getAttribute('data-src');});
+                                }
+                                function isInViewport(el){
+                                var rect = el.getBoundingClientRect();
+                                
+                                return (
+                                rect.bottom >= 0 && 
+      rect.right >= 0 && 
+      rect.top <= (window.innerHeight || document.documentElement.clientHeight) && 
+                  rect.left <= (window.innerWidth || document.documentElement.clientWidth)
+                               );
+                               }
+                               function registerListener(event, func) {
+                               if (window.addEventListener) {
+                               
+                               window.addEventListener(event, func)
+                               } else {
+                               window.attachEvent('on' + event, func)
+                               }
+                               }
+    </script>
+  </body>    
+</html>

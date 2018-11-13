@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>
+            Matt Jones
+        </title>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+        <meta name="author" content="@mattjones">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link type="rel/css">
+        <link href="/css/style.css" rel="stylesheet">
+</head>
+
+  <body>
+    <header>
+      <h1>Matt Jones</h1>
+
+      <nav id="options">
+        <ul>
+          
+          <li><a href="/index.xml" title="">Subscribe</a></li>
+          
+        </ul>
+      </nav>
+      
+      
+      
+      <nav id="main"><a id="back-link" href="/menu">
+          
+          menu
+          
+      </a></nav>
+    </header>
+    
+    <main>
+    
+
+
+<article>
+  <header>
+    <h1>The Pinball Song, Again</h1>
+  </header>
+  
+  
+  
+  <p>Long time readers may know of my ongoing search for information about the Sesame Street 70s funk classic The Pinball Song. Last time, it was established that the song is known as J Imagination (Lower) and was penned by Walt Kramer (not <a href="http://www.herbiehancock.com/">Herbie Hancock</a> as previously rumoured). The singers on the track could be <a href="http://www.thepointersistersfans.com/menu.html">The Pointer Sisters</a>, but I havent confirmed that yet.</p>
+
+<p>I was puzzled that doing a <a href="http://www.google.com/search?q=walt+kramer">Google search for Walt Kramer</a> came up with no relevent information, not even anything about a Walt Kramer being a musician. The latest <a href="http://www.ballofstringtheory.com/article/40#comment764">information</a> I have  thanks to a chap called <a href="http://www.karrot.org.uk/">Chris</a>  is that Kramer should in fact be spelled Kraemer. Entering <a href="http://www.google.com/search?q=walt+kraemer">this correct spelling into Google</a> offers up more information about Walt, including a <a href="http://www.birdlives.com/waltbio.html">brief biography</a> and <a href="http://www1.theforce.net/cuswe/clists.asp">this page</a>, which lists Walt as the sound and synthesizer effect supervisor on the Star Wars spoof <a href="http://us.imdb.com/Details?0077658">Hardware Wars</a>.</p>
+
+<p>As far as I know, The Pinball Song doesnt feature on any Sesame Street compilation albums and decent MP3 versions of it are like gold dust, which is a shame because judging from the number of search referrals I get to previous posts Ive written about The Pinball Song, theres a lot of interest in it.</p>
+
+<p><strong>UPDATE:</strong> Since posting the information below, Walt Kraemer, composer of the Sesame Street Pinball Song, wrote to me with some definitive information about it. <a href="http://mattjon.es/blog/2003/09/a-letter-from-walt-kraemer/">Click here to read Walt&rsquo;s letter.</a></p>
+
+  
+  <footer>
+    <ul>
+      <li>Posted by <strong>Matt</strong></li>
+      <li>Published on <time>12 July 2003</time></li>
+      
+      <li>Last updated on <time>13 November 2018</time> (<a href="https://mattjon.es/git/matt/mattjones/commit/2dd5168ca550d8c9df07258c96145c930cb1192e">2dd5168</a>)</li>
+      
+      <li>Permalink: <a href="https://mattjon.es/blog/2003/07/the-pinball-song-again/">https://mattjon.es/blog/2003/07/the-pinball-song-again/</a></li>
+    </ul>
+  </footer>
+</article>
+
+
+<nav>
+  <h2>Site Menu</h2>
+  
+  <ul>
+
+<li><a class="sidebar-nav-item" href="/" title="">Home Page</a></li>
+
+</ul>
+</nav>
+
+
+    </main>
+
+    <footer>
+      <p></p>
+      <span id="speed"></span>
+    </footer>
+    <script>
+window.onload = function () {
+    var loadTime = window.performance.timing.domContentLoadedEventEnd-window.performance.timing.navigationStart; 
+         document.getElementById('speed').innerHTML = 'Page rendered in ' + loadTime/1000 + ' seconds &#128374;';
+}
+ 
+     </script>
+
+    
+  <script>
+    var lazy = [];
+    registerListener('load', setLazy);
+    registerListener('load', lazyLoad);
+    registerListener('scroll', lazyLoad);
+    registerListener('resize', lazyLoad);
+    function setLazy(){
+    
+    
+    
+    lazy = document.getElementsByClassName('lazy');
+    console.log('Found ' + lazy.length + ' lazy images');
+    } 
+    function lazyLoad(){
+    for(var i=0; i<lazy.length; i++){
+                                if(isInViewport(lazy[i])){
+                                if (lazy[i].getAttribute('data-src')){
+                                lazy[i].src = lazy[i].getAttribute('data-src');
+                                lazy[i].removeAttribute('data-src');
+                                }
+                                }
+                                }
+                                
+                                cleanLazy();
+                                }
+                                function cleanLazy(){
+                                lazy = Array.prototype.filter.call(lazy, function(l){ return l.getAttribute('data-src');});
+                                }
+                                function isInViewport(el){
+                                var rect = el.getBoundingClientRect();
+                                
+                                return (
+                                rect.bottom >= 0 && 
+      rect.right >= 0 && 
+      rect.top <= (window.innerHeight || document.documentElement.clientHeight) && 
+                  rect.left <= (window.innerWidth || document.documentElement.clientWidth)
+                               );
+                               }
+                               function registerListener(event, func) {
+                               if (window.addEventListener) {
+                               
+                               window.addEventListener(event, func)
+                               } else {
+                               window.attachEvent('on' + event, func)
+                               }
+                               }
+    </script>
+  </body>    
+</html>

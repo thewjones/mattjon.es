@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>
+            Matt Jones
+        </title>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+        <meta name="author" content="@mattjones">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link type="rel/css">
+        <link href="/css/style.css" rel="stylesheet">
+</head>
+
+  <body>
+    <header>
+      <h1>Matt Jones</h1>
+
+      <nav id="options">
+        <ul>
+          
+          <li><a href="/index.xml" title="">Subscribe</a></li>
+          
+        </ul>
+      </nav>
+      
+      
+      
+      <nav id="main"><a id="back-link" href="/menu">
+          
+          menu
+          
+      </a></nav>
+    </header>
+    
+    <main>
+    
+
+
+<article>
+  <header>
+    <h1>Sounds from the Human Genome</h1>
+  </header>
+  
+  
+  
+  <p>Musician and scientist Henry Alan Hargrove has released an <a href="http://www.dnamusiccentral.com/index.html">album of original compositions</a> based on the DNA base pair sequences of the Human Genome.</p>
+
+<blockquote>
+        
+> 
+> To be true to the DNA of the genetic code, the actual ATCG  base pair sequences need be maintained in DNA music.  This is by nature very restrictive.  Just as adenine, thymine, cytosine and guanine are in themselves complex molecules, the musical phrases used to portray them can also be somewhat complex.  The task that faces the composer here is to create phrasing that opens, provides substance to the body, then closes the piece successfully.
+> 
+> 
+    </blockquote>
+
+<p><a href="http://www.dnamusiccentral.com/agrfx.htm">Samples from the album are available</a> as well three full tracks (MP3 downloads):</p>
+
+<ul>
+<li><p><a href="http://www.dnamusiccentral.com/Chromosome%207.mp3">Chromosome 7</a></p></li>
+
+<li><p><a href="http://www.dnamusiccentral.com/Chromosome%2015.mp3">Chromosome 15</a></p></li>
+
+<li><p><a href="http://www.dnamusiccentral.com/Chromosome%2017.mp3">Chromosome 17</a></p></li>
+</ul>
+
+<p>It&rsquo;s actually much more musical that you&rsquo;d think, in fact <a href="http://www.moondogscorner.de/frame.html">Moondog </a> and late <a href="http://www.milesdavis.com/">Miles Davis</a> spring to mind.</p>
+
+  
+  <footer>
+    <ul>
+      <li>Posted by <strong>Matt</strong></li>
+      <li>Published on <time>21 November 2003</time></li>
+      
+      <li>Last updated on <time>13 November 2018</time> (<a href="https://mattjon.es/git/matt/mattjones/commit/2dd5168ca550d8c9df07258c96145c930cb1192e">2dd5168</a>)</li>
+      
+      <li>Permalink: <a href="https://mattjon.es/blog/2003/11/sounds-from-the-human-genome/">https://mattjon.es/blog/2003/11/sounds-from-the-human-genome/</a></li>
+    </ul>
+  </footer>
+</article>
+
+
+<nav>
+  <h2>Site Menu</h2>
+  
+  <ul>
+
+<li><a class="sidebar-nav-item" href="/" title="">Home Page</a></li>
+
+</ul>
+</nav>
+
+
+    </main>
+
+    <footer>
+      <p></p>
+      <span id="speed"></span>
+    </footer>
+    <script>
+window.onload = function () {
+    var loadTime = window.performance.timing.domContentLoadedEventEnd-window.performance.timing.navigationStart; 
+         document.getElementById('speed').innerHTML = 'Page rendered in ' + loadTime/1000 + ' seconds &#128374;';
+}
+ 
+     </script>
+
+    
+  <script>
+    var lazy = [];
+    registerListener('load', setLazy);
+    registerListener('load', lazyLoad);
+    registerListener('scroll', lazyLoad);
+    registerListener('resize', lazyLoad);
+    function setLazy(){
+    
+    
+    
+    lazy = document.getElementsByClassName('lazy');
+    console.log('Found ' + lazy.length + ' lazy images');
+    } 
+    function lazyLoad(){
+    for(var i=0; i<lazy.length; i++){
+                                if(isInViewport(lazy[i])){
+                                if (lazy[i].getAttribute('data-src')){
+                                lazy[i].src = lazy[i].getAttribute('data-src');
+                                lazy[i].removeAttribute('data-src');
+                                }
+                                }
+                                }
+                                
+                                cleanLazy();
+                                }
+                                function cleanLazy(){
+                                lazy = Array.prototype.filter.call(lazy, function(l){ return l.getAttribute('data-src');});
+                                }
+                                function isInViewport(el){
+                                var rect = el.getBoundingClientRect();
+                                
+                                return (
+                                rect.bottom >= 0 && 
+      rect.right >= 0 && 
+      rect.top <= (window.innerHeight || document.documentElement.clientHeight) && 
+                  rect.left <= (window.innerWidth || document.documentElement.clientWidth)
+                               );
+                               }
+                               function registerListener(event, func) {
+                               if (window.addEventListener) {
+                               
+                               window.addEventListener(event, func)
+                               } else {
+                               window.attachEvent('on' + event, func)
+                               }
+                               }
+    </script>
+  </body>    
+</html>

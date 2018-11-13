@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>
+            Matt Jones
+        </title>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+        <meta name="author" content="@mattjones">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link type="rel/css">
+        <link href="/css/style.css" rel="stylesheet">
+</head>
+
+  <body>
+    <header>
+      <h1>Matt Jones</h1>
+
+      <nav id="options">
+        <ul>
+          
+          <li><a href="/index.xml" title="">Subscribe</a></li>
+          
+        </ul>
+      </nav>
+      
+      
+      
+      <nav id="main"><a id="back-link" href="/menu">
+          
+          menu
+          
+      </a></nav>
+    </header>
+    
+    <main>
+    
+
+
+<article>
+  <header>
+    <h1>Electronic Paper and the Betamax Tape</h1>
+  </header>
+  
+  
+  
+  <p>As technology companies compete with each other, drive manufacturing costs down and put their marketing machines on full power, it&rsquo;s amazing how they can steer us away from technologies that are clearly better for specific tasks than others.</p>
+
+<p>When Apple launched the <a href="http://www.apple.com/ipad/">iPad</a>, it made a big deal about the new iBook store and the iPad&rsquo;s use as an electronic reading device. Here&rsquo;s the marketing blurb on Apple&rsquo;s site&hellip;</p>
+
+<blockquote>Reading on iPad is just like reading a book. You hold your iPad like a book. You flip the pages like a book. And you do it all with your hands — just like a book. The high-resolution, LED-backlit screen displays each page beautifully.</blockquote>
+
+<p>The iPad is an astounding piece of technology in many ways, but a good device for spending hours reading electronic books does not count among them, <em>because</em> of the backlit LCD display is uses.</p>
+
+<p>A few weeks ago, <a href="http://www.samsung.com">Samsung</a> announced that it&rsquo;s backing out of the electronic ink panel production, instead to concentrate on LCD displays for their dedicated reading devices. Also, there are rumours of a smaller, cheaper iPad which no doubt will be designed to take a take some of <a href="http://www.amazon.com/kindle">Amazon Kindle&rsquo;s</a> share of the eReader market. So, given the marketing power of Apple, and the likes of Samsung turning their back on the technology, the odds seem stacked against a bright future for electronic paper.</p>
+
+<p>Electronic paper displays mimic the high resolution and reflective quality of ink on paper. Compared to LCD technology:</p>
+
+<ul>
+<li><p>it is more energy efficient; battery life is on a scale of weeks rather hours, which surely preferable on a device meant to be read for hours on end</p></li>
+
+<li><p>it is much less bulky allowing comparably thinner and lighter devices</p></li>
+
+<li><p>it is more comfortable to read, not only because of its higher resolution, but because it reflects light like paper; the more light hitting the device, the more legible it becomes. The opposite is true for LCD displays like the iPad&rsquo;s (not helped by its glossy screen). After all, it&rsquo;s much easier to control light on a device when it needs illuminating in a darkened room. When the situation is reversed, the light from that big fiery thing in the sky is not as easily controlled, and the brighter it is in relation to the LCD backlight, the harder it is to read.</p></li>
+</ul>
+
+<p>Of course, electronic ink displays aren&rsquo;t with out their issues. They are restricted to monochrome for a start. Then there&rsquo;s the glacially slow display refresh when interacting the device. For some people I&rsquo;ve spoken to this is a barrier to buying a device; for that brief second, the device looks broken, and in our Jobsian world of user experience perfection, that will never do.</p>
+
+<p>There&rsquo;s the thorny issue of Digital Rights Management which seems to hang over the e-reader market like a grey cloud. I have issues with this but as this piece is about the merits of the display technology only, I&rsquo;ll leave that for a future post.</p>
+
+<p>There&rsquo;s no argument that the iPad is a revolutionary device for consuming digital media, and its LCD display is ideal the multi-purpose nature of the device.</p>
+
+<p>No doubt the next iteration of the iPad (and its rumoured smaller sibling) will have the much hyped &lsquo;Retina Display&rsquo; but no matter much Jobs talks about pixel density, the reading experience will be inferior to that of  electronic paper simply because of the necessity for a backlight.</p>
+
+  
+  <footer>
+    <ul>
+      <li>Posted by <strong>Matt</strong></li>
+      <li>Published on <time>19 November 2010</time></li>
+      
+      <li>Last updated on <time>13 November 2018</time> (<a href="https://mattjon.es/git/matt/mattjones/commit/2dd5168ca550d8c9df07258c96145c930cb1192e">2dd5168</a>)</li>
+      
+      <li>Permalink: <a href="https://mattjon.es/blog/2010/11/electronic-paper-and-the-betamax-tape/">https://mattjon.es/blog/2010/11/electronic-paper-and-the-betamax-tape/</a></li>
+    </ul>
+  </footer>
+</article>
+
+
+<nav>
+  <h2>Site Menu</h2>
+  
+  <ul>
+
+<li><a class="sidebar-nav-item" href="/" title="">Home Page</a></li>
+
+</ul>
+</nav>
+
+
+    </main>
+
+    <footer>
+      <p></p>
+      <span id="speed"></span>
+    </footer>
+    <script>
+window.onload = function () {
+    var loadTime = window.performance.timing.domContentLoadedEventEnd-window.performance.timing.navigationStart; 
+         document.getElementById('speed').innerHTML = 'Page rendered in ' + loadTime/1000 + ' seconds &#128374;';
+}
+ 
+     </script>
+
+    
+  <script>
+    var lazy = [];
+    registerListener('load', setLazy);
+    registerListener('load', lazyLoad);
+    registerListener('scroll', lazyLoad);
+    registerListener('resize', lazyLoad);
+    function setLazy(){
+    
+    
+    
+    lazy = document.getElementsByClassName('lazy');
+    console.log('Found ' + lazy.length + ' lazy images');
+    } 
+    function lazyLoad(){
+    for(var i=0; i<lazy.length; i++){
+                                if(isInViewport(lazy[i])){
+                                if (lazy[i].getAttribute('data-src')){
+                                lazy[i].src = lazy[i].getAttribute('data-src');
+                                lazy[i].removeAttribute('data-src');
+                                }
+                                }
+                                }
+                                
+                                cleanLazy();
+                                }
+                                function cleanLazy(){
+                                lazy = Array.prototype.filter.call(lazy, function(l){ return l.getAttribute('data-src');});
+                                }
+                                function isInViewport(el){
+                                var rect = el.getBoundingClientRect();
+                                
+                                return (
+                                rect.bottom >= 0 && 
+      rect.right >= 0 && 
+      rect.top <= (window.innerHeight || document.documentElement.clientHeight) && 
+                  rect.left <= (window.innerWidth || document.documentElement.clientWidth)
+                               );
+                               }
+                               function registerListener(event, func) {
+                               if (window.addEventListener) {
+                               
+                               window.addEventListener(event, func)
+                               } else {
+                               window.attachEvent('on' + event, func)
+                               }
+                               }
+    </script>
+  </body>    
+</html>

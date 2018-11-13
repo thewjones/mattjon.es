@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>
+            Matt Jones
+        </title>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+        <meta name="author" content="@mattjones">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link type="rel/css">
+        <link href="/css/style.css" rel="stylesheet">
+<link rel="alternate" type="application/rss" href="https://mattjon.es/post/index.xml" title="Matt Jones" />
+</head>
+
+  <body>
+    <header>
+      <h1>Matt Jones</h1>
+
+      <nav id="options">
+        <ul>
+          
+          <li><a href="/index.xml" title="">Subscribe</a></li>
+          
+        </ul>
+      </nav>
+      
+      
+      
+      <nav id="main"><a id="back-link" href="/menu">
+          
+          menu
+          
+      </a></nav>
+    </header>
+    
+    <main>
+    
+<article>
+  <h1>All Posts</h1>
+      
+          <ul class="contents">
+          
+              <li><a href="https://mattjon.es/blog/2003/03/no-signal/">No Signal <strong>28 March 2003</strong></a></li>
+           
+              <li><a href="https://mattjon.es/blog/2003/03/disinformation-24/">Disinformation 24 <strong>28 March 2003</strong></a></li>
+           
+              <li><a href="https://mattjon.es/blog/2003/03/out-of-the-ordinary/">Out of the Ordinary <strong>26 March 2003</strong></a></li>
+           
+              <li><a href="https://mattjon.es/blog/2003/03/403-begone/">403 Begone <strong>26 March 2003</strong></a></li>
+           
+              <li><a href="https://mattjon.es/blog/2003/03/broke/">Broke <strong>26 March 2003</strong></a></li>
+           
+              <li><a href="https://mattjon.es/blog/2003/03/x11-from-the-top/">X11, From the Top <strong>17 March 2003</strong></a></li>
+           
+              <li><a href="https://mattjon.es/blog/2003/03/downloading-realone-player-without-loss-of-hair/">Downloading RealOne Player Without Loss of Hair <strong>16 March 2003</strong></a></li>
+           
+              <li><a href="https://mattjon.es/blog/2003/03/an-impromptu-rant/">An Impromptu Rant <strong>14 March 2003</strong></a></li>
+           
+              <li><a href="https://mattjon.es/blog/2003/03/la-joie-du-concret/">La Joie du Concret <strong>13 March 2003</strong></a></li>
+           
+              <li><a href="https://mattjon.es/blog/2003/03/150-signals/">150 Signals <strong>12 March 2003</strong></a></li>
+           
+          </ul>
+  </article>
+
+
+    </main>
+
+    <footer>
+      <p></p>
+      <span id="speed"></span>
+    </footer>
+    <script>
+window.onload = function () {
+    var loadTime = window.performance.timing.domContentLoadedEventEnd-window.performance.timing.navigationStart; 
+         document.getElementById('speed').innerHTML = 'Page rendered in ' + loadTime/1000 + ' seconds &#128374;';
+}
+ 
+     </script>
+
+    
+  <script>
+    var lazy = [];
+    registerListener('load', setLazy);
+    registerListener('load', lazyLoad);
+    registerListener('scroll', lazyLoad);
+    registerListener('resize', lazyLoad);
+    function setLazy(){
+    
+    
+    
+    lazy = document.getElementsByClassName('lazy');
+    console.log('Found ' + lazy.length + ' lazy images');
+    } 
+    function lazyLoad(){
+    for(var i=0; i<lazy.length; i++){
+                                if(isInViewport(lazy[i])){
+                                if (lazy[i].getAttribute('data-src')){
+                                lazy[i].src = lazy[i].getAttribute('data-src');
+                                lazy[i].removeAttribute('data-src');
+                                }
+                                }
+                                }
+                                
+                                cleanLazy();
+                                }
+                                function cleanLazy(){
+                                lazy = Array.prototype.filter.call(lazy, function(l){ return l.getAttribute('data-src');});
+                                }
+                                function isInViewport(el){
+                                var rect = el.getBoundingClientRect();
+                                
+                                return (
+                                rect.bottom >= 0 && 
+      rect.right >= 0 && 
+      rect.top <= (window.innerHeight || document.documentElement.clientHeight) && 
+                  rect.left <= (window.innerWidth || document.documentElement.clientWidth)
+                               );
+                               }
+                               function registerListener(event, func) {
+                               if (window.addEventListener) {
+                               
+                               window.addEventListener(event, func)
+                               } else {
+                               window.attachEvent('on' + event, func)
+                               }
+                               }
+    </script>
+  </body>    
+</html>

@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>
+            Matt Jones
+        </title>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+        <meta name="author" content="@mattjones">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link type="rel/css">
+        <link href="/css/style.css" rel="stylesheet">
+<link rel="alternate" type="application/rss" href="https://mattjon.es/post/index.xml" title="Matt Jones" />
+</head>
+
+  <body>
+    <header>
+      <h1>Matt Jones</h1>
+
+      <nav id="options">
+        <ul>
+          
+          <li><a href="/index.xml" title="">Subscribe</a></li>
+          
+        </ul>
+      </nav>
+      
+      
+      
+      <nav id="main"><a id="back-link" href="/menu">
+          
+          menu
+          
+      </a></nav>
+    </header>
+    
+    <main>
+    
+<article>
+  <h1>All Posts</h1>
+      
+          <ul class="contents">
+          
+              <li><a href="https://mattjon.es/blog/2004/05/apple-preview-tiger/">Apple Preview Tiger <strong>4 May 2004</strong></a></li>
+           
+              <li><a href="https://mattjon.es/blog/2004/05/why-the-moon-looks-bigger-on-the-horizon/">Why the Moon Looks Bigger on The Horizon <strong>4 May 2004</strong></a></li>
+           
+              <li><a href="https://mattjon.es/blog/2004/05/total-eclipse-to-paint-moon-red/">Total eclipse to paint moon red <strong>4 May 2004</strong></a></li>
+           
+              <li><a href="https://mattjon.es/blog/2004/04/rise-of-the-robo-cones/">Rise of the Robo-cones <strong>29 April 2004</strong></a></li>
+           
+              <li><a href="https://mattjon.es/blog/2004/04/the-museum-of-bad-art/">The Museum of Bad Art <strong>28 April 2004</strong></a></li>
+           
+              <li><a href="https://mattjon.es/blog/2004/04/douglas-adams-tent-for-sale-on-ebay/">Douglas Adams&#39; tent for sale on eBay <strong>28 April 2004</strong></a></li>
+           
+              <li><a href="https://mattjon.es/blog/2004/04/d-d-d-downsize/">D D D Downsize <strong>28 April 2004</strong></a></li>
+           
+              <li><a href="https://mattjon.es/blog/2004/04/renegade-sheep/">Renegade Sheep <strong>28 April 2004</strong></a></li>
+           
+              <li><a href="https://mattjon.es/blog/2004/04/can-the-smart-car-move-to-america/">Can the Smart car move to America? <strong>27 April 2004</strong></a></li>
+           
+              <li><a href="https://mattjon.es/blog/2004/04/profile-of-steve-reich-and-his-work/">Profile of Steve Reich and his work <strong>27 April 2004</strong></a></li>
+           
+          </ul>
+  </article>
+
+
+    </main>
+
+    <footer>
+      <p></p>
+      <span id="speed"></span>
+    </footer>
+    <script>
+window.onload = function () {
+    var loadTime = window.performance.timing.domContentLoadedEventEnd-window.performance.timing.navigationStart; 
+         document.getElementById('speed').innerHTML = 'Page rendered in ' + loadTime/1000 + ' seconds &#128374;';
+}
+ 
+     </script>
+
+    
+  <script>
+    var lazy = [];
+    registerListener('load', setLazy);
+    registerListener('load', lazyLoad);
+    registerListener('scroll', lazyLoad);
+    registerListener('resize', lazyLoad);
+    function setLazy(){
+    
+    
+    
+    lazy = document.getElementsByClassName('lazy');
+    console.log('Found ' + lazy.length + ' lazy images');
+    } 
+    function lazyLoad(){
+    for(var i=0; i<lazy.length; i++){
+                                if(isInViewport(lazy[i])){
+                                if (lazy[i].getAttribute('data-src')){
+                                lazy[i].src = lazy[i].getAttribute('data-src');
+                                lazy[i].removeAttribute('data-src');
+                                }
+                                }
+                                }
+                                
+                                cleanLazy();
+                                }
+                                function cleanLazy(){
+                                lazy = Array.prototype.filter.call(lazy, function(l){ return l.getAttribute('data-src');});
+                                }
+                                function isInViewport(el){
+                                var rect = el.getBoundingClientRect();
+                                
+                                return (
+                                rect.bottom >= 0 && 
+      rect.right >= 0 && 
+      rect.top <= (window.innerHeight || document.documentElement.clientHeight) && 
+                  rect.left <= (window.innerWidth || document.documentElement.clientWidth)
+                               );
+                               }
+                               function registerListener(event, func) {
+                               if (window.addEventListener) {
+                               
+                               window.addEventListener(event, func)
+                               } else {
+                               window.attachEvent('on' + event, func)
+                               }
+                               }
+    </script>
+  </body>    
+</html>

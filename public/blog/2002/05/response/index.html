@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>
+            Matt Jones
+        </title>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+        <meta name="author" content="@mattjones">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link type="rel/css">
+        <link href="/css/style.css" rel="stylesheet">
+</head>
+
+  <body>
+    <header>
+      <h1>Matt Jones</h1>
+
+      <nav id="options">
+        <ul>
+          
+          <li><a href="/index.xml" title="">Subscribe</a></li>
+          
+        </ul>
+      </nav>
+      
+      
+      
+      <nav id="main"><a id="back-link" href="/menu">
+          
+          menu
+          
+      </a></nav>
+    </header>
+    
+    <main>
+    
+
+
+<article>
+  <header>
+    <h1>Response</h1>
+  </header>
+  
+  
+  
+  <p>Here&rsquo;s a response from <a href="http://www.warwick.ac.uk">Warwick University</a> regarding my last post:&lsquo;Please do not believe all you read in the newspapers. The Daily Mail for instance could not even get my name right! -the University is actually</p>
+
+<p>actively encouraging students to put out their flags during the world</p>
+
+<p>cup and their are many university posters around the campus saying this.</p>
+
+<p>All we asked was that they wait until  the world cup starts, which of</p>
+
+<p>course it has now begun the England team are now on site, and to take</p>
+
+<p>them down when the world cup is over.</p>
+
+<p>Out of our 18,000 students only 6 refused to wait and refused to take</p>
+
+<p>their flags and bunting down until the World cup campaign had started</p>
+
+<p>which of course it has now with England arriving in Korea. IF those 6</p>
+
+<p>want to be  unco-oparative that&rsquo;s sad but fine - we are leaving them  to</p>
+
+<p>it.</p>
+
+<p>As for non externally visible flags they can have them up in their</p>
+
+<p>rooms whenever they like - there have never been restrictions on this.</p>
+
+<p>We restrict external flags to special occasions  such as Royal events</p>
+
+<p>etc.</p>
+
+<p>The University has no problem with UK flags - if you look at the</p>
+
+<p>University&rsquo;s home page www.warwick.ac.uk You will even see a link to the</p>
+
+<p>world cup stuff and a  St George&rsquo;s cross and a history of the flag so we</p>
+
+<p>clearly do not believe in that politically correct nonsense about the</p>
+
+<p>flags upsetting other nationalities  or being racist.Peter Dunn</p>
+
+<p>Press Officer</p>
+
+<p>University of Warwick&rsquo;</p>
+
+  
+  <footer>
+    <ul>
+      <li>Posted by <strong>Matt</strong></li>
+      <li>Published on <time>25 May 2002</time></li>
+      
+      <li>Last updated on <time>13 November 2018</time> (<a href="https://mattjon.es/git/matt/mattjones/commit/2dd5168ca550d8c9df07258c96145c930cb1192e">2dd5168</a>)</li>
+      
+      <li>Permalink: <a href="https://mattjon.es/blog/2002/05/response/">https://mattjon.es/blog/2002/05/response/</a></li>
+    </ul>
+  </footer>
+</article>
+
+
+<nav>
+  <h2>Site Menu</h2>
+  
+  <ul>
+
+<li><a class="sidebar-nav-item" href="/" title="">Home Page</a></li>
+
+</ul>
+</nav>
+
+
+    </main>
+
+    <footer>
+      <p></p>
+      <span id="speed"></span>
+    </footer>
+    <script>
+window.onload = function () {
+    var loadTime = window.performance.timing.domContentLoadedEventEnd-window.performance.timing.navigationStart; 
+         document.getElementById('speed').innerHTML = 'Page rendered in ' + loadTime/1000 + ' seconds &#128374;';
+}
+ 
+     </script>
+
+    
+  <script>
+    var lazy = [];
+    registerListener('load', setLazy);
+    registerListener('load', lazyLoad);
+    registerListener('scroll', lazyLoad);
+    registerListener('resize', lazyLoad);
+    function setLazy(){
+    
+    
+    
+    lazy = document.getElementsByClassName('lazy');
+    console.log('Found ' + lazy.length + ' lazy images');
+    } 
+    function lazyLoad(){
+    for(var i=0; i<lazy.length; i++){
+                                if(isInViewport(lazy[i])){
+                                if (lazy[i].getAttribute('data-src')){
+                                lazy[i].src = lazy[i].getAttribute('data-src');
+                                lazy[i].removeAttribute('data-src');
+                                }
+                                }
+                                }
+                                
+                                cleanLazy();
+                                }
+                                function cleanLazy(){
+                                lazy = Array.prototype.filter.call(lazy, function(l){ return l.getAttribute('data-src');});
+                                }
+                                function isInViewport(el){
+                                var rect = el.getBoundingClientRect();
+                                
+                                return (
+                                rect.bottom >= 0 && 
+      rect.right >= 0 && 
+      rect.top <= (window.innerHeight || document.documentElement.clientHeight) && 
+                  rect.left <= (window.innerWidth || document.documentElement.clientWidth)
+                               );
+                               }
+                               function registerListener(event, func) {
+                               if (window.addEventListener) {
+                               
+                               window.addEventListener(event, func)
+                               } else {
+                               window.attachEvent('on' + event, func)
+                               }
+                               }
+    </script>
+  </body>    
+</html>

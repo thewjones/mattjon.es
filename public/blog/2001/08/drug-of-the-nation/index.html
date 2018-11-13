@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>
+            Matt Jones
+        </title>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+        <meta name="author" content="@mattjones">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link type="rel/css">
+        <link href="/css/style.css" rel="stylesheet">
+</head>
+
+  <body>
+    <header>
+      <h1>Matt Jones</h1>
+
+      <nav id="options">
+        <ul>
+          
+          <li><a href="/index.xml" title="">Subscribe</a></li>
+          
+        </ul>
+      </nav>
+      
+      
+      
+      <nav id="main"><a id="back-link" href="/menu">
+          
+          menu
+          
+      </a></nav>
+    </header>
+    
+    <main>
+    
+
+
+<article>
+  <header>
+    <h1>Drug of the Nation</h1>
+  </header>
+  
+  
+  
+  <p>There was an excellent documentary about <a href="http://www.irational.org/heath/cctv/">CCTV</a> on <a href="http://www.channel4.com/highlights/">Channel 4</a> a few nights ago which raised many interesting points about the way in which surveillance has become a normal part of our lives. One particular section of the program explained how shopping centres [or Malls] can be likened to childrens&rsquo; playgrounds; in the same way that children are given a safe environment to play, thus are encouraged to do so, shopping centres provide us with a safe environment to shop. The program also highlighted the false image of shopping centres as being public spaces. The fact is that these places are privately owned, and all the owners want to see on their surveillance cameras is you busy shopping. Try exercising your right to free speech by peacefully protesting against McDonalds and the like and they&rsquo;ll have you out of there in no time.</p>
+
+<p>Situated in the city centre of Newcastle Upon Tyne is <a href="http://www.eldon-square.co.uk/home.htm">Eldon Square</a>, one of the largest inner city shopping centres in Europe. I hate it. Unfortunately, its size is such that I have to pass through it everyday to get from A to B, there&rsquo;s just no way around it. I have only lived in Newcastle for 5 years, so I don&rsquo;t know much about its history, but I often think about what was there before it… some fantastic architecture and open spaces I expect. Now there is one huge monstrosity of a building circling a small open space now known as &lsquo;Old Eldon Square&rsquo;. You can be sure that everytime I pass through Eldon Square - usually at its thinnest point - I cast a distasteful glance at one of the security cameras. They&rsquo;re watching.</p>
+
+  
+  <footer>
+    <ul>
+      <li>Posted by <strong>Matt</strong></li>
+      <li>Published on <time>21 August 2001</time></li>
+      
+      <li>Last updated on <time>13 November 2018</time> (<a href="https://mattjon.es/git/matt/mattjones/commit/2dd5168ca550d8c9df07258c96145c930cb1192e">2dd5168</a>)</li>
+      
+      <li>Permalink: <a href="https://mattjon.es/blog/2001/08/drug-of-the-nation/">https://mattjon.es/blog/2001/08/drug-of-the-nation/</a></li>
+    </ul>
+  </footer>
+</article>
+
+
+<nav>
+  <h2>Site Menu</h2>
+  
+  <ul>
+
+<li><a class="sidebar-nav-item" href="/" title="">Home Page</a></li>
+
+</ul>
+</nav>
+
+
+    </main>
+
+    <footer>
+      <p></p>
+      <span id="speed"></span>
+    </footer>
+    <script>
+window.onload = function () {
+    var loadTime = window.performance.timing.domContentLoadedEventEnd-window.performance.timing.navigationStart; 
+         document.getElementById('speed').innerHTML = 'Page rendered in ' + loadTime/1000 + ' seconds &#128374;';
+}
+ 
+     </script>
+
+    
+  <script>
+    var lazy = [];
+    registerListener('load', setLazy);
+    registerListener('load', lazyLoad);
+    registerListener('scroll', lazyLoad);
+    registerListener('resize', lazyLoad);
+    function setLazy(){
+    
+    
+    
+    lazy = document.getElementsByClassName('lazy');
+    console.log('Found ' + lazy.length + ' lazy images');
+    } 
+    function lazyLoad(){
+    for(var i=0; i<lazy.length; i++){
+                                if(isInViewport(lazy[i])){
+                                if (lazy[i].getAttribute('data-src')){
+                                lazy[i].src = lazy[i].getAttribute('data-src');
+                                lazy[i].removeAttribute('data-src');
+                                }
+                                }
+                                }
+                                
+                                cleanLazy();
+                                }
+                                function cleanLazy(){
+                                lazy = Array.prototype.filter.call(lazy, function(l){ return l.getAttribute('data-src');});
+                                }
+                                function isInViewport(el){
+                                var rect = el.getBoundingClientRect();
+                                
+                                return (
+                                rect.bottom >= 0 && 
+      rect.right >= 0 && 
+      rect.top <= (window.innerHeight || document.documentElement.clientHeight) && 
+                  rect.left <= (window.innerWidth || document.documentElement.clientWidth)
+                               );
+                               }
+                               function registerListener(event, func) {
+                               if (window.addEventListener) {
+                               
+                               window.addEventListener(event, func)
+                               } else {
+                               window.attachEvent('on' + event, func)
+                               }
+                               }
+    </script>
+  </body>    
+</html>

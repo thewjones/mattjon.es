@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>
+            Matt Jones
+        </title>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+        <meta name="author" content="@mattjones">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link type="rel/css">
+        <link href="/css/style.css" rel="stylesheet">
+</head>
+
+  <body>
+    <header>
+      <h1>Matt Jones</h1>
+
+      <nav id="options">
+        <ul>
+          
+          <li><a href="/index.xml" title="">Subscribe</a></li>
+          
+        </ul>
+      </nav>
+      
+      
+      
+      <nav id="main"><a id="back-link" href="/menu">
+          
+          menu
+          
+      </a></nav>
+    </header>
+    
+    <main>
+    
+
+
+<article>
+  <header>
+    <h1>Preaching Reason</h1>
+  </header>
+  
+  
+  
+  <p>On a Saturday afternoon, <a href="http://en.wikipedia.org/wiki/Grey%E2%80%99s_Monument">Grey&rsquo;s Monument</a> in Newcastle usually hosts Christian evangelists from different groups using various methods to indoctrinate passers-by with their religion; from the hell-and-damnation-type shouting preachers to the well organised and massively funded <a href="http://uk.alpha.org/">Alpha Course</a>, who cleverly use the &lsquo;Big Question&rsquo; type of rhetoric to encourage people to sign up for a ten week course on the Bible.</p>
+
+<p>Today, handing out leaflets near a small table stacked with printed material, were two representatives from the <a href="http://northeast.humanists.net/">North East Humanists</a>. Many would argue that these people are trying to do a similar thing to the Christian evangelists, to bring people around to their world view. I would argue that as a registered charity they are there to campaign for secular interests: the abolishment of faith schools, the teaching of Science without the hindrance of religious sensitivity, and the promotion of the rather obvious idea that people can be good to one another without fearing the wrath of a supernatural entity.</p>
+
+<p>At Newcastle University on the 11th of November - in a joint lecture with the North East Humanists to commemorate the forthcoming 200th Anniversary of Darwin’s birth - Professor Steve Jones will be giving <a href="http://www.ncl.ac.uk/events/noticeboard/month?m=November%202008&amp;d=11">a talk entitled &lsquo;Is evolution over?&rsquo;</a>. It&rsquo;s an astonishing fact that many millions of people in the UK believe evolution never even started. Anyway, I&rsquo;ll be there.</p>
+
+  
+  <footer>
+    <ul>
+      <li>Posted by <strong>Matt</strong></li>
+      <li>Published on <time>18 October 2008</time></li>
+      
+      <li>Last updated on <time>13 November 2018</time> (<a href="https://mattjon.es/git/matt/mattjones/commit/2dd5168ca550d8c9df07258c96145c930cb1192e">2dd5168</a>)</li>
+      
+      <li>Permalink: <a href="https://mattjon.es/blog/2008/10/preaching-reason/">https://mattjon.es/blog/2008/10/preaching-reason/</a></li>
+    </ul>
+  </footer>
+</article>
+
+
+<nav>
+  <h2>Site Menu</h2>
+  
+  <ul>
+
+<li><a class="sidebar-nav-item" href="/" title="">Home Page</a></li>
+
+</ul>
+</nav>
+
+
+    </main>
+
+    <footer>
+      <p></p>
+      <span id="speed"></span>
+    </footer>
+    <script>
+window.onload = function () {
+    var loadTime = window.performance.timing.domContentLoadedEventEnd-window.performance.timing.navigationStart; 
+         document.getElementById('speed').innerHTML = 'Page rendered in ' + loadTime/1000 + ' seconds &#128374;';
+}
+ 
+     </script>
+
+    
+  <script>
+    var lazy = [];
+    registerListener('load', setLazy);
+    registerListener('load', lazyLoad);
+    registerListener('scroll', lazyLoad);
+    registerListener('resize', lazyLoad);
+    function setLazy(){
+    
+    
+    
+    lazy = document.getElementsByClassName('lazy');
+    console.log('Found ' + lazy.length + ' lazy images');
+    } 
+    function lazyLoad(){
+    for(var i=0; i<lazy.length; i++){
+                                if(isInViewport(lazy[i])){
+                                if (lazy[i].getAttribute('data-src')){
+                                lazy[i].src = lazy[i].getAttribute('data-src');
+                                lazy[i].removeAttribute('data-src');
+                                }
+                                }
+                                }
+                                
+                                cleanLazy();
+                                }
+                                function cleanLazy(){
+                                lazy = Array.prototype.filter.call(lazy, function(l){ return l.getAttribute('data-src');});
+                                }
+                                function isInViewport(el){
+                                var rect = el.getBoundingClientRect();
+                                
+                                return (
+                                rect.bottom >= 0 && 
+      rect.right >= 0 && 
+      rect.top <= (window.innerHeight || document.documentElement.clientHeight) && 
+                  rect.left <= (window.innerWidth || document.documentElement.clientWidth)
+                               );
+                               }
+                               function registerListener(event, func) {
+                               if (window.addEventListener) {
+                               
+                               window.addEventListener(event, func)
+                               } else {
+                               window.attachEvent('on' + event, func)
+                               }
+                               }
+    </script>
+  </body>    
+</html>

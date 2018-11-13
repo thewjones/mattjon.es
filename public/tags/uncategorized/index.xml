@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Uncategorized on Matt Jones</title>
+    <link>https://mattjon.es/tags/uncategorized/</link>
+    <description>Recent content in Uncategorized on Matt Jones</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sat, 28 Feb 2009 23:41:22 +0000</lastBuildDate>
+    
+	<atom:link href="https://mattjon.es/tags/uncategorized/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Chairs</title>
+      <link>https://mattjon.es/blog/2009/02/chairs/</link>
+      <pubDate>Sat, 28 Feb 2009 23:41:22 +0000</pubDate>
+      
+      <guid>https://mattjon.es/blog/2009/02/chairs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>One Click from Danger</title>
+      <link>https://mattjon.es/blog/2008/01/one-click-from-danger/</link>
+      <pubDate>Fri, 04 Jan 2008 21:48:00 +0000</pubDate>
+      
+      <guid>https://mattjon.es/blog/2008/01/one-click-from-danger/</guid>
+      <description>On Monday, the BBC are showing a Panorama investigation called One Click from Danger. It&amp;rsquo;s like Brasseye never happened.</description>
+    </item>
+    
+    <item>
+      <title>Maize</title>
+      <link>https://mattjon.es/blog/2008/01/maize/</link>
+      <pubDate>Fri, 04 Jan 2008 14:32:00 +0000</pubDate>
+      
+      <guid>https://mattjon.es/blog/2008/01/maize/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Run Around Now</title>
+      <link>https://mattjon.es/blog/2008/01/run-around-now/</link>
+      <pubDate>Thu, 03 Jan 2008 22:48:00 +0000</pubDate>
+      
+      <guid>https://mattjon.es/blog/2008/01/run-around-now/</guid>
+      <description>A Guide to the Iowa Caucuses
+It&amp;rsquo;s Runaround!</description>
+    </item>
+    
+    <item>
+      <title>Flickr Remnants</title>
+      <link>https://mattjon.es/blog/2008/01/flickr-remnants/</link>
+      <pubDate>Thu, 03 Jan 2008 21:48:00 +0000</pubDate>
+      
+      <guid>https://mattjon.es/blog/2008/01/flickr-remnants/</guid>
+      <description>Remnants</description>
+    </item>
+    
+    <item>
+      <title>Stop... Hammer time</title>
+      <link>https://mattjon.es/blog/2008/01/stop...-hammer-time/</link>
+      <pubDate>Thu, 03 Jan 2008 00:33:00 +0000</pubDate>
+      
+      <guid>https://mattjon.es/blog/2008/01/stop...-hammer-time/</guid>
+      <description>Stop&amp;hellip; Hammer time.</description>
+    </item>
+    
+    <item>
+      <title>Ambiplectrum</title>
+      <link>https://mattjon.es/blog/2007/12/ambiplectrum/</link>
+      <pubDate>Tue, 18 Dec 2007 15:48:00 +0000</pubDate>
+      
+      <guid>https://mattjon.es/blog/2007/12/ambiplectrum/</guid>
+      <description>I play a real guitar right-handed, but an air guitar left-handed. The air guitar is actually a right-handed air guitar played upside-down. I string it normally though, of course.</description>
+    </item>
+    
+    <item>
+      <title>The Band Remains the Same</title>
+      <link>https://mattjon.es/blog/2007/12/the-band-remains-the-same/</link>
+      <pubDate>Thu, 13 Dec 2007 12:14:00 +0000</pubDate>
+      
+      <guid>https://mattjon.es/blog/2007/12/the-band-remains-the-same/</guid>
+      <description>Page, Plant, Jones and Bonham may have plundered the back catalog of various folk and blues artists of the past without due credit, but boy did they do it well.
+You could argue that this is an activity very much in the folk tradition; the music has freedom, songs get passed from generation to generation, and are interpreted differently. Page is criticised for stealing Bert Jansch&amp;rsquo;s Black Water Side, but really Page and Jansch were both inspired by Anne Brigg&amp;rsquo;s interpretation of a folk song which is much older than any of their versions.</description>
+    </item>
+    
+    <item>
+      <title>Microsoft trials XP on XO laptop</title>
+      <link>https://mattjon.es/blog/2007/12/microsoft-trials-xp-on-xo-laptop/</link>
+      <pubDate>Thu, 06 Dec 2007 17:00:00 +0000</pubDate>
+      
+      <guid>https://mattjon.es/blog/2007/12/microsoft-trials-xp-on-xo-laptop/</guid>
+      <description>Microsoft trials XP on XO laptop
+From the OLPC community Wiki that&amp;rsquo;s used for documentation and sharing learning materials, to the software on the XO, everything is open, and that is the project&amp;rsquo;s strength. Microsoft are just eyeing a new market for their old proprietory software and in so doing are not helping the OLPC project one bit.</description>
+    </item>
+    
+    <item>
+      <title>Perl on Rails - Why the BBC Fails at the Internet</title>
+      <link>https://mattjon.es/blog/2007/12/perl-on-rails---why-the-bbc-fails-at-the-internet/</link>
+      <pubDate>Wed, 05 Dec 2007 22:48:00 +0000</pubDate>
+      
+      <guid>https://mattjon.es/blog/2007/12/perl-on-rails---why-the-bbc-fails-at-the-internet/</guid>
+      <description>Perl on Rails - Why the BBC Fails at the Internet
+... talented, underpaid, and frustrated software engineers at the BBC are forced to make a decision. Either they can produce websites using static HTML, and make a few remote calls to limited Perl functions, decorating their page with SSIs, or they can fight against a reticent and incompetent technology supplier to make use of a crippled and outdated language on servers that more than likely are unable to meet the capacity requirements of a dynamic application being used by the BBC&#39;s audience.</description>
+    </item>
+    
+  </channel>
+</rss>

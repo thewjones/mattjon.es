@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>
+            Matt Jones
+        </title>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+        <meta name="author" content="@mattjones">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link type="rel/css">
+        <link href="/css/style.css" rel="stylesheet">
+<link rel="alternate" type="application/rss" href="https://mattjon.es/post/index.xml" title="Matt Jones" />
+</head>
+
+  <body>
+    <header>
+      <h1>Matt Jones</h1>
+
+      <nav id="options">
+        <ul>
+          
+          <li><a href="/index.xml" title="">Subscribe</a></li>
+          
+        </ul>
+      </nav>
+      
+      
+      
+      <nav id="main"><a id="back-link" href="/menu">
+          
+          menu
+          
+      </a></nav>
+    </header>
+    
+    <main>
+    
+<article>
+  <h1>All Posts</h1>
+      
+          <ul class="contents">
+          
+              <li><a href="https://mattjon.es/blog/2002/12/the-mathematics-of-shoe-lacing/">The Mathematics of Shoe Lacing <strong>4 December 2002</strong></a></li>
+           
+              <li><a href="https://mattjon.es/blog/2002/12/specialist-in-all-styles/">Specialist In All Styles <strong>4 December 2002</strong></a></li>
+           
+              <li><a href="https://mattjon.es/blog/2002/12/google-hilite/">Google Hilite <strong>1 December 2002</strong></a></li>
+           
+              <li><a href="https://mattjon.es/blog/2002/11/a-deadline-looms/">A Deadline Looms <strong>29 November 2002</strong></a></li>
+           
+              <li><a href="https://mattjon.es/blog/2002/11/os-x-finder/">OS X Finder <strong>28 November 2002</strong></a></li>
+           
+              <li><a href="https://mattjon.es/blog/2002/11/human-perception-and-the-digital-image/">Human Perception and The Digital Image <strong>27 November 2002</strong></a></li>
+           
+              <li><a href="https://mattjon.es/blog/2002/11/the-necks/">The Necks <strong>26 November 2002</strong></a></li>
+           
+              <li><a href="https://mattjon.es/blog/2002/11/three-strikes-and-youre-out/">Three Strikes And You&#39;re Out <strong>26 November 2002</strong></a></li>
+           
+              <li><a href="https://mattjon.es/blog/2002/11/coax/">Coax <strong>21 November 2002</strong></a></li>
+           
+              <li><a href="https://mattjon.es/blog/2002/11/top-100-sites/">Top 100 Sites <strong>20 November 2002</strong></a></li>
+           
+          </ul>
+  </article>
+
+
+    </main>
+
+    <footer>
+      <p></p>
+      <span id="speed"></span>
+    </footer>
+    <script>
+window.onload = function () {
+    var loadTime = window.performance.timing.domContentLoadedEventEnd-window.performance.timing.navigationStart; 
+         document.getElementById('speed').innerHTML = 'Page rendered in ' + loadTime/1000 + ' seconds &#128374;';
+}
+ 
+     </script>
+
+    
+  <script>
+    var lazy = [];
+    registerListener('load', setLazy);
+    registerListener('load', lazyLoad);
+    registerListener('scroll', lazyLoad);
+    registerListener('resize', lazyLoad);
+    function setLazy(){
+    
+    
+    
+    lazy = document.getElementsByClassName('lazy');
+    console.log('Found ' + lazy.length + ' lazy images');
+    } 
+    function lazyLoad(){
+    for(var i=0; i<lazy.length; i++){
+                                if(isInViewport(lazy[i])){
+                                if (lazy[i].getAttribute('data-src')){
+                                lazy[i].src = lazy[i].getAttribute('data-src');
+                                lazy[i].removeAttribute('data-src');
+                                }
+                                }
+                                }
+                                
+                                cleanLazy();
+                                }
+                                function cleanLazy(){
+                                lazy = Array.prototype.filter.call(lazy, function(l){ return l.getAttribute('data-src');});
+                                }
+                                function isInViewport(el){
+                                var rect = el.getBoundingClientRect();
+                                
+                                return (
+                                rect.bottom >= 0 && 
+      rect.right >= 0 && 
+      rect.top <= (window.innerHeight || document.documentElement.clientHeight) && 
+                  rect.left <= (window.innerWidth || document.documentElement.clientWidth)
+                               );
+                               }
+                               function registerListener(event, func) {
+                               if (window.addEventListener) {
+                               
+                               window.addEventListener(event, func)
+                               } else {
+                               window.attachEvent('on' + event, func)
+                               }
+                               }
+    </script>
+  </body>    
+</html>

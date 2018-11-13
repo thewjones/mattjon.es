@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>
+            Matt Jones
+        </title>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+        <meta name="author" content="@mattjones">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link type="rel/css">
+        <link href="/css/style.css" rel="stylesheet">
+</head>
+
+  <body>
+    <header>
+      <h1>Matt Jones</h1>
+
+      <nav id="options">
+        <ul>
+          
+          <li><a href="/index.xml" title="">Subscribe</a></li>
+          
+        </ul>
+      </nav>
+      
+      
+      
+      <nav id="main"><a id="back-link" href="/menu">
+          
+          menu
+          
+      </a></nav>
+    </header>
+    
+    <main>
+    
+
+
+<article>
+  <header>
+    <h1>Feeding the Information Appetite</h1>
+  </header>
+  
+  
+  
+  <p>It never occurred to me that the World Wide Web was a mere twinkle in Tim Berners Lee&rsquo;s eye during last Gulf war; the Web plays such a huge part in my life that I have trouble remembering how I got my fill of news without it. Being 15 at the time, I could probably think of better things to do than consume the latest on George Bush Snr&rsquo;s campaign against Saddam. I&rsquo;m certain that there was no blanket coverage of the war on TV (on the four terrestrial channels in the UK anyway); but that&rsquo;s not to say that the 1991 Gulf War wasn&rsquo;t a turning point in the whole War / Media relationship. Shortly after the war ended, <a href="http://www.royharper.com/biog.html">Roy Harper</a> wrote a song called &lsquo;The War Came Home Tonight&rsquo; in which he addresses the issue of our experience of war via television. Twelve years later, <a href="http://pesenki.by.ru/internat/harperroy/songs/620.shtml?lg=en">the lyrics</a> of this song seem to be even more relevent; the war comes home when the people who are reporting it to us <a href="http://news.bbc.co.uk/1/hi/world/middle_east/2921807.stm">get attacked</a>; when blood, fresh from the cameraman&rsquo;s wounded face, transgresses the TV medium by dripping onto the lens and seemingly onto the the glass of the screen. I agree with <a href="http://www.malross.co.uk">Mal</a>, amid the confusion and the misinformation broadcast on TV, this is an image that will endure.</p>
+
+<p>Unlike the war 12 years ago, we now have the web to aid us in our desire for information. According to <a href="http://news.bbc.co.uk/1/hi/uk/2914511.stm">this BBC interview </a> with <a href="http://www.useit.com">Jakob Nielsen</a>, a result of this is that we are now &lsquo;desk-chair generals&rsquo;. Nielsen suggests that the web is a better medium for gathering information about the War because the content is more focused and in a form that is easier to digest. I&rsquo;d take this a step further by suggesting that web based news has to be like this for the simple reason of archiving. If <a href="http://news.bbc.co.uk">BBC News Online</a> produced breaking news that is speculative and potentially innaccurate, any future search on the site would result in false information. Twenty-four hour news coverage on television seems to be a different matter; while news reports from the front-line can be edited and checked before being broadcast, news readers rely on unsubstantiated information for the purposes of filling air time. I tuned in to <a href="http://news.bbc.co.uk/1/hi/programmes/bbc_news_24/default.stm">BBC News 24</a> over the weekend and on more than one occassion, news was broken and not followed up; it&rsquo;s like a cat pouncing on its inanimate prey only to sidle off a second later in disinterest. When the US Army entered the outskirts of Baghdad on Saturday, watching News 24 was a frustrating experience; news reports contradicted each other and the lack of solid information about the unfolding events was clearly frustrating for the news readers as well.</p>
+
+<p>I think the web is a place for much more considered news and analysis about the War in Iraq, but I suppose it can only be left up to the reader to filter out the truth from the misinformation.</p>
+
+  
+  <footer>
+    <ul>
+      <li>Posted by <strong>Matt</strong></li>
+      <li>Published on <time>8 April 2003</time></li>
+      
+      <li>Last updated on <time>13 November 2018</time> (<a href="https://mattjon.es/git/matt/mattjones/commit/2dd5168ca550d8c9df07258c96145c930cb1192e">2dd5168</a>)</li>
+      
+      <li>Permalink: <a href="https://mattjon.es/blog/2003/04/feeding-the-information-appetite/">https://mattjon.es/blog/2003/04/feeding-the-information-appetite/</a></li>
+    </ul>
+  </footer>
+</article>
+
+
+<nav>
+  <h2>Site Menu</h2>
+  
+  <ul>
+
+<li><a class="sidebar-nav-item" href="/" title="">Home Page</a></li>
+
+</ul>
+</nav>
+
+
+    </main>
+
+    <footer>
+      <p></p>
+      <span id="speed"></span>
+    </footer>
+    <script>
+window.onload = function () {
+    var loadTime = window.performance.timing.domContentLoadedEventEnd-window.performance.timing.navigationStart; 
+         document.getElementById('speed').innerHTML = 'Page rendered in ' + loadTime/1000 + ' seconds &#128374;';
+}
+ 
+     </script>
+
+    
+  <script>
+    var lazy = [];
+    registerListener('load', setLazy);
+    registerListener('load', lazyLoad);
+    registerListener('scroll', lazyLoad);
+    registerListener('resize', lazyLoad);
+    function setLazy(){
+    
+    
+    
+    lazy = document.getElementsByClassName('lazy');
+    console.log('Found ' + lazy.length + ' lazy images');
+    } 
+    function lazyLoad(){
+    for(var i=0; i<lazy.length; i++){
+                                if(isInViewport(lazy[i])){
+                                if (lazy[i].getAttribute('data-src')){
+                                lazy[i].src = lazy[i].getAttribute('data-src');
+                                lazy[i].removeAttribute('data-src');
+                                }
+                                }
+                                }
+                                
+                                cleanLazy();
+                                }
+                                function cleanLazy(){
+                                lazy = Array.prototype.filter.call(lazy, function(l){ return l.getAttribute('data-src');});
+                                }
+                                function isInViewport(el){
+                                var rect = el.getBoundingClientRect();
+                                
+                                return (
+                                rect.bottom >= 0 && 
+      rect.right >= 0 && 
+      rect.top <= (window.innerHeight || document.documentElement.clientHeight) && 
+                  rect.left <= (window.innerWidth || document.documentElement.clientWidth)
+                               );
+                               }
+                               function registerListener(event, func) {
+                               if (window.addEventListener) {
+                               
+                               window.addEventListener(event, func)
+                               } else {
+                               window.attachEvent('on' + event, func)
+                               }
+                               }
+    </script>
+  </body>    
+</html>

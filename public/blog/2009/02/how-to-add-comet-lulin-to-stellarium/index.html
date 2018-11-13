@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>
+            Matt Jones
+        </title>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+        <meta name="author" content="@mattjones">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link type="rel/css">
+        <link href="/css/style.css" rel="stylesheet">
+</head>
+
+  <body>
+    <header>
+      <h1>Matt Jones</h1>
+
+      <nav id="options">
+        <ul>
+          
+          <li><a href="/index.xml" title="">Subscribe</a></li>
+          
+        </ul>
+      </nav>
+      
+      
+      
+      <nav id="main"><a id="back-link" href="/menu">
+          
+          menu
+          
+      </a></nav>
+    </header>
+    
+    <main>
+    
+
+
+<article>
+  <header>
+    <h1>How to add Comet Lulin to Stellarium</h1>
+  </header>
+  
+  
+  
+  <p><img src="http://local.wordpress/wp-content/uploads/2009/02/lulin.png" alt="lulin" /></p>
+
+<p>If you&rsquo;re in the Northern Hemisphere, the best time to see Comet Lulin will be when it passes Saturn and heads towards Regulus in the constellation of Leo from the 23rd of February onwards. It should be visible to the naked eye if you have clear skies and should look pretty good through binoculars.</p>
+
+<p>A good way to track its progress - and find out how to spot it - is to use <a href="http://stellarium.org">Stellarium</a>. Stellarium is a piece of open source, cross-platform Planetarium software which has a database of 600,000 stars and other astronomical objects. However, a vanilla installation doesn&rsquo;t have information about comets, so you have to add Lulin yourself.</p>
+
+<p>To do this, you need to edit the Stellarium configuration file called &lsquo;ssystem.ini&rsquo;. This is found in different places depending on your operating system (note: you&rsquo;ll probably need an admin/root password to do this):</p>
+
+<p><strong>Linux</strong>: /usr/share/stellarium/data/ssystem.ini
+<strong>Mac</strong>: /Applications/stellarium.app/data/ssystem.ini (ctrl-click on the Stellarium.app icon &gt;&rsquo; Show package contents&rsquo;)
+<strong>Windows</strong>: C:Program FilesStellariumdatassystem.ini</p>
+
+<p>At the bottom of the ssystem.ini file, add the following:
+<code>
+[lulin]
+name = C/2007 N3 (Lulin)
+parent = Sun
+radius = 100
+oblateness = 0.0
+halo = true
+color = 1.0,1.0,1.0
+tex_halo = star16x16.png
+tex_map = nomap.png
+coord_func = comet_orbit
+orbit_TimeAtPericenter = 2454842.112213313327
+orbit_PericenterDistance = 1.211815031505141
+orbit_Eccentricity = 1.000243857235593
+orbit_ArgOfPericenter = 136.8421983153854
+orbit_AscendingNode = 338.5047481504214
+orbit_Inclination = 178.3725975895116
+lighting = false
+albedo = 1
+orbit_visualization_period = 10000000000
+</code></p>
+
+<p>Credit goes to Robert9 for the posting the above to this <a href="http://www.iceinspace.com.au/forum/showthread.php?s=e8e7a9dcac793419c97e524699f4b1be&amp;t=40365&amp;page=2">this forum</a>, which is in turn based on data from the <a href="http://ssd.jpl.nasa.gov/?horizons">JPL Horizons database</a>.</p>
+
+<p>Once you save the file and run Stellarium, you should see Comet Lulin appear. Happy Comet watching!</p>
+
+  
+  <footer>
+    <ul>
+      <li>Posted by <strong>Matt</strong></li>
+      <li>Published on <time>7 February 2009</time></li>
+      
+      <li>Last updated on <time>13 November 2018</time> (<a href="https://mattjon.es/git/matt/mattjones/commit/2dd5168ca550d8c9df07258c96145c930cb1192e">2dd5168</a>)</li>
+      
+      <li>Permalink: <a href="https://mattjon.es/blog/2009/02/how-to-add-comet-lulin-to-stellarium/">https://mattjon.es/blog/2009/02/how-to-add-comet-lulin-to-stellarium/</a></li>
+    </ul>
+  </footer>
+</article>
+
+
+<nav>
+  <h2>Site Menu</h2>
+  
+  <ul>
+
+<li><a class="sidebar-nav-item" href="/" title="">Home Page</a></li>
+
+</ul>
+</nav>
+
+
+    </main>
+
+    <footer>
+      <p></p>
+      <span id="speed"></span>
+    </footer>
+    <script>
+window.onload = function () {
+    var loadTime = window.performance.timing.domContentLoadedEventEnd-window.performance.timing.navigationStart; 
+         document.getElementById('speed').innerHTML = 'Page rendered in ' + loadTime/1000 + ' seconds &#128374;';
+}
+ 
+     </script>
+
+    
+  <script>
+    var lazy = [];
+    registerListener('load', setLazy);
+    registerListener('load', lazyLoad);
+    registerListener('scroll', lazyLoad);
+    registerListener('resize', lazyLoad);
+    function setLazy(){
+    
+    
+    
+    lazy = document.getElementsByClassName('lazy');
+    console.log('Found ' + lazy.length + ' lazy images');
+    } 
+    function lazyLoad(){
+    for(var i=0; i<lazy.length; i++){
+                                if(isInViewport(lazy[i])){
+                                if (lazy[i].getAttribute('data-src')){
+                                lazy[i].src = lazy[i].getAttribute('data-src');
+                                lazy[i].removeAttribute('data-src');
+                                }
+                                }
+                                }
+                                
+                                cleanLazy();
+                                }
+                                function cleanLazy(){
+                                lazy = Array.prototype.filter.call(lazy, function(l){ return l.getAttribute('data-src');});
+                                }
+                                function isInViewport(el){
+                                var rect = el.getBoundingClientRect();
+                                
+                                return (
+                                rect.bottom >= 0 && 
+      rect.right >= 0 && 
+      rect.top <= (window.innerHeight || document.documentElement.clientHeight) && 
+                  rect.left <= (window.innerWidth || document.documentElement.clientWidth)
+                               );
+                               }
+                               function registerListener(event, func) {
+                               if (window.addEventListener) {
+                               
+                               window.addEventListener(event, func)
+                               } else {
+                               window.attachEvent('on' + event, func)
+                               }
+                               }
+    </script>
+  </body>    
+</html>

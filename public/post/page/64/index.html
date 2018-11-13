@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>
+            Matt Jones
+        </title>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+        <meta name="author" content="@mattjones">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link type="rel/css">
+        <link href="/css/style.css" rel="stylesheet">
+<link rel="alternate" type="application/rss" href="https://mattjon.es/post/index.xml" title="Matt Jones" />
+</head>
+
+  <body>
+    <header>
+      <h1>Matt Jones</h1>
+
+      <nav id="options">
+        <ul>
+          
+          <li><a href="/index.xml" title="">Subscribe</a></li>
+          
+        </ul>
+      </nav>
+      
+      
+      
+      <nav id="main"><a id="back-link" href="/menu">
+          
+          menu
+          
+      </a></nav>
+    </header>
+    
+    <main>
+    
+<article>
+  <h1>All Posts</h1>
+      
+          <ul class="contents">
+          
+              <li><a href="https://mattjon.es/blog/2004/02/mighty-atom-really-similar-syndication/">Mighty Atom: Really Similar Syndication? <strong>25 February 2004</strong></a></li>
+           
+              <li><a href="https://mattjon.es/blog/2004/02/the-complete-guide-to-googlemania/">The Complete Guide to Googlemania! <strong>25 February 2004</strong></a></li>
+           
+              <li><a href="https://mattjon.es/blog/2004/02/no-disc-the-uncertain-future-of-the-cd/">No Disc: The Uncertain Future of the CD <strong>25 February 2004</strong></a></li>
+           
+              <li><a href="https://mattjon.es/blog/2004/02/nikons-new-sub-1000-d70-dslr-in-production/">Nikon&#39;s new sub-£1000 D70 dSLR in production <strong>24 February 2004</strong></a></li>
+           
+              <li><a href="https://mattjon.es/blog/2004/02/grey-tuesday/">Grey Tuesday <strong>24 February 2004</strong></a></li>
+           
+              <li><a href="https://mattjon.es/blog/2004/02/on-becoming-a-micro-dj/">On Becoming a Micro DJ <strong>24 February 2004</strong></a></li>
+           
+              <li><a href="https://mattjon.es/blog/2004/02/spectacular-mpeg-video-of-a-high-voltage-electrical-arc/">Spectacular mpeg video of a high-voltage electrical arc <strong>23 February 2004</strong></a></li>
+           
+              <li><a href="https://mattjon.es/blog/2004/02/the-drift-table-weblog/">The Drift Table Weblog <strong>23 February 2004</strong></a></li>
+           
+              <li><a href="https://mattjon.es/blog/2004/02/pictures-of-the-surface-of-venus/">Pictures of The Surface of Venus <strong>22 February 2004</strong></a></li>
+           
+              <li><a href="https://mattjon.es/blog/2004/02/field/">Field <strong>22 February 2004</strong></a></li>
+           
+          </ul>
+  </article>
+
+
+    </main>
+
+    <footer>
+      <p></p>
+      <span id="speed"></span>
+    </footer>
+    <script>
+window.onload = function () {
+    var loadTime = window.performance.timing.domContentLoadedEventEnd-window.performance.timing.navigationStart; 
+         document.getElementById('speed').innerHTML = 'Page rendered in ' + loadTime/1000 + ' seconds &#128374;';
+}
+ 
+     </script>
+
+    
+  <script>
+    var lazy = [];
+    registerListener('load', setLazy);
+    registerListener('load', lazyLoad);
+    registerListener('scroll', lazyLoad);
+    registerListener('resize', lazyLoad);
+    function setLazy(){
+    
+    
+    
+    lazy = document.getElementsByClassName('lazy');
+    console.log('Found ' + lazy.length + ' lazy images');
+    } 
+    function lazyLoad(){
+    for(var i=0; i<lazy.length; i++){
+                                if(isInViewport(lazy[i])){
+                                if (lazy[i].getAttribute('data-src')){
+                                lazy[i].src = lazy[i].getAttribute('data-src');
+                                lazy[i].removeAttribute('data-src');
+                                }
+                                }
+                                }
+                                
+                                cleanLazy();
+                                }
+                                function cleanLazy(){
+                                lazy = Array.prototype.filter.call(lazy, function(l){ return l.getAttribute('data-src');});
+                                }
+                                function isInViewport(el){
+                                var rect = el.getBoundingClientRect();
+                                
+                                return (
+                                rect.bottom >= 0 && 
+      rect.right >= 0 && 
+      rect.top <= (window.innerHeight || document.documentElement.clientHeight) && 
+                  rect.left <= (window.innerWidth || document.documentElement.clientWidth)
+                               );
+                               }
+                               function registerListener(event, func) {
+                               if (window.addEventListener) {
+                               
+                               window.addEventListener(event, func)
+                               } else {
+                               window.attachEvent('on' + event, func)
+                               }
+                               }
+    </script>
+  </body>    
+</html>

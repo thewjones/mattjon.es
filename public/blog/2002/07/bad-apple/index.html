@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>
+            Matt Jones
+        </title>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+        <meta name="author" content="@mattjones">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link type="rel/css">
+        <link href="/css/style.css" rel="stylesheet">
+</head>
+
+  <body>
+    <header>
+      <h1>Matt Jones</h1>
+
+      <nav id="options">
+        <ul>
+          
+          <li><a href="/index.xml" title="">Subscribe</a></li>
+          
+        </ul>
+      </nav>
+      
+      
+      
+      <nav id="main"><a id="back-link" href="/menu">
+          
+          menu
+          
+      </a></nav>
+    </header>
+    
+    <main>
+    
+
+
+<article>
+  <header>
+    <h1>Bad Apple</h1>
+  </header>
+  
+  
+  
+  <p>I like to think that <a href="http://www.apple.com">Apple&rsquo;s</a> aim isn&rsquo;t purely to make as much profit as they possibly can, but instead, to enrich humanity with technology that makes our lives easier and more enjoyable. Of course, this is what Apple wants me to think; to think different[ly], use a Mac. Naturally, those who are passionate about Apple Computer and the insanely great products it produces want to know what Apple has planned next. Because of this, <a href="http://www.macrumors.com/">rumour</a> <a href="http://www.thinksecret.com">sites</a> have become a staple part of every Mac users surfing habits; no where else offers as much insight into what is happening behind Apple&rsquo;s cloak of secrecy. A few days ago, Apple <a href="http://www.thinksecret.com/news/editorialpressaccess.html">denied these rumour sites press access</a> to <a href="http://www.macworldexpo.com/">Macworld Expo</a> in San Francisco. Bad move. As you can imagine, the people who run these sites are very unhappy about this; they have been punished by Apple for being good at their job, to report the news that Mac fans want to know about. It seems that Apple are trying to control what news we read and when we read it, as far as they are concerned if something hasn&rsquo;t been officially announced by them, then you should ignore it. Like the <a href="http://www.riaa.org/index.cfm">RIAA</a> trying to control music distribution on the web, it&rsquo;s a pointless effort; information will always be leaked and there will always be a rumour site ready pick it up and publish it. Annoying the well-meaning independent sites that report Apple news is not going to help their cause. Indeed, in this case, it is Apple who need to think different[ly].</p>
+
+  
+  <footer>
+    <ul>
+      <li>Posted by <strong>Matt</strong></li>
+      <li>Published on <time>5 July 2002</time></li>
+      
+      <li>Last updated on <time>13 November 2018</time> (<a href="https://mattjon.es/git/matt/mattjones/commit/2dd5168ca550d8c9df07258c96145c930cb1192e">2dd5168</a>)</li>
+      
+      <li>Permalink: <a href="https://mattjon.es/blog/2002/07/bad-apple/">https://mattjon.es/blog/2002/07/bad-apple/</a></li>
+    </ul>
+  </footer>
+</article>
+
+
+<nav>
+  <h2>Site Menu</h2>
+  
+  <ul>
+
+<li><a class="sidebar-nav-item" href="/" title="">Home Page</a></li>
+
+</ul>
+</nav>
+
+
+    </main>
+
+    <footer>
+      <p></p>
+      <span id="speed"></span>
+    </footer>
+    <script>
+window.onload = function () {
+    var loadTime = window.performance.timing.domContentLoadedEventEnd-window.performance.timing.navigationStart; 
+         document.getElementById('speed').innerHTML = 'Page rendered in ' + loadTime/1000 + ' seconds &#128374;';
+}
+ 
+     </script>
+
+    
+  <script>
+    var lazy = [];
+    registerListener('load', setLazy);
+    registerListener('load', lazyLoad);
+    registerListener('scroll', lazyLoad);
+    registerListener('resize', lazyLoad);
+    function setLazy(){
+    
+    
+    
+    lazy = document.getElementsByClassName('lazy');
+    console.log('Found ' + lazy.length + ' lazy images');
+    } 
+    function lazyLoad(){
+    for(var i=0; i<lazy.length; i++){
+                                if(isInViewport(lazy[i])){
+                                if (lazy[i].getAttribute('data-src')){
+                                lazy[i].src = lazy[i].getAttribute('data-src');
+                                lazy[i].removeAttribute('data-src');
+                                }
+                                }
+                                }
+                                
+                                cleanLazy();
+                                }
+                                function cleanLazy(){
+                                lazy = Array.prototype.filter.call(lazy, function(l){ return l.getAttribute('data-src');});
+                                }
+                                function isInViewport(el){
+                                var rect = el.getBoundingClientRect();
+                                
+                                return (
+                                rect.bottom >= 0 && 
+      rect.right >= 0 && 
+      rect.top <= (window.innerHeight || document.documentElement.clientHeight) && 
+                  rect.left <= (window.innerWidth || document.documentElement.clientWidth)
+                               );
+                               }
+                               function registerListener(event, func) {
+                               if (window.addEventListener) {
+                               
+                               window.addEventListener(event, func)
+                               } else {
+                               window.attachEvent('on' + event, func)
+                               }
+                               }
+    </script>
+  </body>    
+</html>

@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>
+            Matt Jones
+        </title>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+        <meta name="author" content="@mattjones">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link type="rel/css">
+        <link href="/css/style.css" rel="stylesheet">
+</head>
+
+  <body>
+    <header>
+      <h1>Matt Jones</h1>
+
+      <nav id="options">
+        <ul>
+          
+          <li><a href="/index.xml" title="">Subscribe</a></li>
+          
+        </ul>
+      </nav>
+      
+      
+      
+      <nav id="main"><a id="back-link" href="/menu">
+          
+          menu
+          
+      </a></nav>
+    </header>
+    
+    <main>
+    
+
+
+<article>
+  <header>
+    <h1>Moore&#39;s rose-tinted view of the NHS</h1>
+  </header>
+  
+  
+  
+  <p><img src="/images/sicko-poster-1.jpg" alt="" />The UK&rsquo;s <a href="http://www.nhs.uk/">National Health Service</a> is a very good thing and, after watching Michael Moore&rsquo;s latest film <a href="http://en.wikipedia.org/wiki/Sicko">SiCKO</a>, I realise it&rsquo;s something I take for granted.</p>
+
+<p>That said, in order to put the America&rsquo;s health care system in as negative light as possible, Moore presents us with a very rosy view of the NHS as well similar universal health care systems in France and Cuba.</p>
+
+<p>The NHS is not quite as perfect as he suggests; among other problems it&rsquo;s becoming <a href="http://society.guardian.co.uk/health/news/0,,2044590,00.html">impossible to get NHS dental treatment</a>, waiting lists are <a href="http://society.guardian.co.uk/health/news/0,,2097563,00.html">very long for some surgical procedures</a>, there are ongoing serious <a href="http://business.guardian.co.uk/story/0,,2106155,00.html">problems with NHS IT systems</a>, and people are getting infected by the MRSA superbug which seems <a href="http://news.independent.co.uk/health/article2669890.ece">make its home in UK hospitals</a>.</p>
+
+<p>Moore seems to be exploiting the fact that a large percentage of the film&rsquo;s intended audience is unfamiliar with our health care system, giving him a blank slate to draw any picture he wants.</p>
+
+<p>SiCKO is a powerful and moving film, and people should see it, but I would have liked to see a slightly more realistic presentation of the NHS, and I suspect the French and Cuban systems aren&rsquo;t the perfect models of a welfare state either.</p>
+
+<p>Moore wants his fellow Americans to think that the grass is much greener on the other side. It probably is, just not quite as green as Moore wants them to believe.</p>
+
+  
+  <footer>
+    <ul>
+      <li>Posted by <strong>Matt</strong></li>
+      <li>Published on <time>7 July 2007</time></li>
+      
+      <li>Last updated on <time>13 November 2018</time> (<a href="https://mattjon.es/git/matt/mattjones/commit/2dd5168ca550d8c9df07258c96145c930cb1192e">2dd5168</a>)</li>
+      
+      <li>Permalink: <a href="https://mattjon.es/blog/2007/07/moores-rose-tinted-view-of-the-nhs/">https://mattjon.es/blog/2007/07/moores-rose-tinted-view-of-the-nhs/</a></li>
+    </ul>
+  </footer>
+</article>
+
+
+<nav>
+  <h2>Site Menu</h2>
+  
+  <ul>
+
+<li><a class="sidebar-nav-item" href="/" title="">Home Page</a></li>
+
+</ul>
+</nav>
+
+
+    </main>
+
+    <footer>
+      <p></p>
+      <span id="speed"></span>
+    </footer>
+    <script>
+window.onload = function () {
+    var loadTime = window.performance.timing.domContentLoadedEventEnd-window.performance.timing.navigationStart; 
+         document.getElementById('speed').innerHTML = 'Page rendered in ' + loadTime/1000 + ' seconds &#128374;';
+}
+ 
+     </script>
+
+    
+  <script>
+    var lazy = [];
+    registerListener('load', setLazy);
+    registerListener('load', lazyLoad);
+    registerListener('scroll', lazyLoad);
+    registerListener('resize', lazyLoad);
+    function setLazy(){
+    
+    
+    
+    lazy = document.getElementsByClassName('lazy');
+    console.log('Found ' + lazy.length + ' lazy images');
+    } 
+    function lazyLoad(){
+    for(var i=0; i<lazy.length; i++){
+                                if(isInViewport(lazy[i])){
+                                if (lazy[i].getAttribute('data-src')){
+                                lazy[i].src = lazy[i].getAttribute('data-src');
+                                lazy[i].removeAttribute('data-src');
+                                }
+                                }
+                                }
+                                
+                                cleanLazy();
+                                }
+                                function cleanLazy(){
+                                lazy = Array.prototype.filter.call(lazy, function(l){ return l.getAttribute('data-src');});
+                                }
+                                function isInViewport(el){
+                                var rect = el.getBoundingClientRect();
+                                
+                                return (
+                                rect.bottom >= 0 && 
+      rect.right >= 0 && 
+      rect.top <= (window.innerHeight || document.documentElement.clientHeight) && 
+                  rect.left <= (window.innerWidth || document.documentElement.clientWidth)
+                               );
+                               }
+                               function registerListener(event, func) {
+                               if (window.addEventListener) {
+                               
+                               window.addEventListener(event, func)
+                               } else {
+                               window.attachEvent('on' + event, func)
+                               }
+                               }
+    </script>
+  </body>    
+</html>

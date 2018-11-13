@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>
+            Matt Jones
+        </title>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+        <meta name="author" content="@mattjones">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link type="rel/css">
+        <link href="/css/style.css" rel="stylesheet">
+</head>
+
+  <body>
+    <header>
+      <h1>Matt Jones</h1>
+
+      <nav id="options">
+        <ul>
+          
+          <li><a href="/index.xml" title="">Subscribe</a></li>
+          
+        </ul>
+      </nav>
+      
+      
+      
+      <nav id="main"><a id="back-link" href="/menu">
+          
+          menu
+          
+      </a></nav>
+    </header>
+    
+    <main>
+    
+
+
+<article>
+  <header>
+    <h1>Skye 2</h1>
+  </header>
+  
+  
+  
+  <p>Just got back from spending New Year on the <a href="http://www.skye.co.uk/">Island of Skye</a>. Due to some tricky driving conditions and some poor navigating on my part, it took us a grueling 9 hours to get there, but it was [mostly] worth it. My only disappointment is that we didn&rsquo;t see enough of the island, we just didn&rsquo;t have enough time. Well actually, there was plenty of time, but we&rsquo;re such an unorganised bunch that by the time we&rsquo;d faffed around with breakfast, then sat around for a bit… then finally managed to put our walking boots on, it seemed to go dark (about 2.30pm). We needed someone there to say &lsquo;<em>Right. Tomorrow, everyone is going to arise at 9pm, eat breakfast then spend the rest of the day walking</em>&rsquo;. Unfortunately for us though, there wasn&rsquo;t anyone as organised as this and we ended up doing very little. Although we did - rather drunkenly - go sledging down the steep garden at the front of the hostel… which was fun, it even had a &lsquo;jump&rsquo; half way down which caused many sore arses. New Years Eve/Day was spent partying all night although I was disappointed that I didn&rsquo;t quite make it to watch the sun rise on the dawn of <a href="http://uk.imdb.com/Title?0062622">2001</a>&hellip; it was rubbish anyway apparently [very overcast and dreary] :). The return journey was 2 hours quicker than the outward one because we realised that going through <a href="http://www.timeout.com/glasgow/">Glasgow</a> is much faster than going round it… plus it was great to see the fabulous Highlands of Scotland (which we missed on the outward journey because we travelled through the night). It was a good trip, I just wish we used our time there more effectively. Ne&rsquo;ermind.</p>
+
+<p>Anyway, Happy New Millennium!</p>
+
+  
+  <footer>
+    <ul>
+      <li>Posted by <strong>Matt</strong></li>
+      <li>Published on <time>2 January 2001</time></li>
+      
+      <li>Last updated on <time>13 November 2018</time> (<a href="https://mattjon.es/git/matt/mattjones/commit/2dd5168ca550d8c9df07258c96145c930cb1192e">2dd5168</a>)</li>
+      
+      <li>Permalink: <a href="https://mattjon.es/blog/2001/01/skye-2/">https://mattjon.es/blog/2001/01/skye-2/</a></li>
+    </ul>
+  </footer>
+</article>
+
+
+<nav>
+  <h2>Site Menu</h2>
+  
+  <ul>
+
+<li><a class="sidebar-nav-item" href="/" title="">Home Page</a></li>
+
+</ul>
+</nav>
+
+
+    </main>
+
+    <footer>
+      <p></p>
+      <span id="speed"></span>
+    </footer>
+    <script>
+window.onload = function () {
+    var loadTime = window.performance.timing.domContentLoadedEventEnd-window.performance.timing.navigationStart; 
+         document.getElementById('speed').innerHTML = 'Page rendered in ' + loadTime/1000 + ' seconds &#128374;';
+}
+ 
+     </script>
+
+    
+  <script>
+    var lazy = [];
+    registerListener('load', setLazy);
+    registerListener('load', lazyLoad);
+    registerListener('scroll', lazyLoad);
+    registerListener('resize', lazyLoad);
+    function setLazy(){
+    
+    
+    
+    lazy = document.getElementsByClassName('lazy');
+    console.log('Found ' + lazy.length + ' lazy images');
+    } 
+    function lazyLoad(){
+    for(var i=0; i<lazy.length; i++){
+                                if(isInViewport(lazy[i])){
+                                if (lazy[i].getAttribute('data-src')){
+                                lazy[i].src = lazy[i].getAttribute('data-src');
+                                lazy[i].removeAttribute('data-src');
+                                }
+                                }
+                                }
+                                
+                                cleanLazy();
+                                }
+                                function cleanLazy(){
+                                lazy = Array.prototype.filter.call(lazy, function(l){ return l.getAttribute('data-src');});
+                                }
+                                function isInViewport(el){
+                                var rect = el.getBoundingClientRect();
+                                
+                                return (
+                                rect.bottom >= 0 && 
+      rect.right >= 0 && 
+      rect.top <= (window.innerHeight || document.documentElement.clientHeight) && 
+                  rect.left <= (window.innerWidth || document.documentElement.clientWidth)
+                               );
+                               }
+                               function registerListener(event, func) {
+                               if (window.addEventListener) {
+                               
+                               window.addEventListener(event, func)
+                               } else {
+                               window.attachEvent('on' + event, func)
+                               }
+                               }
+    </script>
+  </body>    
+</html>

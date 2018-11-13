@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>
+            Matt Jones
+        </title>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+        <meta name="author" content="@mattjones">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link type="rel/css">
+        <link href="/css/style.css" rel="stylesheet">
+</head>
+
+  <body>
+    <header>
+      <h1>Matt Jones</h1>
+
+      <nav id="options">
+        <ul>
+          
+          <li><a href="/index.xml" title="">Subscribe</a></li>
+          
+        </ul>
+      </nav>
+      
+      
+      
+      <nav id="main"><a id="back-link" href="/menu">
+          
+          menu
+          
+      </a></nav>
+    </header>
+    
+    <main>
+    
+
+
+<article>
+  <header>
+    <h1>Bread... Milk... The Lord Of The Rings DVD</h1>
+  </header>
+  
+  
+  
+  <p>I was browsing in <a href="http://www.hmv.com/"><strong>H</strong>is <strong>M</strong>aster&rsquo;s <strong>V</strong>oice</a> the other day; there were umpteen copies of <a href="http://www.play.com/play247.asp?page=title&amp;r=R2&amp;title=101915">The Lord of the Rings DVD</a> just near the entrance - an expected location for a newly released DVD of a popular film I thought. However, during the course of last week, the DVD appeared in places I didn&rsquo;t expect to see it. I went to <a href="http://www.amazon.co.uk/exec/obidos/tg/browse/-/655876/202-1358633-5915844">Waterstones</a> - a <strong>book</strong> shop - and there they were, flying off the shelves and into hands of eager fans [this must be the place where people who&rsquo;ve actually read the book get their copies]. I went to the petrol station to refuel my car, and there was Frodo, Gandalf et al staring at me from the pay counter next the reduced-price <a href="http://www.cadbury.co.uk/">Cadbury&rsquo;s Cream Eggs</a> and the <a href="http://www.duracell.com">Duracells</a>. I wondered where else I might see them: in newsagents, post offices, shoe shops, <a href="http://www.greggs.co.uk/">pasty shops</a>&hellip; on specialised Lord of The Rings vending machines. The bad news is that the 30 disc edition comes out soon; you won&rsquo;t be able to see for the darn things.</p>
+
+  
+  <footer>
+    <ul>
+      <li>Posted by <strong>Matt</strong></li>
+      <li>Published on <time>14 August 2002</time></li>
+      
+      <li>Last updated on <time>13 November 2018</time> (<a href="https://mattjon.es/git/matt/mattjones/commit/2dd5168ca550d8c9df07258c96145c930cb1192e">2dd5168</a>)</li>
+      
+      <li>Permalink: <a href="https://mattjon.es/blog/2002/08/bread...-milk...-the-lord-of-the-rings-dvd/">https://mattjon.es/blog/2002/08/bread...-milk...-the-lord-of-the-rings-dvd/</a></li>
+    </ul>
+  </footer>
+</article>
+
+
+<nav>
+  <h2>Site Menu</h2>
+  
+  <ul>
+
+<li><a class="sidebar-nav-item" href="/" title="">Home Page</a></li>
+
+</ul>
+</nav>
+
+
+    </main>
+
+    <footer>
+      <p></p>
+      <span id="speed"></span>
+    </footer>
+    <script>
+window.onload = function () {
+    var loadTime = window.performance.timing.domContentLoadedEventEnd-window.performance.timing.navigationStart; 
+         document.getElementById('speed').innerHTML = 'Page rendered in ' + loadTime/1000 + ' seconds &#128374;';
+}
+ 
+     </script>
+
+    
+  <script>
+    var lazy = [];
+    registerListener('load', setLazy);
+    registerListener('load', lazyLoad);
+    registerListener('scroll', lazyLoad);
+    registerListener('resize', lazyLoad);
+    function setLazy(){
+    
+    
+    
+    lazy = document.getElementsByClassName('lazy');
+    console.log('Found ' + lazy.length + ' lazy images');
+    } 
+    function lazyLoad(){
+    for(var i=0; i<lazy.length; i++){
+                                if(isInViewport(lazy[i])){
+                                if (lazy[i].getAttribute('data-src')){
+                                lazy[i].src = lazy[i].getAttribute('data-src');
+                                lazy[i].removeAttribute('data-src');
+                                }
+                                }
+                                }
+                                
+                                cleanLazy();
+                                }
+                                function cleanLazy(){
+                                lazy = Array.prototype.filter.call(lazy, function(l){ return l.getAttribute('data-src');});
+                                }
+                                function isInViewport(el){
+                                var rect = el.getBoundingClientRect();
+                                
+                                return (
+                                rect.bottom >= 0 && 
+      rect.right >= 0 && 
+      rect.top <= (window.innerHeight || document.documentElement.clientHeight) && 
+                  rect.left <= (window.innerWidth || document.documentElement.clientWidth)
+                               );
+                               }
+                               function registerListener(event, func) {
+                               if (window.addEventListener) {
+                               
+                               window.addEventListener(event, func)
+                               } else {
+                               window.attachEvent('on' + event, func)
+                               }
+                               }
+    </script>
+  </body>    
+</html>

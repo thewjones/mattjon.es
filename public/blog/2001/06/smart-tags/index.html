@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>
+            Matt Jones
+        </title>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+        <meta name="author" content="@mattjones">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link type="rel/css">
+        <link href="/css/style.css" rel="stylesheet">
+</head>
+
+  <body>
+    <header>
+      <h1>Matt Jones</h1>
+
+      <nav id="options">
+        <ul>
+          
+          <li><a href="/index.xml" title="">Subscribe</a></li>
+          
+        </ul>
+      </nav>
+      
+      
+      
+      <nav id="main"><a id="back-link" href="/menu">
+          
+          menu
+          
+      </a></nav>
+    </header>
+    
+    <main>
+    
+
+
+<article>
+  <header>
+    <h1>Smart Tags</h1>
+  </header>
+  
+  
+  
+  <p>It appears that with the launch of <a href="http://www.microsoft.com/windowsxp/default.asp">Windows XP</a>, us bloggers are going to have to add a line of code to our source which disables Microsoft&rsquo;s frightening smart tags technology… unless that is, we actually want Microsoft to edit our site for us - because of course, we are all too stupid to decide what should be hyperlinked [I recommend that you <a href="http://public.wsj.com/sn/y/SB991862595554629527.html">read this</a> before you read on here]. It seems as though now that Microsoft has <a href="http://biz.yahoo.com/rf/010606/n05260410_2.html">swept away the competition</a> like an irritating fly on it&rsquo;s <a href="http://www.mcdonalds.com">Hamburger</a>, they&rsquo;re unleashing these new technologies to really start controlling what we see and how we experience the web. I certainly don&rsquo;t want this site to be altered by new hyperlinks that I haven&rsquo;t authorised, especially ones which link back to content that I don&rsquo;t know about on the Microsoft site. It&rsquo;s us independent content producers that should be most concerned as it threatens our freedom to write what we want and link to what we want. Besides, I consider the creation of hypertext to be a very creative and personal process: once I have written something, I take care in choosing what should be linked and where it links to. I consider this to be just as important as the writing itself. In defending this technology, Microsoft state that the &ldquo;feature will spare users from &ldquo;under-linked&rdquo; sites&rdquo;. Surely a better way of achieving this is to educate people about hypertext and the importance of creating it properly. In light of all this, it&rsquo;s important to stop Microsoft taking control of the web, so my suggestion is that you download and try out <a href="http://www.opera.com">Opera</a>, <a href="http://www.icab.de/">iCab</a> or <a href="http://www.mozilla.org/">Mozilla</a> if you haven&rsquo;t done so already.</p>
+
+  
+  <footer>
+    <ul>
+      <li>Posted by <strong>Matt</strong></li>
+      <li>Published on <time>14 June 2001</time></li>
+      
+      <li>Last updated on <time>13 November 2018</time> (<a href="https://mattjon.es/git/matt/mattjones/commit/2dd5168ca550d8c9df07258c96145c930cb1192e">2dd5168</a>)</li>
+      
+      <li>Permalink: <a href="https://mattjon.es/blog/2001/06/smart-tags/">https://mattjon.es/blog/2001/06/smart-tags/</a></li>
+    </ul>
+  </footer>
+</article>
+
+
+<nav>
+  <h2>Site Menu</h2>
+  
+  <ul>
+
+<li><a class="sidebar-nav-item" href="/" title="">Home Page</a></li>
+
+</ul>
+</nav>
+
+
+    </main>
+
+    <footer>
+      <p></p>
+      <span id="speed"></span>
+    </footer>
+    <script>
+window.onload = function () {
+    var loadTime = window.performance.timing.domContentLoadedEventEnd-window.performance.timing.navigationStart; 
+         document.getElementById('speed').innerHTML = 'Page rendered in ' + loadTime/1000 + ' seconds &#128374;';
+}
+ 
+     </script>
+
+    
+  <script>
+    var lazy = [];
+    registerListener('load', setLazy);
+    registerListener('load', lazyLoad);
+    registerListener('scroll', lazyLoad);
+    registerListener('resize', lazyLoad);
+    function setLazy(){
+    
+    
+    
+    lazy = document.getElementsByClassName('lazy');
+    console.log('Found ' + lazy.length + ' lazy images');
+    } 
+    function lazyLoad(){
+    for(var i=0; i<lazy.length; i++){
+                                if(isInViewport(lazy[i])){
+                                if (lazy[i].getAttribute('data-src')){
+                                lazy[i].src = lazy[i].getAttribute('data-src');
+                                lazy[i].removeAttribute('data-src');
+                                }
+                                }
+                                }
+                                
+                                cleanLazy();
+                                }
+                                function cleanLazy(){
+                                lazy = Array.prototype.filter.call(lazy, function(l){ return l.getAttribute('data-src');});
+                                }
+                                function isInViewport(el){
+                                var rect = el.getBoundingClientRect();
+                                
+                                return (
+                                rect.bottom >= 0 && 
+      rect.right >= 0 && 
+      rect.top <= (window.innerHeight || document.documentElement.clientHeight) && 
+                  rect.left <= (window.innerWidth || document.documentElement.clientWidth)
+                               );
+                               }
+                               function registerListener(event, func) {
+                               if (window.addEventListener) {
+                               
+                               window.addEventListener(event, func)
+                               } else {
+                               window.attachEvent('on' + event, func)
+                               }
+                               }
+    </script>
+  </body>    
+</html>

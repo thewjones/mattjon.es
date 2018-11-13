@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Development on Matt Jones</title>
+    <link>https://mattjon.es/tags/development/</link>
+    <description>Recent content in Development on Matt Jones</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sat, 01 Aug 2009 12:08:41 +0000</lastBuildDate>
+    
+	<atom:link href="https://mattjon.es/tags/development/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>HTML Five-O</title>
+      <link>https://mattjon.es/blog/2009/08/html-five-o/</link>
+      <pubDate>Sat, 01 Aug 2009 12:08:41 +0000</pubDate>
+      
+      <guid>https://mattjon.es/blog/2009/08/html-five-o/</guid>
+      <description>At last, I&amp;rsquo;ve finally knocked this site into a shape I&amp;rsquo;m happy with. You&amp;rsquo;ll find no crufty div soup round here. It&amp;rsquo;s all HTML5 goodness and it works on IE8 and IE7 using Remy Sharp&amp;rsquo;s magic HTML5 enabling script.
+I found HTML5 to be a bit odd at first, but as I started experimenting with it, the simplicity and meaningfulness of HTML5 mark-up started to sink in. The best way to think of the new elements is something like this:</description>
+    </item>
+    
+    <item>
+      <title>Pushing my Luck</title>
+      <link>https://mattjon.es/blog/2001/02/pushing-my-luck/</link>
+      <pubDate>Fri, 23 Feb 2001 12:25:00 +0000</pubDate>
+      
+      <guid>https://mattjon.es/blog/2001/02/pushing-my-luck/</guid>
+      <description>Dammit… I knew I was pushing my luck with IE5/Win and that graphic to the left. For those of you using IE5.0, you&amp;rsquo;ll notice that this image has gone a bit awry. This is because I decided to put a drop shadow on the image and the only way to blend it in was to incorporate some of the table formatting in the bitmap itself. Of course, if Microsoft bothered to implement png compatibility into IE5.</description>
+    </item>
+    
+    <item>
+      <title>Almost There</title>
+      <link>https://mattjon.es/blog/2001/02/almost-there/</link>
+      <pubDate>Thu, 22 Feb 2001 11:44:00 +0000</pubDate>
+      
+      <guid>https://mattjon.es/blog/2001/02/almost-there/</guid>
+      <description>OK. So it&amp;rsquo;s redesigned and it validates, but I&amp;rsquo;m not there yet. Now I&amp;rsquo;ve got a layout done in HTML tables, I&amp;rsquo;m going to replace them with CSS formatting in the near future. I suppose I&amp;rsquo;ve been working with tables for so long, it&amp;rsquo;s tricky to stop using them.</description>
+    </item>
+    
+    <item>
+      <title>All New</title>
+      <link>https://mattjon.es/blog/2001/02/all-new/</link>
+      <pubDate>Thu, 22 Feb 2001 02:44:00 +0000</pubDate>
+      
+      <guid>https://mattjon.es/blog/2001/02/all-new/</guid>
+      <description>Phew… it&amp;rsquo;s been a struggle, but here it is: the all new frownland.com. This site is now more standards compliant than ever before [validated to XHTML1.0] and should load like the proverbial &amp;lsquo;muck&amp;rsquo; off a shovel now that I have streamlined everything. However, I have absolutely no idea what the page looks like on anything other that IE5 for the Mac&amp;hellip; I&amp;rsquo;ve only got the W3C HTML Validator to trust. In an ideal world, this should be all I need… unfortunately, life isn&amp;rsquo;t like that is it?</description>
+    </item>
+    
+    <item>
+      <title>Obey Jakob T-Shirts</title>
+      <link>https://mattjon.es/blog/2000/11/obey-jakob-t-shirts/</link>
+      <pubDate>Mon, 27 Nov 2000 13:19:00 +0000</pubDate>
+      
+      <guid>https://mattjon.es/blog/2000/11/obey-jakob-t-shirts/</guid>
+      <description>Buy a limited edition &amp;lsquo;Obey Jakob&amp;rsquo; t-shirt from mememachine. You never know, it might be worth a fortune in 50 years time… then again it might not.</description>
+    </item>
+    
+    <item>
+      <title>Imminent</title>
+      <link>https://mattjon.es/blog/2000/11/imminent/</link>
+      <pubDate>Fri, 24 Nov 2000 09:46:00 +0000</pubDate>
+      
+      <guid>https://mattjon.es/blog/2000/11/imminent/</guid>
+      <description>Redesign imminent. &amp;ldquo;Less is more&amp;rdquo; - Ludwig Mies van der Rohe</description>
+    </item>
+    
+    <item>
+      <title>Raw Material</title>
+      <link>https://mattjon.es/blog/2000/11/raw-material/</link>
+      <pubDate>Wed, 22 Nov 2000 15:54:00 +0000</pubDate>
+      
+      <guid>https://mattjon.es/blog/2000/11/raw-material/</guid>
+      <description>More raw material for Nielsen parody purposes. Lookin&amp;rsquo; good Jakob.</description>
+    </item>
+    
+  </channel>
+</rss>

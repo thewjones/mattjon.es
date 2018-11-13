@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>
+            Matt Jones
+        </title>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+        <meta name="author" content="@mattjones">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link type="rel/css">
+        <link href="/css/style.css" rel="stylesheet">
+</head>
+
+  <body>
+    <header>
+      <h1>Matt Jones</h1>
+
+      <nav id="options">
+        <ul>
+          
+          <li><a href="/index.xml" title="">Subscribe</a></li>
+          
+        </ul>
+      </nav>
+      
+      
+      
+      <nav id="main"><a id="back-link" href="/menu">
+          
+          menu
+          
+      </a></nav>
+    </header>
+    
+    <main>
+    
+
+
+<article>
+  <header>
+    <h1>OpenOffice.org Fireballed</h1>
+  </header>
+  
+  
+  
+  <p>I think John Gruber is wrong to <a href="http://daringfireball.net/2003/09/vaporoffice.html">write so negatively</a> about <a href="http://www.openoffice.org">OpenOffice.org</a>. It seems like the people working on the project are doing an honourable job bringing a free Office Suite comparable to <a href="http://www.microsoft.com/office/">Microsoft Office</a> to OS X, albeit in a manner that&rsquo;s particularly clunky and Windows 95-like.</p>
+
+<p>Gruber counters criticism leveled against him for refering to it as &lsquo;vaporware&rsquo;:</p>
+
+<blockquote>
+        
+> 
+> Insult or not, however, vaporware is precisely apt. As defined in the American Heritage Dictionary: New software that has been announced or marketed but has not been produced. 
+> 
+> 
+    </blockquote>
+
+<p>OK, so an OS X native version of OpenOffice.org has not been produced, but neither has it been announced or marketed; instead an estimated time for completion has been given as the year 2006. What has been produced, announced and, to some degree, marketed is an <a href="http://porting.openoffice.org/mac/">OpenOffice.org port for OS X</a> that runs under <a href="http://www.apple.com/macosx/x11/">X11</a>. It&rsquo;s ugly, but it&rsquo;s functional and I believe that it&rsquo;s wrong to call it vaporware.</p>
+
+<p>I do agree that to develop an OS X native version of OpenOffice.org that offers a decent user experience is a herculean task - especially for a team of 2 part-timers - and the hope that this will ever come to fruition may be in vain. However, I&rsquo;m puzzled by John Gruber&rsquo;s apparent indignation towards the project; maybe he would just rather pay for a better user experiece, i.e. Microsoft Office, which is fair enough. I, on the other hand, choose not to.  Roll on <a href="http://porting.openoffice.org/mac/timeline.html#tracks">2006</a>.</p>
+
+  
+  <footer>
+    <ul>
+      <li>Posted by <strong>Matt</strong></li>
+      <li>Published on <time>3 September 2003</time></li>
+      
+      <li>Last updated on <time>13 November 2018</time> (<a href="https://mattjon.es/git/matt/mattjones/commit/2dd5168ca550d8c9df07258c96145c930cb1192e">2dd5168</a>)</li>
+      
+      <li>Permalink: <a href="https://mattjon.es/blog/2003/09/openoffice.org-fireballed/">https://mattjon.es/blog/2003/09/openoffice.org-fireballed/</a></li>
+    </ul>
+  </footer>
+</article>
+
+
+<nav>
+  <h2>Site Menu</h2>
+  
+  <ul>
+
+<li><a class="sidebar-nav-item" href="/" title="">Home Page</a></li>
+
+</ul>
+</nav>
+
+
+    </main>
+
+    <footer>
+      <p></p>
+      <span id="speed"></span>
+    </footer>
+    <script>
+window.onload = function () {
+    var loadTime = window.performance.timing.domContentLoadedEventEnd-window.performance.timing.navigationStart; 
+         document.getElementById('speed').innerHTML = 'Page rendered in ' + loadTime/1000 + ' seconds &#128374;';
+}
+ 
+     </script>
+
+    
+  <script>
+    var lazy = [];
+    registerListener('load', setLazy);
+    registerListener('load', lazyLoad);
+    registerListener('scroll', lazyLoad);
+    registerListener('resize', lazyLoad);
+    function setLazy(){
+    
+    
+    
+    lazy = document.getElementsByClassName('lazy');
+    console.log('Found ' + lazy.length + ' lazy images');
+    } 
+    function lazyLoad(){
+    for(var i=0; i<lazy.length; i++){
+                                if(isInViewport(lazy[i])){
+                                if (lazy[i].getAttribute('data-src')){
+                                lazy[i].src = lazy[i].getAttribute('data-src');
+                                lazy[i].removeAttribute('data-src');
+                                }
+                                }
+                                }
+                                
+                                cleanLazy();
+                                }
+                                function cleanLazy(){
+                                lazy = Array.prototype.filter.call(lazy, function(l){ return l.getAttribute('data-src');});
+                                }
+                                function isInViewport(el){
+                                var rect = el.getBoundingClientRect();
+                                
+                                return (
+                                rect.bottom >= 0 && 
+      rect.right >= 0 && 
+      rect.top <= (window.innerHeight || document.documentElement.clientHeight) && 
+                  rect.left <= (window.innerWidth || document.documentElement.clientWidth)
+                               );
+                               }
+                               function registerListener(event, func) {
+                               if (window.addEventListener) {
+                               
+                               window.addEventListener(event, func)
+                               } else {
+                               window.attachEvent('on' + event, func)
+                               }
+                               }
+    </script>
+  </body>    
+</html>

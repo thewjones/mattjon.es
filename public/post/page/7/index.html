@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>
+            Matt Jones
+        </title>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+        <meta name="author" content="@mattjones">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link type="rel/css">
+        <link href="/css/style.css" rel="stylesheet">
+<link rel="alternate" type="application/rss" href="https://mattjon.es/post/index.xml" title="Matt Jones" />
+</head>
+
+  <body>
+    <header>
+      <h1>Matt Jones</h1>
+
+      <nav id="options">
+        <ul>
+          
+          <li><a href="/index.xml" title="">Subscribe</a></li>
+          
+        </ul>
+      </nav>
+      
+      
+      
+      <nav id="main"><a id="back-link" href="/menu">
+          
+          menu
+          
+      </a></nav>
+    </header>
+    
+    <main>
+    
+<article>
+  <h1>All Posts</h1>
+      
+          <ul class="contents">
+          
+              <li><a href="https://mattjon.es/blog/2009/11/setting-gnome-shell-as-the-default-window-manager/">Setting gnome-shell as the default window manager <strong>13 November 2009</strong></a></li>
+           
+              <li><a href="https://mattjon.es/blog/2009/11/fry--hitchens-vs.-the-hard-of-thinking/">Fry &amp; Hitchens vs. The Hard of Thinking <strong>8 November 2009</strong></a></li>
+           
+              <li><a href="https://mattjon.es/blog/2009/11/saltwell-park/">Saltwell Park <strong>6 November 2009</strong></a></li>
+           
+              <li><a href="https://mattjon.es/blog/2009/11/nighthawks/">Nighthawks <strong>1 November 2009</strong></a></li>
+           
+              <li><a href="https://mattjon.es/blog/2009/11/the-freedom-to-offend-in-140-characters/">The freedom to offend in 140 characters <strong>1 November 2009</strong></a></li>
+           
+              <li><a href="https://mattjon.es/blog/2009/08/greenfields-1/">Greenfields 1 <strong>31 August 2009</strong></a></li>
+           
+              <li><a href="https://mattjon.es/blog/2009/08/burning-car/">Burning Car <strong>20 August 2009</strong></a></li>
+           
+              <li><a href="https://mattjon.es/blog/2009/08/the-american-fear-of-socialised-medicine/">The American Fear of Socialised Medicine <strong>15 August 2009</strong></a></li>
+           
+              <li><a href="https://mattjon.es/blog/2009/08/im-a-photographer-not-a-terrorist./">I&#39;m a photographer, not a terrorist. <strong>13 August 2009</strong></a></li>
+           
+              <li><a href="https://mattjon.es/blog/2009/08/youtube---the-hubble-ultra-deep-field-in-3d/">YouTube - The Hubble Ultra Deep Field in 3D <strong>13 August 2009</strong></a></li>
+           
+          </ul>
+  </article>
+
+
+    </main>
+
+    <footer>
+      <p></p>
+      <span id="speed"></span>
+    </footer>
+    <script>
+window.onload = function () {
+    var loadTime = window.performance.timing.domContentLoadedEventEnd-window.performance.timing.navigationStart; 
+         document.getElementById('speed').innerHTML = 'Page rendered in ' + loadTime/1000 + ' seconds &#128374;';
+}
+ 
+     </script>
+
+    
+  <script>
+    var lazy = [];
+    registerListener('load', setLazy);
+    registerListener('load', lazyLoad);
+    registerListener('scroll', lazyLoad);
+    registerListener('resize', lazyLoad);
+    function setLazy(){
+    
+    
+    
+    lazy = document.getElementsByClassName('lazy');
+    console.log('Found ' + lazy.length + ' lazy images');
+    } 
+    function lazyLoad(){
+    for(var i=0; i<lazy.length; i++){
+                                if(isInViewport(lazy[i])){
+                                if (lazy[i].getAttribute('data-src')){
+                                lazy[i].src = lazy[i].getAttribute('data-src');
+                                lazy[i].removeAttribute('data-src');
+                                }
+                                }
+                                }
+                                
+                                cleanLazy();
+                                }
+                                function cleanLazy(){
+                                lazy = Array.prototype.filter.call(lazy, function(l){ return l.getAttribute('data-src');});
+                                }
+                                function isInViewport(el){
+                                var rect = el.getBoundingClientRect();
+                                
+                                return (
+                                rect.bottom >= 0 && 
+      rect.right >= 0 && 
+      rect.top <= (window.innerHeight || document.documentElement.clientHeight) && 
+                  rect.left <= (window.innerWidth || document.documentElement.clientWidth)
+                               );
+                               }
+                               function registerListener(event, func) {
+                               if (window.addEventListener) {
+                               
+                               window.addEventListener(event, func)
+                               } else {
+                               window.attachEvent('on' + event, func)
+                               }
+                               }
+    </script>
+  </body>    
+</html>

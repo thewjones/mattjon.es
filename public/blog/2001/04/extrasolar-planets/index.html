@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>
+            Matt Jones
+        </title>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+        <meta name="author" content="@mattjones">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link type="rel/css">
+        <link href="/css/style.css" rel="stylesheet">
+</head>
+
+  <body>
+    <header>
+      <h1>Matt Jones</h1>
+
+      <nav id="options">
+        <ul>
+          
+          <li><a href="/index.xml" title="">Subscribe</a></li>
+          
+        </ul>
+      </nav>
+      
+      
+      
+      <nav id="main"><a id="back-link" href="/menu">
+          
+          menu
+          
+      </a></nav>
+    </header>
+    
+    <main>
+    
+
+
+<article>
+  <header>
+    <h1>Extrasolar Planets</h1>
+  </header>
+  
+  
+  
+  <p>We know they exist but they are unseen. Other planets are out there; causing a detectable gravitational wobble in their parent star. At the time of writing, there are are 63 known <a href="http://www.eso.org/outreach/press-rel/pr-2001/pr-07-01.html">exoplanets</a> orbiting distant suns. The planets that we can detect [earth-like planets are undetectable with current technology] are huge spheres of swirling gases thousands of times the size of earth and orbiting their suns at various distances and speeds. Magnificent new worlds, poisonous atmospheres, giant mountains and troughs, our only evidence a series of numbers, our only visualisation a line on a graph. One particular planet orbits its star in the &lsquo;habitable zone&rsquo; - the same distance at which we orbit our sun. It is unsuitable to support life itself because of its size and atmosphere, but there is a chance of it being orbited by an earth-like moon which is capable of supporting life. This discovery alone is surely an indicator of increased chances of discovering intelligent life in the universe; we cannot possibly be alone in this universe of billions of stars and planets. As an aside,  I can&rsquo;t help thinking that if more people were interested in this stuff and less interested in <a href="http://www.bbc.co.uk/eastenders/updates/index.shtml">who shot Phil Mitchell</a>, the world would be a better place. The sheer amount of equations and graphs for the hardcore astrophysicists only doesn&rsquo;t help in our [the layman&rsquo;s] understanding of it all, but we should try our best to visualise it and at least apply some rational thought to it.  More exoplanet stuff: <a href="http://exoplanets.org/">exoplanets.org</a>, <a href="http://cfa-www.harvard.edu/planets/">extrasolar planets encyclopedia</a> and <a href="http://isi9.mtwilson.edu/~david/planets.html">planet detection</a>.</p>
+
+  
+  <footer>
+    <ul>
+      <li>Posted by <strong>Matt</strong></li>
+      <li>Published on <time>4 April 2001</time></li>
+      
+      <li>Last updated on <time>13 November 2018</time> (<a href="https://mattjon.es/git/matt/mattjones/commit/2dd5168ca550d8c9df07258c96145c930cb1192e">2dd5168</a>)</li>
+      
+      <li>Permalink: <a href="https://mattjon.es/blog/2001/04/extrasolar-planets/">https://mattjon.es/blog/2001/04/extrasolar-planets/</a></li>
+    </ul>
+  </footer>
+</article>
+
+
+<nav>
+  <h2>Site Menu</h2>
+  
+  <ul>
+
+<li><a class="sidebar-nav-item" href="/" title="">Home Page</a></li>
+
+</ul>
+</nav>
+
+
+    </main>
+
+    <footer>
+      <p></p>
+      <span id="speed"></span>
+    </footer>
+    <script>
+window.onload = function () {
+    var loadTime = window.performance.timing.domContentLoadedEventEnd-window.performance.timing.navigationStart; 
+         document.getElementById('speed').innerHTML = 'Page rendered in ' + loadTime/1000 + ' seconds &#128374;';
+}
+ 
+     </script>
+
+    
+  <script>
+    var lazy = [];
+    registerListener('load', setLazy);
+    registerListener('load', lazyLoad);
+    registerListener('scroll', lazyLoad);
+    registerListener('resize', lazyLoad);
+    function setLazy(){
+    
+    
+    
+    lazy = document.getElementsByClassName('lazy');
+    console.log('Found ' + lazy.length + ' lazy images');
+    } 
+    function lazyLoad(){
+    for(var i=0; i<lazy.length; i++){
+                                if(isInViewport(lazy[i])){
+                                if (lazy[i].getAttribute('data-src')){
+                                lazy[i].src = lazy[i].getAttribute('data-src');
+                                lazy[i].removeAttribute('data-src');
+                                }
+                                }
+                                }
+                                
+                                cleanLazy();
+                                }
+                                function cleanLazy(){
+                                lazy = Array.prototype.filter.call(lazy, function(l){ return l.getAttribute('data-src');});
+                                }
+                                function isInViewport(el){
+                                var rect = el.getBoundingClientRect();
+                                
+                                return (
+                                rect.bottom >= 0 && 
+      rect.right >= 0 && 
+      rect.top <= (window.innerHeight || document.documentElement.clientHeight) && 
+                  rect.left <= (window.innerWidth || document.documentElement.clientWidth)
+                               );
+                               }
+                               function registerListener(event, func) {
+                               if (window.addEventListener) {
+                               
+                               window.addEventListener(event, func)
+                               } else {
+                               window.attachEvent('on' + event, func)
+                               }
+                               }
+    </script>
+  </body>    
+</html>

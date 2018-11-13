@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>
+            Matt Jones
+        </title>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+        <meta name="author" content="@mattjones">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link type="rel/css">
+        <link href="/css/style.css" rel="stylesheet">
+</head>
+
+  <body>
+    <header>
+      <h1>Matt Jones</h1>
+
+      <nav id="options">
+        <ul>
+          
+          <li><a href="/index.xml" title="">Subscribe</a></li>
+          
+        </ul>
+      </nav>
+      
+      
+      
+      <nav id="main"><a id="back-link" href="/menu">
+          
+          menu
+          
+      </a></nav>
+    </header>
+    
+    <main>
+    
+
+
+<article>
+  <header>
+    <h1>Nicholas Fisk</h1>
+  </header>
+  
+  
+  
+  <p>When I was around the age of 11 or 12, I was a big fan of a children&rsquo;s fiction author called Nicholas Fisk. He wrote books that were key in developing my interest in science, technology and in particular artificial intelligence. One particular book, &lsquo;Robot Revolt&rsquo;, is a story set in the near future where sentient humanoid devices are used as household servants. The book centres around a particular family who buy a top of the range &lsquo;Mk III&rsquo; robot called Max. Max is the only one of his kind around; he is sleaker and more intelligent than every household robot on the street. However, things take a sinister turn when the robot population of the town - lead my Max - revolt against their masters. It&rsquo;s very much novel about the Frankenstein complex, which is something <a href="http://www.clark.net/pub/edseiler/WWW/asimov_home_page.htm">Isaac Asimov</a> tried to dispel in his robot novels [which I then went on to read]. In Asimov&rsquo;s novel&rsquo;s, humanoid robots live in harmony with humans under <a href="http://members.evansville.net/bob/robots/laws.html">the three laws</a> that govern them and they are given equal rights as members of society. The amazing thing is that Asimov was writing about this in the fifties, when there was a predominant fear of technology, especially technology which mimicks human beings. I&rsquo;m surprised that Asimov&rsquo;s name doesn&rsquo;t appear more in the run up to the release of <a href="http://uk.imdb.com/Title?0212720">Spielberg&rsquo;s A.I.</a>. I know the short story was written by <a href="http://www.brianwaldiss.com/">Brian Aldiss</a>, but Asimov was working with the same themes much earlier and much more expansively.</p>
+
+  
+  <footer>
+    <ul>
+      <li>Posted by <strong>Matt</strong></li>
+      <li>Published on <time>3 May 2001</time></li>
+      
+      <li>Last updated on <time>13 November 2018</time> (<a href="https://mattjon.es/git/matt/mattjones/commit/2dd5168ca550d8c9df07258c96145c930cb1192e">2dd5168</a>)</li>
+      
+      <li>Permalink: <a href="https://mattjon.es/blog/2001/05/nicholas-fisk/">https://mattjon.es/blog/2001/05/nicholas-fisk/</a></li>
+    </ul>
+  </footer>
+</article>
+
+
+<nav>
+  <h2>Site Menu</h2>
+  
+  <ul>
+
+<li><a class="sidebar-nav-item" href="/" title="">Home Page</a></li>
+
+</ul>
+</nav>
+
+
+    </main>
+
+    <footer>
+      <p></p>
+      <span id="speed"></span>
+    </footer>
+    <script>
+window.onload = function () {
+    var loadTime = window.performance.timing.domContentLoadedEventEnd-window.performance.timing.navigationStart; 
+         document.getElementById('speed').innerHTML = 'Page rendered in ' + loadTime/1000 + ' seconds &#128374;';
+}
+ 
+     </script>
+
+    
+  <script>
+    var lazy = [];
+    registerListener('load', setLazy);
+    registerListener('load', lazyLoad);
+    registerListener('scroll', lazyLoad);
+    registerListener('resize', lazyLoad);
+    function setLazy(){
+    
+    
+    
+    lazy = document.getElementsByClassName('lazy');
+    console.log('Found ' + lazy.length + ' lazy images');
+    } 
+    function lazyLoad(){
+    for(var i=0; i<lazy.length; i++){
+                                if(isInViewport(lazy[i])){
+                                if (lazy[i].getAttribute('data-src')){
+                                lazy[i].src = lazy[i].getAttribute('data-src');
+                                lazy[i].removeAttribute('data-src');
+                                }
+                                }
+                                }
+                                
+                                cleanLazy();
+                                }
+                                function cleanLazy(){
+                                lazy = Array.prototype.filter.call(lazy, function(l){ return l.getAttribute('data-src');});
+                                }
+                                function isInViewport(el){
+                                var rect = el.getBoundingClientRect();
+                                
+                                return (
+                                rect.bottom >= 0 && 
+      rect.right >= 0 && 
+      rect.top <= (window.innerHeight || document.documentElement.clientHeight) && 
+                  rect.left <= (window.innerWidth || document.documentElement.clientWidth)
+                               );
+                               }
+                               function registerListener(event, func) {
+                               if (window.addEventListener) {
+                               
+                               window.addEventListener(event, func)
+                               } else {
+                               window.attachEvent('on' + event, func)
+                               }
+                               }
+    </script>
+  </body>    
+</html>

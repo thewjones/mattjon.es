@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>
+            Matt Jones
+        </title>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+        <meta name="author" content="@mattjones">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link type="rel/css">
+        <link href="/css/style.css" rel="stylesheet">
+</head>
+
+  <body>
+    <header>
+      <h1>Matt Jones</h1>
+
+      <nav id="options">
+        <ul>
+          
+          <li><a href="/index.xml" title="">Subscribe</a></li>
+          
+        </ul>
+      </nav>
+      
+      
+      
+      <nav id="main"><a id="back-link" href="/menu">
+          
+          menu
+          
+      </a></nav>
+    </header>
+    
+    <main>
+    
+
+
+<article>
+  <header>
+    <h1>Seventy Years Apart</h1>
+  </header>
+  
+  
+  
+  <p><img src="/mirrorproject/files/mirror2.jpg" alt="" /><img src="/mirrorproject/files/mirror1.jpg" alt="" /></p>
+
+<p>These photographs were taken around seventy years apart with the same camera, a <a href="http://www.camerapedia.org/wiki/Kodak_No._2_Folding_Autographic_Brownie">Kodak Autographic Folding Brownie</a>.</p>
+
+<p>The photographer in the first picture is Mable Dean with her sister Sally, using the camera some time around the end of the 1920s, and the photographer in the second picture is her grandson, me, using the same camera in 1999.</p>
+
+<p>The pictures were originally posted to the Mirror Project (mirrorproject.com) in 2000. The Mirror Project was a large archive of photographic self portraits taken in reflective surfaces. It went offline in 2008, so I retrieved them from the <a href="http://www.archive.org">Wayback Machine</a> and reposted them here.</p>
+
+<p>While my picture was shot in a mirrored window, I&rsquo;ve since realised that my grandmother&rsquo;s picture isn&rsquo;t a mirror shot at all. I printed it from the original negative, which I assumed had been shot with the Brownie in a mirror, but I always wondered why there would be a mirror standing in a field! Also, the distortion on the image is most likely a fault on the negative emulsion that occurred during processing rather than a distortion in a mirror.</p>
+
+<p>The main giveaway is the position of our hands when the pictures were taken. The shutter release is at the front of the camera on the right hand side. In the picture of my grandmother, she is using her right hand to take the picture. In my picture, it appears that I&rsquo;m pressing a shutter release with my left hand because it&rsquo;s a mirrored image (and I&rsquo;m pretty sure I printed both negatives the right way round).</p>
+
+<p>The most likely scenario is that the photo was taken by my great-grandfather, <a href="http://www.flickr.com/photos/mattj/3394292237/">Joseph Dean</a>, as my grandmother took a picture of him. Of course, the best evidence for this would be to find the other negative from the Brownie, which unfortunately is very unlikely to happen.</p>
+
+  
+  <footer>
+    <ul>
+      <li>Posted by <strong>Matt</strong></li>
+      <li>Published on <time>15 August 2010</time></li>
+      
+      <li>Last updated on <time>13 November 2018</time> (<a href="https://mattjon.es/git/matt/mattjones/commit/2dd5168ca550d8c9df07258c96145c930cb1192e">2dd5168</a>)</li>
+      
+      <li>Permalink: <a href="https://mattjon.es/blog/2010/08/seventy-years-apart/">https://mattjon.es/blog/2010/08/seventy-years-apart/</a></li>
+    </ul>
+  </footer>
+</article>
+
+
+<nav>
+  <h2>Site Menu</h2>
+  
+  <ul>
+
+<li><a class="sidebar-nav-item" href="/" title="">Home Page</a></li>
+
+</ul>
+</nav>
+
+
+    </main>
+
+    <footer>
+      <p></p>
+      <span id="speed"></span>
+    </footer>
+    <script>
+window.onload = function () {
+    var loadTime = window.performance.timing.domContentLoadedEventEnd-window.performance.timing.navigationStart; 
+         document.getElementById('speed').innerHTML = 'Page rendered in ' + loadTime/1000 + ' seconds &#128374;';
+}
+ 
+     </script>
+
+    
+  <script>
+    var lazy = [];
+    registerListener('load', setLazy);
+    registerListener('load', lazyLoad);
+    registerListener('scroll', lazyLoad);
+    registerListener('resize', lazyLoad);
+    function setLazy(){
+    
+    
+    
+    lazy = document.getElementsByClassName('lazy');
+    console.log('Found ' + lazy.length + ' lazy images');
+    } 
+    function lazyLoad(){
+    for(var i=0; i<lazy.length; i++){
+                                if(isInViewport(lazy[i])){
+                                if (lazy[i].getAttribute('data-src')){
+                                lazy[i].src = lazy[i].getAttribute('data-src');
+                                lazy[i].removeAttribute('data-src');
+                                }
+                                }
+                                }
+                                
+                                cleanLazy();
+                                }
+                                function cleanLazy(){
+                                lazy = Array.prototype.filter.call(lazy, function(l){ return l.getAttribute('data-src');});
+                                }
+                                function isInViewport(el){
+                                var rect = el.getBoundingClientRect();
+                                
+                                return (
+                                rect.bottom >= 0 && 
+      rect.right >= 0 && 
+      rect.top <= (window.innerHeight || document.documentElement.clientHeight) && 
+                  rect.left <= (window.innerWidth || document.documentElement.clientWidth)
+                               );
+                               }
+                               function registerListener(event, func) {
+                               if (window.addEventListener) {
+                               
+                               window.addEventListener(event, func)
+                               } else {
+                               window.attachEvent('on' + event, func)
+                               }
+                               }
+    </script>
+  </body>    
+</html>

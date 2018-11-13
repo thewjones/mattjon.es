@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>
+            Matt Jones
+        </title>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+        <meta name="author" content="@mattjones">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link type="rel/css">
+        <link href="/css/style.css" rel="stylesheet">
+<link rel="alternate" type="application/rss" href="https://mattjon.es/post/index.xml" title="Matt Jones" />
+</head>
+
+  <body>
+    <header>
+      <h1>Matt Jones</h1>
+
+      <nav id="options">
+        <ul>
+          
+          <li><a href="/index.xml" title="">Subscribe</a></li>
+          
+        </ul>
+      </nav>
+      
+      
+      
+      <nav id="main"><a id="back-link" href="/menu">
+          
+          menu
+          
+      </a></nav>
+    </header>
+    
+    <main>
+    
+<article>
+  <h1>All Posts</h1>
+      
+          <ul class="contents">
+          
+              <li><a href="https://mattjon.es/blog/2002/02/sesame-funk/">Sesame Funk <strong>20 February 2002</strong></a></li>
+           
+              <li><a href="https://mattjon.es/blog/2002/02/palindrome-inventor/">Palindrome Inventor <strong>20 February 2002</strong></a></li>
+           
+              <li><a href="https://mattjon.es/blog/2002/02/bad-dreams/">Bad Dreams <strong>18 February 2002</strong></a></li>
+           
+              <li><a href="https://mattjon.es/blog/2002/02/versus/">Versus <strong>18 February 2002</strong></a></li>
+           
+              <li><a href="https://mattjon.es/blog/2002/02/at-techreview.com.../">At techreview.com... <strong>16 February 2002</strong></a></li>
+           
+              <li><a href="https://mattjon.es/blog/2002/02/better-living/">Better Living <strong>15 February 2002</strong></a></li>
+           
+              <li><a href="https://mattjon.es/blog/2002/02/blue-carpet/">Blue Carpet <strong>15 February 2002</strong></a></li>
+           
+              <li><a href="https://mattjon.es/blog/2002/02/in-the-dock/">In The Dock <strong>15 February 2002</strong></a></li>
+           
+              <li><a href="https://mattjon.es/blog/2002/02/carbon-copy/">Carbon Copy <strong>14 February 2002</strong></a></li>
+           
+              <li><a href="https://mattjon.es/blog/2002/02/small-sounds/">Small Sounds <strong>14 February 2002</strong></a></li>
+           
+          </ul>
+  </article>
+
+
+    </main>
+
+    <footer>
+      <p></p>
+      <span id="speed"></span>
+    </footer>
+    <script>
+window.onload = function () {
+    var loadTime = window.performance.timing.domContentLoadedEventEnd-window.performance.timing.navigationStart; 
+         document.getElementById('speed').innerHTML = 'Page rendered in ' + loadTime/1000 + ' seconds &#128374;';
+}
+ 
+     </script>
+
+    
+  <script>
+    var lazy = [];
+    registerListener('load', setLazy);
+    registerListener('load', lazyLoad);
+    registerListener('scroll', lazyLoad);
+    registerListener('resize', lazyLoad);
+    function setLazy(){
+    
+    
+    
+    lazy = document.getElementsByClassName('lazy');
+    console.log('Found ' + lazy.length + ' lazy images');
+    } 
+    function lazyLoad(){
+    for(var i=0; i<lazy.length; i++){
+                                if(isInViewport(lazy[i])){
+                                if (lazy[i].getAttribute('data-src')){
+                                lazy[i].src = lazy[i].getAttribute('data-src');
+                                lazy[i].removeAttribute('data-src');
+                                }
+                                }
+                                }
+                                
+                                cleanLazy();
+                                }
+                                function cleanLazy(){
+                                lazy = Array.prototype.filter.call(lazy, function(l){ return l.getAttribute('data-src');});
+                                }
+                                function isInViewport(el){
+                                var rect = el.getBoundingClientRect();
+                                
+                                return (
+                                rect.bottom >= 0 && 
+      rect.right >= 0 && 
+      rect.top <= (window.innerHeight || document.documentElement.clientHeight) && 
+                  rect.left <= (window.innerWidth || document.documentElement.clientWidth)
+                               );
+                               }
+                               function registerListener(event, func) {
+                               if (window.addEventListener) {
+                               
+                               window.addEventListener(event, func)
+                               } else {
+                               window.attachEvent('on' + event, func)
+                               }
+                               }
+    </script>
+  </body>    
+</html>
