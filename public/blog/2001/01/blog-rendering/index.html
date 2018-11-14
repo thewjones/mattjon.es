@@ -1,91 +1,84 @@
 <!DOCTYPE html>
 <html lang="en">
-    <head>
-        <title>
-            Matt Jones
-        </title>
-        <meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=Edge">
-        <meta name="author" content="@mattjones">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link type="rel/css">
-        <link href="/css/stylemin.css" rel="stylesheet">
+<head>
+  <meta name="generator" content=
+  "HTML Tidy for HTML5 for Mac OS X version 4.9.20">
+  <title>Matt Jones</title>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="author" content="@mattjones">
+  <meta name="viewport" content=
+  "width=device-width, initial-scale=1">
+  <link type="rel/css">
+  <link href="/css/stylemin.css" rel="stylesheet">
 </head>
-
-  <body>
-    <header>
-      <h1>Matt Jones</h1>
-
-      <nav id="options">
-        <ul>
-          
-          <li><a href="/index.xml" title="">Subscribe</a></li>
-          
-        </ul>
-      </nav>
-      
-      
-      
-      <nav id="main"><a id="back-link" href="/menu">
-          
-          menu
-          
-      </a></nav>
-    </header>
-    
-    <main>
-    
-
-
-<article>
+<body>
   <header>
-    <h1>Blog Rendering</h1>
+    <h1>Matt Jones</h1>
+    <nav id="options">
+      <ul>
+        <li>
+          <a href="/index.xml" title="">Subscribe</a>
+        </li>
+      </ul>
+    </nav>
+    <nav id="main">
+      <a id="back-link" href="/menu">menu</a>
+    </nav>
   </header>
-  
-  
-  
-  <p>Thanks to James at <a href="http://www.infinitemonkeys.co.uk/onedaysoon/">One Day Soon</a> for highlighting how various blogs [including <a href="http://www.infinitemonkeys.co.uk/onedaysoon/webTV/frownland.jpg">mine</a>] render on the <a href="http://www.webtv.com">WebTV</a> browser. I <a href="http://developer.webtv.net/design/tools/viewer/">downloaded</a> the emulator the other day and I was expecting my site to be horribly mangled so it could be fit onto a PAL/NTSC resolution screen. Fortunately, the damage is pretty minimal; some of the table formatting is slightly messed up and the <a href="http://www.w3.org/Style/CSS/">CSS</a> defined table borders are missing but otherwise, it&rsquo;s OK.</p>
-
-  
+  <main>
+    <article>
+      <header>
+        <h1>Blog Rendering</h1>
+      </header>
+      <p>Thanks to James at <a href=
+      "http://www.infinitemonkeys.co.uk/onedaysoon/">One Day
+      Soon</a> for highlighting how various blogs [including
+      <a href=
+      "http://www.infinitemonkeys.co.uk/onedaysoon/webTV/frownland.jpg">
+      mine</a>] render on the <a href=
+      "http://www.webtv.com">WebTV</a> browser. I <a href=
+      "http://developer.webtv.net/design/tools/viewer/">downloaded</a>
+      the emulator the other day and I was expecting my site to be
+      horribly mangled so it could be fit onto a PAL/NTSC
+      resolution screen. Fortunately, the damage is pretty minimal;
+      some of the table formatting is slightly messed up and the
+      <a href="http://www.w3.org/Style/CSS/">CSS</a> defined table
+      borders are missing but otherwise, it’s OK.</p>
+      <footer>
+        <ul>
+          <li>Posted by <strong>Matt</strong></li>
+          <li>Published on <time>17 January 2001</time></li>
+          <li>Last updated on <time>13 November 2018</time>
+          (<a href=
+          "https://mattjon.es/git/matt/mattjones/commit/2dd5168ca550d8c9df07258c96145c930cb1192e">2dd5168</a>)
+          </li>
+          <li>Permalink: <a href=
+          "https://mattjon.es/blog/2001/01/blog-rendering/">https://mattjon.es/blog/2001/01/blog-rendering/</a>
+          </li>
+        </ul>
+      </footer>
+    </article>
+    <nav>
+      <h2>Site Menu</h2>
+      <ul>
+        <li>
+          <a class="sidebar-nav-item" href="/" title="">Home
+          Page</a>
+        </li>
+      </ul>
+    </nav>
+  </main>
   <footer>
-    <ul>
-      <li>Posted by <strong>Matt</strong></li>
-      <li>Published on <time>17 January 2001</time></li>
-      
-      <li>Last updated on <time>13 November 2018</time> (<a href="https://mattjon.es/git/matt/mattjones/commit/2dd5168ca550d8c9df07258c96145c930cb1192e">2dd5168</a>)</li>
-      
-      <li>Permalink: <a href="https://mattjon.es/blog/2001/01/blog-rendering/">https://mattjon.es/blog/2001/01/blog-rendering/</a></li>
-    </ul>
+    <span id="speed"></span>
   </footer>
-</article>
-
-
-<nav>
-  <h2>Site Menu</h2>
-  
-  <ul>
-
-<li><a class="sidebar-nav-item" href="/" title="">Home Page</a></li>
-
-</ul>
-</nav>
-
-
-    </main>
-
-    <footer>
-      <p></p>
-      <span id="speed"></span>
-    </footer>
-    <script>
-window.onload = function () {
+  <script>
+  window.onload = function () {
     var loadTime = window.performance.timing.domContentLoadedEventEnd-window.performance.timing.navigationStart; 
          document.getElementById('speed').innerHTML = 'Page rendered in ' + loadTime/1000 + ' seconds &#128374;';
-}
- 
-     </script>
+  }
 
-    
+  </script> 
   <script>
     var lazy = [];
     registerListener('load', setLazy);
@@ -132,6 +125,6 @@ window.onload = function () {
                                window.attachEvent('on' + event, func)
                                }
                                }
-    </script>
-  </body>    
+  </script>
+</body>
 </html>

@@ -1,101 +1,95 @@
 <!DOCTYPE html>
 <html lang="en">
-    <head>
-        <title>
-            Matt Jones
-        </title>
-        <meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=Edge">
-        <meta name="author" content="@mattjones">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link type="rel/css">
-        <link href="/css/stylemin.css" rel="stylesheet">
+<head>
+  <meta name="generator" content=
+  "HTML Tidy for HTML5 for Mac OS X version 4.9.20">
+  <title>Matt Jones</title>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="author" content="@mattjones">
+  <meta name="viewport" content=
+  "width=device-width, initial-scale=1">
+  <link type="rel/css">
+  <link href="/css/stylemin.css" rel="stylesheet">
 </head>
-
-  <body>
-    <header>
-      <h1>Matt Jones</h1>
-
-      <nav id="options">
-        <ul>
-          
-          <li><a href="/index.xml" title="">Subscribe</a></li>
-          
-        </ul>
-      </nav>
-      
-      
-      
-      <nav id="main"><a id="back-link" href="/menu">
-          
-          menu
-          
-      </a></nav>
-    </header>
-    
-    <main>
-    
-
-
-<article>
+<body>
   <header>
-    <h1>Getting Typekit to work with Chromium and Namoroka</h1>
+    <h1>Matt Jones</h1>
+    <nav id="options">
+      <ul>
+        <li>
+          <a href="/index.xml" title="">Subscribe</a>
+        </li>
+      </ul>
+    </nav>
+    <nav id="main">
+      <a id="back-link" href="/menu">menu</a>
+    </nav>
   </header>
-  
-  
-  
-  <p><a href="http://www.typekit.com">Typekit</a> really need to improve the way they do their user-agent detection. At the moment, it seems that if the user-agent-string doesn&rsquo;t contain either &lsquo;Firefox&rsquo; or &lsquo;Safari&rsquo;, then Typekit won&rsquo;t work, even when the rendering engine is capable of rendering the fonts.</p>
-
-<p>This isn&rsquo;t an issue for many. But it is if you&rsquo;re using a development build of a browser, or you&rsquo;re using a Linux distribution with a modified version of Firefox that, due to licensing restrictions, can&rsquo;t use the Firefox branding. In this case, the user-agent string will contain the development name of the browser, such as &lsquo;Shiretoko&rsquo; or &lsquo;Namoroka&rsquo;.</p>
-
-<p>In Firefox, changing the user-agent string in about:config to &lsquo;Firefox&rsquo; will solve this problem. In <a href="http://code.google.com/chromium/">Chromium</a> (the development build of Google Chrome), you&rsquo;ll need to launch the browser with a command something like this:</p>
-
-<p><code>chromium-browser --user-agent=&quot;Firefox/3.5.5&quot; --enable-remote-fonts</code></p>
-
-<p>Recent builds of Chromium now support @font-face, so you might not need the -enable-remote-fonts option.</p>
-
-<p>Hopefully, Typekit will improve their browser detection by checking the rendering engine in the user-agent string, rather than simply the browser name.</p>
-
-  
+  <main>
+    <article>
+      <header>
+        <h1>Getting Typekit to work with Chromium and Namoroka</h1>
+      </header>
+      <p><a href="http://www.typekit.com">Typekit</a> really need
+      to improve the way they do their user-agent detection. At the
+      moment, it seems that if the user-agent-string doesn’t
+      contain either ‘Firefox’ or ‘Safari’, then Typekit won’t
+      work, even when the rendering engine is capable of rendering
+      the fonts.</p>
+      <p>This isn’t an issue for many. But it is if you’re using a
+      development build of a browser, or you’re using a Linux
+      distribution with a modified version of Firefox that, due to
+      licensing restrictions, can’t use the Firefox branding. In
+      this case, the user-agent string will contain the development
+      name of the browser, such as ‘Shiretoko’ or ‘Namoroka’.</p>
+      <p>In Firefox, changing the user-agent string in about:config
+      to ‘Firefox’ will solve this problem. In <a href=
+      "http://code.google.com/chromium/">Chromium</a> (the
+      development build of Google Chrome), you’ll need to launch
+      the browser with a command something like this:</p>
+      <p><code>chromium-browser --user-agent="Firefox/3.5.5"
+      --enable-remote-fonts</code></p>
+      <p>Recent builds of Chromium now support @font-face, so you
+      might not need the -enable-remote-fonts option.</p>
+      <p>Hopefully, Typekit will improve their browser detection by
+      checking the rendering engine in the user-agent string,
+      rather than simply the browser name.</p>
+      <footer>
+        <ul>
+          <li>Posted by <strong>Matt</strong></li>
+          <li>Published on <time>27 November 2009</time></li>
+          <li>Last updated on <time>13 November 2018</time>
+          (<a href=
+          "https://mattjon.es/git/matt/mattjones/commit/2dd5168ca550d8c9df07258c96145c930cb1192e">2dd5168</a>)
+          </li>
+          <li>Permalink: <a href=
+          "https://mattjon.es/blog/2009/11/getting-typekit-to-work-with-chromium-and-namoroka/">
+            https://mattjon.es/blog/2009/11/getting-typekit-to-work-with-chromium-and-namoroka/</a>
+          </li>
+        </ul>
+      </footer>
+    </article>
+    <nav>
+      <h2>Site Menu</h2>
+      <ul>
+        <li>
+          <a class="sidebar-nav-item" href="/" title="">Home
+          Page</a>
+        </li>
+      </ul>
+    </nav>
+  </main>
   <footer>
-    <ul>
-      <li>Posted by <strong>Matt</strong></li>
-      <li>Published on <time>27 November 2009</time></li>
-      
-      <li>Last updated on <time>13 November 2018</time> (<a href="https://mattjon.es/git/matt/mattjones/commit/2dd5168ca550d8c9df07258c96145c930cb1192e">2dd5168</a>)</li>
-      
-      <li>Permalink: <a href="https://mattjon.es/blog/2009/11/getting-typekit-to-work-with-chromium-and-namoroka/">https://mattjon.es/blog/2009/11/getting-typekit-to-work-with-chromium-and-namoroka/</a></li>
-    </ul>
+    <span id="speed"></span>
   </footer>
-</article>
-
-
-<nav>
-  <h2>Site Menu</h2>
-  
-  <ul>
-
-<li><a class="sidebar-nav-item" href="/" title="">Home Page</a></li>
-
-</ul>
-</nav>
-
-
-    </main>
-
-    <footer>
-      <p></p>
-      <span id="speed"></span>
-    </footer>
-    <script>
-window.onload = function () {
+  <script>
+  window.onload = function () {
     var loadTime = window.performance.timing.domContentLoadedEventEnd-window.performance.timing.navigationStart; 
          document.getElementById('speed').innerHTML = 'Page rendered in ' + loadTime/1000 + ' seconds &#128374;';
-}
- 
-     </script>
+  }
 
-    
+  </script> 
   <script>
     var lazy = [];
     registerListener('load', setLazy);
@@ -142,6 +136,6 @@ window.onload = function () {
                                window.attachEvent('on' + event, func)
                                }
                                }
-    </script>
-  </body>    
+  </script>
+</body>
 </html>

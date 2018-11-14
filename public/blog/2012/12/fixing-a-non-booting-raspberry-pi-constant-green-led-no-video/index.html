@@ -1,95 +1,85 @@
 <!DOCTYPE html>
 <html lang="en">
-    <head>
-        <title>
-            Matt Jones
-        </title>
-        <meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=Edge">
-        <meta name="author" content="@mattjones">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link type="rel/css">
-        <link href="/css/stylemin.css" rel="stylesheet">
+<head>
+  <meta name="generator" content=
+  "HTML Tidy for HTML5 for Mac OS X version 4.9.20">
+  <title>Matt Jones</title>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="author" content="@mattjones">
+  <meta name="viewport" content=
+  "width=device-width, initial-scale=1">
+  <link type="rel/css">
+  <link href="/css/stylemin.css" rel="stylesheet">
 </head>
-
-  <body>
-    <header>
-      <h1>Matt Jones</h1>
-
-      <nav id="options">
-        <ul>
-          
-          <li><a href="/index.xml" title="">Subscribe</a></li>
-          
-        </ul>
-      </nav>
-      
-      
-      
-      <nav id="main"><a id="back-link" href="/menu">
-          
-          menu
-          
-      </a></nav>
-    </header>
-    
-    <main>
-    
-
-
-<article>
+<body>
   <header>
-    <h1>Fixing a non-booting Raspberry Pi (constant green LED, no video)</h1>
+    <h1>Matt Jones</h1>
+    <nav id="options">
+      <ul>
+        <li>
+          <a href="/index.xml" title="">Subscribe</a>
+        </li>
+      </ul>
+    </nav>
+    <nav id="main">
+      <a id="back-link" href="/menu">menu</a>
+    </nav>
   </header>
-  
-  
-  
-  <p>If you&rsquo;re a new Raspberry Pi owner, here&rsquo;s a tip for saving you hours of frustration getting the thing to boot up. If your Pi doesn&rsquo;t boot, it may be an issue with your SD card but it&rsquo;s more likely to be the way you&rsquo;ve written the image to the drive.</p>
-
-<p>After inserting the SD card, the last few lines of the output of the &lsquo;dmesg&rsquo; command will tell you the identity of the SD card. In my case - running Ubuntu - this was &lsquo;mmcblk0&rsquo;, so the path to write the image to is &lsquo;/dev/mmcblk0&rsquo;</p>
-
-<p>dd bs=1M if=/home/matt/Downloads/debian6-19-04-2012/debian6-19-04-2012.img of=/dev/mmcblk0</p>
-
-  
+  <main>
+    <article>
+      <header>
+        <h1>Fixing a non-booting Raspberry Pi (constant green LED,
+        no video)</h1>
+      </header>
+      <p>If you’re a new Raspberry Pi owner, here’s a tip for
+      saving you hours of frustration getting the thing to boot up.
+      If your Pi doesn’t boot, it may be an issue with your SD card
+      but it’s more likely to be the way you’ve written the image
+      to the drive.</p>
+      <p>After inserting the SD card, the last few lines of the
+      output of the ‘dmesg’ command will tell you the identity of
+      the SD card. In my case - running Ubuntu - this was
+      ‘mmcblk0’, so the path to write the image to is
+      ‘/dev/mmcblk0’</p>
+      <p>dd bs=1M
+      if=/home/matt/Downloads/debian6-19-04-2012/debian6-19-04-2012.img
+      of=/dev/mmcblk0</p>
+      <footer>
+        <ul>
+          <li>Posted by <strong>Matt</strong></li>
+          <li>Published on <time>14 December 2012</time></li>
+          <li>Last updated on <time>13 November 2018</time>
+          (<a href=
+          "https://mattjon.es/git/matt/mattjones/commit/2dd5168ca550d8c9df07258c96145c930cb1192e">2dd5168</a>)
+          </li>
+          <li>Permalink: <a href=
+          "https://mattjon.es/blog/2012/12/fixing-a-non-booting-raspberry-pi-constant-green-led-no-video/">
+            https://mattjon.es/blog/2012/12/fixing-a-non-booting-raspberry-pi-constant-green-led-no-video/</a>
+          </li>
+        </ul>
+      </footer>
+    </article>
+    <nav>
+      <h2>Site Menu</h2>
+      <ul>
+        <li>
+          <a class="sidebar-nav-item" href="/" title="">Home
+          Page</a>
+        </li>
+      </ul>
+    </nav>
+  </main>
   <footer>
-    <ul>
-      <li>Posted by <strong>Matt</strong></li>
-      <li>Published on <time>14 December 2012</time></li>
-      
-      <li>Last updated on <time>13 November 2018</time> (<a href="https://mattjon.es/git/matt/mattjones/commit/2dd5168ca550d8c9df07258c96145c930cb1192e">2dd5168</a>)</li>
-      
-      <li>Permalink: <a href="https://mattjon.es/blog/2012/12/fixing-a-non-booting-raspberry-pi-constant-green-led-no-video/">https://mattjon.es/blog/2012/12/fixing-a-non-booting-raspberry-pi-constant-green-led-no-video/</a></li>
-    </ul>
+    <span id="speed"></span>
   </footer>
-</article>
-
-
-<nav>
-  <h2>Site Menu</h2>
-  
-  <ul>
-
-<li><a class="sidebar-nav-item" href="/" title="">Home Page</a></li>
-
-</ul>
-</nav>
-
-
-    </main>
-
-    <footer>
-      <p></p>
-      <span id="speed"></span>
-    </footer>
-    <script>
-window.onload = function () {
+  <script>
+  window.onload = function () {
     var loadTime = window.performance.timing.domContentLoadedEventEnd-window.performance.timing.navigationStart; 
          document.getElementById('speed').innerHTML = 'Page rendered in ' + loadTime/1000 + ' seconds &#128374;';
-}
- 
-     </script>
+  }
 
-    
+  </script> 
   <script>
     var lazy = [];
     registerListener('load', setLazy);
@@ -136,6 +126,6 @@ window.onload = function () {
                                window.attachEvent('on' + event, func)
                                }
                                }
-    </script>
-  </body>    
+  </script>
+</body>
 </html>
