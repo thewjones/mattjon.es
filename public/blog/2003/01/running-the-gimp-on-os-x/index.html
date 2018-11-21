@@ -1,188 +1,143 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta name="generator" content=
-  "HTML Tidy for HTML5 for Mac OS X version 4.9.20">
-  <title>Matt Jones</title>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
-  <meta name="author" content="@mattjones">
-  <meta name="viewport" content=
-  "width=device-width, initial-scale=1">
-  <link type="rel/css">
-  <link href="/css/stylemin.css" rel="stylesheet">
+    <head>
+        <title>
+            Matt Jones
+        </title>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+        <meta name="author" content="@mattjones">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link type="rel/css">
+        <link href="/css/stylemin.css" rel="stylesheet">
 </head>
-<body>
-  <header>
-    <h1>Matt Jones</h1>
-    <nav id="options">
-      <ul>
-        <li>
-          <a href="/index.xml" title="">Subscribe</a>
-        </li>
-      </ul>
-    </nav>
-    <nav id="main">
-      <a id="back-link" href="/menu">menu</a>
-    </nav>
-  </header>
-  <main>
-    <article>
-      <header>
-        <h1>Running The Gimp on OS X</h1>
-      </header>
-      <p>Update [24/03/04]: Gimp 2.0 has been released, including a
-      self-contained application bundle for OS X. <a href=
-      "http://gimp-app.sourceforge.net/">Get it here</a></p>
-      <p><a href="http://www.gimp.org/">The GIMP</a> (GNU Image
-      Manipulation Program) is a piece of software similar to
-      Photoshop but with one big difference, it’s <em>free</em> and
-      <em>open source</em>. For many years, it has been
-      <strong>the</strong> graphic / image manipulation tool on the
-      Unix and Linux platforms and because it has been constantly
-      in development over this time, it is as feature-rich [if not
-      quite as slick] as Photoshop. After Apple launched <a href=
-      "http://www.apple.com/macosx/x11/">X11</a> [an X Window
-      system based on XFree86] on OS X, I decided to get The GIMP
-      running on my Mac. Here’s how to get it running:</p>
-      <p><strong>Disclaimer:</strong> The following instructions
-      are the result of a bringing together of information from
-      various web sources. I cannot guarantee that these
-      instructions will work on your setup as they represent the
-      method I used to get The Gimp to run successfully on my Mac.
-      By following these instructions, you are doing so at your own
-      risk and I am not personally responsible if anything goes
-      wrong!</p>
-      <p>An overview of requirements:</p>
-      <ul>
-        <li>
-          <p><a href="http://www.apple.com/macsox/">Mac OSX
-          10.2</a></p>
-        </li>
-        <li>
-          <p><a href="http://developer.apple.com/tools/">Apple
-          Developer Tools</a></p>
-        </li>
-        <li>
-          <p><a href="http://fink.sourceforge.net/">Fink</a></p>
-        </li>
-        <li>
-          <p><a href="http://www.apple.com/macosx/x11/">Apple X11
-          Public Beta</a> [including the X11 SDK]</p>
-        </li>
-        <li>
-          <p>A spare afternoon</p>
-        </li>
-      </ul>
-      <p>Instructions:</p>
-      <ol>
-        <li>
-          <p>If you haven’t done so already, install Developer
-          Tools CD that came bundled with OS X. The disk image is
-          also available to download from the <a href=
-          "http://www.apple.com/developer/">Apple Developer
-          Connection</a> website [requires free registration].</p>
-        </li>
-        <li>
-          <p>Download and install Apple X11 - <a href=
-          "http://www.apple.com/macosx/x11/download/">http://www.apple.com/macosx/x11/download/</a>
-          [41.4 MB].</p>
-        </li>
-        <li>
-          <p>Download and install the X11 <a href=
-          "http://www.apple.com/macosx/x11/download/">Software
-          Development Kit</a> [4.0 MB - Download on bottom right of
-          page]</p>
-        </li>
-        <li>
-          <p>Download the <a href=
-          "http://prdownloads.sourceforge.net/fink/Fink-0.5.0a-Installer.dmg?download">
-          Fink 0.5.0a Binary Installer</a> [11MB] and double-click
-          on the ‘Fink 0.5.0a Installer.pkg’ to install Fink.</p>
-        </li>
-        <li>
-          <p>After the installation is complete, open a
-          Terminal.app window and type the following command:
-          “<em>sudo pico .cshrc [return]</em>”. This will open a
-          text editor with the new .cshrc file. NB. sudo requires
-          you to enter your Mac’s administrator password.</p>
-        </li>
-        <li>
-          <p>In the editor, type the following line: “<em>source
-          /sw/bin/init.csh</em>”.</p>
-        </li>
-        <li>
-          <p>Save and exit Pico by pressing <em>[control-0],
-          [return], [control-x]</em>. Then close the terminal
-          window.</p>
-        </li>
-        <li>
-          <p>Open a new terminal window and type: “<em>sudo fink
-          scanpackages [return]</em>“</p>
-        </li>
-        <li>
-          <p>Then type: “<em>sudo apt-get update [return]</em>“</p>
-        </li>
-        <li>
-          <p>Then: “<em>sudo apt-get install gimp [return]”</em>.
-          This downloads and installs the GIMP binary and it takes
-          a while.</p>
-        </li>
-        <li>
-          <p>Go to the Applications folder and double-click on the
-          X11 icon. This will start the X Windows environment.</p>
-        </li>
-        <li>
-          <p>From the X11 menu, select ‘Applications &gt; Terminal’
-          . This will open xterm.</p>
-        </li>
-        <li>
-          <p>At the prompt, type “gimp”.</p>
-        </li>
-        <li>
-          <p>After being asked a few simple questions by the GIMP
-          set-up program, the application will launch. Enjoy!</p>
-        </li>
-      </ol>
-      <p>Remember that The GIMP is a UNIX application designed to
-      run on X Windows, so don’t expect it look as slick as Aqua.
-      Also, Apple X11 is still in Beta so there are a few interface
-      quirks here and there.</p>
-      <footer>
+
+  <body>
+    <header>
+      <h1>Matt Jones</h1>
+
+      <nav id="options">
         <ul>
-          <li>Posted by <strong>Matt</strong></li>
-          <li>Published on <time>13 January 2003</time></li>
-          <li>Last updated on <time>13 November 2018</time>
-          (<a href=
-          "https://mattjon.es/git/matt/mattjones/commit/2dd5168ca550d8c9df07258c96145c930cb1192e">2dd5168</a>)
-          </li>
-          <li>Permalink: <a href=
-          "https://mattjon.es/blog/2003/01/running-the-gimp-on-os-x/">
-            https://mattjon.es/blog/2003/01/running-the-gimp-on-os-x/</a>
-          </li>
+          
+          <li><a href="/index.xml" title="">Subscribe</a></li>
+          
         </ul>
-      </footer>
-    </article>
-    <nav>
-      <h2>Site Menu</h2>
-      <ul>
-        <li>
-          <a class="sidebar-nav-item" href="/" title="">Home
-          Page</a>
-        </li>
-      </ul>
-    </nav>
-  </main>
+      </nav>
+      
+      
+      
+      <nav id="main"><a id="back-link" href="/menu">
+          
+          menu
+          
+      </a></nav>
+    </header>
+    
+    <main>
+    
+
+
+<article>
+  <header>
+    <h1>Running The Gimp on OS X</h1>
+  </header>
+  
+  
+ 
+  <p>Update [24/03/04]: Gimp 2.0 has been released, including a self-contained application bundle for OS X. <a href="http://gimp-app.sourceforge.net/">Get it here</a></p>
+
+<p><a href="http://www.gimp.org/">The GIMP</a> (GNU Image Manipulation Program) is a piece of software similar to Photoshop but with one big difference, it&rsquo;s <em>free</em> and <em>open source</em>. For many years, it has been <strong>the</strong> graphic / image manipulation tool on the Unix and Linux platforms and because it has been constantly in development over this time, it is as feature-rich [if not quite as slick] as Photoshop. After Apple launched <a href="http://www.apple.com/macosx/x11/">X11</a> [an X Window system based on XFree86] on OS X, I decided to get The GIMP running on my Mac. Here&rsquo;s how to get it running:</p>
+
+<p><strong>Disclaimer:</strong> The following instructions are the result of a bringing together of information from various web sources. I cannot guarantee that these instructions will work on your setup as they represent the method I used to get The Gimp to run successfully on my Mac. By following these instructions, you are doing so at your own risk and I am not personally responsible if anything goes wrong!</p>
+
+<p>An overview of requirements:</p>
+
+<ul>
+<li><p><a href="http://www.apple.com/macsox/">Mac OSX 10.2</a></p></li>
+
+<li><p><a href="http://developer.apple.com/tools/">Apple Developer Tools</a></p></li>
+
+<li><p><a href="http://fink.sourceforge.net/">Fink</a></p></li>
+
+<li><p><a href="http://www.apple.com/macosx/x11/">Apple X11 Public Beta</a> [including the X11 SDK]</p></li>
+
+<li><p>A spare afternoon</p></li>
+</ul>
+
+<p>Instructions:</p>
+
+<ol>
+<li><p>If you haven&rsquo;t done so already, install Developer Tools CD that came bundled with OS X. The disk image is also available to download from the <a href="http://www.apple.com/developer/">Apple Developer Connection</a> website [requires free registration].</p></li>
+
+<li><p>Download and install Apple X11 - <a href="http://www.apple.com/macosx/x11/download/">http://www.apple.com/macosx/x11/download/</a> [41.4 MB].</p></li>
+
+<li><p>Download and install the X11 <a href="http://www.apple.com/macosx/x11/download/">Software Development Kit</a> [4.0 MB - Download on bottom right of page]</p></li>
+
+<li><p>Download the <a href="http://prdownloads.sourceforge.net/fink/Fink-0.5.0a-Installer.dmg?download">Fink 0.5.0a Binary Installer</a> [11MB] and double-click on the &lsquo;Fink 0.5.0a Installer.pkg&rsquo; to install Fink.</p></li>
+
+<li><p>After the installation is complete, open a Terminal.app window and type the following command: &ldquo;<em>sudo pico .cshrc [return]</em>&rdquo;. This will open a text editor with the new .cshrc file. NB. sudo requires you to enter your Mac&rsquo;s administrator password.</p></li>
+
+<li><p>In the editor, type the following line: &ldquo;<em>source /sw/bin/init.csh</em>&rdquo;.</p></li>
+
+<li><p>Save and exit Pico by pressing <em>[control-0], [return], [control-x]</em>. Then close the terminal window.</p></li>
+
+<li><p>Open a new terminal window and type: &ldquo;<em>sudo fink scanpackages [return]</em>&ldquo;</p></li>
+
+<li><p>Then type: &ldquo;<em>sudo apt-get update [return]</em>&ldquo;</p></li>
+
+<li><p>Then: &ldquo;<em>sudo apt-get install gimp [return]&rdquo;</em>. This downloads and installs the GIMP binary and it takes a while.</p></li>
+
+<li><p>Go to the Applications folder and double-click on the X11 icon. This will start the X Windows environment.</p></li>
+
+<li><p>From the X11 menu, select &lsquo;Applications &gt; Terminal&rsquo; . This will open xterm.</p></li>
+
+<li><p>At the prompt, type &ldquo;gimp&rdquo;.</p></li>
+
+<li><p>After being asked a few simple questions by the GIMP set-up program, the application will launch. Enjoy!</p></li>
+</ol>
+
+<p>Remember that The GIMP is a UNIX application designed to run on X Windows, so don&rsquo;t expect it look as slick as Aqua. Also, Apple X11 is still in Beta so there are a few interface quirks here and there.</p>
+
+  
   <footer>
-    <span id="speed"></span>
+    <ul>
+      <li>Posted by <strong>Matt</strong></li>
+      <li>Published on <time>13 January 2003</time></li>
+      
+      <li>Last updated on <time>13 November 2018</time> (<a href="https://mattjon.es/git/matt/mattjones/commit/2dd5168ca550d8c9df07258c96145c930cb1192e">2dd5168</a>)</li>
+      
+      <li>Permalink: <a href="https://mattjon.es/blog/2003/01/running-the-gimp-on-os-x/">https://mattjon.es/blog/2003/01/running-the-gimp-on-os-x/</a></li>
+    </ul>
   </footer>
-  <script>
-  window.onload = function () {
+</article>
+
+
+<nav>
+  <h2>Site Menu</h2>
+  
+  <ul>
+
+<li><a class="sidebar-nav-item" href="/" title="">Home Page</a></li>
+
+</ul>
+</nav>
+
+
+    </main>
+
+    <footer>
+      <p></p>
+      <span id="speed"></span>
+    </footer>
+    <script>
+window.onload = function () {
     var loadTime = window.performance.timing.domContentLoadedEventEnd-window.performance.timing.navigationStart; 
          document.getElementById('speed').innerHTML = 'Page rendered in ' + loadTime/1000 + ' seconds &#128374;';
-  }
+}
+ 
+     </script>
 
-  </script> 
+    
   <script>
     var lazy = [];
     registerListener('load', setLazy);
@@ -229,6 +184,6 @@
                                window.attachEvent('on' + event, func)
                                }
                                }
-  </script>
-</body>
+    </script>
+  </body>    
 </html>

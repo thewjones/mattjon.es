@@ -6,10 +6,20 @@
     <description>Recent content on Matt Jones</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Thu, 14 Jul 2016 19:13:19 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Nov 2018 19:40:05 +0000</lastBuildDate>
     
 	<atom:link href="https://mattjon.es/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Fictional spacecraft on the ground and real spacecraft in space</title>
+      <link>https://mattjon.es/blog/2018/11/fictional-spacecraft-on-the-ground-and-real-spacecraft-in-space/</link>
+      <pubDate>Wed, 21 Nov 2018 19:40:05 +0000</pubDate>
+      
+      <guid>https://mattjon.es/blog/2018/11/fictional-spacecraft-on-the-ground-and-real-spacecraft-in-space/</guid>
+      <description>Watch a J.J. Abrams science fiction film and a recurring visual motif is the shot of a spaceship in a terrestrial setting. Whether it&amp;rsquo;s the shots of the Enterprise built on the Earth-based shipyards in Star Trek (2009), or wrecked Imperial Star Destroyers wedged into the ground of Jakku in Star Trek: The Force Awakens.
+Humans, being terrestrial beings, find it easier to understand and experience things in the familiar context of land or sea, where there&amp;rsquo;s obvious up and a down.</description>
+    </item>
     
     <item>
       <title>Celestial mechanics and the new political landscape</title>
@@ -93,15 +103,6 @@ Micheal Hauben - What the Net Means to Me The quote above is taken from an artic
       
       <guid>https://mattjon.es/blog/2013/11/greasemonkey-script-to-remove-promoted-tweets-from-twitter/</guid>
       <description>Now that Twitter has gone public we can expect many changes that will keep shareholders happy but annoy long-term users of the site. For me, the addition of embedded images in the timeline breaks something fundamental about Twitter, the idea of creativity through limitation; a tweet is now 140 characters and an image (or an advert). This Greasemonkey script gets rid of the adverts, at least.</description>
-    </item>
-    
-    <item>
-      <title>How short-term thinking about road safety has failed to make liveable towns and cities</title>
-      <link>https://mattjon.es/blog/2013/07/how-short-term-thinking-about-road-safety-has-failed-to-make-liveable-towns-and-cities/</link>
-      <pubDate>Thu, 18 Jul 2013 08:18:41 +0000</pubDate>
-      
-      <guid>https://mattjon.es/blog/2013/07/how-short-term-thinking-about-road-safety-has-failed-to-make-liveable-towns-and-cities/</guid>
-      <description>We had a teacher at school who used to give lectures on road safety. They were gruesome first-hand accounts designed to scare us into being attentive around roads. No-one questioned why a P.E. teacher in his Ron Hills always seemed to be the one on the scene with a shovel and a body bag. It also didn&amp;rsquo;t occur to anyone to ask why the roads were dangerous places to be in the first place, especially ones nearby to the school.</description>
     </item>
     
   </channel>

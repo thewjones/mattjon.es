@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Science Fiction on Matt Jones</title>
+    <link>https://mattjon.es/tags/science-fiction/</link>
+    <description>Recent content in Science Fiction on Matt Jones</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Wed, 21 Nov 2018 19:40:05 +0000</lastBuildDate>
+    
+	<atom:link href="https://mattjon.es/tags/science-fiction/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Fictional spacecraft on the ground and real spacecraft in space</title>
+      <link>https://mattjon.es/blog/2018/11/fictional-spacecraft-on-the-ground-and-real-spacecraft-in-space/</link>
+      <pubDate>Wed, 21 Nov 2018 19:40:05 +0000</pubDate>
+      
+      <guid>https://mattjon.es/blog/2018/11/fictional-spacecraft-on-the-ground-and-real-spacecraft-in-space/</guid>
+      <description>Watch a J.J. Abrams science fiction film and a recurring visual motif is the shot of a spaceship in a terrestrial setting. Whether it&amp;rsquo;s the shots of the Enterprise built on the Earth-based shipyards in Star Trek (2009), or wrecked Imperial Star Destroyers wedged into the ground of Jakku in Star Trek: The Force Awakens.
+Humans, being terrestrial beings, find it easier to understand and experience things in the familiar context of land or sea, where there&amp;rsquo;s obvious up and a down.</description>
+    </item>
+    
+  </channel>
+</rss>

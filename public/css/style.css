@@ -239,7 +239,16 @@ figure {
 }
 
 figcaption {
+    display:flex;
     font-size:80%;
+}
+
+#caption {
+    max-width:20em;
+}
+
+#credit {
+    margin-left:auto;
 }
 
 body>header {
@@ -314,6 +323,11 @@ body>header>span {
 a {
     color: #48d1cc
 }
+
+p::first-letter {
+    initial-letter:3;
+}
+
 article>footer {
     display:inline-block;
     font-size:80%;
@@ -326,6 +340,8 @@ article>footer {
 article>footer>ul {
     list-style:none;
 }
+
+
 
 time {
     font-weight:bold;
@@ -360,7 +376,7 @@ a:hover .close {
     }
     
     figure {
-        margin: 2em -10em 0 0
+        margin: 2em -10em 5em 0
     }
     
     

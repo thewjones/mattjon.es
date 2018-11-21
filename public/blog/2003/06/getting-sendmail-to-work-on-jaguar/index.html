@@ -1,116 +1,105 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta name="generator" content=
-  "HTML Tidy for HTML5 for Mac OS X version 4.9.20">
-  <title>Matt Jones</title>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
-  <meta name="author" content="@mattjones">
-  <meta name="viewport" content=
-  "width=device-width, initial-scale=1">
-  <link type="rel/css">
-  <link href="/css/stylemin.css" rel="stylesheet">
+    <head>
+        <title>
+            Matt Jones
+        </title>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+        <meta name="author" content="@mattjones">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link type="rel/css">
+        <link href="/css/stylemin.css" rel="stylesheet">
 </head>
-<body>
-  <header>
-    <h1>Matt Jones</h1>
-    <nav id="options">
-      <ul>
-        <li>
-          <a href="/index.xml" title="">Subscribe</a>
-        </li>
-      </ul>
-    </nav>
-    <nav id="main">
-      <a id="back-link" href="/menu">menu</a>
-    </nav>
-  </header>
-  <main>
-    <article>
-      <header>
-        <h1>Getting Sendmail to Work on Jaguar</h1>
-      </header>
-      <p><a href="http://www.apple.com/macosx/">OS X</a> has,
-      inbuilt, a piece of software called <a href=
-      "http://www.sendmail.org/">Sendmail</a>. It’s one of these
-      powerful programs that reside within the inner gubbins of OS
-      X which can be made to do all sorts of powerful things using
-      nothing else but the command line… if you’re a <a href=
-      "http://www.geek-girl.com/unix.html">UNIX</a> wizard that is
-      (and I most certainly am not).</p>
-      <p>As its name implies, Sendmail is a tool for working with
-      email. If you open a terminal window, you can type <em>‘mail
-      matt@frownland.com’</em> followed by a subject and body text
-      (adding a line-break and ‘.’ at the end) and your email will
-      be sent. Well that’s how it should work anyway, because Apple
-      - apparently, for reasons of security - have stopped Sendmail
-      from working in Jaguar (it works up to 10.1.4). Now why is
-      this a problem? Why can’t I leave the UNIX nerds to worry
-      about how they’re going to send their emails and get on with
-      using good old Mail.app? Well, it’s a problem if, like me,
-      you’re using your Mac to learn about <a href=
-      "http://www.php.net">PHP</a>.</p>
-      <p><a href=
-      "http://uk2.php.net/manual/en/ref.mail.php">Mail()</a> is a
-      function used to send email from within a PHP application. On
-      machines running UNIX or its derivatives (OS X included),
-      this function uses Sendmail to handle any emails that are
-      sent from a PHP script. This is configured in the php.ini
-      file with the line:</p>
-      <p>sendmail_path = /usr/sbin/sendmail -t</p>
-      <p>However, even with this path properly set, the mail()
-      function will not work because of the problem with Sendmail.
-      What’s most annoying is that no error messages accompany the
-      problem, so you’re left completely in the dark when the test
-      email fails to appear in your Inbox.</p>
-      <p>The solution lies in doing a bit of reconfiguring of
-      Sendmail and the instructions to do this can be found in this
-      <a href=
-      "http://www.macdevcenter.com/pub/a/mac/2002/06/07/sendmail_1015.html">
-      O’Reilly article</a>.</p>
-      <p>If you’re wondering why I’ve written this technical -
-      admittedly dull - post, it’s because I’ve spent all day
-      trying to find the solution to this problem and if I can make
-      someones life easier by publishing this information for
-      <a href="http://www.google.com">Google</a> to index, then I’m
-      glad to have posted it.</p>
-      <p>Now… chimps.</p>
-      <footer>
+
+  <body>
+    <header>
+      <h1>Matt Jones</h1>
+
+      <nav id="options">
         <ul>
-          <li>Posted by <strong>Matt</strong></li>
-          <li>Published on <time>11 June 2003</time></li>
-          <li>Last updated on <time>13 November 2018</time>
-          (<a href=
-          "https://mattjon.es/git/matt/mattjones/commit/2dd5168ca550d8c9df07258c96145c930cb1192e">2dd5168</a>)
-          </li>
-          <li>Permalink: <a href=
-          "https://mattjon.es/blog/2003/06/getting-sendmail-to-work-on-jaguar/">
-            https://mattjon.es/blog/2003/06/getting-sendmail-to-work-on-jaguar/</a>
-          </li>
+          
+          <li><a href="/index.xml" title="">Subscribe</a></li>
+          
         </ul>
-      </footer>
-    </article>
-    <nav>
-      <h2>Site Menu</h2>
-      <ul>
-        <li>
-          <a class="sidebar-nav-item" href="/" title="">Home
-          Page</a>
-        </li>
-      </ul>
-    </nav>
-  </main>
+      </nav>
+      
+      
+      
+      <nav id="main"><a id="back-link" href="/menu">
+          
+          menu
+          
+      </a></nav>
+    </header>
+    
+    <main>
+    
+
+
+<article>
+  <header>
+    <h1>Getting Sendmail to Work on Jaguar</h1>
+  </header>
+  
+  
+ 
+  <p><a href="http://www.apple.com/macosx/">OS X</a> has, inbuilt, a piece of software called <a href="http://www.sendmail.org/">Sendmail</a>. It&rsquo;s one of these powerful programs that reside within the inner gubbins of OS X which can be made to do all sorts of powerful things using nothing else but the command line… if you&rsquo;re a <a href="http://www.geek-girl.com/unix.html">UNIX</a> wizard that is (and I most certainly am not).</p>
+
+<p>As its name implies, Sendmail is a tool for working with email. If you open a terminal window, you can type <em>&lsquo;mail matt@frownland.com&rsquo;</em> followed by a subject and body text (adding a line-break and &lsquo;.&rsquo; at the end) and your email will be sent. Well that&rsquo;s how it should work anyway, because Apple - apparently, for reasons of security - have stopped Sendmail from working in Jaguar (it works up to 10.1.4). Now why is this a problem? Why can&rsquo;t I leave the UNIX nerds to worry about how they&rsquo;re going to send their emails and get on with using good old Mail.app? Well, it&rsquo;s a problem if, like me, you&rsquo;re using your Mac to learn about <a href="http://www.php.net">PHP</a>.</p>
+
+<p><a href="http://uk2.php.net/manual/en/ref.mail.php">Mail()</a> is a function used to send email from within a PHP application. On machines running UNIX or its derivatives (OS X included), this function uses Sendmail to handle any emails that are sent from a PHP script. This is configured in the php.ini file with the line:</p>
+
+<p>sendmail_path = /usr/sbin/sendmail -t</p>
+
+<p>However, even with this path properly set, the mail() function will not work because of the problem with Sendmail. What&rsquo;s most annoying is that no error messages accompany the problem, so you&rsquo;re left completely in the dark when the test email fails to appear in your Inbox.</p>
+
+<p>The solution lies in doing a bit of reconfiguring of Sendmail and the instructions to do this can be found in this <a href="http://www.macdevcenter.com/pub/a/mac/2002/06/07/sendmail_1015.html">O&rsquo;Reilly article</a>.</p>
+
+<p>If you&rsquo;re wondering why I&rsquo;ve written this technical - admittedly dull - post, it&rsquo;s because I&rsquo;ve spent all day trying to find the solution to this problem and if I can make someones life easier by publishing this information for <a href="http://www.google.com">Google</a> to index, then I&rsquo;m glad to have posted it.</p>
+
+<p>Now… chimps.</p>
+
+  
   <footer>
-    <span id="speed"></span>
+    <ul>
+      <li>Posted by <strong>Matt</strong></li>
+      <li>Published on <time>11 June 2003</time></li>
+      
+      <li>Last updated on <time>13 November 2018</time> (<a href="https://mattjon.es/git/matt/mattjones/commit/2dd5168ca550d8c9df07258c96145c930cb1192e">2dd5168</a>)</li>
+      
+      <li>Permalink: <a href="https://mattjon.es/blog/2003/06/getting-sendmail-to-work-on-jaguar/">https://mattjon.es/blog/2003/06/getting-sendmail-to-work-on-jaguar/</a></li>
+    </ul>
   </footer>
-  <script>
-  window.onload = function () {
+</article>
+
+
+<nav>
+  <h2>Site Menu</h2>
+  
+  <ul>
+
+<li><a class="sidebar-nav-item" href="/" title="">Home Page</a></li>
+
+</ul>
+</nav>
+
+
+    </main>
+
+    <footer>
+      <p></p>
+      <span id="speed"></span>
+    </footer>
+    <script>
+window.onload = function () {
     var loadTime = window.performance.timing.domContentLoadedEventEnd-window.performance.timing.navigationStart; 
          document.getElementById('speed').innerHTML = 'Page rendered in ' + loadTime/1000 + ' seconds &#128374;';
-  }
+}
+ 
+     </script>
 
-  </script> 
+    
   <script>
     var lazy = [];
     registerListener('load', setLazy);
@@ -157,6 +146,6 @@
                                window.attachEvent('on' + event, func)
                                }
                                }
-  </script>
-</body>
+    </script>
+  </body>    
 </html>
