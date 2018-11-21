@@ -239,16 +239,15 @@ figure {
 }
 
 figcaption {
-    display:flex;
     font-size:80%;
 }
 
 #caption {
-    max-width:20em;
+    display:block;
 }
 
 #credit {
-    margin-left:auto;
+    display:block;
 }
 
 body>header {
@@ -378,7 +377,21 @@ a:hover .close {
     figure {
         margin: 2em -10em 5em 0
     }
+
+    figcaption {
+        display:flex;
+    }
     
+    #caption {
+        display:inline;
+        max-width:20em;
+    }
+    
+    #credit {
+        display:inline;
+        margin-left:auto;
+    }
+
     
     aside.full {
         margin: 3em -5em

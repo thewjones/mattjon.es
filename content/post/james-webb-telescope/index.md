@@ -27,5 +27,7 @@ While the general principles of the James Webb telescope are similar to Hubble -
 
 That cradle-like base you can see pictured isn't a base (there's no up or down remember?) but a solar shield. This will turn to face the Sun to keep the telescope in the shade at a chilly -267 Celsius. Without this the heat from the sensor itself would affect the infrared light it's detecting from the early Universe.
 
-In troubled geopolitical times, it's good to see international scientific efforts to move humanity forward. Although worringly NASA has set back the launch date a number of times. Originally due to the launch this year, last year they reschuled it for 2019, and now it is schedules for a 2021 launch. As a joint project between NASA and ESA I hope it overcomes any hurdle put in its place by the Trump-Brexit axis of stupidity. I will be watching hopefully. 
+In troubled geopolitical times, it's good to see international scientific efforts to move humanity forward. Although worringly NASA has set back the launch date a number of times. Originally due to the launch this year, last year they reschuled it for 2019, and now it is schedules for a 2021 launch. As a joint project between NASA and ESA I hope it overcomes any hurdle put in its place by the Trump-Brexit axis of stupidity. 
+
+I will be watching hopefully. 
 
