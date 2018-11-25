@@ -25,6 +25,12 @@ rssLimit = 10
     identifier = "home"
     name       = "Home Page"
     url        = "/"
+    weight     = 1
+
+    [[menu.main]]
+    identifier = "archive"
+    name       = "Archive"
+    url        = "/post"
     weight     = 0
 
     [[menu.options]]
