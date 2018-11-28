@@ -164,6 +164,7 @@ hr {
 
 ul {
     list-style: disc;
+    margin-left:2em;
 }
 
 nav ul {
@@ -338,6 +339,7 @@ article>footer {
 
 article>footer>ul {
     list-style:none;
+    margin-left:0;
 }
 
 
@@ -348,7 +350,10 @@ time {
 
 body>footer {
     display:flex;
-    font-size:80%
+    font-size:80%;
+                   border-top:solid 3px #ccc;
+    padding-top:0.5em;
+    color:#666;
 }
 
 body>footer p {
@@ -357,6 +362,8 @@ body>footer p {
 
 body>footer #speed {
     margin-left:auto;
+    align-self: flex-end;
+    max-width:20em;
 }
 
 .close {
