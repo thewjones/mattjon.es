@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>
+            Matt Jones
+        </title>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+        <meta name="author" content="@mattjones">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link type="rel/css">
+        <link href="/css/stylemin.css" rel="stylesheet">
+</head>
+
+  <body>
+    <header>
+      <h1>Matt Jones</h1>
+
+      <nav id="options">
+        <ul>
+          
+          <li><a href="/index.xml" title="">Subscribe</a></li>
+          
+        </ul>
+      </nav>
+      
+      
+      
+      <nav id="main"><a id="back-link" href="/menu">
+          
+          menu
+          
+      </a></nav>
+    </header>
+    
+    <main>
+    
+
+
+<article>
+  <header>
+    <h1>A Belated Post About Hallowe&#39;en &amp; Guy Fawkes Night</h1>
+  </header>
+  
+  
+ 
+  <p>Apart from the tradition of <a href="http://www.pumpkin-carving.com/">pumpkin faces</a> and the smell of a bonfire on a crisp autumn night, there&rsquo;s not much about <a href="http://www.halloween-online.com/">Hallowe&rsquo;en</a> and <a href="http://www.bonefire.org/guy/">Guy Fawkes Night</a> that I like. Snotty nosed kids in the same old crap costumes constantly knocking on the door, intoxicated grown-ups in the same old crap costumes, lagered up and stumbling down the street. I&rsquo;m not sure whether the aim of it all is too look scary or stupid; indeed, I can think of a million and one ways of really scaring people, but many of these aren&rsquo;t legal. What does seem to be legal and socially acceptable however is the constant launching of fireworks - usually ones that don&rsquo;t do anything other than make a large and incredibly annoying bang - into the early hours of the morning. Furthermore, in an activity remarkably similar to who can most effectively suck the national grid of its electricity supply whilst illuminating their house at Christmas time, households compete against each other to see who&rsquo;s bought the most impressive fireworks. In fact, the other day I heard reports of one family dancing round their bonfire tribally chanting &lsquo;We&rsquo;ve got the best fireworks… We&rsquo;ve got… &rsquo; and so on. As the independent launching of fireworks seems to be getting more competitive and dangerous, organised displays seem to be getting more safe. I seem to remember at least one person getting hospitalised at the yearly display I used to go to. Perimeter fences are now placed 100 meters distant from the bonfire; a result of over-zealous health and safety officials and high insurance premiums.</p>
+
+<p>So, this is my experience of Hallowe&rsquo;en and Bonfire Night. I&rsquo;m sure that these traditions are embraced and enjoyed by millions the world over… well in UK and America at least. For me, however, any kind of enjoyment to be taken from this time of year is outweighed by the threat of being confronted by some useless Hallowe&rsquo;en ghoul or being hit by a stray rocket.</p>
+
+  
+  <footer>
+    <ul>
+      <li>Posted by <strong>Matt</strong></li>
+      <li>Published on <time>8 November 2002</time></li>
+      
+      <li>Last updated on <time>13 November 2018</time> (<a href="https://mattjon.es/git/matt/mattjones/commit/2dd5168ca550d8c9df07258c96145c930cb1192e">2dd5168c</a>)</li>
+      
+      <li>Permalink: <a href="https://mattjon.es/blog/2002/11/a-belated-post-about-halloween-guy-fawkes-night/">https://mattjon.es/blog/2002/11/a-belated-post-about-halloween-guy-fawkes-night/</a></li>
+    </ul>
+  </footer>
+</article>
+
+
+<nav>
+  <h2>Site Menu</h2>
+  
+  <ul>
+
+<li><a class="sidebar-nav-item" href="/" title="">Home Page</a></li>
+
+<li><a class="sidebar-nav-item" href="/post" title="">Archive</a></li>
+
+</ul>
+</nav>
+
+
+    </main>
+
+    <footer>
+      <div class="h-card vcard">
+        <h3>Who is this?</h3>
+	<p>It's me, <a style="text-decoration: none" href=https://mattjon.es/ class="p-name u-url url author metatag" rel="me">
+	  Matt Jones
+	  </a>. <span class="p-note">I'm a web developer based in the UK</span><br>
+        You can email me at <a href="mailto:mail@mattjon.es" class="u-email">mail@mattjon.es</a> if you like<br>
+        Otherwise you can follow me on <a data-hint="Twitter" title="Twitter" href="https://www.twitter.com/mattjones" rel="me">Twitter</a>
+        or <a data-hint="Mastodon" title="Mastodon" href="https://mastodon.mattjon.es/@matt" rel="me">Mastodon</a>
+        </p>
+</div>
+
+      <span id="speed">This site is statically generated and uses no tracking pixels or third-party services. This page loaded in </span>
+    </footer>
+    <script>
+window.onload = function () {
+var loadTime = window.performance.timing.domContentLoadedEventEnd-window.performance.timing.navigationStart;
+var div = document.getElementById('speed');
+div.innerHTML += ' ' + loadTime/1000 + ' seconds &#128374;';
+}
+ 
+     </script>
+
+    
+  <script>
+    var lazy = [];
+    registerListener('load', setLazy);
+    registerListener('load', lazyLoad);
+    registerListener('scroll', lazyLoad);
+    registerListener('resize', lazyLoad);
+    function setLazy(){
+    
+    
+    
+    lazy = document.getElementsByClassName('lazy');
+    console.log('Found ' + lazy.length + ' lazy images');
+    } 
+    function lazyLoad(){
+    for(var i=0; i<lazy.length; i++){
+                                if(isInViewport(lazy[i])){
+                                if (lazy[i].getAttribute('data-src')){
+                                lazy[i].src = lazy[i].getAttribute('data-src');
+                                lazy[i].removeAttribute('data-src');
+                                }
+                                }
+                                }
+                                
+                                cleanLazy();
+                                }
+                                function cleanLazy(){
+                                lazy = Array.prototype.filter.call(lazy, function(l){ return l.getAttribute('data-src');});
+                                }
+                                function isInViewport(el){
+                                var rect = el.getBoundingClientRect();
+                                
+                                return (
+                                rect.bottom >= 0 && 
+      rect.right >= 0 && 
+      rect.top <= (window.innerHeight || document.documentElement.clientHeight) && 
+                  rect.left <= (window.innerWidth || document.documentElement.clientWidth)
+                               );
+                               }
+                               function registerListener(event, func) {
+                               if (window.addEventListener) {
+                               
+                               window.addEventListener(event, func)
+                               } else {
+                               window.attachEvent('on' + event, func)
+                               }
+                               }
+    </script>
+  </body>    
+</html>
