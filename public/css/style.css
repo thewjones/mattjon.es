@@ -349,7 +349,7 @@ time {
 }
 
 body>footer {
-
+    display:flex;
     font-size:80%;
                    border-top:solid 3px #ccc;
     padding-top:0.5em;
@@ -359,11 +359,12 @@ body>footer {
 body>footer p {
     margin:0;
 }
-body>footer #speed {
-    display:block;
-    margin-top:2em;
-}
 
+body>footer #speed {
+    margin-left:auto;
+    align-self: flex-end;
+    max-width:20em;
+}
 
 .close {
     font-size:1.2em;
@@ -414,18 +415,6 @@ a:hover .close {
     aside>blockquote>p {
         font-size: 1.75em
     }
-
-    body>footer {
-    display:flex;
-    }
-
-
-    body>footer #speed {
-        margin-left:auto;
-        align-self: flex-end;
-        max-width:20em;
-    }
-
 }
 
 
