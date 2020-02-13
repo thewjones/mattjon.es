@@ -1,0 +1,20 @@
+{{ define "main" }}
+
+
+{{ partial "article.html" . }}
+
+<nav>
+  <h2>Site Menu</h2>
+  {{ $currentPage := . }}
+  <ul>
+{{ range .Site.Menus.main }}
+<li><a class="sidebar-nav-item{{if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }} active{{end}}" href="{{ .URL }}" title="{{ .Title }}">{{ .Name }}</a></li>
+{{ end }}
+</ul>
+</nav>
+
+{{ end }}
+
+
+
+

@@ -1,0 +1,6 @@
+<aside {{ if .Get "type" }}class="{{ with .Get "type"}}{{.}}{{ end }}"{{ end }}>
+<blockquote>
+{{ .Inner }}
+{{ if .Get "cite" }}<cite>{{ with .Get "cite"}}{{.}}</cite>{{ end }}{{ end }}
+</blockquote>
+</aside>

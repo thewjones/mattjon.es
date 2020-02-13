@@ -1,0 +1,23 @@
+{{ define "main" }}
+
+<article>
+  <section>
+    <h1>Latest Five Posts</h1>
+    {{ range first 4 (where site.RegularPages "Type" "in" site.Params.mainSections) }}
+    {{ partial "article.html" . }}
+    {{ end }} 
+  </section>
+
+  {{ if gt (len (where .Data.Pages "Section" "post")) 4 }}
+  <section>
+    <h2>Previous posts</h2>
+    <ul>
+      {{ range first 5 (after 4 (where .Data.Pages "Section" "post")) }}
+      <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+      {{ end }}
+    </ul>
+  </section>
+  {{ end }}
+  
+ </article>
+{{ end }}
