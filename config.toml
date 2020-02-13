@@ -1,7 +1,6 @@
 baseurl = "https://mattjon.es/"
 languageCode = "en-gb"
 title = "Matt Jones"
-theme = "porter"
 
 rssLimit = 10
 
