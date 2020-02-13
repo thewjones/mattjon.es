@@ -8,6 +8,7 @@ rssLimit = 10
 [permalinks]
   post = "/blog/:year/:month/:slug"
 
+
 [params]
   title = "Matt Jones"
   author = "Matt Jones"
@@ -18,7 +19,7 @@ rssLimit = 10
 
   pageNotFoundTitle = "Page not found"
   pageNotFoundSubtitle = "Sorry, but the requested page wasn’t <br> found on the server."
-
+  mainSections = ["post"]
 
 [menu]
     [[menu.main]]
