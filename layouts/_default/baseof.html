@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>
+            Matt Jones
+        </title>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+        <meta name="author" content="@mattjones">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link type="rel/css">
+        <link href="{{ "css/style.css" | relURL }}" rel="stylesheet">
+{{ range .AlternativeOutputFormats -}}
+    {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
+{{ end -}}     
+    </head>
+
+  <body>
+    <header>
+      <h1>{{ $.Site.Params.title }}</h1>
+
+<!--      <nav id="options">
+        <ul>
+          {{ range .Site.Menus.options }}
+          <li><a href="{{ .URL }}" title="{{ .Title }}">{{ .Name }}</a></li>
+          {{ end }}
+        </ul>
+      </nav>
+   -->   
+      <!--    <span>{{ $.Site.Params.description | safeHTML }}</span> -->
+      
+      <nav id="main"><a id="back-link" href="{{ "menu" | relURL }}">
+          {{ if eq .Params.url "/menu/" }}
+          <span class="close">&#10005;</span>
+          {{ else }}
+          menu
+          {{ end }}
+      </a></nav>
+    </header>
+    
+    <main>
+    {{ block "main" . }}
+    <!-- The part of the page that begins to differ between templates -->
+    {{ end }}
+    </main>
+
+    <footer>
+      <div class="h-card vcard">
+        <h3>Who is this?</h3>
+	<p>It's me, <a style="text-decoration: none" href={{ .Site.BaseURL }} class="p-name u-url url author metatag" rel="me">
+	  {{ $.Site.Params.author }}
+	  </a>. <span class="p-note">I'm a web developer based in the UK</span><br>
+        You can email me at <a href="mailto:mail@mattjon.es" class="u-email">mail@mattjon.es</a> if you like<br>
+        Otherwise you can follow me on <a data-hint="Twitter" title="Twitter" href="https://www.twitter.com/mattjones" rel="me">Twitter</a>
+        or <a data-hint="Mastodon" title="Mastodon" href="https://mastodon.mattjon.es/@matt" rel="me">Mastodon</a>
+        </p>
+</div>
+
+      <span id="speed">This site is statically generated and uses no tracking pixels or third-party services. This page loaded in </span>
+    </footer>
+    <script>
+window.onload = function () {
+var loadTime = window.performance.timing.domContentLoadedEventEnd-window.performance.timing.navigationStart;
+var div = document.getElementById('speed');
+div.innerHTML += ' ' + loadTime/1000 + ' seconds &#128374;';
+}
+ 
+     </script>
+
+    
+  <script>
+    var lazy = [];
+    registerListener('load', setLazy);
+    registerListener('load', lazyLoad);
+    registerListener('scroll', lazyLoad);
+    registerListener('resize', lazyLoad);
+    function setLazy(){
+    //     document.getElementById('listing').removeChild(document.getElementById('viewMore'));
+    //    document.getElementById('nextPage').removeAttribute('class');
+    
+    lazy = document.getElementsByClassName('lazy');
+    console.log('Found ' + lazy.length + ' lazy images');
+    } 
+    function lazyLoad(){
+    for(var i=0; i<lazy.length; i++){
+                                if(isInViewport(lazy[i])){
+                                if (lazy[i].getAttribute('data-src')){
+                                lazy[i].src = lazy[i].getAttribute('data-src');
+                                lazy[i].removeAttribute('data-src');
+                                }
+                                }
+                                }
+                                
+                                cleanLazy();
+                                }
+                                function cleanLazy(){
+                                lazy = Array.prototype.filter.call(lazy, function(l){ return l.getAttribute('data-src');});
+                                }
+                                function isInViewport(el){
+                                var rect = el.getBoundingClientRect();
+                                
+                                return (
+                                rect.bottom >= 0 && 
+      rect.right >= 0 && 
+      rect.top <= (window.innerHeight || document.documentElement.clientHeight) && 
+                  rect.left <= (window.innerWidth || document.documentElement.clientWidth)
+                               );
+                               }
+                               function registerListener(event, func) {
+                               if (window.addEventListener) {
+                               
+                               window.addEventListener(event, func)
+                               } else {
+                               window.attachEvent('on' + event, func)
+                               }
+                               }
+    </script>
+  </body>    
+</html>

@@ -1,0 +1,48 @@
+<article>
+  <header>
+    <h1>{{ .Title }}</h1>
+  </header>
+  
+  {{ if isset .Params "resources" }}
+  {{ $header := (.Resources.ByType "image").GetMatch "header" }}
+  {{ $resource := $header }}
+  {{ $image := $resource.Fill "1200x800" }}
+  {{if $header}}
+  
+  <figure>
+    <img src="{{ $image.RelPermalink }}">
+    <figcaption >
+      <span id="caption">
+      {{if .Params.imageCaption }}
+      {{ .Params.imageCaption }}
+      {{ end }}
+      </span>
+      {{ if .Params.imageLicense }}
+      <span id="credit">
+        Credit: <a href="{{ .Params.imageURL }}">{{ .Params.imageAttrib }}</a>
+        <span id="license">
+          <a href="{{ .Params.licenseURL }}">
+            {{ .Params.imageLicense }}
+          </a>
+        </span>
+      </span>
+      {{ end }}
+      
+    </figcaption>
+  </figure>
+  
+  {{ end }}
+  {{ end }}
+ 
+  {{ .Content }}
+  
+  <footer>
+    <ul>
+      <li>Posted by <strong>Matt</strong> (<a href="{{ .Permalink }}">Permalink</a>)</li>
+      <li>Published on <time>{{ .PublishDate.Format "2 January 2006" }}</time></li>
+      {{ if (gt .Lastmod.Unix .PublishDate.Unix) }}
+      <li>Last updated on <time>{{ .Lastmod.Format "2 January 2006" }}</time> (<a href="https://mattjon.es/git/matt/mattjones/commit/{{ .GitInfo.Hash }}">{{ .GitInfo.AbbreviatedHash }}</a>)</li>
+      {{ end }}
+     </ul>
+  </footer>
+</article>

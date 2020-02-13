@@ -1,0 +1,7 @@
+{{ partial "header.html" . }}
+<main class="mw7 center">
+      {{ range first 5 (where .Data.Pages.ByDate.Reverse "Section" "note") }}
+        {{ .Render "summary" }} 
+      {{ end }}
+</main>
+{{ partial "footer.html" . }}
