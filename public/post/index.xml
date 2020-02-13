@@ -6,10 +6,20 @@
     <description>Recent content in Posts on Matt Jones</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Wed, 21 Nov 2018 19:40:05 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Feb 2020 13:40:05 +0000</lastBuildDate>
     
 	<atom:link href="https://mattjon.es/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Frequency</title>
+      <link>https://mattjon.es/blog/2020/02/frequency/</link>
+      <pubDate>Fri, 07 Feb 2020 13:40:05 +0000</pubDate>
+      
+      <guid>https://mattjon.es/blog/2020/02/frequency/</guid>
+      <description>October 2020 marks the twentieth year I&amp;rsquo;ve been blogging, although the frequency of my blog posts for the last ten years would suggest that I&amp;rsquo;m not really much a blogger of late. I think I wrote more posts during the month of October 2000 than I have during the last ten years!
+Anyway, it&amp;rsquo;s a new decade (depending on your pedantry over whether a zeroth year is the first of a new decade), and I&amp;rsquo;m entering into it with optimism and lots of things to write about.</description>
+    </item>
     
     <item>
       <title>Fictional spacecraft on the ground and real spacecraft in space</title>
@@ -94,15 +104,6 @@ Micheal Hauben - What the Net Means to Me The quote above is taken from an artic
       
       <guid>https://mattjon.es/blog/2013/11/greasemonkey-script-to-remove-promoted-tweets-from-twitter/</guid>
       <description>Now that Twitter has gone public we can expect many changes that will keep shareholders happy but annoy long-term users of the site. For me, the addition of embedded images in the timeline breaks something fundamental about Twitter, the idea of creativity through limitation; a tweet is now 140 characters and an image (or an advert). This Greasemonkey script gets rid of the adverts, at least.</description>
-    </item>
-    
-    <item>
-      <title>How short-term thinking about road safety has failed to make liveable towns and cities</title>
-      <link>https://mattjon.es/blog/2013/07/how-short-term-thinking-about-road-safety-has-failed-to-make-liveable-towns-and-cities/</link>
-      <pubDate>Thu, 18 Jul 2013 08:18:41 +0000</pubDate>
-      
-      <guid>https://mattjon.es/blog/2013/07/how-short-term-thinking-about-road-safety-has-failed-to-make-liveable-towns-and-cities/</guid>
-      <description>We had a teacher at school who used to give lectures on road safety. They were gruesome first-hand accounts designed to scare us into being attentive around roads. No-one questioned why a P.E. teacher in his Ron Hills always seemed to be the one on the scene with a shovel and a body bag. It also didn&amp;rsquo;t occur to anyone to ask why the roads were dangerous places to be in the first place, especially ones nearby to the school.</description>
     </item>
     
   </channel>

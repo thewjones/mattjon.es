@@ -6,10 +6,19 @@
     <description>Recent content in Tags on Matt Jones</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Wed, 21 Nov 2018 19:40:05 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Feb 2020 13:40:05 +0000</lastBuildDate>
     
 	<atom:link href="https://mattjon.es/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Blogging</title>
+      <link>https://mattjon.es/tags/blogging/</link>
+      <pubDate>Fri, 07 Feb 2020 13:40:05 +0000</pubDate>
+      
+      <guid>https://mattjon.es/tags/blogging/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>James Webb Space Telescope</title>
@@ -89,15 +98,6 @@
       <pubDate>Thu, 21 Nov 2013 09:34:25 +0000</pubDate>
       
       <guid>https://mattjon.es/tags/science/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>TV</title>
-      <link>https://mattjon.es/tags/tv/</link>
-      <pubDate>Thu, 21 Nov 2013 09:34:25 +0000</pubDate>
-      
-      <guid>https://mattjon.es/tags/tv/</guid>
       <description></description>
     </item>
     

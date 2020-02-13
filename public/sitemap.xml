@@ -3,7 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://mattjon.es/post/frequency/</loc>
+    <loc>https://mattjon.es/tags/blogging/</loc>
+    <lastmod>2020-02-07T13:40:05+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mattjon.es/blog/2020/02/frequency/</loc>
+    <lastmod>2020-02-07T13:40:05+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mattjon.es/</loc>
+    <lastmod>2020-02-07T13:40:05+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mattjon.es/post/</loc>
+    <lastmod>2020-02-07T13:40:05+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mattjon.es/tags/</loc>
     <lastmod>2020-02-07T13:40:05+00:00</lastmod>
   </url>
   
@@ -18,27 +38,12 @@
   </url>
   
   <url>
-    <loc>https://mattjon.es/</loc>
-    <lastmod>2018-11-21T19:40:05+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mattjon.es/post/</loc>
-    <lastmod>2018-11-21T19:40:05+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://mattjon.es/tags/science-fiction/</loc>
     <lastmod>2018-11-21T19:40:05+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://mattjon.es/tags/space/</loc>
-    <lastmod>2018-11-21T19:40:05+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mattjon.es/tags/</loc>
     <lastmod>2018-11-21T19:40:05+00:00</lastmod>
   </url>
   

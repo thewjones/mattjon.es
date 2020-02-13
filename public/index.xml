@@ -6,10 +6,20 @@
     <description>Recent content on Matt Jones</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Wed, 21 Nov 2018 19:40:05 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Feb 2020 13:40:05 +0000</lastBuildDate>
     
 	<atom:link href="https://mattjon.es/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Frequency</title>
+      <link>https://mattjon.es/blog/2020/02/frequency/</link>
+      <pubDate>Fri, 07 Feb 2020 13:40:05 +0000</pubDate>
+      
+      <guid>https://mattjon.es/blog/2020/02/frequency/</guid>
+      <description>October 2020 marks the twentieth year I&amp;rsquo;ve been blogging, although the frequency of my blog posts for the last ten years would suggest that I&amp;rsquo;m not really much a blogger of late. I think I wrote more posts during the month of October 2000 than I have during the last ten years!
+Anyway, it&amp;rsquo;s a new decade (depending on your pedantry over whether a zeroth year is the first of a new decade), and I&amp;rsquo;m entering into it with optimism and lots of things to write about.</description>
+    </item>
     
     <item>
       <title>Fictional spacecraft on the ground and real spacecraft in space</title>
@@ -94,15 +104,6 @@ Micheal Hauben - What the Net Means to Me The quote above is taken from an artic
       
       <guid>https://mattjon.es/blog/2013/11/is-cycling-getting-more-or-less-dangerous/</guid>
       <description>Lots of dodgy statistics and skirting round of issues in this BBC Magazine piece. The &amp;lsquo;Safety in numbers in the Netherlands&amp;rsquo; argument is bogus; the reason they have such numbers is because of the level of investment in cycling infrastructure there.</description>
-    </item>
-    
-    <item>
-      <title>Greasemonkey script to remove promoted tweets from Twitter</title>
-      <link>https://mattjon.es/blog/2013/11/greasemonkey-script-to-remove-promoted-tweets-from-twitter/</link>
-      <pubDate>Sun, 17 Nov 2013 15:03:18 +0000</pubDate>
-      
-      <guid>https://mattjon.es/blog/2013/11/greasemonkey-script-to-remove-promoted-tweets-from-twitter/</guid>
-      <description>Now that Twitter has gone public we can expect many changes that will keep shareholders happy but annoy long-term users of the site. For me, the addition of embedded images in the timeline breaks something fundamental about Twitter, the idea of creativity through limitation; a tweet is now 140 characters and an image (or an advert). This Greasemonkey script gets rid of the adverts, at least.</description>
     </item>
     
   </channel>
