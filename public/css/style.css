@@ -312,7 +312,7 @@ aside>blockquote>cite {
 }
 
 body>header>h1 {
-    color: #ff8c00;
+    color: salmon;
     margin-right: .5em
 }
 
@@ -321,7 +321,7 @@ body>header>span {
 }
 
 a {
-    color: #48d1cc
+    color: #0181eb;
 }
 
 p::first-letter {
@@ -331,7 +331,7 @@ p::first-letter {
 article>footer {
     display:inline-block;
     font-size:80%;
-    border-top:solid 3px #ff8c00;
+    border-top:solid 3px salmon;
     padding-top:0.5em;
     color:#666;
     
@@ -379,10 +379,12 @@ a:hover .close {
     
     main {
         max-width:40em;
+        margin:0 auto;
+ 
     }
     
     figure {
-        margin: 2em -10em 5em 0
+        margin: 3em -6em 5em -6em;
     }
 
     figcaption {

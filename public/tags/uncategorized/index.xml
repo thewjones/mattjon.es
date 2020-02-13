@@ -97,10 +97,10 @@ From the OLPC community Wiki that&amp;rsquo;s used for documentation and sharing
     
     <item>
       <title>Perl on Rails - Why the BBC Fails at the Internet</title>
-      <link>https://mattjon.es/blog/2007/12/perl-on-rails---why-the-bbc-fails-at-the-internet/</link>
+      <link>https://mattjon.es/blog/2007/12/perl-on-rails-why-the-bbc-fails-at-the-internet/</link>
       <pubDate>Wed, 05 Dec 2007 22:48:00 +0000</pubDate>
       
-      <guid>https://mattjon.es/blog/2007/12/perl-on-rails---why-the-bbc-fails-at-the-internet/</guid>
+      <guid>https://mattjon.es/blog/2007/12/perl-on-rails-why-the-bbc-fails-at-the-internet/</guid>
       <description>Perl on Rails - Why the BBC Fails at the Internet
 ... talented, underpaid, and frustrated software engineers at the BBC are forced to make a decision. Either they can produce websites using static HTML, and make a few remote calls to limited Perl functions, decorating their page with SSIs, or they can fight against a reticent and incompetent technology supplier to make use of a crippled and outdated language on servers that more than likely are unable to meet the capacity requirements of a dynamic application being used by the BBC&#39;s audience.</description>
     </item>
