@@ -1,3 +1,17 @@
+@font-face {
+    font-family: 'ibm-plex-regular';
+    src: url('/fonts/ibmplexsans-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'ibm-plex-semibold';
+    src: url('/fonts/ibmplexsans-semibold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
 html {
     font-size:16px;
 }
@@ -14,7 +28,6 @@ body {
     margin:2em auto;
 
 }
-
 
 main {
     flex:1;
@@ -92,11 +105,15 @@ h3,
 h4,
 h5,
 h6 {
-    clear: both
+    clear: both;
+    font-family:"ibm-plex-semibold";
+    color:#333;
 }
 
 p {
-    margin-bottom: 1.5em
+    margin-bottom: 1.5em;
+
+                    
 }
 
 cite,
@@ -218,7 +235,7 @@ h1,
 h2 {
     font-size: 2em;
     line-height: 1.3em;
-    margin: 0 0 1em
+    margin: 0 0 1em;
 }
 
 h2 {
