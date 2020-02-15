@@ -4,7 +4,7 @@
   </header>
   
   {{ if isset .Params "resources" }}
-  {{ $header := (.Resources.ByType "image").GetMatch "header" }}
+  {{ if $header := (.Resources.ByType "image").GetMatch "header" }}
   {{ $resource := $header }}
   {{ $image := $resource.Fill "1200x800" }}
   {{if $header}}
@@ -31,6 +31,7 @@
     </figcaption>
   </figure>
   
+  {{ end }}
   {{ end }}
   {{ end }}
  
