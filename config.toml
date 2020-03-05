@@ -1,7 +1,7 @@
 baseurl = "https://mattjon.es/"
 languageCode = "en-gb"
 title = "Matt Jones"
-
+enableRobotsTXT = true
 rssLimit = 10
 
 [permalinks]
