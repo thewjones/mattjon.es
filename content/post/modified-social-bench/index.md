@@ -8,7 +8,7 @@ resources:
 - name: header
   src: modified-social-bench.jpg
 title: Modified Social Benches
-imageCaption: Jeppe Hein &middot; Modified Social Benches, South Bank London
+imageCaption: Modified Social Benches, Jeppe Hein
 imageAttrib: Matt Jones
 imageLicense: CC BY-NC-ND 2.0
 licenseURL: https://creativecommons.org/licenses/by-nc-nd/2.0/
