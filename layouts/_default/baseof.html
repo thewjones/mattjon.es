@@ -58,5 +58,13 @@
 
       <span id="speed">This site is statically generated and uses no tracking pixels or third-party services. This page loaded in </span>
     </footer>
+     <script>
+window.onload = function () {
+var loadTime = window.performance.timing.domContentLoadedEventEnd-window.performance.timing.navigationStart;
+var div = document.getElementById('speed');
+div.innerHTML += ' ' + loadTime/1000 + ' seconds &#128374;';
+}
+     </script>
+
   </body>    
 </html>
