@@ -34,8 +34,10 @@ Once over the dune, I looked back to see two figures as the sun disappeared behi
 
 I walked away from the beach and onto the road where there was another red lamp-post and something unknown that was blue, so I photographed what I could see.
 
+{{< imgproc three Resize "1200x" />}}
+
 There is no conclusion to this story, only a kind of moral; that sometimes it is best to give creative control to 'chance'. This works well with the medium of analog photography, because there are so many unknown variables, but I've been thinking about ways in which this could be applied to web design and how designers might free themselves from formulaic designing by working in this way. 
 
-{{< imgproc three Resize "1200x" />}}
+
 
   
