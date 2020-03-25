@@ -28,9 +28,9 @@ I wanted to see the sea, so I walked towards the dunes and took another picture.
 
 People like to look out to sea, I'm sure there is a unique part of the human brain solely geared for responding in some way to the sea. It makes you want to take a picture.
 
-Once over the dune, I looked back to see two figures as the sun disappeared behind them. I wasn't aware of them at the time, I only realised they had been there when I looked at the image.
-
 {{< imgproc two Resize "1200x" />}}
+
+Once over the dune, I looked back to see two figures as the sun disappeared behind them. I wasn't aware of them at the time, I only realised they had been there when I looked at the image.
 
 I walked away from the beach and onto the road where there was another red lamp-post and something unknown that was blue, so I photographed what I could see.
 
