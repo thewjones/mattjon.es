@@ -22,7 +22,7 @@ After reading through these articles, Mac users [weren't happy](http://www.wired
 
 At about the same time that Kahney got a heap of irate mail in reponse to his articles, Jack Schofield at [Onlineblog.com](http://www.onlineblog.com) wrote about Kahney's final piece 'Baby, Friend, Pet: That's My Mac'. In response to Kahney's suggestion that Apple add human characteristics to their computers in order to form some kind of emotional attachment with their owner, Schofield wrote:
 
-      _'Clearly there's now a major industry devoted to explaining why 2.5% of the computer-buying population is still willing to pay well over the odds for very slow computers that severly limit your range of choices and lock you in to a single dictatorial supplier. Maybe Miller should have looked at infantilism instead….'_
+> 'Clearly there's now a major industry devoted to explaining why 2.5% of the computer-buying population is still willing to pay well over the odds for very slow computers that severly limit your range of choices and lock you in to a single dictatorial supplier. Maybe Miller should have looked at infantilism instead….'
 
 So now we're not only a bunch of pseudo-religious nutters helplessly neck deep in the Cult of Apple, but we're also infantile while we're at it!? As you can imagine, this started a bit of a [flame war](http://www.tecknik.net/blogback/data/bb.php?blog=3200948&post=90021083) on the Onlineblog site, in which I was compelled to have my say on the subject. If someone chooses something over something else, isn't it unfair to pigeon-hole them in this way? Isn't it wrong to bracket, to generalise and stereotype like this? Answer: Yes.
 
