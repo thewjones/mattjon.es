@@ -391,7 +391,11 @@ a:hover .close {
     border-bottom:solid 0px;
 }
 
-@media all and (min-width:55em) {
+@media all and (min-width:1024px) {
+
+    html {
+        border:solid 1em gainsboro;
+    }
     
     main {
         max-width:40em;
