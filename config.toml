@@ -6,6 +6,7 @@ rssLimit = 10
 
 [permalinks]
   post = "/blog/:year/:month/:slug"
+  linknotes = "/blog/links/:year/:month/:day"
 
 
 [params]
@@ -18,7 +19,7 @@ rssLimit = 10
 
   pageNotFoundTitle = "Page not found"
   pageNotFoundSubtitle = "Sorry, but the requested page wasn’t <br> found on the server."
-  mainSections = ["post"]
+  mainSections = ["post", "linknotes"]
 
 [menu]
     [[menu.main]]
