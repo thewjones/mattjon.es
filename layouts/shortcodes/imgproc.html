@@ -1,6 +1,6 @@
-{{ $original := .Page.Resources.GetMatch (printf "*%s*" (.Get 0)) }}
-{{ $command := .Get 1 }}
-{{ $options := .Get 2 }}
+{{ $original := .Page.Resources.GetMatch (printf "*%s*" (.Get "name")) }}
+{{ $command := .Get "command" }}
+{{ $options := .Get "options" }}
 {{ if eq $command "Fit"}}
 {{ .Scratch.Set "image" ($original.Fit $options) }}
 {{ else if eq $command "Resize"}}
@@ -12,14 +12,27 @@
 {{ end }}
 {{ $image := .Scratch.Get "image" }}
 <figure>
-	<img style="max-width: 100%; width: auto; height: auto;" src="{{ $image.RelPermalink }}" width="{{ $image.Width }}" height="{{ $image.Height }}" loading="lazy">
-	<figcaption>
-<!--	<small>
-	{{ with .Inner }}
-	{{ . }}
-	{{ else }}
-	.{{ $command }} "{{ $options }}"
-	{{ end }}
-	</small> -->
-	</figcaption>
-</figure>   
+  <img src="{{ $image.RelPermalink }}" loading="lazy">
+
+  <figcaption>
+    {{ with .Get "imageCaption"}}
+    <span id="caption">{{ . }}</span> 
+    {{ end }}
+    
+    <span id="credit">
+      <a href="{{ with .Get "imageURL" }}{{ . }}{{ end }}">{{ with .Get "imageAttrib" }}{{ . }}{{ end }}</a> &middot;
+      <span id="license">
+        <a href="{{ with .Get "licenseURL" }}{{ . }}{{ end }}">
+          {{ with .Get "imageLicense" }}
+          {{ . }}
+          {{ end }}
+        </a>
+      </span>
+    </span>
+
+  </figcaption>
+
+</figure>
+
+
+

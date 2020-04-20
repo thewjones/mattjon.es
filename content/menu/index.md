@@ -1,6 +1,5 @@
-
 ---
-type: page
+type: menu
 title: Menu
 url: /menu/
 ---

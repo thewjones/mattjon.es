@@ -1,17 +1,14 @@
-{{ define "main" }}
-
-
 <article>
   <header>
     <h1>{{ .Title }}</h1>
   </header>
-  
+
   {{ if isset .Params "resources" }}
   {{ if $header := (.Resources.ByType "image").GetMatch "header" }}
   {{ $resource := $header }}
   {{ $image := $resource.Fill "1200x800" }}
   {{if $header}}
-  
+
   <figure>
     <img src="{{ $image.RelPermalink }}" loading="lazy">
     <figcaption >
@@ -30,17 +27,19 @@
         </span>
       </span>
       {{ end }}
-      
+
     </figcaption>
   </figure>
-  
+
   {{ end }}
   {{ end }}
   {{ end }}
 
-  {{ .Content }}
 
-  
+  {{ .Summary }}
+
+  <p><a href="{{ .Permalink }}">Continue reading</a>
+
   <footer>
     <ul>
       <li>Posted by <strong>Matt</strong> (<a href="{{ .Permalink }}">Permalink</a>)</li>
@@ -50,16 +49,4 @@
       {{ end }}
      </ul>
   </footer>
-
 </article>
-<nav>
-  <h2>Site Menu</h2>
-  {{ $currentPage := . }}
-  <ul>
-{{ range .Site.Menus.main }}
-<li><a class="sidebar-nav-item{{if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }} active{{end}}" href="{{ .URL }}" title="{{ .Title }}">{{ .Name }}</a></li>
-{{ end }}
-</ul>
-</nav>
-
-{{ end }}

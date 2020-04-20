@@ -1,10 +1,21 @@
 {{ define "main" }}
 
+<script>
+  var home_url = '{{ .Params.baseURL }}';
+  if ( 0 === document.referrer.indexOf( home_url ) ) {
+  document.getElementById( 'back-link' ).href = document.referrer;
+  }
+</script>
 
-{{ partial "article.html" . }}
+{{ if .Content }}
+<article>
+{{ .Content }}
+</article>
+{{ end }}
 
 <nav>
   <h2>Site Menu</h2>
+
   {{ $currentPage := . }}
   <ul>
 {{ range .Site.Menus.main }}
@@ -12,6 +23,7 @@
 {{ end }}
 </ul>
 </nav>
+
 
 {{ end }}
 

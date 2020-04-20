@@ -4,7 +4,7 @@
   <section>
     <h1>Latest Five Posts</h1>
     {{ range first 4 (where site.RegularPages "Type" "in" site.Params.mainSections) }}
-    {{ partial "article.html" . }}
+    {{ .Render "summary" }}
     {{ end }} 
   </section>
 

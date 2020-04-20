@@ -1,7 +1,6 @@
 {{ define "main" }}
 
-
-<article>
+<article class="linknote">
   <header>
     <h1>{{ .Title }}</h1>
   </header>
@@ -39,7 +38,6 @@
   {{ end }}
 
   {{ .Content }}
-
   
   <footer>
     <ul>
@@ -50,8 +48,8 @@
       {{ end }}
      </ul>
   </footer>
-
 </article>
+
 <nav>
   <h2>Site Menu</h2>
   {{ $currentPage := . }}
@@ -63,3 +61,7 @@
 </nav>
 
 {{ end }}
+
+
+
+
