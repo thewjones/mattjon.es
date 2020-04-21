@@ -32,7 +32,7 @@ This video of [Marc Verdiell](https://www.curiousmarc.com/about) using some seri
 
 https://www.youtube.com/watch?v=2XLZ4Z8LpEE
 
-[Teletype machines](https://en.wikipedia.org/wiki/Teleprinter) like this are in the DNA of every computer and phone we use (except perhaps ones running Microsoft software). The filesystem on your Mac (or even your iPhone) has files at /dev/tty* - these are the input/output devices available to the operating system, which could be any kind of periphal device you have connected.
+[Teletype machines](https://en.wikipedia.org/wiki/Teleprinter) like this are in the DNA of every computer and phone we use (except perhaps ones running Microsoft software). The filesystem on your Mac (or even your iPhone) has files at /dev/tty* - these are the input/output devices available to the operating system, which could be any kind of peripheral device you have connected.
 
 'TTY' is an abbreviation of TeleTYpe, after the original Teletype machines that were used by computer operators in the 60s and 70s to enter commands and retrieve output.
 
