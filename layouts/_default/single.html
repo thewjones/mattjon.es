@@ -13,7 +13,7 @@
   {{if $header}}
   
   <figure>
-    <img src="{{ $image.RelPermalink }}" loading="lazy">
+    <img alt="{{ with .Params.imageCaption }}{{ . }}{{ end }}"src="{{ $image.RelPermalink }}" loading="lazy">
     <figcaption >
       <span id="caption">
       {{if .Params.imageCaption }}

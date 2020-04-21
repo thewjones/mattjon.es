@@ -10,7 +10,7 @@
   {{if $header}}
 
   <figure>
-    <img src="{{ $image.RelPermalink }}" loading="lazy">
+    <img alt="{{ with .Params.imageCaption }}{{ . }}{{ end }}"src="{{ $image.RelPermalink }}" loading="lazy">
     <figcaption >
       <span id="caption">
       {{if .Params.imageCaption }}
@@ -38,7 +38,7 @@
 
   {{ .Summary }}
 
-  <p><a href="{{ .Permalink }}">Continue reading</a>
+  <p><a href="{{ .Permalink }}">Continue reading &#x27F6;</a>
 
   <footer>
     <ul>
