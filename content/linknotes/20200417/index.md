@@ -1,5 +1,5 @@
 ---
-date: 2020-04-20T15:32:00Z
+date: 2020-04-21T15:32:00Z
 tags:
 - Community
 - Health
@@ -7,7 +7,7 @@ tags:
 resources:
 - name: header
   src: teletype-machine.jpg
-title: Link Notes 20 Apr 2020
+title: Link Notes 21 Apr 2020
 imageCaption: Image from page 646 of "The Bell System technical journal" (1922)
 imageAttrib: Prelinger Library
 imageURL: https://www.flickr.com/photos/internetarchivebookimages/14753014981/in/photolist-otF4ng-qsD9N3-x1cV5J-t4gwJa-soKVxE-t4iZtt-t4whsL-otHsP2-otVhD9-wKTAky-otJRqq-t49ZYJ-tiqg6w-xd74x7-ou6Gzq-t4hYZ4-otQb4q-rppea4-soVrFB-ou15u2-ouqKgt-t4bD4q-f9Z1kB-x2KCpW-wL1PKz-orPUjq-x44kpR-soJKNG-fbs3Jm-f8Di2D-x1cx7A-x1cqyL-tir5So-w6udGG-x1cNpu-wKT2bq-w6uYsN-x43bp8-t49P4Y-x2KPEb-w6tdgo-x1c7RG-xuad3t-x44FnM-w6toPC-x3vW5k-soWq1F-x41VKk-oy5LV8-odnTLx
@@ -17,10 +17,10 @@ imageLicense: CC0
 
 ## Today's links
 
-* [Using a 1930 Teletype as a Linux Terminal](/blog/links/2020/04/20#using-a-1930-teletype-as-a-linux-terminal): Using 1930s tech to operate a modern computer.
-* [Pluralistic](/blog/links/2020/04/20#pluralistic-daily-links-from-cory-doctorow): Cory Doctorow's daily links and inspiration for this site.
-* [The night sky is increasingly dystopian](/blog/links/2020/04/20#the-night-sky-is-increasingly-distopian): How SpaceX and other companies may be messing up the night sky for everyone.
-* [Hugo](/blog/links/2020/04/20#hugo): The static site generator I'm using to manage this site.
+* [Using a 1930 Teletype as a Linux Terminal](/blog/links/2020/04/21#using-a-1930-teletype-as-a-linux-terminal): Using 1930s tech to operate a modern computer.
+* [Pluralistic](/blog/links/2020/04/21#pluralistic-daily-links-from-cory-doctorow): Cory Doctorow's daily links and inspiration for this site.
+* [The night sky is increasingly dystopian](/blog/links/2020/04/21#the-night-sky-is-increasingly-dystopian): How SpaceX and other companies may be messing up the night sky for everyone.
+* [Hugo](/blog/links/2020/04/21#hugo): The static site generator I'm using to manage this site.
 
 <!--more-->
 
