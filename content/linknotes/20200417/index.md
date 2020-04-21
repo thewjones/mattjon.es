@@ -36,7 +36,7 @@ https://www.youtube.com/watch?v=2XLZ4Z8LpEE
 
 'TTY' is an abbreviation of TeleTYpe, after the original Teletype machines that were used by computer operators in the 60s and 70s to enter commands and retrieve output.
 
-In the video we see Marc use a single-line editor called '[ed](https://en.wikipedia.org/wiki/Ed_(text_editor)' which is software originally built into UNIX in the 1960s. If you use a Mac, or any [POSIX](https://en.wikipedia.org/wiki/POSIX) compliant computer, you can open your Terminal utility and type 'Ed' to still use this software.
+In the video we see Marc use a single-line editor called '[ed](https://en.wikipedia.org/wiki/Ed_(text_editor))' which is software originally built into UNIX in the 1960s. If you use a Mac, or any [POSIX](https://en.wikipedia.org/wiki/POSIX) compliant computer, you can open your Terminal utility and type 'Ed' to still use this software.
 
 {{< imgproc name="teletype"
     command="Resize"
