@@ -1,4 +1,4 @@
-<article>
+<article class="linknote">
   <header>
     <h1>{{ .Title }}</h1>
   </header>
@@ -6,7 +6,7 @@
   {{ if isset .Params "resources" }}
   {{ if $header := (.Resources.ByType "image").GetMatch "header" }}
   {{ $resource := $header }}
-  {{ $image := $resource.Fill "1200x800" }}
+  {{ $image := $resource.Fill "800x600" }}
   {{if $header}}
 
   <figure>

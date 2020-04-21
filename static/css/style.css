@@ -403,7 +403,7 @@ a:hover .close {
  
     }
     
-    article:not(.linknote) figure {
+    article article:not(.linknote) figure {
         margin: 3em -6em 5em -6em;
     }
 
