@@ -10,7 +10,7 @@ resources:
 title: Link Notes 22 April 2020
 imageCaption:
 imageAttrib:
-imageURL:
+imageURL: https://picryl.com/media/aurora-australis-red-crown-ef470d
 licenseURL: https://creativecommons.org/share-your-work/public-domain/cc0/
 imageLicense: CC0
 ---
