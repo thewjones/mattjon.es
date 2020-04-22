@@ -97,8 +97,6 @@ The first thing that struck me about this is that it's an impressive authority t
 
 ---
 
-### Helm software synthesiser
-
 {{< imgproc
     name="minimoog"
     command="Resize"
@@ -108,6 +106,8 @@ The first thing that struck me about this is that it's an impressive authority t
     imageLicense="CCO"
     imageURL="https://commons.wikimedia.org/wiki/File:Minimoog.JPG"
     licenseURL="https://creativecommons.org/share-your-work/public-domain/cc0/">}}
+
+### Helm software synthesiser
 
 https://tytel.org/helm
 
