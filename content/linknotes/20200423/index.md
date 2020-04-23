@@ -22,7 +22,7 @@ title: Link Notes 23 April 2020
 
 * [NASA's Plan to Turn the ISS Into a Quantum Laser Lab](/blog/links/2020/04/23/#nasas-plan-to-turn-the-iss-into-a-quantum-laser-lab): Why humans making use of a phenomenon we barely understand is like a cat making use of television.
 
-* [The Dangerous Rise of COVID-19 Influencers and Armchair Epidemiologists](/blog/links/2020/04/23/#the-dangerous-rise-of-covid-19-influencers-and-armchair-epidemiologists): in which I regrettably admit I've been the latter. 
+* [The Dangerous Rise of COVID-19 Influencers and Armchair Epidemiologists](/blog/links/2020/04/23/#the-dangerous-rise-of-covid-19-influencers-and-armchair-epidemiologists): Sarah Weinman on why armchair epidemiologists 'had such all-encompassing belief in their own interpretation of the data'
 
 * [Astrophotography in the era of Starlink satellite clusters](/blog/links/2020/04/23/#astrophotography-in-the-era-of-starlink-satellite-clusters): More on the impact of the Space X's confetti-like approach to launching communications satellites. 
 
