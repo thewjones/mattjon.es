@@ -46,7 +46,7 @@ https://www.insidehook.com/article/news-opinion/david-dunning-armchair-epidemiol
 
 When news broke about the [Coronavirus](https://en.wikipedia.org/wiki/Coronavirus) outbreak in China I thought about tweeting a vlog I first published in 2009 about the [Swine Flu pandemic](https://en.wikipedia.org/wiki/2009_swine_flu_pandemic). In it I said 'don't worry about the news, you'll be fine, Swine Flu is just like Seasonal Flu'. Before the Covid-19 outbreak I wrote tweets along similar lines. In short, I admit I have been that 'armchair epidemiologist'.
 
-While I was in absolutely no position to make informed comment on the nature of either pandemic, it did turn out that I was luckily right about the Swine Flu pandemic, because that particular strain wasn't that deadly. COVID-19 is clearly very different disease and now I'm going to leave this topic right there...
+While I was in absolutely no position to make informed comment on the nature of either pandemic, it did turn out that the Swine Flu H1N1 virus wasn't as deadly as it could have been. COVID-19 however is clearly very different disease and now I'm going to leave this topic right there...
 
 ---
 
