@@ -28,9 +28,9 @@ title: Link Notes 22 April 2020
 
 Today is [Earth Day](https://en.wikipedia.org/wiki/Earth_Day) 2020, so today's links have an environmental theme. Also&hellip; synthesisers. 
 
-* [Rising CO2 causes more than a climate crisis — it may directly harm our ability to think](/blog/links/2020/04/22#rising-co2-causes-more-than-a-climate-crisis-it-may-directly-harm-our-ability-to-think): Rising CO2 isn't just about rising global temperatures
-* [Air pollution may be ‘key contributor’ to Covid-19 deaths – study](/blog/links/2020/04/22#air-pollution-may-be-key-contributor-to-covid-19-deaths-study): UK national government and local authorities must take the best course of action to restore the economy while not returning to urban air quality that is killing people 
-* [How you can help plot the future of UK walking – from a standstill](/blog/links/2020/04/22#how-you-can-help-plot-the-future-of-uk-walking-from-a-standstill): A plan create walking routes between every village, town and city in the UK
+* [Rising CO2 causes more than a climate crisis — it may directly harm our ability to think](/blog/links/2020/04/22#rising-co2-causes-more-than-a-climate-crisis--it-may-directly-harm-our-ability-to-think): Rising CO2 isn't just about rising global temperatures
+* [Air pollution may be ‘key contributor’ to Covid-19 deaths – study](/blog/links/2020/04/22#air-pollution-may-be-key-contributor-to-covid-19-deaths--study): UK national government and local authorities must take the best course of action to restore the economy while not returning to urban air quality that is killing people 
+* [How you can help plot the future of UK walking – from a standstill](/blog/links/2020/04/22#how-you-can-help-plot-the-future-of-uk-walking--from-a-standstill): A plan create walking routes between every village, town and city in the UK
 * [Sidewalk Widths New York City](/blog/links/2020/04/22#sidewalk-widths-new-york-city) A data visualisation project for the social distancing era
 * [Helm software synthesiser](/blog/links/2020/04/22#helm-software-synthesiser) An excellent software synthesiser and learning tool
 
