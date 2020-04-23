@@ -66,8 +66,8 @@ https://www.theguardian.com/science/2020/apr/22/margaret-burbidge-obituary
 
 I don't think it should take an obituary in the Guardian for me to learn about an important scientist for the first time.
 
-[Margaret Burbidge](https://en.wikipedia.org/wiki/Margaret_Burbidge) established that the Earth's chemical elements, include the elements that make up us and all living things, formed inside stars.
+[Margaret Burbidge](https://en.wikipedia.org/wiki/Margaret_Burbidge) established that the Earth's chemical elements, including the elements that make up us and all living things, formed inside stars.
 
-This is fundamental discovery about cosmic evolution is as important as the Charles Darwin's discovery about the evolution of species via natural selection.
+This fundamental discovery about cosmic evolution is as important as Charles Darwin's discovery about the evolution of species via natural selection.
 
 [Charles Darwin](https://en.wikipedia.org/wiki/Charles_Darwin) is synonymous with the evolution of life, why isn't Margaret Burbidge synonymous with a discovery that arguably has wider implications for the possibility of life elsewhere in the Universe.
