@@ -20,7 +20,7 @@ title: Link Notes 23 April 2020
     imageURL="https://ccsearch.creativecommons.org/photos/aa319f2b-2123-4f79-87b2-a33bf7c92116"
     licenseURL="https://creativecommons.org/licenses/by-nc-sa/2.0/">}}
 
-* [NASA's Plan to Turn the ISS Into a Quantum Laser Lab](/blog/links/2020/04/23/#nasas-plan-to-turn-the-iss-into-a-quantum-laser-lab): Why humans making use of a phenomenon we barely understand is like a cat making use of television.
+* [NASA's Plan to Turn the ISS Into a Quantum Laser Lab](/blog/links/2020/04/23/#nasas-plan-to-turn-the-iss-into-a-quantum-laser-lab): Harnessing a phenomenon that's at the edge of our understanding
 
 * [The Dangerous Rise of COVID-19 Influencers and Armchair Epidemiologists](/blog/links/2020/04/23/#the-dangerous-rise-of-covid-19-influencers-and-armchair-epidemiologists): Sarah Weinman on why armchair epidemiologists 'had such all-encompassing belief in their own interpretation of the data'
 
