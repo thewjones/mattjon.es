@@ -52,9 +52,9 @@ While I was in absolutely no position to make informed comment on the nature of 
 
 ### Astrophotography in the era of Starlink satellite clusters.
 
-https://spaceweathergallery.com/indiv_upload.php?upload_id=161494/
-
 Astrophotographer Zdenek Bardon recently tried to image [Comet Atlas](https://en.wikipedia.org/wiki/C/2019_Y4_(ATLAS)) using a method of 'stacking' multiple camera exposures, which is a standard imaging technique especially when the object is low magnitude and light pollution is obscuring the view. He ended up capturing multiple light trails of the Starlink satellites, which somewhat ruined the picture - like a super-high-tech photobomb.
+
+https://spaceweathergallery.com/indiv_upload.php?upload_id=161494/
 
 I feel we're a little too enamoured by Elon Musk's space colonialism projects. When there are tens of thousands of these things orbiting above us, not just belonging to Space X but also from competing companies, I think we're going to be less impressed by them, and more oppressed by them.
 
