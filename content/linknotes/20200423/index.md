@@ -46,7 +46,7 @@ https://www.insidehook.com/article/news-opinion/david-dunning-armchair-epidemiol
 
 When news broke about the [Coronavirus](https://en.wikipedia.org/wiki/Coronavirus) outbreak in China I thought about tweeting a vlog I first published in 2009 about the [Swine Flu pandemic](https://en.wikipedia.org/wiki/2009_swine_flu_pandemic). In it I said 'don't worry about the news, you'll be fine, Swine Flu is just like Seasonal Flu'. Before the Covid-19 outbreak I wrote tweets along similar lines. In short, I admit I have been that 'armchair epidemiologist'.
 
-I'm in absolutely no position to make informed comment on the nature of either pandemic and all evidence that I can see shows COVID-19 and its impact is very different to that of the H1N1 virus. For me, perhaps published uninformed - yet optimistic - comments was a way to cope with the anxiety caused by the threat of a global pandemic.
+I'm in absolutely no position to make informed comment on the nature of either pandemic and all evidence that I can see shows COVID-19 and its impact is very different to that of the H1N1 virus. For me, perhaps publishing uninformed - yet optimistic - comments was a way to cope with the anxiety caused by the threat of a global pandemic.
 
 ---
 
