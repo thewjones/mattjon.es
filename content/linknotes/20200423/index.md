@@ -37,7 +37,7 @@ https://www.wired.com/story/nasas-plan-to-turn-the-iss-into-a-quantum-laser-lab/
 
 I once heard a great analogy along the lines of 'humans having a full understanding of how the Universe works is like a cat having a full understanding of how television works'. I like this analogy because it demonstrates how something can be beyond comprehension but still objectively exist and be described without the need to invoke supernatural explanations. 
 
-In some way humans are still like that cat when it comes to comprehending the true nature of the Universe and [quantum mechanics](https://en.wikipedia.org/wiki/Quantum_mechanics). However this hasn't stopped us harnessing the mysterious phenomenon of [quantum entanglement](https://en.wikipedia.org/wiki/Quantum_entanglement), and physicists are currently using it to transmit large amounts of encrypted data over very large distances - for example, from the a lunar orbiter to the Earth - at speeds faster than home broadband. 
+In some way humans are still like that cat when it comes to comprehending the true nature of the Universe and [quantum mechanics](https://en.wikipedia.org/wiki/Quantum_mechanics). However this hasn't stopped us harnessing the mysterious phenomenon of [quantum entanglement](https://en.wikipedia.org/wiki/Quantum_entanglement), and physicists are currently using it to transmit large amounts of encrypted data over large distances - for example, from the a lunar orbiter to the Earth - at speeds faster than home broadband. 
 
 ---
 
@@ -46,7 +46,7 @@ https://www.insidehook.com/article/news-opinion/david-dunning-armchair-epidemiol
 
 When news broke about the [Coronavirus](https://en.wikipedia.org/wiki/Coronavirus) outbreak in China I thought about tweeting a vlog I first published in 2009 about the [Swine Flu pandemic](https://en.wikipedia.org/wiki/2009_swine_flu_pandemic). In it I said 'don't worry about the news, you'll be fine, Swine Flu is just like Seasonal Flu'. Before the Covid-19 outbreak I wrote tweets along similar lines. In short, I admit I have been that 'armchair epidemiologist'.
 
-While I was in absolutely no position to make informed comment on the nature of either pandemic, it did turn out that the Swine Flu H1N1 virus wasn't as deadly as it could have been. COVID-19 however is clearly very different disease and now I'm going to leave this topic right there...
+I'm in absolutely no position to make informed comment on the nature of either pandemic and all evidence that I can see shows COVID-19 and its impact is a different disease to the H1N1 virus. For me, perhaps making uninformed comment was a way to cope with the anxiety caused by the threat of a global pandemic.
 
 ---
 
