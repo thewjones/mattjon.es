@@ -22,12 +22,11 @@ title: Link Notes 24 April 2020
 
 ## Today's Links
 
-[Please explain how NHS app will work, asks Open Rights Group](/blog/links/2020/04/24/#please-explain-how-NHS-app-will-work-asks-open-rights-group): Privacy groups are calling for more transparency around the UK Governement's COVID-19 contact tracing app. 
+* [Please explain how NHS app will work, asks Open Rights Group](/blog/links/2020/04/24/#please-explain-how-NHS-app-will-work-asks-open-rights-group): Privacy groups are calling for more transparency around the UK Governement's COVID-19 contact tracing app. 
 
-[Hubble Space Telescope's 30th Anniversary](/blog/links/2020/04/24/#hubble-space-telescopes-30th-anniversary): For the last 30 years, images from the Hubble Space Telescope have been revealing the beauty and scale of the Universe.
+* [Hubble Space Telescope's 30th Anniversary](/blog/links/2020/04/24/#hubble-space-telescopes-30th-anniversary): For the last 30 years, images from the Hubble Space Telescope have been revealing the beauty and scale of the Universe.
 
 <!--more-->
-
 
 ### Please explain how NHS app will work, asks Open Rights Group
 
@@ -38,6 +37,8 @@ For the UK government's NHSX contact tracing app to be effective, everyone with 
 With Palentir's Peter Thiel (Trump Donor and major investor in Facebook) on board in the development programme, and data privacy groups are raising questions about who will be the main benificiary of the massive amount of data that will be captured.
 
 Other countries took a sensible approach to contact tracing early on in the outbreak, and without the need for mass surveillance. It seems that the population of the UK and US are paying the price for the our Governments' slow response to the outbreak, and will be subject to big-data companies who are seeing this as a massive data-mining opportunity. 
+
+---
 
 ### Hubble Space Telescope's 30th Anniversary
 
