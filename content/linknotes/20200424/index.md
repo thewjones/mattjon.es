@@ -22,7 +22,7 @@ title: Link Notes 24 April 2020
 
 ## Today's Links
 
-* [Please explain how NHS app will work, asks Open Rights Group](/blog/links/2020/04/24/#please-explain-how-NHS-app-will-work-asks-open-rights-group): Privacy groups are calling for more transparency around the UK Governement's COVID-19 contact tracing app. 
+* [Please explain how NHS app will work, asks Open Rights Group](/blog/links/2020/04/24/#please-explain-how-NHS-app-will-work-asks-open-rights-group): Privacy groups are calling for more transparency around the UK Government's COVID-19 contact tracing app. 
 
 * [Hubble Space Telescope's 30th Anniversary](/blog/links/2020/04/24/#hubble-space-telescopes-30th-anniversary): For the last 30 years, images from the Hubble Space Telescope have been revealing the beauty and scale of the Universe.
 
@@ -34,9 +34,9 @@ title: Link Notes 24 April 2020
 
 For the UK government's NHSX contact tracing app to be effective, everyone with a smartphone will need to use it. But without transparency on the way it works and who has access to the data, the app raises major privacy concerns.
 
-With Palentir's Peter Thiel (Trump Donor and major investor in Facebook) on board in the development programme, and data privacy groups are raising questions about who will be the main benificiary of the massive amount of data that will be captured.
+With Palentir's Peter Thiel (Trump Donor and major investor in Facebook) on board in the development programme, data privacy groups are raising questions about who will be the main benificiary of the massive amount of data that will be captured.
 
-Other countries took a sensible approach to contact tracing early on in the outbreak, and without the need for mass surveillance. It seems that the population of the UK and US are paying the price for the our Governments' slow response to the outbreak, and will be subject to big-data companies who are seeing this as a massive data-mining opportunity. 
+Other countries took a sensible approach to contact tracing early on in the outbreak, without the need for mass surveillance. It seems that the population of the UK and US are paying the price for our Governments' slow response to the outbreak, and will be subject to big-data companies who could see this as a massive data-mining opportunity. 
 
 ---
 
@@ -48,7 +48,7 @@ It's the 30th Anniversary of the launch of the Hubble Space Telescope. This is t
 
 For me, the most profound images it has produced are the 'deep field' images. The 2020 'eXtreme Deep Field' image used 10 years worth of exposures of a small patch of sky (small being about the size of a pin head viewed at arms length, or one thirty-two millionth of the sky), and within this tiny patch of sky astronomers counted 5500 galaxies, each galaxy containing billions of stars.
 
-Scale that pinhead-sized area of the sky up 32 million times and that gives us a figure of nearly 200 billion galaxies in the observable universe, and that's at the lower end of the estimates. 
+Scale that pin-sized area of the sky up 32 million times and that gives us a figure of nearly 200 billion galaxies in the observable universe, and that's at the lower end of the estimates. 
 
 
 
