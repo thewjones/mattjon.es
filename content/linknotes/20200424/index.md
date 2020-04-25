@@ -24,7 +24,7 @@ title: Link Notes 24 April 2020
 
 [Please explain how NHS app will work, asks Open Rights Group](/blog/links/2020/04/24/#please-explain-how-NHS-app-will-work-asks-open-rights-group): Privacy groups are calling for more transparency around the UK Governement's COVID-19 contact tracing app. 
 
-[Hubble Space Telescope's 30th Anniversary](/blog/links/2020/04/24/#hubble-space-telescopes-30th-anniversary):
+[Hubble Space Telescope's 30th Anniversary](/blog/links/2020/04/24/#hubble-space-telescopes-30th-anniversary): For the last 30 years, images from the Hubble Space Telescope have been revealing the beauty and scale of the Universe.
 
 <!--more-->
 
