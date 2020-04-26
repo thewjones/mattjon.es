@@ -26,7 +26,7 @@ imageLicense: CC0
 
 ---
 
-### Using a 1930 Teletype as a Linux Terminal
+### Using a 1930 Teletype as a Linux Terminal ([Permalink](/blog/links/2020/04/21#using-a-1930-teletype-as-a-linux-terminal))
 
 This video of [Marc Verdiell](https://www.curiousmarc.com/about) using some serious electronic engineering skills to set up a 1930s Teletype machine as a Linux terminal will be nerdiest thing you'll see today.
 
@@ -50,7 +50,7 @@ In the video we see Marc use a single-line editor called '[ed](https://en.wikipe
 
 ---
 
-### Pluralistic: Daily links from Cory Doctorow
+### Pluralistic: Daily links from Cory Doctorow ([Permalink](/blog/links/2020/04/21#pluralistic-daily-links-from-cory-doctorow))
 
 https://pluralistic.net
 
@@ -64,7 +64,7 @@ I recently visited Cory Doctorow's [Pluralistic](https://pluralistic.net) and re
 
 ---
 
-### The night sky is increasingly dystopian
+### The night sky is increasingly dystopian ([Permalink]((/blog/links/2020/04/21#the-night-sky-is-increasingly-dystopian))
 
 https://www.vox.com/science-and-health/2020/1/7/21003272/space-x-starlink-astronomy-light-pollution
 
@@ -78,7 +78,7 @@ Apparently SpaceX has taken this concern onboard and is looking at ways reducing
 
 ---
 
-### Hugo
+### Hugo ([Permalink]((/blog/links/2020/04/21#hugo))
 
 https://gohugo.io/
 
