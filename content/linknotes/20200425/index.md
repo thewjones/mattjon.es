@@ -23,7 +23,7 @@ title: Link Notes 25 April 2020
 ## Today's Links
 
 * [How I Photograph the Milky Way with Medium Format Film](/blog/links/2020/04/25#how-i-photograph-the-milky-way-with-medium-format-film): Photographing the stars using photochemistry
-* [UN Chief Says Human Rights Must Be Central in Fight Against Covid-19](/blog/links/2020/04/25#un-chief-says-human-rights-must-be-central-in-fight-against-covid-19): In the international effort against the COVID-19 outbreak, human rights aand climate justice should be central in our recovery
+* [UN Chief Says Human Rights Must Be Central in Fight Against Covid-19](/blog/links/2020/04/25#un-chief-says-human-rights-must-be-central-in-fight-against-covid-19): In the international effort against the COVID-19 outbreak, human rights and climate justice should be central in our recovery
 * ['Expert Twitter' Only Goes So Far. Bring Back Blogs](/blog/links/2020/04/25#expert-twitter-only-goes-so-far-bring-back-blogs): A call to bring back better tools for long form writing
 
 <!--more-->
