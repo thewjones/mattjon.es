@@ -13,7 +13,7 @@ title: Link Notes 25 April 2020
     name="orion"
     command="Fill"
     options="1000x800"
-    imageCaption="An 1883 photograph of the Orion Nebulal, the first to show that a long exposure could record stars and nebulae invisible to the human eye."
+    imageCaption="An 1883 photograph of the Orion Nebula, the first to show that a long exposure could record stars and nebulae invisible to the human eye."
     imageAttrib="Andrew Ainslie Common"
     imageLicense="Public Domain"
     imageURL="https://en.wikipedia.org/wiki/Astrophotography#/media/File:Orion-Nebula_A_A_Common.jpg"
@@ -33,9 +33,9 @@ title: Link Notes 25 April 2020
 
 https://petapixel.com/2020/04/25/how-i-photograph-the-milky-way-with-medium-format-film/
 
-During the lockdown, I've been working on some creative projects not using a screen. This includes making photographs using film, manual processing and darkroom printing. It feel completly labourious and rewarding at the same time.
+During the lockdown, I've been working on some creative projects not using a screen. This includes making photographs using film, manual processing and darkroom printing. It feel completely labourious and rewarding at the same time.
 
-Of course astronomers made photographs of the stars using film before the invention of digital photography. As early as the 1870s, scientists William and Mary Huggins were using dry plate photography to create spectrographs of starlight. In 1883, Andrew Ainslie Common photographed the Orion Nebula, the first photograph to show stars too faint to be seen by the human eye.
+Of course, astronomers made photographs of the stars using film before the invention of digital photography. As early as the 1870s, scientists William and Mary Huggins were using dry plate photography to create spectrographs of starlight. In 1883, Andrew Ainslie Common photographed the Orion Nebula, the first photograph to show stars too faint to be seen by the human eye.
 
 
 ### To Ensure 'No One Is Left Behind,' UN Chief Says Human Rights Must Be Central in Fight Against Covid-19
@@ -51,7 +51,9 @@ Commenting on the international effort to recover from the COVID-19 crisis, Unit
 
 https://www.wired.com/story/opinion-expert-twitter-only-goes-so-far-bring-back-blogs/
 
-Here's a Wired article on the shortcomings of Twitter for communicating the knowledge of experts. Twitter has a enormous reach and ideas and information can spread quickly using its mechanism of retweets and likes, but of course so too can misinformation spread. Over time, Twitter has added features to allow for longer form writing, like threaded tweets, but this feature existings because Twitter wants writers to stay on their platform, rather than write elsewhere. Threaded tweets are a odd solution to a non-problem because publishing tools like blogging software provide a much better platform for long form writing. 
+Here's a Wired article on the shortcomings of Twitter for communicating the knowledge of experts. Twitter has a enormous reach and ideas and information can spread quickly using its mechanism of retweets and likes, but of course so too can misinformation spread.
+
+Over time, Twitter has added features to allow for longer form writing, like threaded tweets, but this feature existings because Twitter wants writers to stay on their platform, rather than write elsewhere. Threaded tweets are a odd solution to a non-problem because publishing tools like blogging software provide a much better platform for long form writing. 
 
 
 
