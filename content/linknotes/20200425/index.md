@@ -37,6 +37,7 @@ During the lockdown, I've been working on some creative projects not using a scr
 
 Of course, astronomers made photographs of the stars using film before the invention of digital photography. As early as the 1870s, scientists William and Mary Huggins were using dry plate photography to create spectrographs of starlight. In 1883, Andrew Ainslie Common photographed the Orion Nebula, the first photograph to show stars too faint to be seen by the human eye.
 
+---
 
 ### To Ensure 'No One Is Left Behind,' UN Chief Says Human Rights Must Be Central in Fight Against Covid-19
 
@@ -46,6 +47,7 @@ Commenting on the international effort to recover from the COVID-19 crisis, Unit
 
 "The recovery must also respect the rights of future generations, enhancing climate action aiming at carbon neutrality by 2050 and protecting biodiversity," said Guterres.
 
+---
 
 ### 'Expert Twitter' Only Goes So Far. Bring Back Blogs
 
