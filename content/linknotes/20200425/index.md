@@ -43,7 +43,7 @@ Of course, astronomers made photographs of the stars using film before the inven
 
 https://www.commondreams.org/news/2020/04/23/ensure-no-one-left-behind-un-chief-says-human-rights-must-be-central-fight-against
 
-Commenting on the international effort to recover from the COVID-19 crisis, United Nations Secretary-General António Guterres has called for focus on called for a focus on "ending poverty and inequalities and addressing the underlying human rights concerns that have left us vulnerable to the pandemic and greatly exacerbated its effects."
+Commenting on the international effort to recover from the COVID-19 crisis, United Nations Secretary-General António Guterres has called for a focus on "ending poverty and inequalities and addressing the underlying human rights concerns that have left us vulnerable to the pandemic and greatly exacerbated its effects."
 
 "The recovery must also respect the rights of future generations, enhancing climate action aiming at carbon neutrality by 2050 and protecting biodiversity," said Guterres.
 
