@@ -20,7 +20,7 @@ title: Link Notes 27 April 2020
 
 ## Today's Links
 
-[The Great Biomass Boondoggle](/blog/link/2020/04/27/#the-great-biomass-boondoggle): Switching from coal to biomass for power generation is seen as a way to decarbonise electricity production, but it's not effective enough in lowering CO2 emissions
+[The Great Biomass Boondoggle](/blog/links/2020/04/27/#the-great-biomass-boondoggle): Switching from coal to biomass for power generation is seen as a way to decarbonise electricity production, but it's not effective enough in lowering CO2 emissions
 
 [Meet 'Spot': The Robot That Could Help Doctors Remotely Treat COVID-19 Patients](/blog/links/2020/04/27/#meet-spot-the-robot-that-could-help-doctors-remotely-treat-covid-19-patients): After all those videos of amazing robot stunts, an unlikely application for Boston Dynamics' robot 'Spot
 
