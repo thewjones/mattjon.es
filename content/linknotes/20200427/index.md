@@ -40,4 +40,4 @@ https://www.npr.org/sections/coronavirus-live-updates/2020/04/24/844770815/meet-
 
 I'm sure most people are aware of Boston Dynamics' videos demonstrating the almost unbelievable capabilities of the robots they design and build. Their original BigDog quadruped robot was funded by DARPA for use in the US military, so while their videos are often fun and entertaining, I was alway a bit concerned that they were building a Skynet-style army of robot soldiers.
 
-While thankfully the latest version of the quadruped isn't being deployed to a bafflefied somewhere, and it's being put to positive use, I am struck by the mundanity of its latest application as a physical avatar for doctors to assess COVID-19 patients.
+While thankfully the latest version of the quadruped isn't being deployed to a battlefield somewhere, and it's being put to positive use, I am struck by the mundanity of its latest application as a physical avatar for doctors to assess COVID-19 patients.
