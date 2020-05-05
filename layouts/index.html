@@ -3,16 +3,16 @@
 <article>
   <section>
     <h1>Latest Five Posts</h1>
-    {{ range first 4 (where site.RegularPages "Type" "in" site.Params.mainSections) }}
+    {{ range first 10 (where site.RegularPages "Type" "in" site.Params.mainSections) }}
     {{ .Render "summary" }}
     {{ end }} 
   </section>
 
-  {{ if gt (len (where .Data.Pages "Section" "post")) 4 }}
+  {{ if gt (len (where site.RegularPages "Type" "in" site.Params.mainSections)) 10 }}
   <section>
     <h2>Previous posts</h2>
     <ul>
-      {{ range first 5 (after 4 (where .Data.Pages "Section" "post")) }}
+      {{ range first 30 (after 10 (where site.RegularPages "Type" "in" site.Params.mainSections)) }}
       <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
       {{ end }}
     </ul>
