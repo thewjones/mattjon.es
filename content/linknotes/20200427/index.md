@@ -20,9 +20,9 @@ title: Link Notes 27 April 2020
 
 ## Today's Links
 
-[The Great Biomass Boondoggle](/blog/links/2020/04/27/#the-great-biomass-boondoggle): Switching from coal to biomass for power generation is seen as a way to decarbonise electricity production, but it's not effective enough in lowering CO2 emissions
+* [The Great Biomass Boondoggle](/blog/links/2020/04/27/#the-great-biomass-boondoggle): Switching from coal to biomass for power generation is seen as a way to decarbonise electricity production, but it's not effective enough in lowering CO2 emissions
 
-[Meet 'Spot': The Robot That Could Help Doctors Remotely Treat COVID-19 Patients](/blog/links/2020/04/27/#meet-spot-the-robot-that-could-help-doctors-remotely-treat-covid-19-patients): After all those videos of amazing robot stunts, an unlikely application for Boston Dynamics' robot 'Spot
+* [Meet 'Spot': The Robot That Could Help Doctors Remotely Treat COVID-19 Patients](/blog/links/2020/04/27/#meet-spot-the-robot-that-could-help-doctors-remotely-treat-covid-19-patients): After all those videos of amazing robot stunts, an unlikely application for Boston Dynamics' robot 'Spot
 
 <!--more-->
 
@@ -30,7 +30,9 @@ title: Link Notes 27 April 2020
 
 https://www.nybooks.com/daily/2019/10/14/the-great-biomass-boondoggle/
 
-Burning biomass for energy is considered by some as a solution to the climate crisis as it is less carbon intensive that burning fossil fuels. At the time of writing the energy from burning biomass is accounting for about 9% of the electricity available on the UK National Grid. Most of the biomass burnt is trees from forests in the Europe and the US, but the problem is that while the carbon cycle with biomass is short and therefore considered 'carbon neutral', burning wood releases much more carbon into the atmosphere than burning natural gas, and we need forests to absorb the carbon dioxide in the atmosphere. 
+Burning biomass for energy is considered by some as a solution to the climate crisis as it is less carbon intensive that burning fossil fuels. At the time of writing the energy from burning biomass is accounting for about 9% of the electricity available on the UK National Grid.
+
+Most of the biomass burnt is trees from forests in the Europe and the US, but the problem is that while the carbon cycle with biomass is short and therefore considered 'carbon neutral', burning wood releases much more carbon into the atmosphere than burning natural gas, and we need forests to absorb the carbon dioxide in the atmosphere. 
 
 ---
 
