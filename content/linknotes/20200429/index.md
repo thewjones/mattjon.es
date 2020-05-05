@@ -23,7 +23,7 @@ title: Link Notes 29 April 2020
 
 ## Today's Links
 
-* [Greater Manchester councils stand to lose more than £110m from Manchester Airport](/blog/links/2020/04/29/#):
+* [Greater Manchester councils stand to lose more than £110m from Manchester Airport](/blog/links/2020/04/29/#): We need to break the link between quality public services and public investment in industries most damaging to the planet.
 
 * [On this day, from the archive](/blog/links/2020/04/29/#on-this-day-from-the-archive): 2004, 2003, 2002
 

@@ -23,9 +23,9 @@ title: Link Notes 28 April 2020
 
 ## Today's Links
 
-* [Van Gogh Museum Virtual Tour](/blog/links/2020/04/28/#van-gogh-virtual-tour):
+* [Van Gogh Museum Virtual Tour](/blog/links/2020/04/28/#van-gogh-virtual-tour): View Van Gogh's paintings in 4k resolution, as if you were walking around the gallery.
 
-* [The British Museum has published 2 million images under a Creative Commons license](/blog/links/2020/04/28/#the-british-museum-has-published-2-million-images-under-a-creative-commons-license):
+* [The British Museum has published 2 million images under a Creative Commons license](/blog/links/2020/04/28/#the-british-museum-has-published-2-million-images-under-a-creative-commons-license): View the artefacts plundered by British colonialists over centuries from the comfort of your home.
 
 <!--more-->
 
