@@ -68,9 +68,7 @@ a:hover,
 ins,
 mark {
 
-    text-decoration-style:wavy;
-    text-decoration-color:#ddd;
-    text-underline-offset:5px;
+    text-decoration:none;
 }
 
 
