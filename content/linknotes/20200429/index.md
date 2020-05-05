@@ -23,7 +23,7 @@ title: Link Notes 29 April 2020
 
 ## Today's Links
 
-* [Greater Manchester councils stand to lose more than £110m from Manchester Airport](/blog/links/2020/04/29/#): We need to break the link between quality public services and public investment in industries most damaging to the planet.
+* [Greater Manchester councils stand to lose more than £110m from Manchester Airport](/blog/links/2020/04/29/#greater-manchester-councils-stand-to-lose-more-than-110m-from-manchester-airport): We need to break the link between quality public services and public investment in industries most damaging to the planet.
 
 * [On this day, from the archive](/blog/links/2020/04/29/#on-this-day-from-the-archive): 2004, 2003, 2002
 
@@ -36,7 +36,7 @@ https://www.manchestereveningnews.co.uk/news/greater-manchester-news/greater-man
 
 Manchester Airport Holdings Limited owns three large UK airports: Manchester Airport, London Stansted and East Midland airport. The majority shareholders in the company are the ten local authorities in Greater Manchester, which rely on revenue from these airports to pay for all of the services they provide. Given the situaion with the COVID-19 outbreak, there is now a shortfall in revenue from these airports to pay for vital public services in the Greater Manchester area..
 
-With this, as well as local government pension funds holding huge investment in oil companies, it seems that our public services and our prosperity are dependent on the success of the industries that are most damaging to the planet. This is why we need a major rethink.
+With this, as well as local government pension funds holding huge investment in oil companies, it seems that our public services and our prosperity are dependent on the success of the industries that are most damaging to the planet. This is why we need a major rethink at both the national and local government level.
 
 ---
 
