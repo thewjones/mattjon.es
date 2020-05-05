@@ -24,7 +24,7 @@ title: Link Notes 30 April 2020
 
 * [OpenAI’s Jukebox AI produces music in any style from scratch — complete with lyrics](/blog/links/2020/04/30/#openais-jukebox-ai-produces-music-in-any-style-from-scratch--complete-with-lyrics): Music that sounds like there are lots of people involved in making it, but it's made using Artificial Intelligence
 
-* [What if Covid-19 Returns Every Year, Like the Common Cold?](/blog/links/2020/04/30/#what-if-covid-19-returns-every-year-like-the-common-cold): We've yet to develop a
+* [What if Covid-19 Returns Every Year, Like the Common Cold?](/blog/links/2020/04/30/#what-if-covid-19-returns-every-year-like-the-common-cold): We could be in and out of lockdown until a vaccine is developed.
 
 
 <!--more-->
