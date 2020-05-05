@@ -42,8 +42,6 @@ With this, as well as local government pension funds holding huge investment in 
 
 ### On this day, from the archive
 
-https://techxplore.com/news/2020-05-raspberry-pi-unveils-interchangeable-lens-camera.html
-
 * [16 Years ago: Rise of the Robo-cones](https://mattjon.es/blog/2004/04/rise-of-the-robo-cones/): Speculation about an Asimov-style style revolt of robotic traffic cones. It never happened, but now I'm thinking it all might be a good idea
 
 * [17 years ago: Apple launches iTunes Music Store](https://mattjon.es/blog/2003/04/itunes-music-store/): This one of the first services to allow users to purchase music in MP3/AAC format. Controversially, the downloaded files had contained DRM features which restricted what you could do with your downloaded music.
