@@ -80,7 +80,7 @@ html {
 }
 
 body {
-    background-color: #fffefc
+    background-color: #fafafa
                           
 }
 
@@ -128,7 +128,7 @@ h5,
 h6 {
     clear: both;
     font-family:"ibm-plex-semibold";
-    color:#333;
+    color:#888;
 }
 
 p,ul {
