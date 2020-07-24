@@ -424,10 +424,14 @@ a:hover .close {
  
     }
     
-    article article:not(.linknote) figure {
+    figure {
         margin: 3em -6em 5em -6em;
     }
 
+    article.linknote figure {
+        margin: 3em 0 5em 0;
+    }
+    
     figcaption {
         display:flex;
     }
