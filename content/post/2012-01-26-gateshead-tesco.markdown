@@ -8,8 +8,6 @@ tags:
 - Environment
 - Photography
 title: Gateshead, Tesco
-
-wordpress_id: 4739
 ---
 
 [![](http://farm8.staticflickr.com/7031/6765969313_ef64eed7e8_z.jpg)](http://www.flickr.com/photos/mattj/6765969313/)
