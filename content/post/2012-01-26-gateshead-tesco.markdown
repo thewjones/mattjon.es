@@ -2,7 +2,6 @@
 type: post
 comments: true
 date: 2012-01-26T15:59:15Z
-
 tags:
 - Architecture
 - Environment
