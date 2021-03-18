@@ -7,9 +7,17 @@ tags:
 - Environment
 - Photography
 title: Gateshead, Tesco
+resources:
+- name: header
+  src: steel2.jpg
+- name: street
+  src: steel1.jpg
+imageCaption: Trinity Square construction, 2012
+imageAttrib: Matt Jones
+imageLicense: CC BY-NC-ND 2.0
+licenseURL: https://creativecommons.org/licenses/by-nc-nd/2.0/
 ---
 
-[![](http://farm8.staticflickr.com/7031/6765969313_ef64eed7e8_z.jpg)](http://www.flickr.com/photos/mattj/6765969313/)
 
 In Gateshead town centre, huge steel structures are being bolted together like giant Meccano. Their sterile frames loom over and encroach the streets below in a way that demonstrates their designer's lack of regard for the people who will be using the spaces around them.
 
@@ -23,7 +31,15 @@ Rodney Gordon's Trinity Centre and multi-story car park divided opinions; as a p
 
 There is no such original thinking in this new development; its design is informed by cost and by market research. The associated public relations material is pure tokenism; yes, there will be what they call a public square, but I see it more as a kind of commercial clearing, or maybe a legally required fire assembly point. Try and exercise the rights you'd normally have in a public square, for example: to do street photography, campaign for a particular cause, protest, proselytise etc., and you'd no doubt be moved on by someone with a walkie-talkie line to the CCTV operator.
 
-[![](http://farm8.staticflickr.com/7031/6765967721_dcba40aab3_z.jpg)](http://www.flickr.com/photos/mattj/6765969313/)
+{{< imgproc
+    name="street"
+    command="Fit"
+    options="1200x900"
+    imageCaption="A crescent-shaped Earth and Moon recorded by Voyager 1 in 1977 - the first photo of its kind ever taken by a spacecraft"
+    imageAttrib="NASA"
+    imageLicense="CCO"
+    imageURL="https://images.nasa.gov/details-PIA01967"
+    licenseURL="https://creativecommons.org/share-your-work/public-domain/cc0/">}}
 
 In thirty years time, will this development gain the notoriety that its predecessor enjoyed before it was demolished? I suspect not. The car park was a radical and brave building the like of which hadn't been seen before. These buildings will be homogenous with most city-centre retail buildings constructed in the UK during the last twenty years, so their sheer banality will no doubt be met by indifference. With that in mind, maybe we get the buildings we deserve.
 
