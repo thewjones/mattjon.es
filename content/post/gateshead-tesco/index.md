@@ -35,11 +35,10 @@ There is no such original thinking in this new development; its design is inform
     name="street"
     command="Fit"
     options="1200x900"
-    imageCaption="A crescent-shaped Earth and Moon recorded by Voyager 1 in 1977 - the first photo of its kind ever taken by a spacecraft"
-    imageAttrib="NASA"
-    imageLicense="CCO"
-    imageURL="https://images.nasa.gov/details-PIA01967"
-    licenseURL="https://creativecommons.org/share-your-work/public-domain/cc0/">}}
+    imageCaption="Trinity Square construction, 2012"
+    imageAttrib="Matt Jones"
+    imageLicense="CC BY-NC-ND 2.0"
+    licenseURL="https://creativecommons.org/licenses/by-nc-nd/2.0/">}}
 
 In thirty years time, will this development gain the notoriety that its predecessor enjoyed before it was demolished? I suspect not. The car park was a radical and brave building the like of which hadn't been seen before. These buildings will be homogenous with most city-centre retail buildings constructed in the UK during the last twenty years, so their sheer banality will no doubt be met by indifference. With that in mind, maybe we get the buildings we deserve.
 
