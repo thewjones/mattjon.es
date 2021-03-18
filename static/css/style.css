@@ -386,9 +386,8 @@ time {
 }
 
 body>footer {
-    display:flex;
     font-size:80%;
-                   border-top:solid 3px #ccc;
+    border-top:solid 3px #ccc;
     padding-top:0.5em;
     color:#666;
 }
@@ -398,9 +397,8 @@ body>footer p {
 }
 
 body>footer #speed {
-    margin-left:auto;
-    align-self: flex-end;
-    max-width:20em;
+    display:block;
+   margin-top:5rem;
 }
 
 .close {
@@ -467,6 +465,17 @@ a:hover .close {
     
     aside>blockquote>p {
         font-size: 1.75em
+    }
+
+    body>footer {
+        display:flex;
+    }
+
+    body>footer #speed {
+        margin-top:0;
+        margin-left:auto;
+        align-self: flex-end;
+        max-width:20em;
     }
 }
 
