@@ -254,9 +254,10 @@ a:hover {
 
 h1,
 h2 {
-    font-size: 1.75em;
+    font-size: 2.25em;
     line-height: 1.3em;
     margin: 0 0 1em;
+    color:slategray;
 }
 
 h2 {
@@ -264,16 +265,32 @@ h2 {
     
 }
 
-main {
-    
-    
-}
 article {
-    margin: 0 0 6rem
+    margin: 0 0 6rem;
+    padding:0 0 3rem;
+    border-bottom:solid 2px lightgray;
 }
 
 figure {
     margin: 2em 0;
+}
+
+header+figure {
+    margin-top:1rem;
+}
+
+.tags {
+    margin:4em 0 0 0;
+    padding-left:0;
+    font-size:80%;
+}
+
+.tags li {
+    display:inline-block;   
+}
+
+.tags li + li::before {
+    content: " / ";
 }
 
 figcaption {
@@ -365,20 +382,25 @@ p::first-letter {
     initial-letter:3;
 }
 
-article>footer {
+article>header>ul {
     display:inline-block;
     font-size:80%;
-    border-top:solid 3px salmon;
-    padding-top:0.5em;
+    margin:0 0 4rem 0;
+    padding-left:0;
     color:#666;
-    
-}
-
-article>footer>ul {
     list-style:none;
-    margin-left:0;
 }
 
+article>header>h1 {
+    margin-bottom:0.2em;
+}
+
+article>header>ul>li {
+    display:inline-block;
+    margin-right:1em;
+    font-size:95%;
+    color:lightslategray;
+}
 
 
 time {
@@ -387,7 +409,6 @@ time {
 
 body>footer {
     font-size:80%;
-    border-top:solid 3px #ccc;
     padding-top:0.5em;
     color:#666;
 }
