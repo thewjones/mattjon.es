@@ -2,7 +2,9 @@
 type: post
 comments: true
 date: 2012-02-04T19:40:24Z
-
+resources:
+- name: kit
+  src: kit.jpg
 tags:
 - Cycling
 - Environment
@@ -23,9 +25,7 @@ Bringing about a mass uptake of cycling as a form of personal transport - as it 
 
 Unfortunately, as the The Times' campaign has progressed, we've seen Mark Cavendish refer to it as a [campaign for our 'sport'](https://twitter.com/#!/MarkCavendish/status/165141037633912834), James Cracknell [making people feel guilty for not wearing a helmet](http://www.thetimes.co.uk/tto/public/cyclesafety/article3309109.ece), and this monstrous page on The Times' Cycle Safe website:
 
-
-
-[![](http://local.wordpress/wp-content/uploads/2012/02/bikeclothes_259643a1.jpg)](http://local.wordpress/wp-content/uploads/2012/02/bikeclothes_259643a1.jpg)
+{{< imgproc name="kit" command="Resize" options="1000x" >}}
 
 So apparently in order to stay safe on a bike, we need £626 pounds worth of extra gear, and look as if we're about to cycle from John O'Groats to Lands End the hard the way.
 
