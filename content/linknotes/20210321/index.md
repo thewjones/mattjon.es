@@ -9,8 +9,8 @@ tags:
 ## Today's links
 
 * [Why All Drugs Should Be Decriminalised | Interview With David Nutt](/blog/links/2021/03/22#why-all-drugs-should-be-decriminalised--interview-with-david-nutt): Interview with Professor David Nutt.
-* [Ethical small tech](/blog/links/2021/03/22#ethical-small-tech): Investing in trustworthy small-tech and services.
-* [In Our Time Podcast archive](/blog/links/2021/03/22#in-our-time-podcast-archive): Melvyn
+* [Ethical small tech](/blog/links/2021/03/22#ethical-small-tech): Investing in small technology and trustworthy services.
+* [In Our Time Podcast archive](/blog/links/2021/03/22#in-our-time-podcast-archive): The history of ideas.
 
 <!--more-->
 
@@ -34,7 +34,7 @@ https://small-tech.org/videos/small-is-beautiful-07/
 
 This is an interesting conversation between the [Small Tech Foundation](http://small-tech.org/) (Aral Balkan and Laura Kalbag) and [David Heinemeier Hansson](https://dhh.dk/) of [Basecamp](https://www.basecamp.com) and [Ruby on Rails](https://rubyonrails.org/) fame.
 
-When it comes to the online services we use, we have a choice between services that appear to be be free (and free in terms of monetary payment) but take take our personal data which is effectively sold it to advertisers, and services where we pay money in exchange for the service and money is the only tender.
+When it comes to the online services we use, we have a choice between services that appear to be be free (and free in terms of monetary payment) but take our personal data which is effectively sold it to advertisers, and services where we pay money in exchange for the service and money is the only tender.
 
 It is important to remember that there is still a choice here. For my personal email accounts, I pay a small monthly fee to [Fastmail](https://www.fastmail.com) and it's a really excellent, trustworthy service.
 
