@@ -260,6 +260,13 @@ h2 {
     
 }
 
+.fade {
+    transition: opacity 0.5s ease-in;
+  }
+  
+  .fadeOut { opacity: 0; }
+  .fadeIn { opacity: 1; }
+
 article {
     margin: 0 0 6rem;
     padding:0 0 3rem;
@@ -306,7 +313,8 @@ body>header {
     max-width: 60em;
     margin-bottom:4em;
     text-transform: lowercase;
-
+    opacity:1;
+    transition: opacity 0.5s ease-in;
 }
 
 body>header>h1 {
@@ -429,6 +437,19 @@ a:hover .close {
     text-align:center;
     justify-content:center;
     margin:0 auto 0 auto;
+}
+
+.fadeup {
+    transform: translateY(50px);
+    opacity: 0;
+    transition-property: transform, opacity;
+    transition-duration: 1s;
+    transition-timing-function: linear;
+  }
+
+  .in-view {
+    transform: none;
+    opacity: 1;
 }
 
 @media all and (min-width:1024px) {

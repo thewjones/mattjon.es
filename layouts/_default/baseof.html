@@ -63,6 +63,26 @@ var loadTime = window.performance.timing.domContentLoadedEventEnd-window.perform
 var div = document.getElementById('speed');
 div.innerHTML += 'This page loaded in ' + loadTime/1000 + ' seconds &#128374;';
 }
+
+const observerOptions = {
+  root: null,
+  rootMargin: "0px",
+  threshold: 0.05
+};
+
+function observerCallback(entries, observer) {
+  entries.forEach(entry => {
+    if (entry.isIntersecting) {
+      // fade in observed elements that are in view
+      entry.target.classList.add('fadeIn');
+    } 
+  });
+}
+
+const fadeElms = document.querySelectorAll('.fade');
+
+const observer = new IntersectionObserver(observerCallback, observerOptions);
+fadeElms.forEach(el => observer.observe(el));
      </script>
 
   </body>    
