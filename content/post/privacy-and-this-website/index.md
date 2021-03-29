@@ -11,6 +11,7 @@ resources:
 imageCaption: Simple bicycle gear shifters
 imageAttrib: Markus Spiske
 imageLicense: Public Domain CC0
+imageURL: https://unsplash.com/@markusspiske
 licenseURL: https://creativecommons.org/publicdomain/zero/1.0/
 ---
 
