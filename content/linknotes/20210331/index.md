@@ -29,7 +29,7 @@ tags:
 
 https://www.freethenorth.co.uk/
 
-The Northern Independence Party is a new political party aimed at secession of the North of England, making it an independent country called Northumbria. 
+The [Northern Independence Party](https://www.freethenorth.co.uk/) is a new political party aimed at secession of the North of England, making it an independent country called Northumbria. 
 
 [Northumbria](https://en.wikipedia.org/wiki/Northumbria) was a medieval Kingdom spanning from the Humber (from which the name Northumbria derives) to the Forth in Scotland, and it remains a traditional name for the smaller area of Northumberland and Country Durham.
 
