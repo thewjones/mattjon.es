@@ -17,7 +17,7 @@ tags:
 
 ## Today's links
 
-* [The Northern Independence Party](/blog/links/2021/03/31#the-northern-independence-party): A party for a new nation called Northumbria.
+* [The Northern Independence Party](/blog/links/2021/03/31#the-northern-independence-party): A new party with the aim of creating an independent Northumbria.
 * [BBC Four to become archive channel as cost-cutting drive continues](/blog/links/2021/03/31#bbc-four-to-become-archive-channel-as-cost-cutting-drive-continues): The continued chipping away of what makes the BBC great.
 * [On this day, from the archive](/blog/links/2021/03/31#on-this-day-from-the-archive): 2004, 2003
 
