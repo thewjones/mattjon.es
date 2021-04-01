@@ -191,7 +191,8 @@ big {
 hr {
     background-color: #ccc;
     border: 0;
-    height: 1px
+    height: 1px;
+    margin:2em 0;
 }
 
 ul {
