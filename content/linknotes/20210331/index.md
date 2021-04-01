@@ -39,11 +39,11 @@ The founding of the party has split opinion on the left, largely due to fact tha
 
 Having spent the best part of 20 years travelling between the south west of the medieval Northumbria region, and the east midlands of it (Newcastle and Gateshead) I have a real sense of its cultural identity, Northumberland retains much of its folk traditions lost elsewhere in England. 
 
-So I get why the party exists, the North suffers from the disparity between amount invested in London and the South East compared to the North, examples being poor rail connectivity between the northern cities, lack of regulation of public transport services making them expensive and not joined up, and more recently a major shortfall in funding from central goverment to northern councils, in the name of austerity. 
+So I get why the party exists, the North suffers from the disparity between the amount invested in London and the South East compared to the North, examples being poor rail connectivity between the northern cities, lack of regulation of public transport services making them expensive and not joined up, and more recently a major shortfall in funding from central goverment to northern councils, in the name of austerity. 
 
 I also quite like the tongue-in-cheek nature of the party's communications strategy; the use flat caps, whippets and ferrets in their visual identity plays to the stereotypes people have of northerners, and if the existence of the party is bringing attention to the cultural and economic importance of the North, then that's a good thing.
 
-That said, I don't think secessationism is a progressive way forward. While I think that people have to the right to self-determination, I think nationalism generally is dangerous and devisive. In my view what we need is a better electoral system in a United Kingdom where people can proudly retain their traditions and languages at the same time as being properly represented in a central government, preferably one not administered from London.
+That said, I don't think secessationism is a progressive way forward. While I think that people have the right to self-determination, I think nationalism generally is dangerous and devisive. In my view what we need is a better electoral system in a United Kingdom where people can proudly retain their traditions and languages at the same time as being properly represented in a centralised government, preferably one not administered from London.
 
 ---
 
