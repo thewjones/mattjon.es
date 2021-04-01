@@ -35,7 +35,7 @@ The [Northern Independence Party](https://www.freethenorth.co.uk/) is a new poli
 
 What's surprising about the extent of Northumbria (especially if you aren't looking at a map of it) is that the Humber and Mersey are at roughly the same latitude, so what is now Liverpool was also in Northumbria, as was Widnes and Warrington in Cheshire.
 
-The founding of the party has split opinion on the left, largely due to fact that if candidates are standing in marginal seats in the so called 'red wall' constituencies it's going to split the vote in favour of the Conservatives.
+The founding of the party has split opinion on the left, largely due to the fact that if candidates are standing in marginal seats in the so called 'red wall' constituencies it's going to split the vote in favour of the Conservatives.
 
 Having spent the best part of 20 years travelling between the south west of the medieval Northumbria region, and the east midlands of it (Newcastle and Gateshead) I have a real sense of its cultural identity, Northumberland retains much of its folk traditions lost elsewhere in England. 
 
