@@ -13,7 +13,7 @@
   {{ if isset .Params "resources" }}
   {{ if $header := (.Resources.ByType "image").GetMatch "header" }}
   {{ $resource := $header }}
-  {{ $image := $resource.Fill "800x600" }}
+  {{ $image := $resource.Fill "1200x800" }}
   {{if $header}}
 
   <figure>
