@@ -29,9 +29,9 @@ tags:
 
 https://www.freethenorth.co.uk/
 
-The Northern Independence Party is a new secessionist political party aimed at making the North of England and independent country called Northumbria. 
+The Northern Independence Party is a new secessionist political party aimed at making the North of England an independent country called Northumbria. 
 
-Northumbria was a medieval Kingdom spanning from the Humber (from which is name Northumbria derives) to the Forth in what is now Scotland, and it remains a tradional name for the smaller area of Northumberland and Country Durham.
+Northumbria was a medieval Kingdom spanning from the Humber (from which the name Northumbria derives) to the Forth in Scotland, and it remains a tradional name for the smaller area of Northumberland and Country Durham.
 
 What's surprising about the extent of Northumbria (especially if you aren't looking at a map of it) is that the Humber and Mersey are at roughly the same latitude, so what is now Liverpool was also in Northumbria, as was Widnes and Warrington in Cheshire.
 
@@ -41,8 +41,7 @@ Having spend the best part of 20 years travelling between the south west of the 
 
 So I get why the party exists, the North suffers from the disparity between amount invested in London and the South East compared to the North, examples being poor rail connectivity between the northern cities, lack of regulation of public transport services making them expensive and not joined up, and more recently a major shortfall in funding from central goverment to northern councils, in the name of austerity. 
 
-That said, I don't think secessationism is progressive. While I think that people have to the right to self-determination I think nationalism is dangerous and devisive.
-
+That said, I don't think secessationism is a progressive way forward. While I think that people have to the right to self-determination, I think nationalism generally is dangerous and devisive. In my view what we need is a better electoral system in a United Kingdom where people can proudly retain their traditions and languages at the same time as being properly represented in a central government, preferably not administered from London.
 
 ---
 
