@@ -51,9 +51,9 @@ That said, I don't think secessationism is a progressive way forward. While I th
 
 https://www.theguardian.com/media/2021/mar/29/bbc-four-to-become-archive-only-as-cost-cutting-drive-continues
 
-For me, this is a continuation of shutting down of the BBC as a major contributor to the creative / cultural fabric of the UK. 
+For me, this is a continuation of the shutting down of the BBC as a major contributor to the creative / cultural fabric of the UK. 
 
-I think Tories the want to make the BBC less significant in our lives, to make it simply just one of many content services we subscribe to. 
+I think the Tories want to make the BBC less significant in our lives, to make it simply just one of many content services we subscribe to. 
 
 ---
 
