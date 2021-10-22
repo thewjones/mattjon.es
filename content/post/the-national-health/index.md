@@ -15,5 +15,4 @@ The Conservative / Lib Dem coalition government, formed in May of that year, eff
 
 In 2009, the NHS was recorded as achieving very high levels of patient satisfaction ([source](https://nhs.uk/about-the-nhs-website/professionals/healthandcareprofessionals/quality-accounts/documents/nhs-direct-quality-account.pdf)). So what we've seen over the last 11 years is an abrogation by our government to support the NHS, fund it properly and maintain these levels of satisfaction.
 
-If you know someone who works in the NHS, ask them about it and they will likely tell you they and their colleagues are exhausted. We were clapping them every Thursday last year, but what they really need is a change of government.
-~                                     
+If you know someone who works in the NHS, ask them about it and they will likely tell you they and their colleagues are exhausted. We were clapping them every Thursday last year, but what they really need is a change of government.                                     
