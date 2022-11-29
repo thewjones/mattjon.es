@@ -7,8 +7,6 @@ tags:
 title: The National Health
 ---
 
-This is an unrolled thread originally [posted on Twitter](https://twitter.com/mattjones/status/1451443149243666432).
-
 In 2010 I was a web developer supporting a research project mapping childrens' health services across the UK. It was funded by the then Department of Health. My academic colleagues were leaders in their field working on a project to help improve children's health services.
 
 The Conservative / Lib Dem coalition government, formed in May of that year, effectively shut the project down as part of the government's austerity agenda. Before the team disbanded, my colleagues, with decades of experience working public health between them, expressed concern for the future of the NHS under the new administration. I think it was a concern now validated by the state of the NHS today; underfunded in real terms, understaffed, and with remaining staff stretched and exhausted. This was happening before the pandemic too.

@@ -8,8 +8,6 @@ tags:
 title: The Active Travel Realisation Gap
 ---
 
-This is an unrolled thread originally [posted on Twitter](https://twitter.com/mattjones/status/1535157444531322880).
-
 There's a 'realisation gap' between a) the delivery of quality active travel infrastructure and b) the vision of aspirational urban designers and the work of academics working in the field of active travel, as well as that of knowledgeable local activists and campaigners. 
 
 In some parts of the country, particularly in London, this gap is being closed thanks to the work of activists and local politicians with the vision and means to make change. 
