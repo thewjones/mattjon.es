@@ -70,4 +70,4 @@ Welcoming back Jason Kottke to the world of regular blogging after a seven month
 
 https://www.nasa.gov/image-feature/orion-earth-and-the-moon
 
-NASA's Orion spacecraft has reached its maximum distance from Earth during the Artemis I mission. This mission is a major milestone, and is a return to the kind of lunar missions that were becoming almost routine in the early seventies. ([Permalink]((/blog/links/2022/12/01#orion-earth-and-the-moon))
+NASA's Orion spacecraft has reached its maximum distance from Earth during the Artemis I mission. This mission is a major milestone, and is a return to the kind of lunar missions that were becoming almost routine in the early seventies. ([Permalink](/blog/links/2022/12/01#orion-earth-and-the-moon))
