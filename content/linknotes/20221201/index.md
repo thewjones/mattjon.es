@@ -23,7 +23,7 @@ imageLicense:
 ## Today's links
 
 * [Needlepoint tapestry representations of The Sentinel](/blog/links/2022/12/01#needlepoint-tapestry-representations-the-sentinel): Physical manifestations of Geoff Crammond's 8-bit classic
-* [kottke.org](/blog/links/2022/12/01#kottkeorg): Fine Hypertext Products
+* [kottke.org](/blog/links/2022/12/01#kottke-org): Fine Hypertext Products
 * [Orion, Earth and the Moon](/blog/links/2022/12/01#orion-earth-and-the-moon): In lunar orbit.
 
 <!--more-->
@@ -52,7 +52,7 @@ Words can't describe how much I love these needlepoint tapestries of screenshots
 
 https://kottke.org
 
-Welcoming back Jason Kottke to the world of regular blogging after a seven month hiatus. I really don't think it's an overstatement to say that Jason is the progenitor for every website that's a ostensibly a personal feed of thoughts, links or images in reverse chronological order, and that includes the format of every major social media platform. Others were doing this in the late 90s but kottke.org was the one of the first weblogs to be beautifully designed and have broad appeal. ([Permalink](/blog/links/2022/12/01#kottkeorg))
+Welcoming back Jason Kottke to the world of regular blogging after a seven month hiatus. I really don't think it's an overstatement to say that Jason is the progenitor for every website that's a ostensibly a personal feed of thoughts, links or images in reverse chronological order, and that includes the format of every major social media platform. Others were doing this in the late 90s but kottke.org was the one of the first weblogs to be beautifully designed and have broad appeal. ([Permalink](/blog/links/2022/12/01#kottke-org))
 
 ---
 
