@@ -13,7 +13,7 @@
   {{ if isset .Params "resources" }}
   {{ if $header := (.Resources.ByType "image").GetMatch "header" }}
   {{ $resource := $header }}
-  {{ $image := $resource.Fill "1200x800" }}
+  {{ $image := $resource.Fit "1400x1400" }}
   {{if $header}}
 
   <figure>
@@ -24,14 +24,16 @@
       {{ .Params.imageCaption }}
       {{ end }}
       </span>
-      {{ if .Params.imageLicense }}
+      {{ if .Params.imageAttrib }}
       <span id="credit">
-        Photo Credit: <a href="{{ .Params.imageURL }}">{{ .Params.imageAttrib }}</a> &middot;
-        <span id="license">
+        Credit: <a href="{{ .Params.imageURL }}">{{ .Params.imageAttrib }}</a>
+        {{ if .Params.imageLicense }}
+         &middot; <span id="license">
           <a href="{{ .Params.licenseURL }}">
             {{ .Params.imageLicense }}
           </a>
         </span>
+        {{ end }}
       </span>
       {{ end }}
 

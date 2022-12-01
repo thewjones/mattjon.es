@@ -20,7 +20,7 @@
     {{ end }}
     
     <span id="credit">
-      <a href="{{ with .Get "imageURL" }}{{ . }}{{ end }}">{{ with .Get "imageAttrib" }}{{ . }}{{ end }}</a> &middot;
+      Credit: <a href="{{ with .Get "imageURL" }}{{ . }}{{ end }}">{{ with .Get "imageAttrib" }}{{ . }}{{ end }}</a> &middot;
       <span id="license">
         <a href="{{ with .Get "licenseURL" }}{{ . }}{{ end }}">
           {{ with .Get "imageLicense" }}
