@@ -26,14 +26,16 @@
       {{ .Params.imageCaption }}
       {{ end }}
       </span>
-      {{ if .Params.imageLicense }}
+      {{ if .Params.imageAttrib }}
       <span id="credit">
-        Credit: <a href="{{ .Params.imageURL }}">{{ .Params.imageAttrib }}</a> &middot;
-        <span id="license">
+        Credit: <a href="{{ .Params.imageURL }}">{{ .Params.imageAttrib }}</a>
+        {{ if .Params.imageLicense }}
+         &middot; <span id="license">
           <a href="{{ .Params.licenseURL }}">
             {{ .Params.imageLicense }}
           </a>
         </span>
+        {{ end }}
       </span>
       {{ end }}
       
