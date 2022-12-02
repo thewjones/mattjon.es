@@ -25,7 +25,7 @@ imageLicense:
 * [Needlepoint tapestry representations of The Sentinel](/blog/links/2022/12/01#needlepoint-tapestry-representations-the-sentinel): Physical manifestations of Geoff Crammond's 8-bit classic
 * [kottke.org](/blog/links/2022/12/01#kottke-org): Fine Hypertext Products
 * [Orion, Earth and the Moon](/blog/links/2022/12/01#orion-earth-and-the-moon): In lunar orbit.
-* [On this day, from the archive](/blog/links/2022/12/31#on-this-day-from-the-archive): 2001
+* [On this day, from the archive](/blog/links/2022/12/01#on-this-day-from-the-archive): 2001
 
 
 <!--more-->
