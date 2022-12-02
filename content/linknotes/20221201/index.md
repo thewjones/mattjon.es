@@ -13,7 +13,7 @@ resources:
 - name: artemis
   src: artemis.jpg
 title: Link Notes 1 December 2022
-imageCaption: Needlepoint tapestry representation of The Sentine, video game created by Geoff Crammond, by Marine Beaufils. 
+imageCaption: Needlepoint tapestry representation of The Sentinel by Marine Beaufils. 
 imageAttrib: Marine Beaufils
 imageURL: https://www.marine.st/en
 licenseURL: https://creativecommons.org/share-your-work/public-domain/cc0/
