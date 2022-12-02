@@ -25,6 +25,8 @@ imageLicense:
 * [Needlepoint tapestry representations of The Sentinel](/blog/links/2022/12/01#needlepoint-tapestry-representations-the-sentinel): Physical manifestations of Geoff Crammond's 8-bit classic
 * [kottke.org](/blog/links/2022/12/01#kottke-org): Fine Hypertext Products
 * [Orion, Earth and the Moon](/blog/links/2022/12/01#orion-earth-and-the-moon): In lunar orbit.
+* [On this day, from the archive](/blog/links/2022/12/31#on-this-day-from-the-archive): 2001
+
 
 <!--more-->
 
@@ -71,3 +73,8 @@ Welcoming back Jason Kottke to the world of regular blogging after a seven month
 https://www.nasa.gov/image-feature/orion-earth-and-the-moon
 
 NASA's Orion spacecraft has reached its maximum distance from Earth during the Artemis I mission. This mission is a major milestone, and is a return to the kind of lunar missions that were becoming almost routine in the early seventies. ([Permalink](/blog/links/2022/12/01#orion-earth-and-the-moon))
+
+---
+### On this day, from the archive
+
+* [Unveiling of The Segway](https://mattjon.es/blog/2001/12/the-segway/): It was a transport device that was set to change the way cities are designed. I think I was right about it being the 'next Sinclair C5'.
