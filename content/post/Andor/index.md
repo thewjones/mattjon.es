@@ -17,4 +17,4 @@ Then I read up on it and saw that it was produced by the same team as Rogue One,
 
 So on that basis, I decided to watch Andor, and having watched it, I'd say it's up there with the best of the entire Star Wars franchise. It covers completely new ground with plotting and character development, it's about fundamental themes of oppression and resistance, it's visually stunning, it's surprising, it's tonally perfect with touches of humour in the right places, and it's obviously written and directed by people with a singular vision who can write a good plot.
 
-I'm just to to leave it there and say watch it.
+I'm just going to leave it there and say watch it.
