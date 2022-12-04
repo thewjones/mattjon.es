@@ -7,7 +7,7 @@ title: Andor
 
 A post about Andor, with no spoilers.
 
-I don't tend to consume a lot of tv, films or books these days. It's not that I don't want to, it's a just a lack-of-time thing really. 
+I don't tend to consume a lot of tv or films these days. It's not that I don't want to, it's a just a lack-of-time thing really. 
 
 I will occassionally seek out new Star Trek series (see what I did there) and watch the various Star Wars series when they come out. 
 
