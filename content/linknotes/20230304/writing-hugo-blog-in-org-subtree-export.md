@@ -1,0 +1,55 @@
++++
+title = "Writing Hugo blog in Org"
+author = ["Kaushal Modi"]
+date = 2017-09-10
+lastmod = 2023-03-05T07:33:57+00:00
+tags = ["hugo", "org"]
+categories = ["linknotes"]
+draft = false
+weight = 2001
+foo = "bar"
+baz = "zoo"
+alpha = 1
+beta = "two words"
+gamma = 10
++++
+
+## Today's links {#today-s-links}
+
+-   [Needlepoint tapestry representations of The Sentinel](/blog/links/2022/12/01#needlepoint-tapestry-representations-the-sentinel): Physical manifestations of Geoff Crammond's 8-bit classic
+-   [kottke.org](/blog/links/2022/12/01#kottke-org): Fine Hypertext Products
+
+&lt;!--more--&gt;
+
+---
+
+
+### Needlepoint tapestry representations The Sentinel {#needlepoint-tapestry-representations-the-sentinel}
+
+<https://www.marine.st/fr>
+
+Words can't describe how much I love these needlepoint tapestries of screenshots from Geoff Crammond's classic game The Sentinel, by artist Marine Beaufils. I played the BBC Micro version in the 80s but it was identical to the ZX Spectrum version in all its 8-bit glory. These artworks are for sale by contacting Marine
+
+{{< imgproc name="sentinel2"
+    command="Resize"
+    options="1200x"
+    imageCaption="Needlepoint tapestry representation of The Sentinel—video game created by Geoff Crammond—in its version on ZX Spectrum 55 × 46 cm – 2022"
+    imageURL="https://www.marine.st/en"
+    imageAttrib="Marine Beaufils"
+    imageLicense=""
+    licenseURL="">}}
+
+### A sub-heading under that heading {#a-sub-heading-under-that-heading}
+
+-   It's draft state will be marked as `true` as the subtree has the
+    todo state set to _TODO_.
+
+With the point <span class="underline">anywhere</span> in this _Writing Hugo blog in Org_ post
+subtree, do `C-c C-e H H` to export just this post.
+
+The exported Markdown has a little comment footer as set in the _Local
+Variables_ section below.
+
+
+[//]: # "Exported with love from a post written in Org mode"
+[//]: # "- https://github.com/kaushalmodi/ox-hugo"
