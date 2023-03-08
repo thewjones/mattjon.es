@@ -7,7 +7,7 @@
 #+author: Matt Jones
 
 * Link Notes                                              :@linknotes:
-** Link Notes 8 March 2023                                         :politics:asylum:blogging:
+** Link Notes 8 March 2023                                         :Politics:Asylum:Blogging:
 :PROPERTIES:
 :EXPORT_DATE: 2023-03-08
 :EXPORT_HUGO_BUNDLE: 20230308
