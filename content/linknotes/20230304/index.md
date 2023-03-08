@@ -1,11 +1,11 @@
 +++
-title = "Writing Hugo blog in Org"
-author = ["Kaushal Modi"]
+title = "Link Notes 7 March 2023"
+author = ["Matt Jones"]
 date = 2017-09-10
-lastmod = 2023-03-05T08:35:08+00:00
+lastmod = 2023-03-08T06:26:52+00:00
 tags = ["hugo", "org"]
 categories = ["linknotes"]
-draft = false
+draft = true
 weight = 2001
 foo = "bar"
 baz = "zoo"
@@ -19,28 +19,19 @@ gamma = 10
 
 ## Today's links {#today-s-links}
 
--   [Needlepoint tapestry representations of The Sentinel](/blog/links/2022/12/01#needlepoint-tapestry-representations-the-sentinel): Physical manifestations of Geoff Crammond's 8-bit classic
+-   [Ox Hugo - Org Mode to Hugo Exporter](/blog/links/2022/12/01#ox-hugo-org-mode-to-hugo-exporter): My somewhat esoteric blogging system of choice
 -   [kottke.org](/blog/links/2022/12/01#kottke-org): Fine Hypertext Products
 
-&lt;!--more--&gt;
+<!--more-->
 
 ---
 
 
-### Needlepoint tapestry representations The Sentinel {#needlepoint-tapestry-representations-the-sentinel}
+### Ox-Hugo: Org to Markdown for Hugo {#ox-hugo-org-to-markdown-for-hugo}
 
-<https://www.marine.st/fr>
+<https://ox-hugo.scripter.co>
 
-Words can't describe how much I love these needlepoint tapestries of screenshots from Geoff Crammond's classic game The Sentinel, by artist Marine Beaufils. I played the BBC Micro version in the 80s but it was identical to the ZX Spectrum version in all its 8-bit glory. These artworks are for sale by contacting Marine
-
-{{< imgproc name="sentinel2"
-    command="Resize"
-    options="1200x"
-    imageCaption="Needlepoint tapestry representation of The Sentinel—video game created by Geoff Crammond—in its version on ZX Spectrum 55 × 46 cm – 2022"
-    imageURL="https://www.marine.st/en"
-    imageAttrib="Marine Beaufils"
-    imageLicense=""
-    licenseURL="">}}
+For quite a number of years now, this site has been produced using a static-site generator called Hugo. I write Markdown files, run 'hugo' and and within a fraction of a second 1800+ posts are packaged up into a set of HTML files ready to deploy. If that wasn't esoteric enough, I use Emacs with Org Mode to write and manage my posts in one .org file. OrgMode is basically a todo / planner system for Emacs with lots of nerdy features that I'll never use or fully understand.
 
 
 [//]: # "Exported with love from a post written in Org mode"

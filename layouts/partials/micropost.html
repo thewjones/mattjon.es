@@ -5,10 +5,7 @@
     <ul>
       <li>Posted by <strong>Matt</strong></li>
       <li>Published on <time>{{ .PublishDate.Format "2 January 2006" }}</time></li>
-      {{ if (gt .Lastmod.Unix .PublishDate.Unix) }}
-      <li>Last updated on <time>{{ .Lastmod.Format "2 January 2006" }}</time> (<a href="https://mattjon.es/git/matt/Countersteering/commit/{{ .GitInfo.Hash }}">{{ .GitInfo.AbbreviatedHash }}</a>)</li>
-      {{ end }}
-      <li>Permalink: <a href="{{ .Permalink }}">{{ .Permalink }}</a></li>
+    
     </ul>
   </footer>
 </article>

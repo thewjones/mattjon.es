@@ -2,7 +2,7 @@
 title = "Writing Hugo blog in Org"
 author = ["Kaushal Modi"]
 date = 2017-09-10
-lastmod = 2023-03-05T07:33:57+00:00
+lastmod = 2023-03-05T17:31:54+00:00
 tags = ["hugo", "org"]
 categories = ["linknotes"]
 draft = false
@@ -12,6 +12,9 @@ baz = "zoo"
 alpha = 1
 beta = "two words"
 gamma = 10
+[[resources]]
+  src = "sentinel-lvl0154-marinebeaufils.jpeg"
+  name = "sentinel2"
 +++
 
 ## Today's links {#today-s-links}
@@ -19,7 +22,7 @@ gamma = 10
 -   [Needlepoint tapestry representations of The Sentinel](/blog/links/2022/12/01#needlepoint-tapestry-representations-the-sentinel): Physical manifestations of Geoff Crammond's 8-bit classic
 -   [kottke.org](/blog/links/2022/12/01#kottke-org): Fine Hypertext Products
 
-&lt;!--more--&gt;
+<!--more-->
 
 ---
 
@@ -38,18 +41,6 @@ Words can't describe how much I love these needlepoint tapestries of screenshots
     imageAttrib="Marine Beaufils"
     imageLicense=""
     licenseURL="">}}
-
-
-### A sub-heading under that heading {#a-sub-heading-under-that-heading}
-
--   It's draft state will be marked as `true` as the subtree has the
-    todo state set to _TODO_.
-
-With the point <span class="underline">anywhere</span> in this _Writing Hugo blog in Org_ post
-subtree, do `C-c C-e H H` to export just this post.
-
-The exported Markdown has a little comment footer as set in the _Local
-Variables_ section below.
 
 
 [//]: # "Exported with love from a post written in Org mode"

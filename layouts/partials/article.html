@@ -4,10 +4,7 @@
     <ul>
       <li>Posted by <strong>Matt</strong> (<a href="{{ .Permalink }}">Permalink</a>)</li>
       <li>Published on <time>{{ .PublishDate.Format "2 January 2006" }}</time></li>
-      {{ if (gt .Lastmod.Unix .PublishDate.Unix) }}
-      <li>Last updated on <time>{{ .Lastmod.Format "2 January 2006" }}</time> (<a href="https://mattjon.es/git/matt/mattjones/commit/{{ .GitInfo.Hash }}">{{ .GitInfo.AbbreviatedHash }}</a>)</li>
-      {{ end }}
-     </ul>
+        </ul>
   </header>
   
   {{ if isset .Params "resources" }}
