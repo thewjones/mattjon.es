@@ -383,9 +383,6 @@ a {
     color: #0371cc;
 }
 
-p::first-letter {
-    initial-letter:3;
-}
 
 article>header>ul {
     display:inline-block;
