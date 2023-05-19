@@ -15,7 +15,7 @@ I believe the only thing that can provide any sense of hope for the future of ou
 
 At the root of the problem is the our First-past-the-post system of electing government; it means that a Party can hold a majority with a relatively small share of votes cast across a few marginal seats. This is the reason why people feel so disenfranchised, and why parties feel they have to do the bidding of the popular press to get into power.
 
-The attempt by the PLP to remove Jeremy Corbyn and move the Labour Party back to the centre ground in order to win power is merely addressing a symptom of the problem. Even if the centre-left side of the party are successful, a large section of the electorate are going to feel as underrepresented as they do under the centre-right Government we have now.
+The attempt by the PLP to remove Jeremy Corbyn and move the Labour Party back to the centre ground in order to win power is merely addressing a symptom of the problem. Even if the centrists are successful, a large section of the electorate are going to feel as underrepresented as they do under the centre-right Government we have now.
 
 So, let's have a truly representative Government, one in which no single party has overall control and is made up of broad coalitions that represent the full political spectrum of the electorate. The prospect of parties on the political extremes gaining more power as a result would be bitter pill to swallow, but in my opinion, worth it if more people vote and feel engaged in politics.
 
