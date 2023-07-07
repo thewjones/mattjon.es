@@ -124,6 +124,7 @@ h5,
 h6 {
     clear: both;
     font-family:"ibm-plex-semibold";
+    font-weight:normal;
     color:#777;
 }
 
