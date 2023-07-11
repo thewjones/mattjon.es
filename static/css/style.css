@@ -503,6 +503,8 @@ a:hover .close {
 	list-style:none;
 	display:flex;
 	gap:2rem;
+	margin-left:0;
+	padding-left:0;
     }
     
     html {

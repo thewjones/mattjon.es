@@ -1,0 +1,190 @@
+#+hugo_base_dir: ../../
+#+hugo_section: linknotes
+
+#+hugo_weight: auto
+#+hugo_auto_set_lastmod: t
+
+#+author: Matt Jones
+
+* Link Notes                                              :@linknotes:
+** Link Notes 12 July 2023                               :Politics:Herne:BBC:
+:PROPERTIES:
+:EXPORT_DATE: 2023-07-12
+:EXPORT_HUGO_BUNDLE: 20230712
+:EXPORT_HUGO_RESOURCES: :src "herne.jpg" :title "Herne the Hunter" :name "herne"
+:EXPORT_FILE_NAME: index
+:END:
+#+begin_export hugo
+{{< imgproc name="herne"
+    command="Resize"
+    options="1200x"
+    imageCaption="1840s illustration of Herne the Hunter riding a horse" 
+    imageURL="https://commons.wikimedia.org/wiki/File:Herne_the_Hunter.jpg"
+    imageAttrib="Wikimedia Commons"
+    imageLicense="Public Domain"
+    licenseURL="">}}
+#+end_export
+*** Today's links
+
+What I'm thinking about today. Interested in the power of music and memory, or how the former can trigger the latter. Also, crisis at the BBC.  
+
++ [[/blog/links/2023/03/10#herne-the-hunter][Herne the Hunter]]: Pagan myths, social justice and 80s TV
++ [[/blog/links/2023/03/10#gary-lineker-andrew-neil-and-the-bbc-s-real-impartiality-crisis][Gary Lineker, Andrew Neil and the BBC’s Real Impartiality Crisis]]: The right-wing free-speech hyprocrites
++ [[/blog/links/2023/03/10#on-this-day-from-the-archive][On this day, from the archive]]: Nautilus Goes Spatial
+#+begin_export hugo
+<!--more-->
+#+end_export
+
+**** Herne the Hunter
+
+https://en.wikipedia.org/wiki/Herne_the_Hunter
+
+I've been thinking about my happy childhood; the long summers, the freedom, the predictable weather, the constructive boredom associated with the contraints of only four television channels. There's one particular programme (and its soundtrack) that reminds me of this period more than anything. 'Robin of Sherwood' was an influential ITV adaption of Robin Hood, introducing pagan mythology into its story of struggle against oppression. 
+
+The mythical figure Herne is presented as a sort of commissioner for Robin Hood to protect the poor against the oppressive regime of the Sherriff of Nottingham. His appearance in the series was accompanied by  ambient and arpeggiated synth sounds by the band Clannad, who provided the sound track to the series. It's this track in particular that transports me to a specific time and place: a bedroom on a hot summer evening (in around 1985), standing in front of a tape deck and reading the album sleeve notes from the soundtrack.
+
+Thinking about writing a longer post about this particular depiction of Herne.  
+
+---
+
+**** Gary Lineker, Andrew Neil and the BBC’s Real Impartiality Crisis
+
+https://bylinetimes.com/2023/03/09/gary-lineker-andrew-neil-and-the-bbcs-real-impartiality-crisis/
+
+Adam Bienkov lays bare the rank hypocrisy shown by the right wing in relation to BBC impartiality. 
+
+---
+
+**** On this day, from the archive
+
++ [19 years ago: Nautilus Goes Spatial](https://mattjon.es/blog/2004/03/nautilus-goes-spatial/): I've been a Linux user for about 25 years. Here are some thought about changes' to Gnome's file manager, created by Andy Hertzfeld (who helped to create the user interface on the original Apple Macintosh). 
+  
+
+** Link Notes 10 March 2023                        :Politics:Herne:BBC:
+:PROPERTIES:
+:EXPORT_DATE: 2023-03-10
+:EXPORT_HUGO_BUNDLE: 20230310
+:EXPORT_HUGO_RESOURCES: :src "herne.jpg" :title "Herne the Hunter" :name "herne"
+:EXPORT_FILE_NAME: index
+:END:
+#+begin_export hugo
+{{< imgproc name="herne"
+    command="Resize"
+    options="1200x"
+    imageCaption="1840s illustration of Herne the Hunter riding a horse" 
+    imageURL="https://commons.wikimedia.org/wiki/File:Herne_the_Hunter.jpg"
+    imageAttrib="Wikimedia Commons"
+    imageLicense="Public Domain"
+    licenseURL="">}}
+#+end_export
+*** Today's links
+
+What I'm thinking about today. Interested in the power of music and memory, or how the former can trigger the latter. Also, crisis at the BBC.  
+
++ [[/blog/links/2023/03/10#herne-the-hunter][Herne the Hunter]]: Pagan myths, social justice and 80s TV
++ [[/blog/links/2023/03/10#gary-lineker-andrew-neil-and-the-bbc-s-real-impartiality-crisis][Gary Lineker, Andrew Neil and the BBC’s Real Impartiality Crisis]]: The right-wing free-speech hyprocrites
++ [[/blog/links/2023/03/10#on-this-day-from-the-archive][On this day, from the archive]]: Nautilus Goes Spatial
+#+begin_export hugo
+<!--more-->
+#+end_export
+
+**** Herne the Hunter
+
+https://en.wikipedia.org/wiki/Herne_the_Hunter
+
+I've been thinking about my happy childhood; the long summers, the freedom, the predictable weather, the constructive boredom associated with the contraints of only four television channels. There's one particular programme (and its soundtrack) that reminds me of this period more than anything. 'Robin of Sherwood' was an influential ITV adaption of Robin Hood, introducing pagan mythology into its story of struggle against oppression. 
+
+The mythical figure Herne is presented as a sort of commissioner for Robin Hood to protect the poor against the oppressive regime of the Sherriff of Nottingham. His appearance in the series was accompanied by  ambient and arpeggiated synth sounds by the band Clannad, who provided the sound track to the series. It's this track in particular that transports me to a specific time and place: a bedroom on a hot summer evening (in around 1985), standing in front of a tape deck and reading the album sleeve notes from the soundtrack.
+
+Thinking about writing a longer post about this particular depiction of Herne.  
+
+---
+
+**** Gary Lineker, Andrew Neil and the BBC’s Real Impartiality Crisis
+
+https://bylinetimes.com/2023/03/09/gary-lineker-andrew-neil-and-the-bbcs-real-impartiality-crisis/
+
+Adam Bienkov lays bare the rank hypocrisy shown by the right wing in relation to BBC impartiality. 
+
+---
+
+**** On this day, from the archive
+
++ [19 years ago: Nautilus Goes Spatial](https://mattjon.es/blog/2004/03/nautilus-goes-spatial/): I've been a Linux user for about 25 years. Here are some thought about changes' to Gnome's file manager, created by Andy Hertzfeld (who helped to create the user interface on the original Apple Macintosh). 
+
+** Link Notes 8 March 2023                         :Politics:Asylum:Blogging:
+:PROPERTIES:
+:EXPORT_DATE: 2023-03-08
+:EXPORT_HUGO_BUNDLE: 20230308
+:EXPORT_FILE_NAME: index
+:END:
+*** Today's links
++ [[/blog/links/2023/03/08#rishi-sunak-extinguishing-the-right-to-seek-refugee-protection-in-uk][Rishi Sunak ‘extinguishing the right to seek refugee protection in UK’]]: Stop the Tories
++ [[/blog/links/2023/03/08#ox-hugo-org-to-markdown-for-hugo][Ox-Hugo]]: My somewhat esoteric blogging system of choice
++ [[/blog/links/2023/03/08#on-this-day-from-the-archive][On this day, from the archive]]: The Internet Book List
+#+begin_export hugo
+<!--more-->
+#+end_export
+
+**** Rishi Sunak ‘extinguishing the right to seek refugee protection in UK’
+
+https://www.theguardian.com/uk-news/2023/mar/07/suella-braverman-asylum-migration-bill-law-change-small-boats
+
+The United Kingdom has a long history of welcoming and protecting those seeking refuge from conflict and persecution around the world. It's why the UK is a diverse place.
+
+Sunak and Braverman are pandering to the extreme-right with this disgusting plan to criminalise desperate people seeking a better life. 
+
+Shame on all involved.  
+
+---
+
+**** Ox-Hugo: Org to Markdown for Hugo
+
+https://ox-hugo.scripter.co
+
+For quite a number of years now, this site has been produced using a static-site generator called Hugo. I write Markdown files, run 'hugo' and and within a fraction of a second 1800+ posts are packaged up into a set of HTML files ready to deploy. If that wasn't esoteric enough, I use Emacs with Org Mode to write and manage my posts in one .org file. OrgMode is basically a todo / planner system for Emacs with lots of nerdy features that I'll never use or fully understand.   
+
+
+
+
+
+
+---
+
+**** On this day, from the archive
+
++ [20 years ago: The Internet Book List](https://mattjon.es/blog/2003/03/the-internet-book-list/): A note on the launch of the Internet Book List: a sort of IMDB for books. 
+
+
+
+* Code
+(defun hugo-slugify (start end)
+  (interactive "r")
+  (if (use-region-p)
+      (let ((regionp (buffer-substring start end)))
+        (save-excursion
+          (delete-region start end)
+          (insert
+           (replace-regexp-in-string
+            "[^a-z0-9-]" ""
+            (replace-regexp-in-string
+             "\s+" "-"
+             (downcase regionp)
+             )))))))
+
+#+begin_export hugo
+{{< imgproc name="sentinel2"
+    command="Resize"
+    options="1200x"
+    imageCaption="Needlepoint tapestry representation of The Sentinel—video game created by Geoff Crammond—in its version on ZX Spectrum 55 × 46 cm – 2022" 
+    imageURL="https://www.marine.st/en"
+    imageAttrib="Marine Beaufils"
+    imageLicense=""
+    licenseURL="">}}
+#+end_export
+
+* Footnotes
+* COMMENT Local Variables                                           :ARCHIVE:
+# Local Variables:
+# org-hugo-footer: "\n\n[//]: # \"Exported with love from a post written in Org mode\"\n[//]: # \"- https://github.com/kaushalmodi/ox-hugo\""
+# End:
