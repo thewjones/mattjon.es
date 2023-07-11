@@ -8,7 +8,10 @@
         <meta http-equiv="X-UA-Compatible" content="IE=Edge">
         <meta name="author" content="@mattjones">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link href="{{ "css/style.css" | relURL }}" rel="stylesheet">
+
+
+
+	<link rel="stylesheet" href="https://classless.de/classless.css">
 {{ range .AlternativeOutputFormats -}}
     {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
 {{ end -}}     
@@ -34,17 +37,7 @@
           {{ else }}
           menu
           {{ end }}
-     </a></nav>
-
-     <nav class="desktop">
-       <ul>
-	  {{ $currentPage := . }}
- 
-{{ range .Site.Menus.main }}
-<li><a class="sidebar-nav-item{{if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }} active{{end}}" href="{{ .URL }}" title="{{ .Title }}">{{ .Name }}</a></li>
-{{ end }}
-</ul>
-       </nav>
+      </a></nav>
     </header>
     
     <main>

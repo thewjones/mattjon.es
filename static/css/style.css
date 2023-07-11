@@ -12,6 +12,33 @@
     font-style: normal;
 }
 
+@font-face {
+	font-family: Evolventa;
+	src: url("/fonts/Evolventa-Regular.woff");
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: Evolventa;
+	src: url("/fonts/Evolventa-Oblique.woff");
+	font-weight: normal;
+	font-style: italic;
+}
+
+@font-face {
+	font-family: Evolventa;
+	src: url("/fonts/Evolventa-Bold.woff");
+	font-weight: bold;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: Evolventa;
+	src: url("/fonts/Evolventa-BoldOblique.woff");
+	font-weight: bold;
+	font-style: italic;
+}
 
 
 
@@ -123,9 +150,9 @@ h4,
 h5,
 h6 {
     clear: both;
-    font-family:"ibm-plex-semibold";
-    font-weight:normal;
-    color:#777;
+    font-family:"Evolventa";
+    font-weight:bold;
+    color:olive;
 }
 
 p,ul {
@@ -255,7 +282,7 @@ h2 {
     font-size: 2.25em;
     line-height: 1.3em;
     margin: 0 0 1em;
-    color:slategray;
+    color:#222;
 }
 
 h2 {
@@ -315,7 +342,7 @@ body>header {
     width:auto;
     max-width: 60em;
     margin-bottom:4em;
-    text-transform: lowercase;
+   
     opacity:1;
     transition: opacity 0.5s ease-in;
 }
@@ -452,8 +479,32 @@ a:hover .close {
     opacity: 1;
 }
 
+  nav.mob {
+      display:block;
+  }
+
+  nav.desktop {
+      display:none;
+      margin-left:auto;
+  }
+  
 @media all and (min-width:1024px) {
 
+    nav.mob {
+	display:none;
+    }
+
+    
+    nav.desktop {
+	display:block;
+    }
+
+    nav.desktop ul {
+	list-style:none;
+	display:flex;
+	gap:2rem;
+    }
+    
     html {
         border:solid 1em gainsboro;
     }

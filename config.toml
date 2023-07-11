@@ -24,7 +24,7 @@ rssLimit = 10
 [menu]
     [[menu.main]]
     identifier = "home"
-    name       = "Home Page"
+    name       = "Home"
     url        = "/"
     weight     = 1
 
