@@ -6,7 +6,9 @@
     <ul>
       <li>Posted by <strong>Matt</strong> (<a href="{{ .Permalink }}">Permalink</a>)</li>
       <li>Published on <time>{{ .PublishDate.Format "2 January 2006" }}</time></li>
-      </ul>
+       <li>Last change <a href="https://github.com/thewjones/mattjon.es/commit/{{ .GitInfo.Hash}}">{{ .GitInfo.AbbreviatedHash }}</a></li>
+    
+    </ul>
   </header>
   
   {{ if isset .Params "resources" }}
