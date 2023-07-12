@@ -557,6 +557,10 @@ a:hover .close {
         display:flex;
     }
 
+    body>footer .vcard {
+	width:26rem;
+    }
+
     body>footer #speed {
         margin-top:0;
         margin-left:auto;
