@@ -2,7 +2,7 @@
 title = "Notes 13.7.2023"
 author = ["Matt Jones"]
 date = 2023-07-13
-lastmod = 2023-07-13T23:18:13+01:00
+lastmod = 2023-07-13T23:38:44+01:00
 tags = ["Cycling", "Politics", "Gaming"]
 categories = ["linknotes"]
 draft = false
@@ -38,7 +38,7 @@ weight = 2001
 ---
 
 
-### Bicycle manufacture VanMoof is in trouble {#bicycle-manufacture-vanmoof-is-in-trouble}
+### Bicycle manufacturer VanMoof is in trouble {#bicycle-manufacturer-vanmoof-is-in-trouble}
 
 <https://www.dutchnews.nl/2023/07/dutch-bicycle-maker-vanmoof-granted-protection-from-creditors/>
 

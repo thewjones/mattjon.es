@@ -2,7 +2,7 @@
 title = "Notes 13.7.2023"
 author = ["Matt Jones"]
 date = 2023-07-13
-lastmod = 2023-07-13T22:45:37+01:00
+lastmod = 2023-07-13T23:18:13+01:00
 tags = ["Cycling", "Politics", "Gaming"]
 categories = ["linknotes"]
 draft = false
@@ -77,7 +77,7 @@ It's available for pretty much every gaming platform thanks to Minter's partner 
     imageLicense="CC BY 4.0"
     licenseURL="https://creativecommons.org/licenses/by/4.0/">}}
 
-Public Sector worker strikes for better pay and conditions are now a common occurance here in the UK because of our dreadful government who treat people work in public service abysmally.
+Public Sector worker strikes for better pay and conditions are now a common occurance here in the UK because of our dreadful government who treat people who work in public service abysmally.
 
 Now Hollywood actors are on strike for the first joint action with writers in over 60 years. Because the dynamics of exchanging labour for wage payment are the same regardless of the sectors you work in.
 
