@@ -8,11 +8,12 @@
 
 * Link Notes                                              :@linknotes:
 
-** Link Notes 13 July 2023                               :Politics:Herne:BBC:
+** Notes 13.7.2023                                       :Cycling:Politics:Gaming:
 :PROPERTIES:
 :EXPORT_DATE: 2023-07-13
 :EXPORT_HUGO_BUNDLE: 20230713
 :EXPORT_HUGO_RESOURCES: :src "vanmoof.jpg" :title "VanMoof bicycle leaning against a garage door" :name "vanmoof"
+:EXPORT_HUGO_RESOURCES+: :src "hollywood-strike.jpg" :title "Hollywood" :name "hollywood"
 :EXPORT_FILE_NAME: index
 :END:
 #+begin_export hugo
@@ -25,14 +26,17 @@
     imageLicense="CC BY 2.0"
     licenseURL="https://creativecommons.org/licenses/by/2.0/">}}
 #+end_export
-*** Today's links
+*** Today's notes
 
-+ [[/blog/links/2023/07/13#bicycle-manufacture-vanmoof-are-in-trouble][VanMoof are in trouble]]: Dutch bike company VanMoof is in financial trouble for lots of seemingly complex reasons.
++ [[/blog/links/2023/07/13#bicycle-manufacture-vanmoof-is-in-trouble][VanMoof is in trouble]] Dutch bike company VanMoof is in financial trouble for lots of seemingly complex reasons
++ [[/blog/links/2023/07/13#akka-arrh][Akka Arrh]]The relaunch of a 'lost' Atari arcade game
++ [[/blog/links/2023/07/13#hollywood-actors-announce-strike-in-first-joint-action-with-writers-in-60-years][Hollywood actors announce strike in first joint action with writers in 60 years]] Hollywood stars demand better pay and conditions
+
 #+begin_export hugo
 <!--more-->
 #+end_export
-
-**** Bicycle manufacture VanMoof are in trouble
+---
+**** Bicycle manufacture VanMoof is in trouble
 
 https://www.dutchnews.nl/2023/07/dutch-bicycle-maker-vanmoof-granted-protection-from-creditors/
 
@@ -43,7 +47,37 @@ Margins in the bike industry are tight at the best of times, however I think Van
 That said, at a time when climate action is pressing and we need people to ditch their cars, we need governments to step in and provide subsidies to help absorb these increasing supply costs, as well as lower the purchase costs  so that the bike industry in general can stay afloat. 
 
 ---
+**** Akka Arrh
 
+https://atari.com/products/akka-arrh
+
+I'm all over this game. From the legendary Llamasoft, this is a re-imagining of a 'lost' Atari arcade game, the story of which is explained by Jeff Minter himself in [[https://www.youtube.com/watch?v=qtkifcXjJ9Q][a video uploaded to Youtube]].
+
+Minter was approached by Atari to redevelop a game from their catalogue of arcade classics, and Akka Arrh was what he chose, the challenge being to breathe life into game that never launched.
+
+It's available for pretty much every gaming platform thanks to Minter's partner Ivan Zorzin, who was responsible for the complex porting work.  
+
+
+---
+**** Hollywood actors announce strike in first joint action with writers in 60 years
+
+https://www.theguardian.com/us-news/2023/jul/13/hollywood-actors-union-recommends-strike-as-talks-deadline-passes
+
+#+begin_export hugo
+{{< imgproc name="hollywood"
+    command="Resize"
+    options="1200x"
+    imageCaption="Warner Bros. Studio during the Conference of Studio Unions strike, Los Angeles, 1945" 
+    imageURL="https://digital.library.ucla.edu/catalog/ark:/21198/zz002hj471"
+    imageAttrib="UCLA Charles E. Young Research Library Department of Special Collections"
+    imageLicense="CC BY 4.0"
+    licenseURL="https://creativecommons.org/licenses/by/4.0/">}}
+#+end_export
+
+
+Public Sector worker strikes for better pay and conditions are now a common occurance here in the UK because of our dreadful government who treat people work in public service abysmally.
+
+Now Hollywood actors are on strike for the first joint action with writers in over 60 years. Because the dynamics of exchanging labour for wage payment are the same regardless of the sectors you work in. 
 
 
 ** Link Notes 10 March 2023                        :Politics:Herne:BBC:
