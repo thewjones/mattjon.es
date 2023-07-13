@@ -2,7 +2,7 @@
 title = "Notes 13.7.2023"
 author = ["Matt Jones"]
 date = 2023-07-13
-lastmod = 2023-07-13T22:41:59+01:00
+lastmod = 2023-07-13T22:45:37+01:00
 tags = ["Cycling", "Politics", "Gaming"]
 categories = ["linknotes"]
 draft = false
@@ -20,7 +20,7 @@ weight = 2001
 {{< imgproc name="vanmoof"
     command="Resize"
     options="1200x"
-    imageCaption="VanMoof bicycle leaning against a garage door"
+    imageCaption="Photo of a white VanMoof bicycle leaning against a blue garage door"
     imageURL="https://flickr.com/photos/kwanzshop/13849830555/"
     imageAttrib="Kwanz"
     imageLicense="CC BY 2.0"
