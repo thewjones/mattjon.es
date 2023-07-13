@@ -2,7 +2,7 @@
 title = "Notes 13.7.2023"
 author = ["Matt Jones"]
 date = 2023-07-13
-lastmod = 2023-07-13T22:16:07+01:00
+lastmod = 2023-07-13T22:22:59+01:00
 tags = ["Cycling", "Politics", "Gaming"]
 categories = ["linknotes"]
 draft = false
@@ -30,7 +30,7 @@ weight = 2001
 ## Today's notes {#today-s-notes}
 
 -   [VanMoof is in trouble](/blog/links/2023/07/13#bicycle-manufacture-vanmoof-is-in-trouble) Dutch bike company VanMoof is in financial trouble for lots of seemingly complex reasons
--   [Akka Arrh](/blog/links/2023/07/13#akka-arrh)The relaunch of a 'lost' Atari arcade game
+-   [Akka Arrh ](/blog/links/2023/07/13#akka-arrh)The relaunch of a 'lost' Atari arcade game
 -   [Hollywood actors announce strike in first joint action with writers in 60 years](/blog/links/2023/07/13#hollywood-actors-announce-strike-in-first-joint-action-with-writers-in-60-years) Hollywood stars demand better pay and conditions
 
 <!--more-->
