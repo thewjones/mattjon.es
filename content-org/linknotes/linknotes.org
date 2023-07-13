@@ -20,7 +20,7 @@
 {{< imgproc name="vanmoof"
     command="Resize"
     options="1200x"
-    imageCaption="VanMoof bicycle leaning against a garage door" 
+    imageCaption="Photo of a white VanMoof bicycle leaning against a blue garage door" 
     imageURL="https://flickr.com/photos/kwanzshop/13849830555/"
     imageAttrib="Kwanz"
     imageLicense="CC BY 2.0"
