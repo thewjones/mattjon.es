@@ -3,10 +3,49 @@
 
 #+hugo_weight: auto
 #+hugo_auto_set_lastmod: t
-
+#+MACRO: abbr *[$1]: $2
 #+author: Matt Jones
 
 * Link Notes                                              :@linknotes:
+
+** Link Notes 13 July 2023                               :Politics:Herne:BBC:
+:PROPERTIES:
+:EXPORT_DATE: 2023-07-13
+:EXPORT_HUGO_BUNDLE: 20230713
+:EXPORT_HUGO_RESOURCES: :src "vanmoof.jpg" :title "VanMoof bicycle leaning against a garage door" :name "vanmoof"
+:EXPORT_FILE_NAME: index
+:END:
+#+begin_export hugo
+{{< imgproc name="vanmoof"
+    command="Resize"
+    options="1200x"
+    imageCaption="VanMoof bicycle leaning against a garage door" 
+    imageURL="https://flickr.com/photos/kwanzshop/13849830555/"
+    imageAttrib="Kwanz"
+    imageLicense="CC BY 2.0"
+    licenseURL="https://creativecommons.org/licenses/by/2.0/">}}
+#+end_export
+*** Today's links
+
++ [[/blog/links/2023/07/13#bicycle-manufacture-vanmoof-are-in-trouble][VanMoof are in trouble]]: Dutch bike company VanMoof is in financial trouble for lots of seemingly complex reasons.
+#+begin_export hugo
+<!--more-->
+#+end_export
+
+**** Bicycle manufacture VanMoof are in trouble
+
+https://www.dutchnews.nl/2023/07/dutch-bicycle-maker-vanmoof-granted-protection-from-creditors/
+
+Electric-assist Pedal Cycles (EAPCs) bring with them a whole load of complexity in supply chain, manufacture and ongoing maintenance over and above the simple mechanics of a regular bicycle. 
+
+Margins in the bike industry are tight at the best of times, however I think VanMoofs problems are partly of their own making due to the tech-heavy, proprietory nature of their products (their bikes' locking mechanism seems to use some kind of app-based encryption system) as well as their reliance on private external finance rather than being profitable. 
+
+That said, at a time when climate action is pressing and we need people to ditch their cars, we need governments to step in and provide subsidies to help absorb these increasing supply costs, as well as lower the purchase costs  so that the bike industry in general can stay afloat. 
+
+---
+
+
+
 ** Link Notes 10 March 2023                        :Politics:Herne:BBC:
 :PROPERTIES:
 :EXPORT_DATE: 2023-03-10
@@ -137,3 +176,5 @@ For quite a number of years now, this site has been produced using a static-site
 # Local Variables:
 # org-hugo-footer: "\n\n[//]: # \"Exported with love from a post written in Org mode\"\n[//]: # \"- https://github.com/kaushalmodi/ox-hugo\""
 # End:
+
+

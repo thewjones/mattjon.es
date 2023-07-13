@@ -3,62 +3,48 @@
 
 #+hugo_weight: auto
 #+hugo_auto_set_lastmod: t
-
+#+MACRO: abbr *[$1]: $2
 #+author: Matt Jones
 
 * Link Notes                                              :@linknotes:
-** Link Notes 12 July 2023                               :Politics:Herne:BBC:
+
+** TODO Link Notes 13 July 2023                          :Politics:Herne:BBC:
 :PROPERTIES:
-:EXPORT_DATE: 2023-07-12
-:EXPORT_HUGO_BUNDLE: 20230712
-:EXPORT_HUGO_RESOURCES: :src "herne.jpg" :title "Herne the Hunter" :name "herne"
+:EXPORT_DATE: 2023-07-13
+:EXPORT_HUGO_BUNDLE: 20230713
+:EXPORT_HUGO_RESOURCES: :src "vanmoof.jpg" :title "VanMoof bicycle leaning against a garage door" :name "vanmoof"
 :EXPORT_FILE_NAME: index
 :END:
 #+begin_export hugo
-{{< imgproc name="herne"
+{{< imgproc name="vanmoof"
     command="Resize"
     options="1200x"
-    imageCaption="1840s illustration of Herne the Hunter riding a horse" 
-    imageURL="https://commons.wikimedia.org/wiki/File:Herne_the_Hunter.jpg"
-    imageAttrib="Wikimedia Commons"
-    imageLicense="Public Domain"
-    licenseURL="">}}
+    imageCaption="VanMoof bicycle leaning against a garage door" 
+    imageURL="https://flickr.com/photos/kwanzshop/13849830555/"
+    imageAttrib="Kwanz"
+    imageLicense="CC BY 2.0"
+    licenseURL="https://creativecommons.org/licenses/by/2.0/">}}
 #+end_export
 *** Today's links
 
-What I'm thinking about today. Interested in the power of music and memory, or how the former can trigger the latter. Also, crisis at the BBC.  
-
-+ [[/blog/links/2023/03/10#herne-the-hunter][Herne the Hunter]]: Pagan myths, social justice and 80s TV
-+ [[/blog/links/2023/03/10#gary-lineker-andrew-neil-and-the-bbc-s-real-impartiality-crisis][Gary Lineker, Andrew Neil and the BBC’s Real Impartiality Crisis]]: The right-wing free-speech hyprocrites
-+ [[/blog/links/2023/03/10#on-this-day-from-the-archive][On this day, from the archive]]: Nautilus Goes Spatial
++ [[/blog/links/2023/07/13#bicycle-manufacture-vanmoof-are-in-trouble][VanMoof are in trouble]]: Dutch bike company VanMoof is in financial trouble for lots of seemingly complex reasons.
 #+begin_export hugo
 <!--more-->
 #+end_export
 
-**** Herne the Hunter
+**** Bicycle manufacture VanMoof are in trouble
 
-https://en.wikipedia.org/wiki/Herne_the_Hunter
+https://www.dutchnews.nl/2023/07/dutch-bicycle-maker-vanmoof-granted-protection-from-creditors/
 
-I've been thinking about my happy childhood; the long summers, the freedom, the predictable weather, the constructive boredom associated with the contraints of only four television channels. There's one particular programme (and its soundtrack) that reminds me of this period more than anything. 'Robin of Sherwood' was an influential ITV adaption of Robin Hood, introducing pagan mythology into its story of struggle against oppression. 
+Electric-assist Pedal Cycles (EAPCs) bring with them a whole load of complexity in supply chain, manufacture and ongoing maintenance over and above the simple mechanics of a regular bicycle. 
 
-The mythical figure Herne is presented as a sort of commissioner for Robin Hood to protect the poor against the oppressive regime of the Sherriff of Nottingham. His appearance in the series was accompanied by  ambient and arpeggiated synth sounds by the band Clannad, who provided the sound track to the series. It's this track in particular that transports me to a specific time and place: a bedroom on a hot summer evening (in around 1985), standing in front of a tape deck and reading the album sleeve notes from the soundtrack.
+Margins in the bike industry are tight at the best of times, however I think VanMoofs problems are partly of their own making due to the tech-heavy, proprietory nature of their products (their bikes' locking mechanism seems to use some kind of app-based encryption system) as well as their reliance on private external finance rather than being profitable. 
 
-Thinking about writing a longer post about this particular depiction of Herne.  
-
----
-
-**** Gary Lineker, Andrew Neil and the BBC’s Real Impartiality Crisis
-
-https://bylinetimes.com/2023/03/09/gary-lineker-andrew-neil-and-the-bbcs-real-impartiality-crisis/
-
-Adam Bienkov lays bare the rank hypocrisy shown by the right wing in relation to BBC impartiality. 
+That said, at a time when climate action is pressing and we need people to ditch their cars, we need governments to step in and provide subsidies to help absorb these increasing supply costs, as well as lower the purchase costs  so that the bike industry in general can stay afloat. 
 
 ---
 
-**** On this day, from the archive
 
-+ [19 years ago: Nautilus Goes Spatial](https://mattjon.es/blog/2004/03/nautilus-goes-spatial/): I've been a Linux user for about 25 years. Here are some thought about changes' to Gnome's file manager, created by Andy Hertzfeld (who helped to create the user interface on the original Apple Macintosh). 
-  
 
 ** Link Notes 10 March 2023                        :Politics:Herne:BBC:
 :PROPERTIES:
@@ -111,6 +97,8 @@ Adam Bienkov lays bare the rank hypocrisy shown by the right wing in relation to
 **** On this day, from the archive
 
 + [19 years ago: Nautilus Goes Spatial](https://mattjon.es/blog/2004/03/nautilus-goes-spatial/): I've been a Linux user for about 25 years. Here are some thought about changes' to Gnome's file manager, created by Andy Hertzfeld (who helped to create the user interface on the original Apple Macintosh). 
+
+
 
 ** Link Notes 8 March 2023                         :Politics:Asylum:Blogging:
 :PROPERTIES:
@@ -188,3 +176,5 @@ For quite a number of years now, this site has been produced using a static-site
 # Local Variables:
 # org-hugo-footer: "\n\n[//]: # \"Exported with love from a post written in Org mode\"\n[//]: # \"- https://github.com/kaushalmodi/ox-hugo\""
 # End:
+
+
