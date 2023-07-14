@@ -1,6 +1,12 @@
 {{ define "main" }}
 <article>
   <h1>All Posts</h1>
+  <p>Below are {{ len .Site.RegularPages }} posts written over nearly 23 years. The blog started out as frownland.com in October 2000 and at the time was only one of a handful of UK based weblogs.</p>
+  <p>At that time I write a lot about tech, web development and web standards and gained a bit of a following. <p>
+
+  <p>Only a few years into it I somehow lost interest, let the domain slip and blogging became a more sporadic activity for me.</p>
+
+  <p>Still, I'm pleased to have this archive to look back on to see what me as 20-something year old was thinkng about back then.</p>
       {{ .Content }}
           <ul class="contents">
           {{ range where site.RegularPages "Type" "in" site.Params.mainSections }}
