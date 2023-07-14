@@ -2,11 +2,11 @@
 title = "Link Notes 10 March 2023"
 author = ["Matt Jones"]
 date = 2023-03-10
-lastmod = 2023-07-14T07:44:29+01:00
+lastmod = 2023-07-14T19:44:26+01:00
 tags = ["Politics", "Herne", "BBC"]
 categories = ["linknotes"]
 draft = false
-weight = 2002
+weight = 2003
 [[resources]]
   src = "herne.jpg"
   title = "Herne the Hunter"
@@ -15,7 +15,7 @@ weight = 2002
 
 {{< imgproc name="herne"
     command="Resize"
-    options="1200x"
+    options="1200x webp"
     imageCaption="1840s illustration of Herne the Hunter riding a horse"
     imageURL="https://commons.wikimedia.org/wiki/File:Herne_the_Hunter.jpg"
     imageAttrib="Wikimedia Commons"

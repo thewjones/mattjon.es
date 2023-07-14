@@ -2,11 +2,11 @@
 title = "Notes 13.7.2023"
 author = ["Matt Jones"]
 date = 2023-07-13
-lastmod = 2023-07-14T07:44:29+01:00
+lastmod = 2023-07-14T19:44:26+01:00
 tags = ["Cycling", "Politics", "Gaming"]
 categories = ["linknotes"]
 draft = false
-weight = 2001
+weight = 2002
 [[resources]]
   src = "vanmoof.jpg"
   title = "VanMoof bicycle leaning against a garage door"
@@ -19,7 +19,7 @@ weight = 2001
 
 {{< imgproc name="vanmoof"
     command="Resize"
-    options="1200x"
+    options="1200x webp"
     imageCaption="Photo of a white VanMoof bicycle leaning against a blue garage door"
     imageURL="https://flickr.com/photos/kwanzshop/13849830555/"
     imageAttrib="Kwanz"
@@ -70,7 +70,7 @@ It's available for pretty much every gaming platform thanks to Minter's partner 
 
 {{< imgproc name="hollywood"
     command="Resize"
-    options="1200x"
+    options="1200x webp"
     imageCaption="Warner Bros. Studio during the Conference of Studio Unions strike, Los Angeles, 1945"
     imageURL="https://digital.library.ucla.edu/catalog/ark:/21198/zz002hj471"
     imageAttrib="UCLA Charles E. Young Research Library Department of Special Collections"

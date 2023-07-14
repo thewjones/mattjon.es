@@ -8,6 +8,44 @@
 
 * Link Notes                                              :@linknotes:
 
+** TODO Notes 14.7.2023                             :Cycling:Politics:Gaming:
+:PROPERTIES:
+:EXPORT_DATE: 2023-07-14
+:EXPORT_HUGO_BUNDLE: 20230714
+:EXPORT_HUGO_RESOURCES: :src "ai-image-planner.jpg" :title "VanMoof bicycle leaning against a garage door" :name "planner"
+:EXPORT_FILE_NAME: index
+:END:
+*** Today's notes
+
++ [[/blog/links/2023/07/14#stonehenge-tunnel-is-approved-by-government][Stonehenge tunnel is approved by government]]: Moar roads!
++ [[/blog/links/2023/07/13#akka-arrh][Akka Arrh: ]]The relaunch of a 'lost' Atari arcade game
++ [[/blog/links/2023/07/13#hollywood-actors-announce-strike-in-first-joint-action-with-writers-in-60-years][Hollywood actors announce strike in first joint action with writers in 60 years:]] Hollywood stars strike for better pay and concern about AI
+
+#+begin_export hugo
+<!--more-->
+#+end_export
+---
+**** Stonehenge tunnel is approved by government
+
+https://www.bbc.co.uk/news/uk-england-wiltshire-66201424
+
+#+begin_export hugo
+{{< imgproc name="planner"
+    command="Resize"
+    options="1200x webp"
+    imageCaption="AI generated photo of a male town planning proudly overseeing the building of a road through the countryside" 
+    imageURL="https://flickr.com/photos/kwanzshop/13849830555/"
+    imageAttrib="Kwanz"
+    imageLicense="CC BY 2.0"
+    licenseURL="https://creativecommons.org/licenses/by/2.0/">}}
+#+end_export
+
+Why is future for anything good in the world at the mercy of sweaty men, still thinking it's the 1960s,  getting all excited at the prospect of taking their internal combustion engines over tarmac freshly laid over or under the countryside and, in the case, an ancient and globally important monument. 
+
+This is excerable in every sense, as well as deeply irresponsible for obvious reasons. Meanwhile neighbouring Wales has simply stopped building new roads.   
+
+---
+
 ** Notes 13.7.2023                                       :Cycling:Politics:Gaming:
 :PROPERTIES:
 :EXPORT_DATE: 2023-07-13
@@ -19,7 +57,7 @@
 #+begin_export hugo
 {{< imgproc name="vanmoof"
     command="Resize"
-    options="1200x"
+    options="1200x webp"
     imageCaption="Photo of a white VanMoof bicycle leaning against a blue garage door" 
     imageURL="https://flickr.com/photos/kwanzshop/13849830555/"
     imageAttrib="Kwanz"
@@ -66,7 +104,7 @@ https://www.theguardian.com/us-news/2023/jul/13/hollywood-actors-union-recommend
 #+begin_export hugo
 {{< imgproc name="hollywood"
     command="Resize"
-    options="1200x"
+    options="1200x webp"
     imageCaption="Warner Bros. Studio during the Conference of Studio Unions strike, Los Angeles, 1945" 
     imageURL="https://digital.library.ucla.edu/catalog/ark:/21198/zz002hj471"
     imageAttrib="UCLA Charles E. Young Research Library Department of Special Collections"
@@ -90,7 +128,7 @@ Now Hollywood actors are on strike for the first joint action with writers in ov
 #+begin_export hugo
 {{< imgproc name="herne"
     command="Resize"
-    options="1200x"
+    options="1200x webp"
     imageCaption="1840s illustration of Herne the Hunter riding a horse" 
     imageURL="https://commons.wikimedia.org/wiki/File:Herne_the_Hunter.jpg"
     imageAttrib="Wikimedia Commons"
@@ -193,17 +231,6 @@ For quite a number of years now, this site has been produced using a static-site
              "\s+" "-"
              (downcase regionp)
              )))))))
-
-#+begin_export hugo
-{{< imgproc name="sentinel2"
-    command="Resize"
-    options="1200x"
-    imageCaption="Needlepoint tapestry representation of The Sentinel—video game created by Geoff Crammond—in its version on ZX Spectrum 55 × 46 cm – 2022" 
-    imageURL="https://www.marine.st/en"
-    imageAttrib="Marine Beaufils"
-    imageLicense=""
-    licenseURL="">}}
-#+end_export
 
 * Footnotes
 * COMMENT Local Variables                                           :ARCHIVE:
