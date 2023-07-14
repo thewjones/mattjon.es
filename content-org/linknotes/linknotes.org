@@ -28,9 +28,9 @@
 #+end_export
 *** Today's notes
 
-+ [[/blog/links/2023/07/13#bicycle-manufacture-vanmoof-is-in-trouble][VanMoof is in trouble]] Dutch bicycle company is in financial trouble for lots of complex reasons
-+ [[/blog/links/2023/07/13#akka-arrh][Akka Arrh ]]The relaunch of a 'lost' Atari arcade game
-+ [[/blog/links/2023/07/13#hollywood-actors-announce-strike-in-first-joint-action-with-writers-in-60-years][Hollywood actors announce strike in first joint action with writers in 60 years]] Hollywood stars demand better pay and conditions
++ [[/blog/links/2023/07/13#bicycle-manufacture-vanmoof-is-in-trouble][VanMoof is in trouble:]] Dutch bicycle company is in financial trouble for lots of complex reasons
++ [[/blog/links/2023/07/13#akka-arrh][Akka Arrh: ]]The relaunch of a 'lost' Atari arcade game
++ [[/blog/links/2023/07/13#hollywood-actors-announce-strike-in-first-joint-action-with-writers-in-60-years][Hollywood actors announce strike in first joint action with writers in 60 years:]] Hollywood stars strike for better pay and concern about AI
 
 #+begin_export hugo
 <!--more-->
