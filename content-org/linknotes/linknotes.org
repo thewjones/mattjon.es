@@ -8,18 +8,28 @@
 
 * Link Notes                                              :@linknotes:
 
-** TODO Notes 14.7.2023                             :Cycling:Politics:Gaming:
+** Notes 14.7.2023                                  :Environment:Transport:Politics:
 :PROPERTIES:
 :EXPORT_DATE: 2023-07-14
 :EXPORT_HUGO_BUNDLE: 20230714
 :EXPORT_HUGO_RESOURCES: :src "ai-image-planner.jpg" :title "VanMoof bicycle leaning against a garage door" :name "planner"
+:EXPORT_HUGO_RESOURCES+: :src "stone-henge.jpg" :title "35mm film photo of Stone Henge" :name "stonehenge"
 :EXPORT_FILE_NAME: index
 :END:
+#+begin_export hugo
+{{< imgproc name="stonehenge"
+    command="Resize"
+    options="1200x webp"
+    imageCaption="35mm film photo of Stone Henge" 
+    imageURL="https://commons.wikimedia.org/wiki/File:StonehengeInfraRedE4ProcessKodakFilm-001.tif"
+    imageAttrib=""
+    imageLicense="Public Domain"
+    licenseURL="https://en.wikipedia.org/wiki/Public_domain">}}
+#+end_export
 *** Today's notes
 
 + [[/blog/links/2023/07/14#stonehenge-tunnel-is-approved-by-government][Stonehenge tunnel is approved by government]]: Moar roads!
-+ [[/blog/links/2023/07/13#akka-arrh][Akka Arrh: ]]The relaunch of a 'lost' Atari arcade game
-+ [[/blog/links/2023/07/13#hollywood-actors-announce-strike-in-first-joint-action-with-writers-in-60-years][Hollywood actors announce strike in first joint action with writers in 60 years:]] Hollywood stars strike for better pay and concern about AI
++ [[/blog/links/2023/07/14#wealth-taxes-will-cause-the-rich-to-flee-12-wealth-tax-myths-debunked][Wealth taxes will cause the rich to flee’: 12 wealth tax myths debunked]] The injustice of not taxing the rich
 
 #+begin_export hugo
 <!--more-->
@@ -33,18 +43,28 @@ https://www.bbc.co.uk/news/uk-england-wiltshire-66201424
 {{< imgproc name="planner"
     command="Resize"
     options="1200x webp"
-    imageCaption="AI generated photo of a male town planning proudly overseeing the building of a road through the countryside" 
-    imageURL="https://flickr.com/photos/kwanzshop/13849830555/"
-    imageAttrib="Kwanz"
-    imageLicense="CC BY 2.0"
-    licenseURL="https://creativecommons.org/licenses/by/2.0/">}}
+    imageCaption="AI generated photo of an officious looking male proudly overseeing the building of a road through the countryside" 
+    imageURL="https://openai.com/dall-e-2"
+    imageAttrib="DALL-e 2"
+    imageLicense="Public Domain"
+    licenseURL="https://en.wikipedia.org/wiki/Public_domain">}}
 #+end_export
 
-Why is future for anything good in the world at the mercy of sweaty men, still thinking it's the 1960s,  getting all excited at the prospect of taking their internal combustion engines over tarmac freshly laid over or under the countryside and, in the case, an ancient and globally important monument. 
+Why is the future for anything good in the world at the mercy of men - still thinking it's the 1960s - getting all excited at the prospect of taking their internal combustion engines, or possibly half-tonne lithium-ion batteries - over tarmac freshly laid over or under the countryside and, in this case, near to an ancient and globally important monument. 
 
-This is excerable in every sense, as well as deeply irresponsible for obvious reasons. Meanwhile neighbouring Wales has simply stopped building new roads.   
+This is execrable in every sense, as well as deeply irresponsible for obvious reasons. Meanwhile neighbouring Wales has simply stopped building new roads.   
 
 ---
+
+**** Wealth taxes will cause the rich to flee’: 12 wealth tax myths debunked 
+
+https://www.taxjustice.uk/blog/wealth-taxes-will-cause-the-rich-to-flee-11-wealth-tax-myths-debunked
+
+For as long as I can remember - with the exception of the pandemic when there was suddenly money to pay for stuff - the government narrative around paying for public services has consistently been around the false dichotomy between austerity and raising taxes on low and middle-income earners. 
+
+The idea of taxing the richest in society is quickly batted away by politicians regardless of which party is in power, possibly because it's the richest in society that donate large sums of money to both parties. But this couldn't be more unjust, because just a 1% tax on millionaire households over five years would raise £260 billion. That's £80 billion more than the entire NHS yearly budget. 
+
+    
 
 ** Notes 13.7.2023                                       :Cycling:Politics:Gaming:
 :PROPERTIES:
