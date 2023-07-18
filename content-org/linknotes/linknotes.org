@@ -8,6 +8,14 @@
 
 * Link Notes                                              :@linknotes:
 
+** TODO Notes 18.7.2023
+
+**** Tourists flock to Death Valley hoping to experience heat record
+
+https://www.bbc.co.uk/news/av/world-us-canada-66229286
+
+
+
 ** Notes 14.7.2023                                  :Environment:Transport:Politics:
 :PROPERTIES:
 :EXPORT_DATE: 2023-07-14
@@ -66,7 +74,7 @@ The idea of taxing the richest in society is quickly batted away by politicians 
 
     
 
-** Notes 13.7.2023                                       :Cycling:Politics:Gaming:
+** Notes 13.7.2023                                  :Cycling:Politics:Gaming:
 :PROPERTIES:
 :EXPORT_DATE: 2023-07-13
 :EXPORT_HUGO_BUNDLE: 20230713
